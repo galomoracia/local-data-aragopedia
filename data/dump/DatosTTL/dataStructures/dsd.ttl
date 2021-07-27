@@ -3022,7 +3022,7 @@ _:node122egmfx7 qb:measure iaest-measure:otras-tierrras .
 _:node122egmfx9 qb:dimension sdmx-dimension:refPeriod .
 
 <http://opendata.aragon.es/recurso/iaest/dsd/01-110304-11030403> a qb:DataStructureDefinition ;
-	rdfs:label "Estructura de los cubos de datos que se corresponden con los informes 01-110304-11030403, Cuentas según tamaño de empresa"@es ;
+	rdfs:label "Estructura de los cubos de datos que se corresponden con los informes 01-110304-11030403, "@es ;
 	skos:notation "DSD-01-110304-11030403" ;
 	rdfs:comment "Esta estructura afecta a las areas: TP A "^^xsd:string .
 
@@ -3253,7 +3253,7 @@ _:node125egmfx6 qb:measure iaest-measure:personas .
 _:node125egmfx8 qb:dimension sdmx-dimension:refPeriod .
 
 <http://opendata.aragon.es/recurso/iaest/dsd/01-110304-11030404> a qb:DataStructureDefinition ;
-	rdfs:label "Estructura de los cubos de datos que se corresponden con los informes 01-110304-11030404, Cuentas según ramas de actividad"@es ;
+	rdfs:label "Estructura de los cubos de datos que se corresponden con los informes 01-110304-11030404, "@es ;
 	skos:notation "DSD-01-110304-11030404" ;
 	rdfs:comment "Esta estructura afecta a las areas: A "^^xsd:string .
 
@@ -3461,7 +3461,7 @@ _:node127egmfx8 qb:measure iaest-measure:rustica---base-imponible-miles-de-euros
 _:node127egmfx9 qb:measure iaest-measure:rustica---numero-de-recibos .
 
 <http://opendata.aragon.es/recurso/iaest/dsd/01-110304-11030401> a qb:DataStructureDefinition ;
-	rdfs:label "Estructura de los cubos de datos que se corresponden con los informes 01-110304-11030401, Cuentas de las sociedades mercantiles no financieras"@es ;
+	rdfs:label "Estructura de los cubos de datos que se corresponden con los informes 01-110304-11030401, "@es ;
 	skos:notation "DSD-01-110304-11030401" ;
 	rdfs:comment "Esta estructura afecta a las areas: TC TM TP A "^^xsd:string .
 
@@ -3657,7 +3657,7 @@ _:node129egmfx2 qb:measure iaest-dimension:superficie-km2 .
 _:node129egmfx4 qb:dimension sdmx-dimension:refPeriod .
 
 <http://opendata.aragon.es/recurso/iaest/dsd/01-110304-11030402> a qb:DataStructureDefinition ;
-	rdfs:label "Estructura de los cubos de datos que se corresponden con los informes 01-110304-11030402, Cuentas según sectores de actividad"@es ;
+	rdfs:label "Estructura de los cubos de datos que se corresponden con los informes 01-110304-11030402, "@es ;
 	skos:notation "DSD-01-110304-11030402" ;
 	rdfs:comment "Esta estructura afecta a las areas: TC TP A "^^xsd:string .
 

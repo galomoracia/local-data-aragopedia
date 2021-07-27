@@ -1,10 +1,10 @@
 Año	Residencia área código	Residencia continente nombre	Residencia área nombre	Inscripción provincia código	Inscripción provincia nombre	Sexo	Personas
-2009	01	Europa	UE-27	22	Huesca	Hombre	1149
-2009	01	Europa	UE-27	22	Huesca	Mujer	1168
-2009	01	Europa	UE-27	44	Teruel	Hombre	790
-2009	01	Europa	UE-27	44	Teruel	Mujer	769
-2009	01	Europa	UE-27	50	Zaragoza	Hombre	3124
-2009	01	Europa	UE-27	50	Zaragoza	Mujer	3565
+2009	01	Europa	UE-27_2007	22	Huesca	Hombre	1149
+2009	01	Europa	UE-27_2007	22	Huesca	Mujer	1168
+2009	01	Europa	UE-27_2007	44	Teruel	Hombre	790
+2009	01	Europa	UE-27_2007	44	Teruel	Mujer	769
+2009	01	Europa	UE-27_2007	50	Zaragoza	Hombre	3124
+2009	01	Europa	UE-27_2007	50	Zaragoza	Mujer	3565
 2009	02	Europa	Resto de Europa	22	Huesca	Hombre	179
 2009	02	Europa	Resto de Europa	22	Huesca	Mujer	199
 2009	02	Europa	Resto de Europa	44	Teruel	Hombre	83
@@ -47,12 +47,12 @@ Año	Residencia área código	Residencia continente nombre	Residencia área nomb
 2009	08	Oceanía	Oceanía	44	Teruel	Mujer	14
 2009	08	Oceanía	Oceanía	50	Zaragoza	Hombre	56
 2009	08	Oceanía	Oceanía	50	Zaragoza	Mujer	69
-2010	01	Europa	UE-27	22	Huesca	Hombre	1209
-2010	01	Europa	UE-27	22	Huesca	Mujer	1224
-2010	01	Europa	UE-27	44	Teruel	Hombre	806
-2010	01	Europa	UE-27	44	Teruel	Mujer	786
-2010	01	Europa	UE-27	50	Zaragoza	Hombre	3280
-2010	01	Europa	UE-27	50	Zaragoza	Mujer	3765
+2010	01	Europa	UE-27_2007	22	Huesca	Hombre	1209
+2010	01	Europa	UE-27_2007	22	Huesca	Mujer	1224
+2010	01	Europa	UE-27_2007	44	Teruel	Hombre	806
+2010	01	Europa	UE-27_2007	44	Teruel	Mujer	786
+2010	01	Europa	UE-27_2007	50	Zaragoza	Hombre	3280
+2010	01	Europa	UE-27_2007	50	Zaragoza	Mujer	3765
 2010	02	Europa	Resto de Europa	22	Huesca	Hombre	182
 2010	02	Europa	Resto de Europa	22	Huesca	Mujer	203
 2010	02	Europa	Resto de Europa	44	Teruel	Hombre	78
@@ -95,12 +95,12 @@ Año	Residencia área código	Residencia continente nombre	Residencia área nomb
 2010	08	Oceanía	Oceanía	44	Teruel	Mujer	14
 2010	08	Oceanía	Oceanía	50	Zaragoza	Hombre	56
 2010	08	Oceanía	Oceanía	50	Zaragoza	Mujer	74
-2011	01	Europa	UE-27	22	Huesca	Hombre	1279
-2011	01	Europa	UE-27	22	Huesca	Mujer	1307
-2011	01	Europa	UE-27	44	Teruel	Hombre	861
-2011	01	Europa	UE-27	44	Teruel	Mujer	834
-2011	01	Europa	UE-27	50	Zaragoza	Hombre	3469
-2011	01	Europa	UE-27	50	Zaragoza	Mujer	3951
+2011	01	Europa	UE-27_2007	22	Huesca	Hombre	1279
+2011	01	Europa	UE-27_2007	22	Huesca	Mujer	1307
+2011	01	Europa	UE-27_2007	44	Teruel	Hombre	861
+2011	01	Europa	UE-27_2007	44	Teruel	Mujer	834
+2011	01	Europa	UE-27_2007	50	Zaragoza	Hombre	3469
+2011	01	Europa	UE-27_2007	50	Zaragoza	Mujer	3951
 2011	02	Europa	Resto de Europa	22	Huesca	Hombre	189
 2011	02	Europa	Resto de Europa	22	Huesca	Mujer	205
 2011	02	Europa	Resto de Europa	44	Teruel	Hombre	77
@@ -143,12 +143,12 @@ Año	Residencia área código	Residencia continente nombre	Residencia área nomb
 2011	08	Oceanía	Oceanía	44	Teruel	Mujer	14
 2011	08	Oceanía	Oceanía	50	Zaragoza	Hombre	66
 2011	08	Oceanía	Oceanía	50	Zaragoza	Mujer	83
-2012	01	Europa	UE-27	22	Huesca	Hombre	1393
-2012	01	Europa	UE-27	22	Huesca	Mujer	1427
-2012	01	Europa	UE-27	44	Teruel	Hombre	898
-2012	01	Europa	UE-27	44	Teruel	Mujer	866
-2012	01	Europa	UE-27	50	Zaragoza	Hombre	3688
-2012	01	Europa	UE-27	50	Zaragoza	Mujer	4183
+2012	01	Europa	UE-27_2007	22	Huesca	Hombre	1393
+2012	01	Europa	UE-27_2007	22	Huesca	Mujer	1427
+2012	01	Europa	UE-27_2007	44	Teruel	Hombre	898
+2012	01	Europa	UE-27_2007	44	Teruel	Mujer	866
+2012	01	Europa	UE-27_2007	50	Zaragoza	Hombre	3688
+2012	01	Europa	UE-27_2007	50	Zaragoza	Mujer	4183
 2012	02	Europa	Resto de Europa	22	Huesca	Hombre	186
 2012	02	Europa	Resto de Europa	22	Huesca	Mujer	200
 2012	02	Europa	Resto de Europa	44	Teruel	Hombre	80
@@ -191,12 +191,12 @@ Año	Residencia área código	Residencia continente nombre	Residencia área nomb
 2012	08	Oceanía	Oceanía	44	Teruel	Mujer	14
 2012	08	Oceanía	Oceanía	50	Zaragoza	Hombre	77
 2012	08	Oceanía	Oceanía	50	Zaragoza	Mujer	86
-2013	01	Europa	UE-27	22	Huesca	Hombre	1486
-2013	01	Europa	UE-27	22	Huesca	Mujer	1557
-2013	01	Europa	UE-27	44	Teruel	Hombre	930
-2013	01	Europa	UE-27	44	Teruel	Mujer	901
-2013	01	Europa	UE-27	50	Zaragoza	Hombre	3983
-2013	01	Europa	UE-27	50	Zaragoza	Mujer	4481
+2013	01	Europa	UE-27_2007	22	Huesca	Hombre	1486
+2013	01	Europa	UE-27_2007	22	Huesca	Mujer	1557
+2013	01	Europa	UE-27_2007	44	Teruel	Hombre	930
+2013	01	Europa	UE-27_2007	44	Teruel	Mujer	901
+2013	01	Europa	UE-27_2007	50	Zaragoza	Hombre	3983
+2013	01	Europa	UE-27_2007	50	Zaragoza	Mujer	4481
 2013	02	Europa	Resto de Europa	22	Huesca	Hombre	192
 2013	02	Europa	Resto de Europa	22	Huesca	Mujer	203
 2013	02	Europa	Resto de Europa	44	Teruel	Hombre	80
@@ -579,18 +579,18 @@ Año	Residencia área código	Residencia continente nombre	Residencia área nomb
 2020	08	Oceanía	Oceanía	44	Teruel	Mujer	19
 2020	08	Oceanía	Oceanía	50	Zaragoza	Hombre	129
 2020	08	Oceanía	Oceanía	50	Zaragoza	Mujer	146
-2021	01	Europa	UE-28	22	Huesca	Hombre	2349
-2021	01	Europa	UE-28	22	Huesca	Mujer	2354
-2021	01	Europa	UE-28	44	Teruel	Hombre	1168
-2021	01	Europa	UE-28	44	Teruel	Mujer	1160
-2021	01	Europa	UE-28	50	Zaragoza	Hombre	6822
-2021	01	Europa	UE-28	50	Zaragoza	Mujer	7120
-2021	02	Europa	Resto de Europa	22	Huesca	Hombre	217
-2021	02	Europa	Resto de Europa	22	Huesca	Mujer	220
-2021	02	Europa	Resto de Europa	44	Teruel	Hombre	97
-2021	02	Europa	Resto de Europa	44	Teruel	Mujer	111
-2021	02	Europa	Resto de Europa	50	Zaragoza	Hombre	756
-2021	02	Europa	Resto de Europa	50	Zaragoza	Mujer	861
+2021	01	Europa	UE-27	22	Huesca	Hombre	2078
+2021	01	Europa	UE-27	22	Huesca	Mujer	2044
+2021	01	Europa	UE-27	44	Teruel	Hombre	980
+2021	01	Europa	UE-27	44	Teruel	Mujer	993
+2021	01	Europa	UE-27	50	Zaragoza	Hombre	5458
+2021	01	Europa	UE-27	50	Zaragoza	Mujer	5676
+2021	02	Europa	Resto de Europa	22	Huesca	Hombre	488
+2021	02	Europa	Resto de Europa	22	Huesca	Mujer	530
+2021	02	Europa	Resto de Europa	44	Teruel	Hombre	285
+2021	02	Europa	Resto de Europa	44	Teruel	Mujer	278
+2021	02	Europa	Resto de Europa	50	Zaragoza	Hombre	2120
+2021	02	Europa	Resto de Europa	50	Zaragoza	Mujer	2305
 2021	03	África	Magreb	22	Huesca	Hombre	34
 2021	03	África	Magreb	22	Huesca	Mujer	19
 2021	03	África	Magreb	44	Teruel	Hombre	13
