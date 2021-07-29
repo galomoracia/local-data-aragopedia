@@ -246,8 +246,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2006	Zaragoza	Extranjeros	07	Asia	Asia	Mujeres	1190
 2006	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Mujeres	7
 2006	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	7
-2007	Huesca	Españoles	01	UE-27	Europa	Mujeres	99773
-2007	Huesca	Extranjeros	01	UE-27	Europa	Mujeres	3767
+2007	Huesca	Españoles	01	UE-27_2007	Europa	Mujeres	99773
+2007	Huesca	Extranjeros	01	UE-27_2007	Europa	Mujeres	3767
 2007	Huesca	Extranjeros	02	Resto de Europa	Europa	Mujeres	337
 2007	Huesca	Extranjeros	03	Magreb	África	Mujeres	1145
 2007	Huesca	Extranjeros	04	Resto de África	África	Mujeres	445
@@ -255,8 +255,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2007	Huesca	Extranjeros	06	Resto de América	América	Mujeres	2510
 2007	Huesca	Extranjeros	07	Asia	Asia	Mujeres	123
 2007	Huesca	Extranjeros	08	Oceanía	Oceanía	Mujeres	10
-2007	Teruel	Españoles	01	UE-27	Europa	Mujeres	64271
-2007	Teruel	Extranjeros	01	UE-27	Europa	Mujeres	2944
+2007	Teruel	Españoles	01	UE-27_2007	Europa	Mujeres	64271
+2007	Teruel	Extranjeros	01	UE-27_2007	Europa	Mujeres	2944
 2007	Teruel	Extranjeros	02	Resto de Europa	Europa	Mujeres	122
 2007	Teruel	Extranjeros	03	Magreb	África	Mujeres	797
 2007	Teruel	Extranjeros	04	Resto de África	África	Mujeres	52
@@ -264,8 +264,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2007	Teruel	Extranjeros	06	Resto de América	América	Mujeres	1466
 2007	Teruel	Extranjeros	07	Asia	Asia	Mujeres	121
 2007	Teruel	Extranjeros	08	Oceanía	Oceanía	Mujeres	3
-2007	Zaragoza	Españoles	01	UE-27	Europa	Mujeres	429906
-2007	Zaragoza	Extranjeros	01	UE-27	Europa	Mujeres	18754
+2007	Zaragoza	Españoles	01	UE-27_2007	Europa	Mujeres	429906
+2007	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Mujeres	18754
 2007	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Mujeres	1258
 2007	Zaragoza	Extranjeros	03	Magreb	África	Mujeres	3482
 2007	Zaragoza	Extranjeros	04	Resto de África	África	Mujeres	2556
@@ -274,8 +274,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2007	Zaragoza	Extranjeros	07	Asia	Asia	Mujeres	1356
 2007	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Mujeres	8
 2007	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	8
-2008	Huesca	Españoles	01	UE-27	Europa	Mujeres	99868
-2008	Huesca	Extranjeros	01	UE-27	Europa	Mujeres	5149
+2008	Huesca	Españoles	01	UE-27_2007	Europa	Mujeres	99868
+2008	Huesca	Extranjeros	01	UE-27_2007	Europa	Mujeres	5149
 2008	Huesca	Extranjeros	02	Resto de Europa	Europa	Mujeres	398
 2008	Huesca	Extranjeros	03	Magreb	África	Mujeres	1450
 2008	Huesca	Extranjeros	04	Resto de África	África	Mujeres	463
@@ -283,8 +283,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2008	Huesca	Extranjeros	06	Resto de América	América	Mujeres	2815
 2008	Huesca	Extranjeros	07	Asia	Asia	Mujeres	160
 2008	Huesca	Extranjeros	08	Oceanía	Oceanía	Mujeres	8
-2008	Teruel	Españoles	01	UE-27	Europa	Mujeres	63796
-2008	Teruel	Extranjeros	01	UE-27	Europa	Mujeres	3802
+2008	Teruel	Españoles	01	UE-27_2007	Europa	Mujeres	63796
+2008	Teruel	Extranjeros	01	UE-27_2007	Europa	Mujeres	3802
 2008	Teruel	Extranjeros	02	Resto de Europa	Europa	Mujeres	136
 2008	Teruel	Extranjeros	03	Magreb	África	Mujeres	993
 2008	Teruel	Extranjeros	04	Resto de África	África	Mujeres	45
@@ -292,8 +292,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2008	Teruel	Extranjeros	06	Resto de América	América	Mujeres	1625
 2008	Teruel	Extranjeros	07	Asia	Asia	Mujeres	135
 2008	Teruel	Extranjeros	08	Oceanía	Oceanía	Mujeres	4
-2008	Zaragoza	Españoles	01	UE-27	Europa	Mujeres	430474
-2008	Zaragoza	Extranjeros	01	UE-27	Europa	Mujeres	25021
+2008	Zaragoza	Españoles	01	UE-27_2007	Europa	Mujeres	430474
+2008	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Mujeres	25021
 2008	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Mujeres	1435
 2008	Zaragoza	Extranjeros	03	Magreb	África	Mujeres	4017
 2008	Zaragoza	Extranjeros	04	Resto de África	África	Mujeres	2681
@@ -302,8 +302,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2008	Zaragoza	Extranjeros	07	Asia	Asia	Mujeres	1569
 2008	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Mujeres	9
 2008	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	9
-2009	Huesca	Españoles	01	UE-27	Europa	Mujeres	100046
-2009	Huesca	Extranjeros	01	UE-27	Europa	Mujeres	5954
+2009	Huesca	Españoles	01	UE-27_2007	Europa	Mujeres	100046
+2009	Huesca	Extranjeros	01	UE-27_2007	Europa	Mujeres	5954
 2009	Huesca	Extranjeros	02	Resto de Europa	Europa	Mujeres	423
 2009	Huesca	Extranjeros	03	Magreb	África	Mujeres	1688
 2009	Huesca	Extranjeros	04	Resto de África	África	Mujeres	550
@@ -311,8 +311,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2009	Huesca	Extranjeros	06	Resto de América	América	Mujeres	2933
 2009	Huesca	Extranjeros	07	Asia	Asia	Mujeres	159
 2009	Huesca	Extranjeros	08	Oceanía	Oceanía	Mujeres	7
-2009	Teruel	Españoles	01	UE-27	Europa	Mujeres	63444
-2009	Teruel	Extranjeros	01	UE-27	Europa	Mujeres	4126
+2009	Teruel	Españoles	01	UE-27_2007	Europa	Mujeres	63444
+2009	Teruel	Extranjeros	01	UE-27_2007	Europa	Mujeres	4126
 2009	Teruel	Extranjeros	02	Resto de Europa	Europa	Mujeres	144
 2009	Teruel	Extranjeros	03	Magreb	África	Mujeres	1257
 2009	Teruel	Extranjeros	04	Resto de África	África	Mujeres	51
@@ -320,8 +320,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2009	Teruel	Extranjeros	06	Resto de América	América	Mujeres	1787
 2009	Teruel	Extranjeros	07	Asia	Asia	Mujeres	195
 2009	Teruel	Extranjeros	08	Oceanía	Oceanía	Mujeres	3
-2009	Zaragoza	Españoles	01	UE-27	Europa	Mujeres	432017
-2009	Zaragoza	Extranjeros	01	UE-27	Europa	Mujeres	28022
+2009	Zaragoza	Españoles	01	UE-27_2007	Europa	Mujeres	432017
+2009	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Mujeres	28022
 2009	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Mujeres	1542
 2009	Zaragoza	Extranjeros	03	Magreb	África	Mujeres	4874
 2009	Zaragoza	Extranjeros	04	Resto de África	África	Mujeres	2920
@@ -330,8 +330,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2009	Zaragoza	Extranjeros	07	Asia	Asia	Mujeres	2028
 2009	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Mujeres	8
 2009	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	9
-2010	Huesca	Españoles	01	UE-27	Europa	Mujeres	99909
-2010	Huesca	Extranjeros	01	UE-27	Europa	Mujeres	6187
+2010	Huesca	Españoles	01	UE-27_2007	Europa	Mujeres	99909
+2010	Huesca	Extranjeros	01	UE-27_2007	Europa	Mujeres	6187
 2010	Huesca	Extranjeros	02	Resto de Europa	Europa	Mujeres	430
 2010	Huesca	Extranjeros	03	Magreb	África	Mujeres	1793
 2010	Huesca	Extranjeros	04	Resto de África	África	Mujeres	577
@@ -339,8 +339,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2010	Huesca	Extranjeros	06	Resto de América	América	Mujeres	2936
 2010	Huesca	Extranjeros	07	Asia	Asia	Mujeres	175
 2010	Huesca	Extranjeros	08	Oceanía	Oceanía	Mujeres	10
-2010	Teruel	Españoles	01	UE-27	Europa	Mujeres	63088
-2010	Teruel	Extranjeros	01	UE-27	Europa	Mujeres	4044
+2010	Teruel	Españoles	01	UE-27_2007	Europa	Mujeres	63088
+2010	Teruel	Extranjeros	01	UE-27_2007	Europa	Mujeres	4044
 2010	Teruel	Extranjeros	02	Resto de Europa	Europa	Mujeres	144
 2010	Teruel	Extranjeros	03	Magreb	África	Mujeres	1430
 2010	Teruel	Extranjeros	04	Resto de África	África	Mujeres	51
@@ -348,8 +348,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2010	Teruel	Extranjeros	06	Resto de América	América	Mujeres	1751
 2010	Teruel	Extranjeros	07	Asia	Asia	Mujeres	190
 2010	Teruel	Extranjeros	08	Oceanía	Oceanía	Mujeres	3
-2010	Zaragoza	Españoles	01	UE-27	Europa	Mujeres	432911
-2010	Zaragoza	Extranjeros	01	UE-27	Europa	Mujeres	29099
+2010	Zaragoza	Españoles	01	UE-27_2007	Europa	Mujeres	432911
+2010	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Mujeres	29099
 2010	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Mujeres	1524
 2010	Zaragoza	Extranjeros	03	Magreb	África	Mujeres	5366
 2010	Zaragoza	Extranjeros	04	Resto de África	África	Mujeres	3059
@@ -358,8 +358,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2010	Zaragoza	Extranjeros	07	Asia	Asia	Mujeres	2183
 2010	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Mujeres	9
 2010	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	9
-2011	Huesca	Españoles	01	UE-27	Europa	Mujeres	99841
-2011	Huesca	Extranjeros	01	UE-27	Europa	Mujeres	6521
+2011	Huesca	Españoles	01	UE-27_2007	Europa	Mujeres	99841
+2011	Huesca	Extranjeros	01	UE-27_2007	Europa	Mujeres	6521
 2011	Huesca	Extranjeros	02	Resto de Europa	Europa	Mujeres	445
 2011	Huesca	Extranjeros	03	Magreb	África	Mujeres	1874
 2011	Huesca	Extranjeros	04	Resto de África	África	Mujeres	577
@@ -367,8 +367,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2011	Huesca	Extranjeros	06	Resto de América	América	Mujeres	2641
 2011	Huesca	Extranjeros	07	Asia	Asia	Mujeres	202
 2011	Huesca	Extranjeros	08	Oceanía	Oceanía	Mujeres	10
-2011	Teruel	Españoles	01	UE-27	Europa	Mujeres	62862
-2011	Teruel	Extranjeros	01	UE-27	Europa	Mujeres	4181
+2011	Teruel	Españoles	01	UE-27_2007	Europa	Mujeres	62862
+2011	Teruel	Extranjeros	01	UE-27_2007	Europa	Mujeres	4181
 2011	Teruel	Extranjeros	02	Resto de Europa	Europa	Mujeres	143
 2011	Teruel	Extranjeros	03	Magreb	África	Mujeres	1528
 2011	Teruel	Extranjeros	04	Resto de África	África	Mujeres	58
@@ -376,8 +376,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2011	Teruel	Extranjeros	06	Resto de América	América	Mujeres	1574
 2011	Teruel	Extranjeros	07	Asia	Asia	Mujeres	237
 2011	Teruel	Extranjeros	08	Oceanía	Oceanía	Mujeres	4
-2011	Zaragoza	Españoles	01	UE-27	Europa	Mujeres	434059
-2011	Zaragoza	Extranjeros	01	UE-27	Europa	Mujeres	29785
+2011	Zaragoza	Españoles	01	UE-27_2007	Europa	Mujeres	434059
+2011	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Mujeres	29785
 2011	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Mujeres	1583
 2011	Zaragoza	Extranjeros	03	Magreb	África	Mujeres	5426
 2011	Zaragoza	Extranjeros	04	Resto de África	África	Mujeres	3076
@@ -386,8 +386,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2011	Zaragoza	Extranjeros	07	Asia	Asia	Mujeres	2209
 2011	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Mujeres	7
 2011	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	9
-2012	Huesca	Españoles	01	UE-27	Europa	Mujeres	99544
-2012	Huesca	Extranjeros	01	UE-27	Europa	Mujeres	6916
+2012	Huesca	Españoles	01	UE-27_2007	Europa	Mujeres	99544
+2012	Huesca	Extranjeros	01	UE-27_2007	Europa	Mujeres	6916
 2012	Huesca	Extranjeros	02	Resto de Europa	Europa	Mujeres	453
 2012	Huesca	Extranjeros	03	Magreb	África	Mujeres	1867
 2012	Huesca	Extranjeros	04	Resto de África	África	Mujeres	583
@@ -395,8 +395,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2012	Huesca	Extranjeros	06	Resto de América	América	Mujeres	2457
 2012	Huesca	Extranjeros	07	Asia	Asia	Mujeres	240
 2012	Huesca	Extranjeros	08	Oceanía	Oceanía	Mujeres	7
-2012	Teruel	Españoles	01	UE-27	Europa	Mujeres	62259
-2012	Teruel	Extranjeros	01	UE-27	Europa	Mujeres	4259
+2012	Teruel	Españoles	01	UE-27_2007	Europa	Mujeres	62259
+2012	Teruel	Extranjeros	01	UE-27_2007	Europa	Mujeres	4259
 2012	Teruel	Extranjeros	02	Resto de Europa	Europa	Mujeres	166
 2012	Teruel	Extranjeros	03	Magreb	África	Mujeres	1664
 2012	Teruel	Extranjeros	04	Resto de África	África	Mujeres	70
@@ -404,8 +404,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2012	Teruel	Extranjeros	06	Resto de América	América	Mujeres	1543
 2012	Teruel	Extranjeros	07	Asia	Asia	Mujeres	274
 2012	Teruel	Extranjeros	08	Oceanía	Oceanía	Mujeres	5
-2012	Zaragoza	Españoles	01	UE-27	Europa	Mujeres	435810
-2012	Zaragoza	Extranjeros	01	UE-27	Europa	Mujeres	31018
+2012	Zaragoza	Españoles	01	UE-27_2007	Europa	Mujeres	435810
+2012	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Mujeres	31018
 2012	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Mujeres	1687
 2012	Zaragoza	Extranjeros	03	Magreb	África	Mujeres	5872
 2012	Zaragoza	Extranjeros	04	Resto de África	África	Mujeres	3190
@@ -414,8 +414,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2012	Zaragoza	Extranjeros	07	Asia	Asia	Mujeres	2428
 2012	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Mujeres	8
 2012	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	10
-2013	Huesca	Españoles	01	UE-27	Europa	Mujeres	99068
-2013	Huesca	Extranjeros	01	UE-27	Europa	Mujeres	6885
+2013	Huesca	Españoles	01	UE-27_2007	Europa	Mujeres	99068
+2013	Huesca	Extranjeros	01	UE-27_2007	Europa	Mujeres	6885
 2013	Huesca	Extranjeros	02	Resto de Europa	Europa	Mujeres	462
 2013	Huesca	Extranjeros	03	Magreb	África	Mujeres	1950
 2013	Huesca	Extranjeros	04	Resto de África	África	Mujeres	592
@@ -423,8 +423,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2013	Huesca	Extranjeros	06	Resto de América	América	Mujeres	2316
 2013	Huesca	Extranjeros	07	Asia	Asia	Mujeres	234
 2013	Huesca	Extranjeros	08	Oceanía	Oceanía	Mujeres	10
-2013	Teruel	Españoles	01	UE-27	Europa	Mujeres	61756
-2013	Teruel	Extranjeros	01	UE-27	Europa	Mujeres	4114
+2013	Teruel	Españoles	01	UE-27_2007	Europa	Mujeres	61756
+2013	Teruel	Extranjeros	01	UE-27_2007	Europa	Mujeres	4114
 2013	Teruel	Extranjeros	02	Resto de Europa	Europa	Mujeres	164
 2013	Teruel	Extranjeros	03	Magreb	África	Mujeres	1785
 2013	Teruel	Extranjeros	04	Resto de África	África	Mujeres	71
@@ -432,8 +432,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2013	Teruel	Extranjeros	06	Resto de América	América	Mujeres	1464
 2013	Teruel	Extranjeros	07	Asia	Asia	Mujeres	287
 2013	Teruel	Extranjeros	08	Oceanía	Oceanía	Mujeres	4
-2013	Zaragoza	Españoles	01	UE-27	Europa	Mujeres	435440
-2013	Zaragoza	Extranjeros	01	UE-27	Europa	Mujeres	30873
+2013	Zaragoza	Españoles	01	UE-27_2007	Europa	Mujeres	435440
+2013	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Mujeres	30873
 2013	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Mujeres	1779
 2013	Zaragoza	Extranjeros	03	Magreb	África	Mujeres	6307
 2013	Zaragoza	Extranjeros	04	Resto de África	África	Mujeres	3339
@@ -897,8 +897,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2006	Zaragoza	Extranjeros	07	Asia	Asia	Hombres	1959
 2006	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Hombres	4
 2006	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	19
-2007	Huesca	Españoles	01	UE-27	Europa	Hombres	100914
-2007	Huesca	Extranjeros	01	UE-27	Europa	Hombres	4590
+2007	Huesca	Españoles	01	UE-27_2007	Europa	Hombres	100914
+2007	Huesca	Extranjeros	01	UE-27_2007	Europa	Hombres	4590
 2007	Huesca	Extranjeros	02	Resto de Europa	Europa	Hombres	341
 2007	Huesca	Extranjeros	03	Magreb	África	Hombres	2291
 2007	Huesca	Extranjeros	04	Resto de África	África	Hombres	1770
@@ -906,8 +906,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2007	Huesca	Extranjeros	06	Resto de América	América	Hombres	1875
 2007	Huesca	Extranjeros	07	Asia	Asia	Hombres	158
 2007	Huesca	Extranjeros	08	Oceanía	Oceanía	Hombres	14
-2007	Teruel	Españoles	01	UE-27	Europa	Hombres	65917
-2007	Teruel	Extranjeros	01	UE-27	Europa	Hombres	4162
+2007	Teruel	Españoles	01	UE-27_2007	Europa	Hombres	65917
+2007	Teruel	Extranjeros	01	UE-27_2007	Europa	Hombres	4162
 2007	Teruel	Extranjeros	02	Resto de Europa	Europa	Hombres	126
 2007	Teruel	Extranjeros	03	Magreb	África	Hombres	2365
 2007	Teruel	Extranjeros	04	Resto de África	África	Hombres	106
@@ -915,8 +915,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2007	Teruel	Extranjeros	06	Resto de América	América	Hombres	1225
 2007	Teruel	Extranjeros	07	Asia	Asia	Hombres	355
 2007	Teruel	Extranjeros	08	Oceanía	Oceanía	Hombres	1
-2007	Zaragoza	Españoles	01	UE-27	Europa	Hombres	411470
-2007	Zaragoza	Extranjeros	01	UE-27	Europa	Hombres	22646
+2007	Zaragoza	Españoles	01	UE-27_2007	Europa	Hombres	411470
+2007	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Hombres	22646
 2007	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Hombres	977
 2007	Zaragoza	Extranjeros	03	Magreb	África	Hombres	7076
 2007	Zaragoza	Extranjeros	04	Resto de África	África	Hombres	5597
@@ -925,8 +925,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2007	Zaragoza	Extranjeros	07	Asia	Asia	Hombres	1897
 2007	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Hombres	3
 2007	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2008	Huesca	Españoles	01	UE-27	Europa	Hombres	101040
-2008	Huesca	Extranjeros	01	UE-27	Europa	Hombres	6344
+2008	Huesca	Españoles	01	UE-27_2007	Europa	Hombres	101040
+2008	Huesca	Extranjeros	01	UE-27_2007	Europa	Hombres	6344
 2008	Huesca	Extranjeros	02	Resto de Europa	Europa	Hombres	412
 2008	Huesca	Extranjeros	03	Magreb	África	Hombres	2723
 2008	Huesca	Extranjeros	04	Resto de África	África	Hombres	1937
@@ -934,8 +934,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2008	Huesca	Extranjeros	06	Resto de América	América	Hombres	2206
 2008	Huesca	Extranjeros	07	Asia	Asia	Hombres	232
 2008	Huesca	Extranjeros	08	Oceanía	Oceanía	Hombres	16
-2008	Teruel	Españoles	01	UE-27	Europa	Hombres	65485
-2008	Teruel	Extranjeros	01	UE-27	Europa	Hombres	5321
+2008	Teruel	Españoles	01	UE-27_2007	Europa	Hombres	65485
+2008	Teruel	Extranjeros	01	UE-27_2007	Europa	Hombres	5321
 2008	Teruel	Extranjeros	02	Resto de Europa	Europa	Hombres	168
 2008	Teruel	Extranjeros	03	Magreb	África	Hombres	2909
 2008	Teruel	Extranjeros	04	Resto de África	África	Hombres	97
@@ -943,8 +943,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2008	Teruel	Extranjeros	06	Resto de América	América	Hombres	1405
 2008	Teruel	Extranjeros	07	Asia	Asia	Hombres	383
 2008	Teruel	Extranjeros	08	Oceanía	Oceanía	Hombres	1
-2008	Zaragoza	Españoles	01	UE-27	Europa	Hombres	411363
-2008	Zaragoza	Extranjeros	01	UE-27	Europa	Hombres	32235
+2008	Zaragoza	Españoles	01	UE-27_2007	Europa	Hombres	411363
+2008	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Hombres	32235
 2008	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Hombres	1057
 2008	Zaragoza	Extranjeros	03	Magreb	África	Hombres	7955
 2008	Zaragoza	Extranjeros	04	Resto de África	África	Hombres	6205
@@ -953,8 +953,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2008	Zaragoza	Extranjeros	07	Asia	Asia	Hombres	2075
 2008	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Hombres	6
 2008	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2009	Huesca	Españoles	01	UE-27	Europa	Hombres	101034
-2009	Huesca	Extranjeros	01	UE-27	Europa	Hombres	7201
+2009	Huesca	Españoles	01	UE-27_2007	Europa	Hombres	101034
+2009	Huesca	Extranjeros	01	UE-27_2007	Europa	Hombres	7201
 2009	Huesca	Extranjeros	02	Resto de Europa	Europa	Hombres	420
 2009	Huesca	Extranjeros	03	Magreb	África	Hombres	3084
 2009	Huesca	Extranjeros	04	Resto de África	África	Hombres	2258
@@ -962,8 +962,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2009	Huesca	Extranjeros	06	Resto de América	América	Hombres	2328
 2009	Huesca	Extranjeros	07	Asia	Asia	Hombres	259
 2009	Huesca	Extranjeros	08	Oceanía	Oceanía	Hombres	18
-2009	Teruel	Españoles	01	UE-27	Europa	Hombres	64938
-2009	Teruel	Extranjeros	01	UE-27	Europa	Hombres	5396
+2009	Teruel	Españoles	01	UE-27_2007	Europa	Hombres	64938
+2009	Teruel	Extranjeros	01	UE-27_2007	Europa	Hombres	5396
 2009	Teruel	Extranjeros	02	Resto de Europa	Europa	Hombres	182
 2009	Teruel	Extranjeros	03	Magreb	África	Hombres	3090
 2009	Teruel	Extranjeros	04	Resto de África	África	Hombres	100
@@ -971,8 +971,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2009	Teruel	Extranjeros	06	Resto de América	América	Hombres	1562
 2009	Teruel	Extranjeros	07	Asia	Asia	Hombres	453
 2009	Teruel	Extranjeros	08	Oceanía	Oceanía	Hombres	1
-2009	Zaragoza	Españoles	01	UE-27	Europa	Hombres	411856
-2009	Zaragoza	Extranjeros	01	UE-27	Europa	Hombres	35592
+2009	Zaragoza	Españoles	01	UE-27_2007	Europa	Hombres	411856
+2009	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Hombres	35592
 2009	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Hombres	1080
 2009	Zaragoza	Extranjeros	03	Magreb	África	Hombres	9364
 2009	Zaragoza	Extranjeros	04	Resto de África	África	Hombres	6979
@@ -981,8 +981,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2009	Zaragoza	Extranjeros	07	Asia	Asia	Hombres	2707
 2009	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Hombres	7
 2009	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2010	Huesca	Españoles	01	UE-27	Europa	Hombres	100847
-2010	Huesca	Extranjeros	01	UE-27	Europa	Hombres	7277
+2010	Huesca	Españoles	01	UE-27_2007	Europa	Hombres	100847
+2010	Huesca	Extranjeros	01	UE-27_2007	Europa	Hombres	7277
 2010	Huesca	Extranjeros	02	Resto de Europa	Europa	Hombres	417
 2010	Huesca	Extranjeros	03	Magreb	África	Hombres	3103
 2010	Huesca	Extranjeros	04	Resto de África	África	Hombres	2254
@@ -990,8 +990,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2010	Huesca	Extranjeros	06	Resto de América	América	Hombres	2251
 2010	Huesca	Extranjeros	07	Asia	Asia	Hombres	337
 2010	Huesca	Extranjeros	08	Oceanía	Oceanía	Hombres	15
-2010	Teruel	Españoles	01	UE-27	Europa	Hombres	64555
-2010	Teruel	Extranjeros	01	UE-27	Europa	Hombres	4943
+2010	Teruel	Españoles	01	UE-27_2007	Europa	Hombres	64555
+2010	Teruel	Extranjeros	01	UE-27_2007	Europa	Hombres	4943
 2010	Teruel	Extranjeros	02	Resto de Europa	Europa	Hombres	156
 2010	Teruel	Extranjeros	03	Magreb	África	Hombres	2915
 2010	Teruel	Extranjeros	04	Resto de África	África	Hombres	86
@@ -999,8 +999,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2010	Teruel	Extranjeros	06	Resto de América	América	Hombres	1487
 2010	Teruel	Extranjeros	07	Asia	Asia	Hombres	409
 2010	Teruel	Extranjeros	08	Oceanía	Oceanía	Hombres	1
-2010	Zaragoza	Españoles	01	UE-27	Europa	Hombres	412699
-2010	Zaragoza	Extranjeros	01	UE-27	Europa	Hombres	35864
+2010	Zaragoza	Españoles	01	UE-27_2007	Europa	Hombres	412699
+2010	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Hombres	35864
 2010	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Hombres	1025
 2010	Zaragoza	Extranjeros	03	Magreb	África	Hombres	9512
 2010	Zaragoza	Extranjeros	04	Resto de África	África	Hombres	6954
@@ -1009,8 +1009,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2010	Zaragoza	Extranjeros	07	Asia	Asia	Hombres	2874
 2010	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Hombres	7
 2010	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2011	Huesca	Españoles	01	UE-27	Europa	Hombres	100713
-2011	Huesca	Extranjeros	01	UE-27	Europa	Hombres	7455
+2011	Huesca	Españoles	01	UE-27_2007	Europa	Hombres	100713
+2011	Huesca	Extranjeros	01	UE-27_2007	Europa	Hombres	7455
 2011	Huesca	Extranjeros	02	Resto de Europa	Europa	Hombres	434
 2011	Huesca	Extranjeros	03	Magreb	África	Hombres	2982
 2011	Huesca	Extranjeros	04	Resto de África	África	Hombres	2320
@@ -1018,8 +1018,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2011	Huesca	Extranjeros	06	Resto de América	América	Hombres	1997
 2011	Huesca	Extranjeros	07	Asia	Asia	Hombres	289
 2011	Huesca	Extranjeros	08	Oceanía	Oceanía	Hombres	8
-2011	Teruel	Españoles	01	UE-27	Europa	Hombres	64172
-2011	Teruel	Extranjeros	01	UE-27	Europa	Hombres	4963
+2011	Teruel	Españoles	01	UE-27_2007	Europa	Hombres	64172
+2011	Teruel	Extranjeros	01	UE-27_2007	Europa	Hombres	4963
 2011	Teruel	Extranjeros	02	Resto de Europa	Europa	Hombres	150
 2011	Teruel	Extranjeros	03	Magreb	África	Hombres	2903
 2011	Teruel	Extranjeros	04	Resto de África	África	Hombres	112
@@ -1027,8 +1027,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2011	Teruel	Extranjeros	06	Resto de América	América	Hombres	1254
 2011	Teruel	Extranjeros	07	Asia	Asia	Hombres	441
 2011	Teruel	Extranjeros	08	Oceanía	Oceanía	Hombres	1
-2011	Zaragoza	Españoles	01	UE-27	Europa	Hombres	413453
-2011	Zaragoza	Extranjeros	01	UE-27	Europa	Hombres	35604
+2011	Zaragoza	Españoles	01	UE-27_2007	Europa	Hombres	413453
+2011	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Hombres	35604
 2011	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Hombres	1024
 2011	Zaragoza	Extranjeros	03	Magreb	África	Hombres	9373
 2011	Zaragoza	Extranjeros	04	Resto de África	África	Hombres	6762
@@ -1037,8 +1037,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2011	Zaragoza	Extranjeros	07	Asia	Asia	Hombres	3002
 2011	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Hombres	9
 2011	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	21
-2012	Huesca	Españoles	01	UE-27	Europa	Hombres	100225
-2012	Huesca	Extranjeros	01	UE-27	Europa	Hombres	7675
+2012	Huesca	Españoles	01	UE-27_2007	Europa	Hombres	100225
+2012	Huesca	Extranjeros	01	UE-27_2007	Europa	Hombres	7675
 2012	Huesca	Extranjeros	02	Resto de Europa	Europa	Hombres	440
 2012	Huesca	Extranjeros	03	Magreb	África	Hombres	2832
 2012	Huesca	Extranjeros	04	Resto de África	África	Hombres	2321
@@ -1046,8 +1046,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2012	Huesca	Extranjeros	06	Resto de América	América	Hombres	1716
 2012	Huesca	Extranjeros	07	Asia	Asia	Hombres	270
 2012	Huesca	Extranjeros	08	Oceanía	Oceanía	Hombres	9
-2012	Teruel	Españoles	01	UE-27	Europa	Hombres	63671
-2012	Teruel	Extranjeros	01	UE-27	Europa	Hombres	4941
+2012	Teruel	Españoles	01	UE-27_2007	Europa	Hombres	63671
+2012	Teruel	Extranjeros	01	UE-27_2007	Europa	Hombres	4941
 2012	Teruel	Extranjeros	02	Resto de Europa	Europa	Hombres	160
 2012	Teruel	Extranjeros	03	Magreb	África	Hombres	2942
 2012	Teruel	Extranjeros	04	Resto de África	África	Hombres	134
@@ -1055,8 +1055,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2012	Teruel	Extranjeros	06	Resto de América	América	Hombres	1158
 2012	Teruel	Extranjeros	07	Asia	Asia	Hombres	458
 2012	Teruel	Extranjeros	08	Oceanía	Oceanía	Hombres	1
-2012	Zaragoza	Españoles	01	UE-27	Europa	Hombres	414847
-2012	Zaragoza	Extranjeros	01	UE-27	Europa	Hombres	36348
+2012	Zaragoza	Españoles	01	UE-27_2007	Europa	Hombres	414847
+2012	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Hombres	36348
 2012	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Hombres	1080
 2012	Zaragoza	Extranjeros	03	Magreb	África	Hombres	9600
 2012	Zaragoza	Extranjeros	04	Resto de África	África	Hombres	6778
@@ -1065,8 +1065,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2012	Zaragoza	Extranjeros	07	Asia	Asia	Hombres	3359
 2012	Zaragoza	Extranjeros	08	Oceanía	Oceanía	Hombres	10
 2012	Zaragoza	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2013	Huesca	Españoles	01	UE-27	Europa	Hombres	99766
-2013	Huesca	Extranjeros	01	UE-27	Europa	Hombres	7455
+2013	Huesca	Españoles	01	UE-27_2007	Europa	Hombres	99766
+2013	Huesca	Extranjeros	01	UE-27_2007	Europa	Hombres	7455
 2013	Huesca	Extranjeros	02	Resto de Europa	Europa	Hombres	432
 2013	Huesca	Extranjeros	03	Magreb	África	Hombres	2803
 2013	Huesca	Extranjeros	04	Resto de África	África	Hombres	2360
@@ -1074,8 +1074,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2013	Huesca	Extranjeros	06	Resto de América	América	Hombres	1642
 2013	Huesca	Extranjeros	07	Asia	Asia	Hombres	291
 2013	Huesca	Extranjeros	08	Oceanía	Oceanía	Hombres	10
-2013	Teruel	Españoles	01	UE-27	Europa	Hombres	63134
-2013	Teruel	Extranjeros	01	UE-27	Europa	Hombres	4593
+2013	Teruel	Españoles	01	UE-27_2007	Europa	Hombres	63134
+2013	Teruel	Extranjeros	01	UE-27_2007	Europa	Hombres	4593
 2013	Teruel	Extranjeros	02	Resto de Europa	Europa	Hombres	145
 2013	Teruel	Extranjeros	03	Magreb	África	Hombres	2966
 2013	Teruel	Extranjeros	04	Resto de África	África	Hombres	129
@@ -1083,8 +1083,8 @@ Año	Residencia provincia nombre	Tipo de nacionalidad	Nacionalidad área código
 2013	Teruel	Extranjeros	06	Resto de América	América	Hombres	1068
 2013	Teruel	Extranjeros	07	Asia	Asia	Hombres	480
 2013	Teruel	Extranjeros	08	Oceanía	Oceanía	Hombres	2
-2013	Zaragoza	Españoles	01	UE-27	Europa	Hombres	414333
-2013	Zaragoza	Extranjeros	01	UE-27	Europa	Hombres	35505
+2013	Zaragoza	Españoles	01	UE-27_2007	Europa	Hombres	414333
+2013	Zaragoza	Extranjeros	01	UE-27_2007	Europa	Hombres	35505
 2013	Zaragoza	Extranjeros	02	Resto de Europa	Europa	Hombres	1101
 2013	Zaragoza	Extranjeros	03	Magreb	África	Hombres	10068
 2013	Zaragoza	Extranjeros	04	Resto de África	África	Hombres	7029

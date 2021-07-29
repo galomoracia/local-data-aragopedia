@@ -2563,71 +2563,71 @@ Año	Residencia CCAA nombre	Nacionalidad área código	Nacionalidad área nombre
 2006	Aragón	08	Oceanía	599	Países sin relaciones diplomáticas	16 a 64	1
 2006	Aragón	09	Apátridas y no consta	555	Apátridas	0 a 15	5
 2006	Aragón	09	Apátridas y no consta	555	Apátridas	16 a 64	21
-2007	Aragón	01	UE-27	102	Austria	0 a 15	7
-2007	Aragón	01	UE-27	102	Austria	16 a 64	35
-2007	Aragón	01	UE-27	102	Austria	65 y más	8
-2007	Aragón	01	UE-27	103	Bélgica	0 a 15	36
-2007	Aragón	01	UE-27	103	Bélgica	16 a 64	148
-2007	Aragón	01	UE-27	103	Bélgica	65 y más	15
-2007	Aragón	01	UE-27	104	Bulgaria	0 a 15	784
-2007	Aragón	01	UE-27	104	Bulgaria	16 a 64	3442
-2007	Aragón	01	UE-27	104	Bulgaria	65 y más	40
-2007	Aragón	01	UE-27	106	Chipre	0 a 15	1
-2007	Aragón	01	UE-27	106	Chipre	16 a 64	1
-2007	Aragón	01	UE-27	107	Dinamarca	0 a 15	5
-2007	Aragón	01	UE-27	107	Dinamarca	16 a 64	27
-2007	Aragón	01	UE-27	107	Dinamarca	65 y más	1
-2007	Aragón	01	UE-27	109	Finlandia	0 a 15	3
-2007	Aragón	01	UE-27	109	Finlandia	16 a 64	17
-2007	Aragón	01	UE-27	109	Finlandia	65 y más	1
-2007	Aragón	01	UE-27	110	Francia	0 a 15	127
-2007	Aragón	01	UE-27	110	Francia	16 a 64	1222
-2007	Aragón	01	UE-27	110	Francia	65 y más	192
-2007	Aragón	01	UE-27	111	Grecia	0 a 15	11
-2007	Aragón	01	UE-27	111	Grecia	16 a 64	32
-2007	Aragón	01	UE-27	112	Hungría	0 a 15	15
-2007	Aragón	01	UE-27	112	Hungría	16 a 64	81
-2007	Aragón	01	UE-27	112	Hungría	65 y más	1
-2007	Aragón	01	UE-27	113	Irlanda	0 a 15	1
-2007	Aragón	01	UE-27	113	Irlanda	16 a 64	62
-2007	Aragón	01	UE-27	113	Irlanda	65 y más	2
-2007	Aragón	01	UE-27	115	Italia	0 a 15	214
-2007	Aragón	01	UE-27	115	Italia	16 a 64	1058
-2007	Aragón	01	UE-27	115	Italia	65 y más	82
-2007	Aragón	01	UE-27	121	Países Bajos	0 a 15	50
-2007	Aragón	01	UE-27	121	Países Bajos	16 a 64	279
-2007	Aragón	01	UE-27	121	Países Bajos	65 y más	16
-2007	Aragón	01	UE-27	122	Polonia	0 a 15	348
-2007	Aragón	01	UE-27	122	Polonia	16 a 64	2059
-2007	Aragón	01	UE-27	122	Polonia	65 y más	8
-2007	Aragón	01	UE-27	123	Portugal	0 a 15	450
-2007	Aragón	01	UE-27	123	Portugal	16 a 64	2571
-2007	Aragón	01	UE-27	123	Portugal	65 y más	40
-2007	Aragón	01	UE-27	125	Reino Unido	0 a 15	87
-2007	Aragón	01	UE-27	125	Reino Unido	16 a 64	557
-2007	Aragón	01	UE-27	125	Reino Unido	65 y más	38
-2007	Aragón	01	UE-27	126	Alemania	0 a 15	89
-2007	Aragón	01	UE-27	126	Alemania	16 a 64	607
-2007	Aragón	01	UE-27	126	Alemania	65 y más	58
-2007	Aragón	01	UE-27	128	Rumanía	0 a 15	5860
-2007	Aragón	01	UE-27	128	Rumanía	16 a 64	34989
-2007	Aragón	01	UE-27	128	Rumanía	65 y más	241
-2007	Aragón	01	UE-27	131	Suecia	0 a 15	4
-2007	Aragón	01	UE-27	131	Suecia	16 a 64	56
-2007	Aragón	01	UE-27	131	Suecia	65 y más	2
-2007	Aragón	01	UE-27	136	Letonia	0 a 15	11
-2007	Aragón	01	UE-27	136	Letonia	16 a 64	31
-2007	Aragón	01	UE-27	141	Estonia	16 a 64	8
-2007	Aragón	01	UE-27	142	Lituania	0 a 15	57
-2007	Aragón	01	UE-27	142	Lituania	16 a 64	360
-2007	Aragón	01	UE-27	142	Lituania	65 y más	4
-2007	Aragón	01	UE-27	143	República Checa	0 a 15	10
-2007	Aragón	01	UE-27	143	República Checa	16 a 64	129
-2007	Aragón	01	UE-27	144	Eslovaquia	0 a 15	14
-2007	Aragón	01	UE-27	144	Eslovaquia	16 a 64	129
-2007	Aragón	01	UE-27	147	Eslovenia	0 a 15	2
-2007	Aragón	01	UE-27	147	Eslovenia	16 a 64	27
-2007	Aragón	01	UE-27	147	Eslovenia	65 y más	1
+2007	Aragón	01	UE-27_2007	102	Austria	0 a 15	7
+2007	Aragón	01	UE-27_2007	102	Austria	16 a 64	35
+2007	Aragón	01	UE-27_2007	102	Austria	65 y más	8
+2007	Aragón	01	UE-27_2007	103	Bélgica	0 a 15	36
+2007	Aragón	01	UE-27_2007	103	Bélgica	16 a 64	148
+2007	Aragón	01	UE-27_2007	103	Bélgica	65 y más	15
+2007	Aragón	01	UE-27_2007	104	Bulgaria	0 a 15	784
+2007	Aragón	01	UE-27_2007	104	Bulgaria	16 a 64	3442
+2007	Aragón	01	UE-27_2007	104	Bulgaria	65 y más	40
+2007	Aragón	01	UE-27_2007	106	Chipre	0 a 15	1
+2007	Aragón	01	UE-27_2007	106	Chipre	16 a 64	1
+2007	Aragón	01	UE-27_2007	107	Dinamarca	0 a 15	5
+2007	Aragón	01	UE-27_2007	107	Dinamarca	16 a 64	27
+2007	Aragón	01	UE-27_2007	107	Dinamarca	65 y más	1
+2007	Aragón	01	UE-27_2007	109	Finlandia	0 a 15	3
+2007	Aragón	01	UE-27_2007	109	Finlandia	16 a 64	17
+2007	Aragón	01	UE-27_2007	109	Finlandia	65 y más	1
+2007	Aragón	01	UE-27_2007	110	Francia	0 a 15	127
+2007	Aragón	01	UE-27_2007	110	Francia	16 a 64	1222
+2007	Aragón	01	UE-27_2007	110	Francia	65 y más	192
+2007	Aragón	01	UE-27_2007	111	Grecia	0 a 15	11
+2007	Aragón	01	UE-27_2007	111	Grecia	16 a 64	32
+2007	Aragón	01	UE-27_2007	112	Hungría	0 a 15	15
+2007	Aragón	01	UE-27_2007	112	Hungría	16 a 64	81
+2007	Aragón	01	UE-27_2007	112	Hungría	65 y más	1
+2007	Aragón	01	UE-27_2007	113	Irlanda	0 a 15	1
+2007	Aragón	01	UE-27_2007	113	Irlanda	16 a 64	62
+2007	Aragón	01	UE-27_2007	113	Irlanda	65 y más	2
+2007	Aragón	01	UE-27_2007	115	Italia	0 a 15	214
+2007	Aragón	01	UE-27_2007	115	Italia	16 a 64	1058
+2007	Aragón	01	UE-27_2007	115	Italia	65 y más	82
+2007	Aragón	01	UE-27_2007	121	Países Bajos	0 a 15	50
+2007	Aragón	01	UE-27_2007	121	Países Bajos	16 a 64	279
+2007	Aragón	01	UE-27_2007	121	Países Bajos	65 y más	16
+2007	Aragón	01	UE-27_2007	122	Polonia	0 a 15	348
+2007	Aragón	01	UE-27_2007	122	Polonia	16 a 64	2059
+2007	Aragón	01	UE-27_2007	122	Polonia	65 y más	8
+2007	Aragón	01	UE-27_2007	123	Portugal	0 a 15	450
+2007	Aragón	01	UE-27_2007	123	Portugal	16 a 64	2571
+2007	Aragón	01	UE-27_2007	123	Portugal	65 y más	40
+2007	Aragón	01	UE-27_2007	125	Reino Unido	0 a 15	87
+2007	Aragón	01	UE-27_2007	125	Reino Unido	16 a 64	557
+2007	Aragón	01	UE-27_2007	125	Reino Unido	65 y más	38
+2007	Aragón	01	UE-27_2007	126	Alemania	0 a 15	89
+2007	Aragón	01	UE-27_2007	126	Alemania	16 a 64	607
+2007	Aragón	01	UE-27_2007	126	Alemania	65 y más	58
+2007	Aragón	01	UE-27_2007	128	Rumanía	0 a 15	5860
+2007	Aragón	01	UE-27_2007	128	Rumanía	16 a 64	34989
+2007	Aragón	01	UE-27_2007	128	Rumanía	65 y más	241
+2007	Aragón	01	UE-27_2007	131	Suecia	0 a 15	4
+2007	Aragón	01	UE-27_2007	131	Suecia	16 a 64	56
+2007	Aragón	01	UE-27_2007	131	Suecia	65 y más	2
+2007	Aragón	01	UE-27_2007	136	Letonia	0 a 15	11
+2007	Aragón	01	UE-27_2007	136	Letonia	16 a 64	31
+2007	Aragón	01	UE-27_2007	141	Estonia	16 a 64	8
+2007	Aragón	01	UE-27_2007	142	Lituania	0 a 15	57
+2007	Aragón	01	UE-27_2007	142	Lituania	16 a 64	360
+2007	Aragón	01	UE-27_2007	142	Lituania	65 y más	4
+2007	Aragón	01	UE-27_2007	143	República Checa	0 a 15	10
+2007	Aragón	01	UE-27_2007	143	República Checa	16 a 64	129
+2007	Aragón	01	UE-27_2007	144	Eslovaquia	0 a 15	14
+2007	Aragón	01	UE-27_2007	144	Eslovaquia	16 a 64	129
+2007	Aragón	01	UE-27_2007	147	Eslovenia	0 a 15	2
+2007	Aragón	01	UE-27_2007	147	Eslovenia	16 a 64	27
+2007	Aragón	01	UE-27_2007	147	Eslovenia	65 y más	1
 2007	Aragón	02	Resto de Europa	101	Albania	0 a 15	7
 2007	Aragón	02	Resto de Europa	101	Albania	16 a 64	38
 2007	Aragón	02	Resto de Europa	101	Albania	65 y más	1
@@ -2876,70 +2876,70 @@ Año	Residencia CCAA nombre	Nacionalidad área código	Nacionalidad área nombre
 2007	Aragón	08	Oceanía	516	Palaos	16 a 64	7
 2007	Aragón	09	Apátridas y no consta	555	Apátridas	0 a 15	6
 2007	Aragón	09	Apátridas y no consta	555	Apátridas	16 a 64	22
-2008	Aragón	01	UE-27	102	Austria	0 a 15	6
-2008	Aragón	01	UE-27	102	Austria	16 a 64	38
-2008	Aragón	01	UE-27	102	Austria	65 y más	7
-2008	Aragón	01	UE-27	103	Bélgica	0 a 15	38
-2008	Aragón	01	UE-27	103	Bélgica	16 a 64	167
-2008	Aragón	01	UE-27	103	Bélgica	65 y más	15
-2008	Aragón	01	UE-27	104	Bulgaria	0 a 15	970
-2008	Aragón	01	UE-27	104	Bulgaria	16 a 64	4329
-2008	Aragón	01	UE-27	104	Bulgaria	65 y más	51
-2008	Aragón	01	UE-27	106	Chipre	0 a 15	1
-2008	Aragón	01	UE-27	106	Chipre	16 a 64	1
-2008	Aragón	01	UE-27	107	Dinamarca	0 a 15	5
-2008	Aragón	01	UE-27	107	Dinamarca	16 a 64	36
-2008	Aragón	01	UE-27	107	Dinamarca	65 y más	1
-2008	Aragón	01	UE-27	109	Finlandia	0 a 15	3
-2008	Aragón	01	UE-27	109	Finlandia	16 a 64	28
-2008	Aragón	01	UE-27	110	Francia	0 a 15	156
-2008	Aragón	01	UE-27	110	Francia	16 a 64	1357
-2008	Aragón	01	UE-27	110	Francia	65 y más	202
-2008	Aragón	01	UE-27	111	Grecia	0 a 15	9
-2008	Aragón	01	UE-27	111	Grecia	16 a 64	40
-2008	Aragón	01	UE-27	112	Hungría	0 a 15	23
-2008	Aragón	01	UE-27	112	Hungría	16 a 64	100
-2008	Aragón	01	UE-27	113	Irlanda	0 a 15	3
-2008	Aragón	01	UE-27	113	Irlanda	16 a 64	68
-2008	Aragón	01	UE-27	113	Irlanda	65 y más	3
-2008	Aragón	01	UE-27	115	Italia	0 a 15	235
-2008	Aragón	01	UE-27	115	Italia	16 a 64	1296
-2008	Aragón	01	UE-27	115	Italia	65 y más	94
-2008	Aragón	01	UE-27	118	Malta	16 a 64	1
-2008	Aragón	01	UE-27	121	Países Bajos	0 a 15	58
-2008	Aragón	01	UE-27	121	Países Bajos	16 a 64	318
-2008	Aragón	01	UE-27	121	Países Bajos	65 y más	16
-2008	Aragón	01	UE-27	122	Polonia	0 a 15	506
-2008	Aragón	01	UE-27	122	Polonia	16 a 64	3359
-2008	Aragón	01	UE-27	122	Polonia	65 y más	8
-2008	Aragón	01	UE-27	123	Portugal	0 a 15	660
-2008	Aragón	01	UE-27	123	Portugal	16 a 64	3972
-2008	Aragón	01	UE-27	123	Portugal	65 y más	46
-2008	Aragón	01	UE-27	125	Reino Unido	0 a 15	94
-2008	Aragón	01	UE-27	125	Reino Unido	16 a 64	596
-2008	Aragón	01	UE-27	125	Reino Unido	65 y más	43
-2008	Aragón	01	UE-27	126	Alemania	0 a 15	93
-2008	Aragón	01	UE-27	126	Alemania	16 a 64	657
-2008	Aragón	01	UE-27	126	Alemania	65 y más	61
-2008	Aragón	01	UE-27	128	Rumanía	0 a 15	8180
-2008	Aragón	01	UE-27	128	Rumanía	16 a 64	48492
-2008	Aragón	01	UE-27	128	Rumanía	65 y más	371
-2008	Aragón	01	UE-27	131	Suecia	0 a 15	5
-2008	Aragón	01	UE-27	131	Suecia	16 a 64	54
-2008	Aragón	01	UE-27	131	Suecia	65 y más	2
-2008	Aragón	01	UE-27	136	Letonia	0 a 15	12
-2008	Aragón	01	UE-27	136	Letonia	16 a 64	42
-2008	Aragón	01	UE-27	141	Estonia	16 a 64	10
-2008	Aragón	01	UE-27	142	Lituania	0 a 15	63
-2008	Aragón	01	UE-27	142	Lituania	16 a 64	415
-2008	Aragón	01	UE-27	142	Lituania	65 y más	5
-2008	Aragón	01	UE-27	143	República Checa	0 a 15	10
-2008	Aragón	01	UE-27	143	República Checa	16 a 64	181
-2008	Aragón	01	UE-27	144	Eslovaquia	0 a 15	18
-2008	Aragón	01	UE-27	144	Eslovaquia	16 a 64	195
-2008	Aragón	01	UE-27	147	Eslovenia	0 a 15	5
-2008	Aragón	01	UE-27	147	Eslovenia	16 a 64	41
-2008	Aragón	01	UE-27	147	Eslovenia	65 y más	1
+2008	Aragón	01	UE-27_2007	102	Austria	0 a 15	6
+2008	Aragón	01	UE-27_2007	102	Austria	16 a 64	38
+2008	Aragón	01	UE-27_2007	102	Austria	65 y más	7
+2008	Aragón	01	UE-27_2007	103	Bélgica	0 a 15	38
+2008	Aragón	01	UE-27_2007	103	Bélgica	16 a 64	167
+2008	Aragón	01	UE-27_2007	103	Bélgica	65 y más	15
+2008	Aragón	01	UE-27_2007	104	Bulgaria	0 a 15	970
+2008	Aragón	01	UE-27_2007	104	Bulgaria	16 a 64	4329
+2008	Aragón	01	UE-27_2007	104	Bulgaria	65 y más	51
+2008	Aragón	01	UE-27_2007	106	Chipre	0 a 15	1
+2008	Aragón	01	UE-27_2007	106	Chipre	16 a 64	1
+2008	Aragón	01	UE-27_2007	107	Dinamarca	0 a 15	5
+2008	Aragón	01	UE-27_2007	107	Dinamarca	16 a 64	36
+2008	Aragón	01	UE-27_2007	107	Dinamarca	65 y más	1
+2008	Aragón	01	UE-27_2007	109	Finlandia	0 a 15	3
+2008	Aragón	01	UE-27_2007	109	Finlandia	16 a 64	28
+2008	Aragón	01	UE-27_2007	110	Francia	0 a 15	156
+2008	Aragón	01	UE-27_2007	110	Francia	16 a 64	1357
+2008	Aragón	01	UE-27_2007	110	Francia	65 y más	202
+2008	Aragón	01	UE-27_2007	111	Grecia	0 a 15	9
+2008	Aragón	01	UE-27_2007	111	Grecia	16 a 64	40
+2008	Aragón	01	UE-27_2007	112	Hungría	0 a 15	23
+2008	Aragón	01	UE-27_2007	112	Hungría	16 a 64	100
+2008	Aragón	01	UE-27_2007	113	Irlanda	0 a 15	3
+2008	Aragón	01	UE-27_2007	113	Irlanda	16 a 64	68
+2008	Aragón	01	UE-27_2007	113	Irlanda	65 y más	3
+2008	Aragón	01	UE-27_2007	115	Italia	0 a 15	235
+2008	Aragón	01	UE-27_2007	115	Italia	16 a 64	1296
+2008	Aragón	01	UE-27_2007	115	Italia	65 y más	94
+2008	Aragón	01	UE-27_2007	118	Malta	16 a 64	1
+2008	Aragón	01	UE-27_2007	121	Países Bajos	0 a 15	58
+2008	Aragón	01	UE-27_2007	121	Países Bajos	16 a 64	318
+2008	Aragón	01	UE-27_2007	121	Países Bajos	65 y más	16
+2008	Aragón	01	UE-27_2007	122	Polonia	0 a 15	506
+2008	Aragón	01	UE-27_2007	122	Polonia	16 a 64	3359
+2008	Aragón	01	UE-27_2007	122	Polonia	65 y más	8
+2008	Aragón	01	UE-27_2007	123	Portugal	0 a 15	660
+2008	Aragón	01	UE-27_2007	123	Portugal	16 a 64	3972
+2008	Aragón	01	UE-27_2007	123	Portugal	65 y más	46
+2008	Aragón	01	UE-27_2007	125	Reino Unido	0 a 15	94
+2008	Aragón	01	UE-27_2007	125	Reino Unido	16 a 64	596
+2008	Aragón	01	UE-27_2007	125	Reino Unido	65 y más	43
+2008	Aragón	01	UE-27_2007	126	Alemania	0 a 15	93
+2008	Aragón	01	UE-27_2007	126	Alemania	16 a 64	657
+2008	Aragón	01	UE-27_2007	126	Alemania	65 y más	61
+2008	Aragón	01	UE-27_2007	128	Rumanía	0 a 15	8180
+2008	Aragón	01	UE-27_2007	128	Rumanía	16 a 64	48492
+2008	Aragón	01	UE-27_2007	128	Rumanía	65 y más	371
+2008	Aragón	01	UE-27_2007	131	Suecia	0 a 15	5
+2008	Aragón	01	UE-27_2007	131	Suecia	16 a 64	54
+2008	Aragón	01	UE-27_2007	131	Suecia	65 y más	2
+2008	Aragón	01	UE-27_2007	136	Letonia	0 a 15	12
+2008	Aragón	01	UE-27_2007	136	Letonia	16 a 64	42
+2008	Aragón	01	UE-27_2007	141	Estonia	16 a 64	10
+2008	Aragón	01	UE-27_2007	142	Lituania	0 a 15	63
+2008	Aragón	01	UE-27_2007	142	Lituania	16 a 64	415
+2008	Aragón	01	UE-27_2007	142	Lituania	65 y más	5
+2008	Aragón	01	UE-27_2007	143	República Checa	0 a 15	10
+2008	Aragón	01	UE-27_2007	143	República Checa	16 a 64	181
+2008	Aragón	01	UE-27_2007	144	Eslovaquia	0 a 15	18
+2008	Aragón	01	UE-27_2007	144	Eslovaquia	16 a 64	195
+2008	Aragón	01	UE-27_2007	147	Eslovenia	0 a 15	5
+2008	Aragón	01	UE-27_2007	147	Eslovenia	16 a 64	41
+2008	Aragón	01	UE-27_2007	147	Eslovenia	65 y más	1
 2008	Aragón	02	Resto de Europa	101	Albania	0 a 15	8
 2008	Aragón	02	Resto de Europa	101	Albania	16 a 64	42
 2008	Aragón	02	Resto de Europa	101	Albania	65 y más	4
@@ -3198,70 +3198,70 @@ Año	Residencia CCAA nombre	Nacionalidad área código	Nacionalidad área nombre
 2008	Aragón	08	Oceanía	516	Palaos	16 a 64	6
 2008	Aragón	09	Apátridas y no consta	555	Apátridas	0 a 15	5
 2008	Aragón	09	Apátridas y no consta	555	Apátridas	16 a 64	24
-2009	Aragón	01	UE-27	102	Austria	0 a 15	6
-2009	Aragón	01	UE-27	102	Austria	16 a 64	51
-2009	Aragón	01	UE-27	102	Austria	65 y más	7
-2009	Aragón	01	UE-27	103	Bélgica	0 a 15	39
-2009	Aragón	01	UE-27	103	Bélgica	16 a 64	177
-2009	Aragón	01	UE-27	103	Bélgica	65 y más	19
-2009	Aragón	01	UE-27	104	Bulgaria	0 a 15	1073
-2009	Aragón	01	UE-27	104	Bulgaria	16 a 64	4673
-2009	Aragón	01	UE-27	104	Bulgaria	65 y más	67
-2009	Aragón	01	UE-27	106	Chipre	0 a 15	1
-2009	Aragón	01	UE-27	106	Chipre	16 a 64	1
-2009	Aragón	01	UE-27	107	Dinamarca	0 a 15	5
-2009	Aragón	01	UE-27	107	Dinamarca	16 a 64	35
-2009	Aragón	01	UE-27	107	Dinamarca	65 y más	2
-2009	Aragón	01	UE-27	109	Finlandia	0 a 15	3
-2009	Aragón	01	UE-27	109	Finlandia	16 a 64	29
-2009	Aragón	01	UE-27	110	Francia	0 a 15	175
-2009	Aragón	01	UE-27	110	Francia	16 a 64	1448
-2009	Aragón	01	UE-27	110	Francia	65 y más	220
-2009	Aragón	01	UE-27	111	Grecia	0 a 15	7
-2009	Aragón	01	UE-27	111	Grecia	16 a 64	51
-2009	Aragón	01	UE-27	112	Hungría	0 a 15	27
-2009	Aragón	01	UE-27	112	Hungría	16 a 64	115
-2009	Aragón	01	UE-27	113	Irlanda	0 a 15	9
-2009	Aragón	01	UE-27	113	Irlanda	16 a 64	76
-2009	Aragón	01	UE-27	113	Irlanda	65 y más	4
-2009	Aragón	01	UE-27	115	Italia	0 a 15	268
-2009	Aragón	01	UE-27	115	Italia	16 a 64	1467
-2009	Aragón	01	UE-27	115	Italia	65 y más	104
-2009	Aragón	01	UE-27	118	Malta	16 a 64	1
-2009	Aragón	01	UE-27	121	Países Bajos	0 a 15	71
-2009	Aragón	01	UE-27	121	Países Bajos	16 a 64	372
-2009	Aragón	01	UE-27	121	Países Bajos	65 y más	18
-2009	Aragón	01	UE-27	122	Polonia	0 a 15	587
-2009	Aragón	01	UE-27	122	Polonia	16 a 64	3733
-2009	Aragón	01	UE-27	122	Polonia	65 y más	12
-2009	Aragón	01	UE-27	123	Portugal	0 a 15	759
-2009	Aragón	01	UE-27	123	Portugal	16 a 64	4552
-2009	Aragón	01	UE-27	123	Portugal	65 y más	54
-2009	Aragón	01	UE-27	125	Reino Unido	0 a 15	102
-2009	Aragón	01	UE-27	125	Reino Unido	16 a 64	640
-2009	Aragón	01	UE-27	125	Reino Unido	65 y más	48
-2009	Aragón	01	UE-27	126	Alemania	0 a 15	113
-2009	Aragón	01	UE-27	126	Alemania	16 a 64	697
-2009	Aragón	01	UE-27	126	Alemania	65 y más	73
-2009	Aragón	01	UE-27	128	Rumanía	0 a 15	9473
-2009	Aragón	01	UE-27	128	Rumanía	16 a 64	53246
-2009	Aragón	01	UE-27	128	Rumanía	65 y más	461
-2009	Aragón	01	UE-27	131	Suecia	0 a 15	8
-2009	Aragón	01	UE-27	131	Suecia	16 a 64	58
-2009	Aragón	01	UE-27	131	Suecia	65 y más	2
-2009	Aragón	01	UE-27	136	Letonia	0 a 15	9
-2009	Aragón	01	UE-27	136	Letonia	16 a 64	47
-2009	Aragón	01	UE-27	141	Estonia	16 a 64	12
-2009	Aragón	01	UE-27	142	Lituania	0 a 15	73
-2009	Aragón	01	UE-27	142	Lituania	16 a 64	432
-2009	Aragón	01	UE-27	142	Lituania	65 y más	5
-2009	Aragón	01	UE-27	143	República Checa	0 a 15	9
-2009	Aragón	01	UE-27	143	República Checa	16 a 64	201
-2009	Aragón	01	UE-27	144	Eslovaquia	0 a 15	19
-2009	Aragón	01	UE-27	144	Eslovaquia	16 a 64	189
-2009	Aragón	01	UE-27	147	Eslovenia	0 a 15	9
-2009	Aragón	01	UE-27	147	Eslovenia	16 a 64	46
-2009	Aragón	01	UE-27	147	Eslovenia	65 y más	1
+2009	Aragón	01	UE-27_2007	102	Austria	0 a 15	6
+2009	Aragón	01	UE-27_2007	102	Austria	16 a 64	51
+2009	Aragón	01	UE-27_2007	102	Austria	65 y más	7
+2009	Aragón	01	UE-27_2007	103	Bélgica	0 a 15	39
+2009	Aragón	01	UE-27_2007	103	Bélgica	16 a 64	177
+2009	Aragón	01	UE-27_2007	103	Bélgica	65 y más	19
+2009	Aragón	01	UE-27_2007	104	Bulgaria	0 a 15	1073
+2009	Aragón	01	UE-27_2007	104	Bulgaria	16 a 64	4673
+2009	Aragón	01	UE-27_2007	104	Bulgaria	65 y más	67
+2009	Aragón	01	UE-27_2007	106	Chipre	0 a 15	1
+2009	Aragón	01	UE-27_2007	106	Chipre	16 a 64	1
+2009	Aragón	01	UE-27_2007	107	Dinamarca	0 a 15	5
+2009	Aragón	01	UE-27_2007	107	Dinamarca	16 a 64	35
+2009	Aragón	01	UE-27_2007	107	Dinamarca	65 y más	2
+2009	Aragón	01	UE-27_2007	109	Finlandia	0 a 15	3
+2009	Aragón	01	UE-27_2007	109	Finlandia	16 a 64	29
+2009	Aragón	01	UE-27_2007	110	Francia	0 a 15	175
+2009	Aragón	01	UE-27_2007	110	Francia	16 a 64	1448
+2009	Aragón	01	UE-27_2007	110	Francia	65 y más	220
+2009	Aragón	01	UE-27_2007	111	Grecia	0 a 15	7
+2009	Aragón	01	UE-27_2007	111	Grecia	16 a 64	51
+2009	Aragón	01	UE-27_2007	112	Hungría	0 a 15	27
+2009	Aragón	01	UE-27_2007	112	Hungría	16 a 64	115
+2009	Aragón	01	UE-27_2007	113	Irlanda	0 a 15	9
+2009	Aragón	01	UE-27_2007	113	Irlanda	16 a 64	76
+2009	Aragón	01	UE-27_2007	113	Irlanda	65 y más	4
+2009	Aragón	01	UE-27_2007	115	Italia	0 a 15	268
+2009	Aragón	01	UE-27_2007	115	Italia	16 a 64	1467
+2009	Aragón	01	UE-27_2007	115	Italia	65 y más	104
+2009	Aragón	01	UE-27_2007	118	Malta	16 a 64	1
+2009	Aragón	01	UE-27_2007	121	Países Bajos	0 a 15	71
+2009	Aragón	01	UE-27_2007	121	Países Bajos	16 a 64	372
+2009	Aragón	01	UE-27_2007	121	Países Bajos	65 y más	18
+2009	Aragón	01	UE-27_2007	122	Polonia	0 a 15	587
+2009	Aragón	01	UE-27_2007	122	Polonia	16 a 64	3733
+2009	Aragón	01	UE-27_2007	122	Polonia	65 y más	12
+2009	Aragón	01	UE-27_2007	123	Portugal	0 a 15	759
+2009	Aragón	01	UE-27_2007	123	Portugal	16 a 64	4552
+2009	Aragón	01	UE-27_2007	123	Portugal	65 y más	54
+2009	Aragón	01	UE-27_2007	125	Reino Unido	0 a 15	102
+2009	Aragón	01	UE-27_2007	125	Reino Unido	16 a 64	640
+2009	Aragón	01	UE-27_2007	125	Reino Unido	65 y más	48
+2009	Aragón	01	UE-27_2007	126	Alemania	0 a 15	113
+2009	Aragón	01	UE-27_2007	126	Alemania	16 a 64	697
+2009	Aragón	01	UE-27_2007	126	Alemania	65 y más	73
+2009	Aragón	01	UE-27_2007	128	Rumanía	0 a 15	9473
+2009	Aragón	01	UE-27_2007	128	Rumanía	16 a 64	53246
+2009	Aragón	01	UE-27_2007	128	Rumanía	65 y más	461
+2009	Aragón	01	UE-27_2007	131	Suecia	0 a 15	8
+2009	Aragón	01	UE-27_2007	131	Suecia	16 a 64	58
+2009	Aragón	01	UE-27_2007	131	Suecia	65 y más	2
+2009	Aragón	01	UE-27_2007	136	Letonia	0 a 15	9
+2009	Aragón	01	UE-27_2007	136	Letonia	16 a 64	47
+2009	Aragón	01	UE-27_2007	141	Estonia	16 a 64	12
+2009	Aragón	01	UE-27_2007	142	Lituania	0 a 15	73
+2009	Aragón	01	UE-27_2007	142	Lituania	16 a 64	432
+2009	Aragón	01	UE-27_2007	142	Lituania	65 y más	5
+2009	Aragón	01	UE-27_2007	143	República Checa	0 a 15	9
+2009	Aragón	01	UE-27_2007	143	República Checa	16 a 64	201
+2009	Aragón	01	UE-27_2007	144	Eslovaquia	0 a 15	19
+2009	Aragón	01	UE-27_2007	144	Eslovaquia	16 a 64	189
+2009	Aragón	01	UE-27_2007	147	Eslovenia	0 a 15	9
+2009	Aragón	01	UE-27_2007	147	Eslovenia	16 a 64	46
+2009	Aragón	01	UE-27_2007	147	Eslovenia	65 y más	1
 2009	Aragón	02	Resto de Europa	101	Albania	0 a 15	10
 2009	Aragón	02	Resto de Europa	101	Albania	16 a 64	44
 2009	Aragón	02	Resto de Europa	101	Albania	65 y más	4
@@ -3531,71 +3531,71 @@ Año	Residencia CCAA nombre	Nacionalidad área código	Nacionalidad área nombre
 2009	Aragón	08	Oceanía	516	Palaos	16 a 64	4
 2009	Aragón	09	Apátridas y no consta	555	Apátridas	0 a 15	6
 2009	Aragón	09	Apátridas y no consta	555	Apátridas	16 a 64	23
-2010	Aragón	01	UE-27	102	Austria	0 a 15	10
-2010	Aragón	01	UE-27	102	Austria	16 a 64	55
-2010	Aragón	01	UE-27	102	Austria	65 y más	7
-2010	Aragón	01	UE-27	103	Bélgica	0 a 15	30
-2010	Aragón	01	UE-27	103	Bélgica	16 a 64	179
-2010	Aragón	01	UE-27	103	Bélgica	65 y más	21
-2010	Aragón	01	UE-27	104	Bulgaria	0 a 15	1047
-2010	Aragón	01	UE-27	104	Bulgaria	16 a 64	4795
-2010	Aragón	01	UE-27	104	Bulgaria	65 y más	82
-2010	Aragón	01	UE-27	106	Chipre	0 a 15	1
-2010	Aragón	01	UE-27	106	Chipre	16 a 64	1
-2010	Aragón	01	UE-27	107	Dinamarca	0 a 15	4
-2010	Aragón	01	UE-27	107	Dinamarca	16 a 64	35
-2010	Aragón	01	UE-27	107	Dinamarca	65 y más	2
-2010	Aragón	01	UE-27	109	Finlandia	0 a 15	2
-2010	Aragón	01	UE-27	109	Finlandia	16 a 64	26
-2010	Aragón	01	UE-27	110	Francia	0 a 15	170
-2010	Aragón	01	UE-27	110	Francia	16 a 64	1472
-2010	Aragón	01	UE-27	110	Francia	65 y más	229
-2010	Aragón	01	UE-27	111	Grecia	0 a 15	6
-2010	Aragón	01	UE-27	111	Grecia	16 a 64	55
-2010	Aragón	01	UE-27	112	Hungría	0 a 15	24
-2010	Aragón	01	UE-27	112	Hungría	16 a 64	124
-2010	Aragón	01	UE-27	112	Hungría	65 y más	1
-2010	Aragón	01	UE-27	113	Irlanda	0 a 15	10
-2010	Aragón	01	UE-27	113	Irlanda	16 a 64	77
-2010	Aragón	01	UE-27	113	Irlanda	65 y más	4
-2010	Aragón	01	UE-27	115	Italia	0 a 15	267
-2010	Aragón	01	UE-27	115	Italia	16 a 64	1485
-2010	Aragón	01	UE-27	115	Italia	65 y más	114
-2010	Aragón	01	UE-27	121	Países Bajos	0 a 15	72
-2010	Aragón	01	UE-27	121	Países Bajos	16 a 64	378
-2010	Aragón	01	UE-27	121	Países Bajos	65 y más	28
-2010	Aragón	01	UE-27	122	Polonia	0 a 15	602
-2010	Aragón	01	UE-27	122	Polonia	16 a 64	3709
-2010	Aragón	01	UE-27	122	Polonia	65 y más	13
-2010	Aragón	01	UE-27	123	Portugal	0 a 15	733
-2010	Aragón	01	UE-27	123	Portugal	16 a 64	4159
-2010	Aragón	01	UE-27	123	Portugal	65 y más	57
-2010	Aragón	01	UE-27	125	Reino Unido	0 a 15	99
-2010	Aragón	01	UE-27	125	Reino Unido	16 a 64	669
-2010	Aragón	01	UE-27	125	Reino Unido	65 y más	53
-2010	Aragón	01	UE-27	126	Alemania	0 a 15	109
-2010	Aragón	01	UE-27	126	Alemania	16 a 64	705
-2010	Aragón	01	UE-27	126	Alemania	65 y más	77
-2010	Aragón	01	UE-27	128	Rumanía	0 a 15	9917
-2010	Aragón	01	UE-27	128	Rumanía	16 a 64	54050
-2010	Aragón	01	UE-27	128	Rumanía	65 y más	579
-2010	Aragón	01	UE-27	131	Suecia	0 a 15	11
-2010	Aragón	01	UE-27	131	Suecia	16 a 64	60
-2010	Aragón	01	UE-27	131	Suecia	65 y más	3
-2010	Aragón	01	UE-27	136	Letonia	0 a 15	5
-2010	Aragón	01	UE-27	136	Letonia	16 a 64	50
-2010	Aragón	01	UE-27	141	Estonia	16 a 64	14
-2010	Aragón	01	UE-27	142	Lituania	0 a 15	71
-2010	Aragón	01	UE-27	142	Lituania	16 a 64	415
-2010	Aragón	01	UE-27	142	Lituania	65 y más	7
-2010	Aragón	01	UE-27	143	República Checa	0 a 15	8
-2010	Aragón	01	UE-27	143	República Checa	16 a 64	199
-2010	Aragón	01	UE-27	144	Eslovaquia	0 a 15	20
-2010	Aragón	01	UE-27	144	Eslovaquia	16 a 64	152
-2010	Aragón	01	UE-27	144	Eslovaquia	65 y más	1
-2010	Aragón	01	UE-27	147	Eslovenia	0 a 15	9
-2010	Aragón	01	UE-27	147	Eslovenia	16 a 64	43
-2010	Aragón	01	UE-27	147	Eslovenia	65 y más	2
+2010	Aragón	01	UE-27_2007	102	Austria	0 a 15	10
+2010	Aragón	01	UE-27_2007	102	Austria	16 a 64	55
+2010	Aragón	01	UE-27_2007	102	Austria	65 y más	7
+2010	Aragón	01	UE-27_2007	103	Bélgica	0 a 15	30
+2010	Aragón	01	UE-27_2007	103	Bélgica	16 a 64	179
+2010	Aragón	01	UE-27_2007	103	Bélgica	65 y más	21
+2010	Aragón	01	UE-27_2007	104	Bulgaria	0 a 15	1047
+2010	Aragón	01	UE-27_2007	104	Bulgaria	16 a 64	4795
+2010	Aragón	01	UE-27_2007	104	Bulgaria	65 y más	82
+2010	Aragón	01	UE-27_2007	106	Chipre	0 a 15	1
+2010	Aragón	01	UE-27_2007	106	Chipre	16 a 64	1
+2010	Aragón	01	UE-27_2007	107	Dinamarca	0 a 15	4
+2010	Aragón	01	UE-27_2007	107	Dinamarca	16 a 64	35
+2010	Aragón	01	UE-27_2007	107	Dinamarca	65 y más	2
+2010	Aragón	01	UE-27_2007	109	Finlandia	0 a 15	2
+2010	Aragón	01	UE-27_2007	109	Finlandia	16 a 64	26
+2010	Aragón	01	UE-27_2007	110	Francia	0 a 15	170
+2010	Aragón	01	UE-27_2007	110	Francia	16 a 64	1472
+2010	Aragón	01	UE-27_2007	110	Francia	65 y más	229
+2010	Aragón	01	UE-27_2007	111	Grecia	0 a 15	6
+2010	Aragón	01	UE-27_2007	111	Grecia	16 a 64	55
+2010	Aragón	01	UE-27_2007	112	Hungría	0 a 15	24
+2010	Aragón	01	UE-27_2007	112	Hungría	16 a 64	124
+2010	Aragón	01	UE-27_2007	112	Hungría	65 y más	1
+2010	Aragón	01	UE-27_2007	113	Irlanda	0 a 15	10
+2010	Aragón	01	UE-27_2007	113	Irlanda	16 a 64	77
+2010	Aragón	01	UE-27_2007	113	Irlanda	65 y más	4
+2010	Aragón	01	UE-27_2007	115	Italia	0 a 15	267
+2010	Aragón	01	UE-27_2007	115	Italia	16 a 64	1485
+2010	Aragón	01	UE-27_2007	115	Italia	65 y más	114
+2010	Aragón	01	UE-27_2007	121	Países Bajos	0 a 15	72
+2010	Aragón	01	UE-27_2007	121	Países Bajos	16 a 64	378
+2010	Aragón	01	UE-27_2007	121	Países Bajos	65 y más	28
+2010	Aragón	01	UE-27_2007	122	Polonia	0 a 15	602
+2010	Aragón	01	UE-27_2007	122	Polonia	16 a 64	3709
+2010	Aragón	01	UE-27_2007	122	Polonia	65 y más	13
+2010	Aragón	01	UE-27_2007	123	Portugal	0 a 15	733
+2010	Aragón	01	UE-27_2007	123	Portugal	16 a 64	4159
+2010	Aragón	01	UE-27_2007	123	Portugal	65 y más	57
+2010	Aragón	01	UE-27_2007	125	Reino Unido	0 a 15	99
+2010	Aragón	01	UE-27_2007	125	Reino Unido	16 a 64	669
+2010	Aragón	01	UE-27_2007	125	Reino Unido	65 y más	53
+2010	Aragón	01	UE-27_2007	126	Alemania	0 a 15	109
+2010	Aragón	01	UE-27_2007	126	Alemania	16 a 64	705
+2010	Aragón	01	UE-27_2007	126	Alemania	65 y más	77
+2010	Aragón	01	UE-27_2007	128	Rumanía	0 a 15	9917
+2010	Aragón	01	UE-27_2007	128	Rumanía	16 a 64	54050
+2010	Aragón	01	UE-27_2007	128	Rumanía	65 y más	579
+2010	Aragón	01	UE-27_2007	131	Suecia	0 a 15	11
+2010	Aragón	01	UE-27_2007	131	Suecia	16 a 64	60
+2010	Aragón	01	UE-27_2007	131	Suecia	65 y más	3
+2010	Aragón	01	UE-27_2007	136	Letonia	0 a 15	5
+2010	Aragón	01	UE-27_2007	136	Letonia	16 a 64	50
+2010	Aragón	01	UE-27_2007	141	Estonia	16 a 64	14
+2010	Aragón	01	UE-27_2007	142	Lituania	0 a 15	71
+2010	Aragón	01	UE-27_2007	142	Lituania	16 a 64	415
+2010	Aragón	01	UE-27_2007	142	Lituania	65 y más	7
+2010	Aragón	01	UE-27_2007	143	República Checa	0 a 15	8
+2010	Aragón	01	UE-27_2007	143	República Checa	16 a 64	199
+2010	Aragón	01	UE-27_2007	144	Eslovaquia	0 a 15	20
+2010	Aragón	01	UE-27_2007	144	Eslovaquia	16 a 64	152
+2010	Aragón	01	UE-27_2007	144	Eslovaquia	65 y más	1
+2010	Aragón	01	UE-27_2007	147	Eslovenia	0 a 15	9
+2010	Aragón	01	UE-27_2007	147	Eslovenia	16 a 64	43
+2010	Aragón	01	UE-27_2007	147	Eslovenia	65 y más	2
 2010	Aragón	02	Resto de Europa	101	Albania	0 a 15	10
 2010	Aragón	02	Resto de Europa	101	Albania	16 a 64	44
 2010	Aragón	02	Resto de Europa	101	Albania	65 y más	4
@@ -3866,71 +3866,71 @@ Año	Residencia CCAA nombre	Nacionalidad área código	Nacionalidad área nombre
 2010	Aragón	08	Oceanía	516	Palaos	16 a 64	5
 2010	Aragón	09	Apátridas y no consta	555	Apátridas	0 a 15	6
 2010	Aragón	09	Apátridas y no consta	555	Apátridas	16 a 64	23
-2011	Aragón	01	UE-27	102	Austria	0 a 15	9
-2011	Aragón	01	UE-27	102	Austria	16 a 64	49
-2011	Aragón	01	UE-27	102	Austria	65 y más	9
-2011	Aragón	01	UE-27	103	Bélgica	0 a 15	31
-2011	Aragón	01	UE-27	103	Bélgica	16 a 64	167
-2011	Aragón	01	UE-27	103	Bélgica	65 y más	27
-2011	Aragón	01	UE-27	104	Bulgaria	0 a 15	1004
-2011	Aragón	01	UE-27	104	Bulgaria	16 a 64	4868
-2011	Aragón	01	UE-27	104	Bulgaria	65 y más	94
-2011	Aragón	01	UE-27	106	Chipre	16 a 64	2
-2011	Aragón	01	UE-27	107	Dinamarca	0 a 15	4
-2011	Aragón	01	UE-27	107	Dinamarca	16 a 64	37
-2011	Aragón	01	UE-27	107	Dinamarca	65 y más	3
-2011	Aragón	01	UE-27	109	Finlandia	0 a 15	3
-2011	Aragón	01	UE-27	109	Finlandia	16 a 64	31
-2011	Aragón	01	UE-27	110	Francia	0 a 15	170
-2011	Aragón	01	UE-27	110	Francia	16 a 64	1516
-2011	Aragón	01	UE-27	110	Francia	65 y más	249
-2011	Aragón	01	UE-27	111	Grecia	0 a 15	4
-2011	Aragón	01	UE-27	111	Grecia	16 a 64	58
-2011	Aragón	01	UE-27	112	Hungría	0 a 15	27
-2011	Aragón	01	UE-27	112	Hungría	16 a 64	126
-2011	Aragón	01	UE-27	112	Hungría	65 y más	1
-2011	Aragón	01	UE-27	113	Irlanda	0 a 15	10
-2011	Aragón	01	UE-27	113	Irlanda	16 a 64	82
-2011	Aragón	01	UE-27	113	Irlanda	65 y más	4
-2011	Aragón	01	UE-27	115	Italia	0 a 15	273
-2011	Aragón	01	UE-27	115	Italia	16 a 64	1528
-2011	Aragón	01	UE-27	115	Italia	65 y más	124
-2011	Aragón	01	UE-27	121	Países Bajos	0 a 15	74
-2011	Aragón	01	UE-27	121	Países Bajos	16 a 64	386
-2011	Aragón	01	UE-27	121	Países Bajos	65 y más	31
-2011	Aragón	01	UE-27	122	Polonia	0 a 15	609
-2011	Aragón	01	UE-27	122	Polonia	16 a 64	3682
-2011	Aragón	01	UE-27	122	Polonia	65 y más	15
-2011	Aragón	01	UE-27	123	Portugal	0 a 15	710
-2011	Aragón	01	UE-27	123	Portugal	16 a 64	4080
-2011	Aragón	01	UE-27	123	Portugal	65 y más	68
-2011	Aragón	01	UE-27	125	Reino Unido	0 a 15	96
-2011	Aragón	01	UE-27	125	Reino Unido	16 a 64	693
-2011	Aragón	01	UE-27	125	Reino Unido	65 y más	65
-2011	Aragón	01	UE-27	126	Alemania	0 a 15	101
-2011	Aragón	01	UE-27	126	Alemania	16 a 64	700
-2011	Aragón	01	UE-27	126	Alemania	65 y más	81
-2011	Aragón	01	UE-27	128	Rumanía	0 a 15	10279
-2011	Aragón	01	UE-27	128	Rumanía	16 a 64	54698
-2011	Aragón	01	UE-27	128	Rumanía	65 y más	630
-2011	Aragón	01	UE-27	131	Suecia	0 a 15	11
-2011	Aragón	01	UE-27	131	Suecia	16 a 64	57
-2011	Aragón	01	UE-27	131	Suecia	65 y más	4
-2011	Aragón	01	UE-27	136	Letonia	0 a 15	6
-2011	Aragón	01	UE-27	136	Letonia	16 a 64	50
-2011	Aragón	01	UE-27	141	Estonia	16 a 64	14
-2011	Aragón	01	UE-27	141	Estonia	65 y más	1
-2011	Aragón	01	UE-27	142	Lituania	0 a 15	71
-2011	Aragón	01	UE-27	142	Lituania	16 a 64	354
-2011	Aragón	01	UE-27	142	Lituania	65 y más	7
-2011	Aragón	01	UE-27	143	República Checa	0 a 15	8
-2011	Aragón	01	UE-27	143	República Checa	16 a 64	196
-2011	Aragón	01	UE-27	144	Eslovaquia	0 a 15	18
-2011	Aragón	01	UE-27	144	Eslovaquia	16 a 64	151
-2011	Aragón	01	UE-27	144	Eslovaquia	65 y más	1
-2011	Aragón	01	UE-27	147	Eslovenia	0 a 15	7
-2011	Aragón	01	UE-27	147	Eslovenia	16 a 64	43
-2011	Aragón	01	UE-27	147	Eslovenia	65 y más	2
+2011	Aragón	01	UE-27_2007	102	Austria	0 a 15	9
+2011	Aragón	01	UE-27_2007	102	Austria	16 a 64	49
+2011	Aragón	01	UE-27_2007	102	Austria	65 y más	9
+2011	Aragón	01	UE-27_2007	103	Bélgica	0 a 15	31
+2011	Aragón	01	UE-27_2007	103	Bélgica	16 a 64	167
+2011	Aragón	01	UE-27_2007	103	Bélgica	65 y más	27
+2011	Aragón	01	UE-27_2007	104	Bulgaria	0 a 15	1004
+2011	Aragón	01	UE-27_2007	104	Bulgaria	16 a 64	4868
+2011	Aragón	01	UE-27_2007	104	Bulgaria	65 y más	94
+2011	Aragón	01	UE-27_2007	106	Chipre	16 a 64	2
+2011	Aragón	01	UE-27_2007	107	Dinamarca	0 a 15	4
+2011	Aragón	01	UE-27_2007	107	Dinamarca	16 a 64	37
+2011	Aragón	01	UE-27_2007	107	Dinamarca	65 y más	3
+2011	Aragón	01	UE-27_2007	109	Finlandia	0 a 15	3
+2011	Aragón	01	UE-27_2007	109	Finlandia	16 a 64	31
+2011	Aragón	01	UE-27_2007	110	Francia	0 a 15	170
+2011	Aragón	01	UE-27_2007	110	Francia	16 a 64	1516
+2011	Aragón	01	UE-27_2007	110	Francia	65 y más	249
+2011	Aragón	01	UE-27_2007	111	Grecia	0 a 15	4
+2011	Aragón	01	UE-27_2007	111	Grecia	16 a 64	58
+2011	Aragón	01	UE-27_2007	112	Hungría	0 a 15	27
+2011	Aragón	01	UE-27_2007	112	Hungría	16 a 64	126
+2011	Aragón	01	UE-27_2007	112	Hungría	65 y más	1
+2011	Aragón	01	UE-27_2007	113	Irlanda	0 a 15	10
+2011	Aragón	01	UE-27_2007	113	Irlanda	16 a 64	82
+2011	Aragón	01	UE-27_2007	113	Irlanda	65 y más	4
+2011	Aragón	01	UE-27_2007	115	Italia	0 a 15	273
+2011	Aragón	01	UE-27_2007	115	Italia	16 a 64	1528
+2011	Aragón	01	UE-27_2007	115	Italia	65 y más	124
+2011	Aragón	01	UE-27_2007	121	Países Bajos	0 a 15	74
+2011	Aragón	01	UE-27_2007	121	Países Bajos	16 a 64	386
+2011	Aragón	01	UE-27_2007	121	Países Bajos	65 y más	31
+2011	Aragón	01	UE-27_2007	122	Polonia	0 a 15	609
+2011	Aragón	01	UE-27_2007	122	Polonia	16 a 64	3682
+2011	Aragón	01	UE-27_2007	122	Polonia	65 y más	15
+2011	Aragón	01	UE-27_2007	123	Portugal	0 a 15	710
+2011	Aragón	01	UE-27_2007	123	Portugal	16 a 64	4080
+2011	Aragón	01	UE-27_2007	123	Portugal	65 y más	68
+2011	Aragón	01	UE-27_2007	125	Reino Unido	0 a 15	96
+2011	Aragón	01	UE-27_2007	125	Reino Unido	16 a 64	693
+2011	Aragón	01	UE-27_2007	125	Reino Unido	65 y más	65
+2011	Aragón	01	UE-27_2007	126	Alemania	0 a 15	101
+2011	Aragón	01	UE-27_2007	126	Alemania	16 a 64	700
+2011	Aragón	01	UE-27_2007	126	Alemania	65 y más	81
+2011	Aragón	01	UE-27_2007	128	Rumanía	0 a 15	10279
+2011	Aragón	01	UE-27_2007	128	Rumanía	16 a 64	54698
+2011	Aragón	01	UE-27_2007	128	Rumanía	65 y más	630
+2011	Aragón	01	UE-27_2007	131	Suecia	0 a 15	11
+2011	Aragón	01	UE-27_2007	131	Suecia	16 a 64	57
+2011	Aragón	01	UE-27_2007	131	Suecia	65 y más	4
+2011	Aragón	01	UE-27_2007	136	Letonia	0 a 15	6
+2011	Aragón	01	UE-27_2007	136	Letonia	16 a 64	50
+2011	Aragón	01	UE-27_2007	141	Estonia	16 a 64	14
+2011	Aragón	01	UE-27_2007	141	Estonia	65 y más	1
+2011	Aragón	01	UE-27_2007	142	Lituania	0 a 15	71
+2011	Aragón	01	UE-27_2007	142	Lituania	16 a 64	354
+2011	Aragón	01	UE-27_2007	142	Lituania	65 y más	7
+2011	Aragón	01	UE-27_2007	143	República Checa	0 a 15	8
+2011	Aragón	01	UE-27_2007	143	República Checa	16 a 64	196
+2011	Aragón	01	UE-27_2007	144	Eslovaquia	0 a 15	18
+2011	Aragón	01	UE-27_2007	144	Eslovaquia	16 a 64	151
+2011	Aragón	01	UE-27_2007	144	Eslovaquia	65 y más	1
+2011	Aragón	01	UE-27_2007	147	Eslovenia	0 a 15	7
+2011	Aragón	01	UE-27_2007	147	Eslovenia	16 a 64	43
+2011	Aragón	01	UE-27_2007	147	Eslovenia	65 y más	2
 2011	Aragón	02	Resto de Europa	101	Albania	0 a 15	8
 2011	Aragón	02	Resto de Europa	101	Albania	16 a 64	45
 2011	Aragón	02	Resto de Europa	101	Albania	65 y más	3
@@ -4200,70 +4200,70 @@ Año	Residencia CCAA nombre	Nacionalidad área código	Nacionalidad área nombre
 2011	Aragón	08	Oceanía	516	Palaos	16 a 64	3
 2011	Aragón	09	Apátridas y no consta	555	Apátridas	0 a 15	9
 2011	Aragón	09	Apátridas y no consta	555	Apátridas	16 a 64	21
-2012	Aragón	01	UE-27	102	Austria	0 a 15	8
-2012	Aragón	01	UE-27	102	Austria	16 a 64	58
-2012	Aragón	01	UE-27	102	Austria	65 y más	9
-2012	Aragón	01	UE-27	103	Bélgica	0 a 15	26
-2012	Aragón	01	UE-27	103	Bélgica	16 a 64	175
-2012	Aragón	01	UE-27	103	Bélgica	65 y más	26
-2012	Aragón	01	UE-27	104	Bulgaria	0 a 15	1083
-2012	Aragón	01	UE-27	104	Bulgaria	16 a 64	5119
-2012	Aragón	01	UE-27	104	Bulgaria	65 y más	101
-2012	Aragón	01	UE-27	106	Chipre	16 a 64	3
-2012	Aragón	01	UE-27	107	Dinamarca	0 a 15	2
-2012	Aragón	01	UE-27	107	Dinamarca	16 a 64	43
-2012	Aragón	01	UE-27	107	Dinamarca	65 y más	3
-2012	Aragón	01	UE-27	109	Finlandia	0 a 15	5
-2012	Aragón	01	UE-27	109	Finlandia	16 a 64	36
-2012	Aragón	01	UE-27	110	Francia	0 a 15	182
-2012	Aragón	01	UE-27	110	Francia	16 a 64	1538
-2012	Aragón	01	UE-27	110	Francia	65 y más	256
-2012	Aragón	01	UE-27	111	Grecia	0 a 15	7
-2012	Aragón	01	UE-27	111	Grecia	16 a 64	65
-2012	Aragón	01	UE-27	112	Hungría	0 a 15	28
-2012	Aragón	01	UE-27	112	Hungría	16 a 64	120
-2012	Aragón	01	UE-27	112	Hungría	65 y más	2
-2012	Aragón	01	UE-27	113	Irlanda	0 a 15	12
-2012	Aragón	01	UE-27	113	Irlanda	16 a 64	96
-2012	Aragón	01	UE-27	113	Irlanda	65 y más	3
-2012	Aragón	01	UE-27	115	Italia	0 a 15	276
-2012	Aragón	01	UE-27	115	Italia	16 a 64	1574
-2012	Aragón	01	UE-27	115	Italia	65 y más	145
-2012	Aragón	01	UE-27	121	Países Bajos	0 a 15	78
-2012	Aragón	01	UE-27	121	Países Bajos	16 a 64	398
-2012	Aragón	01	UE-27	121	Países Bajos	65 y más	34
-2012	Aragón	01	UE-27	122	Polonia	0 a 15	618
-2012	Aragón	01	UE-27	122	Polonia	16 a 64	3660
-2012	Aragón	01	UE-27	122	Polonia	65 y más	24
-2012	Aragón	01	UE-27	123	Portugal	0 a 15	663
-2012	Aragón	01	UE-27	123	Portugal	16 a 64	3958
-2012	Aragón	01	UE-27	123	Portugal	65 y más	71
-2012	Aragón	01	UE-27	125	Reino Unido	0 a 15	99
-2012	Aragón	01	UE-27	125	Reino Unido	16 a 64	725
-2012	Aragón	01	UE-27	125	Reino Unido	65 y más	73
-2012	Aragón	01	UE-27	126	Alemania	0 a 15	99
-2012	Aragón	01	UE-27	126	Alemania	16 a 64	694
-2012	Aragón	01	UE-27	126	Alemania	65 y más	92
-2012	Aragón	01	UE-27	128	Rumanía	0 a 15	10639
-2012	Aragón	01	UE-27	128	Rumanía	16 a 64	56487
-2012	Aragón	01	UE-27	128	Rumanía	65 y más	741
-2012	Aragón	01	UE-27	131	Suecia	0 a 15	12
-2012	Aragón	01	UE-27	131	Suecia	16 a 64	55
-2012	Aragón	01	UE-27	131	Suecia	65 y más	5
-2012	Aragón	01	UE-27	136	Letonia	0 a 15	6
-2012	Aragón	01	UE-27	136	Letonia	16 a 64	54
-2012	Aragón	01	UE-27	141	Estonia	16 a 64	15
-2012	Aragón	01	UE-27	141	Estonia	65 y más	1
-2012	Aragón	01	UE-27	142	Lituania	0 a 15	71
-2012	Aragón	01	UE-27	142	Lituania	16 a 64	351
-2012	Aragón	01	UE-27	142	Lituania	65 y más	5
-2012	Aragón	01	UE-27	143	República Checa	0 a 15	6
-2012	Aragón	01	UE-27	143	República Checa	16 a 64	200
-2012	Aragón	01	UE-27	144	Eslovaquia	0 a 15	20
-2012	Aragón	01	UE-27	144	Eslovaquia	16 a 64	152
-2012	Aragón	01	UE-27	147	Eslovenia	0 a 15	7
-2012	Aragón	01	UE-27	147	Eslovenia	16 a 64	42
-2012	Aragón	01	UE-27	147	Eslovenia	65 y más	1
+2012	Aragón	01	UE-27_2007	102	Austria	0 a 15	8
+2012	Aragón	01	UE-27_2007	102	Austria	16 a 64	58
+2012	Aragón	01	UE-27_2007	102	Austria	65 y más	9
+2012	Aragón	01	UE-27_2007	103	Bélgica	0 a 15	26
+2012	Aragón	01	UE-27_2007	103	Bélgica	16 a 64	175
+2012	Aragón	01	UE-27_2007	103	Bélgica	65 y más	26
+2012	Aragón	01	UE-27_2007	104	Bulgaria	0 a 15	1083
+2012	Aragón	01	UE-27_2007	104	Bulgaria	16 a 64	5119
+2012	Aragón	01	UE-27_2007	104	Bulgaria	65 y más	101
+2012	Aragón	01	UE-27_2007	106	Chipre	16 a 64	3
+2012	Aragón	01	UE-27_2007	107	Dinamarca	0 a 15	2
+2012	Aragón	01	UE-27_2007	107	Dinamarca	16 a 64	43
+2012	Aragón	01	UE-27_2007	107	Dinamarca	65 y más	3
+2012	Aragón	01	UE-27_2007	109	Finlandia	0 a 15	5
+2012	Aragón	01	UE-27_2007	109	Finlandia	16 a 64	36
+2012	Aragón	01	UE-27_2007	110	Francia	0 a 15	182
+2012	Aragón	01	UE-27_2007	110	Francia	16 a 64	1538
+2012	Aragón	01	UE-27_2007	110	Francia	65 y más	256
+2012	Aragón	01	UE-27_2007	111	Grecia	0 a 15	7
+2012	Aragón	01	UE-27_2007	111	Grecia	16 a 64	65
+2012	Aragón	01	UE-27_2007	112	Hungría	0 a 15	28
+2012	Aragón	01	UE-27_2007	112	Hungría	16 a 64	120
+2012	Aragón	01	UE-27_2007	112	Hungría	65 y más	2
+2012	Aragón	01	UE-27_2007	113	Irlanda	0 a 15	12
+2012	Aragón	01	UE-27_2007	113	Irlanda	16 a 64	96
+2012	Aragón	01	UE-27_2007	113	Irlanda	65 y más	3
+2012	Aragón	01	UE-27_2007	115	Italia	0 a 15	276
+2012	Aragón	01	UE-27_2007	115	Italia	16 a 64	1574
+2012	Aragón	01	UE-27_2007	115	Italia	65 y más	145
+2012	Aragón	01	UE-27_2007	121	Países Bajos	0 a 15	78
+2012	Aragón	01	UE-27_2007	121	Países Bajos	16 a 64	398
+2012	Aragón	01	UE-27_2007	121	Países Bajos	65 y más	34
+2012	Aragón	01	UE-27_2007	122	Polonia	0 a 15	618
+2012	Aragón	01	UE-27_2007	122	Polonia	16 a 64	3660
+2012	Aragón	01	UE-27_2007	122	Polonia	65 y más	24
+2012	Aragón	01	UE-27_2007	123	Portugal	0 a 15	663
+2012	Aragón	01	UE-27_2007	123	Portugal	16 a 64	3958
+2012	Aragón	01	UE-27_2007	123	Portugal	65 y más	71
+2012	Aragón	01	UE-27_2007	125	Reino Unido	0 a 15	99
+2012	Aragón	01	UE-27_2007	125	Reino Unido	16 a 64	725
+2012	Aragón	01	UE-27_2007	125	Reino Unido	65 y más	73
+2012	Aragón	01	UE-27_2007	126	Alemania	0 a 15	99
+2012	Aragón	01	UE-27_2007	126	Alemania	16 a 64	694
+2012	Aragón	01	UE-27_2007	126	Alemania	65 y más	92
+2012	Aragón	01	UE-27_2007	128	Rumanía	0 a 15	10639
+2012	Aragón	01	UE-27_2007	128	Rumanía	16 a 64	56487
+2012	Aragón	01	UE-27_2007	128	Rumanía	65 y más	741
+2012	Aragón	01	UE-27_2007	131	Suecia	0 a 15	12
+2012	Aragón	01	UE-27_2007	131	Suecia	16 a 64	55
+2012	Aragón	01	UE-27_2007	131	Suecia	65 y más	5
+2012	Aragón	01	UE-27_2007	136	Letonia	0 a 15	6
+2012	Aragón	01	UE-27_2007	136	Letonia	16 a 64	54
+2012	Aragón	01	UE-27_2007	141	Estonia	16 a 64	15
+2012	Aragón	01	UE-27_2007	141	Estonia	65 y más	1
+2012	Aragón	01	UE-27_2007	142	Lituania	0 a 15	71
+2012	Aragón	01	UE-27_2007	142	Lituania	16 a 64	351
+2012	Aragón	01	UE-27_2007	142	Lituania	65 y más	5
+2012	Aragón	01	UE-27_2007	143	República Checa	0 a 15	6
+2012	Aragón	01	UE-27_2007	143	República Checa	16 a 64	200
+2012	Aragón	01	UE-27_2007	144	Eslovaquia	0 a 15	20
+2012	Aragón	01	UE-27_2007	144	Eslovaquia	16 a 64	152
+2012	Aragón	01	UE-27_2007	147	Eslovenia	0 a 15	7
+2012	Aragón	01	UE-27_2007	147	Eslovenia	16 a 64	42
+2012	Aragón	01	UE-27_2007	147	Eslovenia	65 y más	1
 2012	Aragón	02	Resto de Europa	101	Albania	0 a 15	12
 2012	Aragón	02	Resto de Europa	101	Albania	16 a 64	43
 2012	Aragón	02	Resto de Europa	101	Albania	65 y más	6
@@ -4546,70 +4546,70 @@ Año	Residencia CCAA nombre	Nacionalidad área código	Nacionalidad área nombre
 2012	Aragón	08	Oceanía	516	Palaos	16 a 64	4
 2012	Aragón	09	Apátridas y no consta	555	Apátridas	0 a 15	7
 2012	Aragón	09	Apátridas y no consta	555	Apátridas	16 a 64	23
-2013	Aragón	01	UE-27	102	Austria	0 a 15	8
-2013	Aragón	01	UE-27	102	Austria	16 a 64	59
-2013	Aragón	01	UE-27	102	Austria	65 y más	10
-2013	Aragón	01	UE-27	103	Bélgica	0 a 15	29
-2013	Aragón	01	UE-27	103	Bélgica	16 a 64	178
-2013	Aragón	01	UE-27	103	Bélgica	65 y más	24
-2013	Aragón	01	UE-27	104	Bulgaria	0 a 15	999
-2013	Aragón	01	UE-27	104	Bulgaria	16 a 64	4946
-2013	Aragón	01	UE-27	104	Bulgaria	65 y más	104
-2013	Aragón	01	UE-27	106	Chipre	16 a 64	2
-2013	Aragón	01	UE-27	107	Dinamarca	0 a 15	3
-2013	Aragón	01	UE-27	107	Dinamarca	16 a 64	50
-2013	Aragón	01	UE-27	107	Dinamarca	65 y más	3
-2013	Aragón	01	UE-27	109	Finlandia	0 a 15	4
-2013	Aragón	01	UE-27	109	Finlandia	16 a 64	35
-2013	Aragón	01	UE-27	110	Francia	0 a 15	214
-2013	Aragón	01	UE-27	110	Francia	16 a 64	1523
-2013	Aragón	01	UE-27	110	Francia	65 y más	258
-2013	Aragón	01	UE-27	111	Grecia	0 a 15	8
-2013	Aragón	01	UE-27	111	Grecia	16 a 64	73
-2013	Aragón	01	UE-27	112	Hungría	0 a 15	26
-2013	Aragón	01	UE-27	112	Hungría	16 a 64	128
-2013	Aragón	01	UE-27	112	Hungría	65 y más	3
-2013	Aragón	01	UE-27	113	Irlanda	0 a 15	12
-2013	Aragón	01	UE-27	113	Irlanda	16 a 64	91
-2013	Aragón	01	UE-27	113	Irlanda	65 y más	4
-2013	Aragón	01	UE-27	115	Italia	0 a 15	266
-2013	Aragón	01	UE-27	115	Italia	16 a 64	1583
-2013	Aragón	01	UE-27	115	Italia	65 y más	144
-2013	Aragón	01	UE-27	117	Luxemburgo	16 a 64	1
-2013	Aragón	01	UE-27	121	Países Bajos	0 a 15	71
-2013	Aragón	01	UE-27	121	Países Bajos	16 a 64	378
-2013	Aragón	01	UE-27	121	Países Bajos	65 y más	41
-2013	Aragón	01	UE-27	122	Polonia	0 a 15	573
-2013	Aragón	01	UE-27	122	Polonia	16 a 64	3329
-2013	Aragón	01	UE-27	122	Polonia	65 y más	26
-2013	Aragón	01	UE-27	123	Portugal	0 a 15	588
-2013	Aragón	01	UE-27	123	Portugal	16 a 64	3752
-2013	Aragón	01	UE-27	123	Portugal	65 y más	77
-2013	Aragón	01	UE-27	125	Reino Unido	0 a 15	89
-2013	Aragón	01	UE-27	125	Reino Unido	16 a 64	721
-2013	Aragón	01	UE-27	125	Reino Unido	65 y más	75
-2013	Aragón	01	UE-27	126	Alemania	0 a 15	83
-2013	Aragón	01	UE-27	126	Alemania	16 a 64	697
-2013	Aragón	01	UE-27	126	Alemania	65 y más	94
-2013	Aragón	01	UE-27	128	Rumanía	0 a 15	10556
-2013	Aragón	01	UE-27	128	Rumanía	16 a 64	55649
-2013	Aragón	01	UE-27	128	Rumanía	65 y más	833
-2013	Aragón	01	UE-27	131	Suecia	0 a 15	17
-2013	Aragón	01	UE-27	131	Suecia	16 a 64	63
-2013	Aragón	01	UE-27	131	Suecia	65 y más	6
-2013	Aragón	01	UE-27	136	Letonia	0 a 15	8
-2013	Aragón	01	UE-27	136	Letonia	16 a 64	58
-2013	Aragón	01	UE-27	141	Estonia	0 a 15	2
-2013	Aragón	01	UE-27	141	Estonia	16 a 64	14
-2013	Aragón	01	UE-27	142	Lituania	0 a 15	70
-2013	Aragón	01	UE-27	142	Lituania	16 a 64	349
-2013	Aragón	01	UE-27	142	Lituania	65 y más	5
-2013	Aragón	01	UE-27	143	República Checa	0 a 15	8
-2013	Aragón	01	UE-27	143	República Checa	16 a 64	203
-2013	Aragón	01	UE-27	144	Eslovaquia	0 a 15	15
-2013	Aragón	01	UE-27	144	Eslovaquia	16 a 64	147
-2013	Aragón	01	UE-27	147	Eslovenia	0 a 15	7
-2013	Aragón	01	UE-27	147	Eslovenia	16 a 64	33
+2013	Aragón	01	UE-27_2007	102	Austria	0 a 15	8
+2013	Aragón	01	UE-27_2007	102	Austria	16 a 64	59
+2013	Aragón	01	UE-27_2007	102	Austria	65 y más	10
+2013	Aragón	01	UE-27_2007	103	Bélgica	0 a 15	29
+2013	Aragón	01	UE-27_2007	103	Bélgica	16 a 64	178
+2013	Aragón	01	UE-27_2007	103	Bélgica	65 y más	24
+2013	Aragón	01	UE-27_2007	104	Bulgaria	0 a 15	999
+2013	Aragón	01	UE-27_2007	104	Bulgaria	16 a 64	4946
+2013	Aragón	01	UE-27_2007	104	Bulgaria	65 y más	104
+2013	Aragón	01	UE-27_2007	106	Chipre	16 a 64	2
+2013	Aragón	01	UE-27_2007	107	Dinamarca	0 a 15	3
+2013	Aragón	01	UE-27_2007	107	Dinamarca	16 a 64	50
+2013	Aragón	01	UE-27_2007	107	Dinamarca	65 y más	3
+2013	Aragón	01	UE-27_2007	109	Finlandia	0 a 15	4
+2013	Aragón	01	UE-27_2007	109	Finlandia	16 a 64	35
+2013	Aragón	01	UE-27_2007	110	Francia	0 a 15	214
+2013	Aragón	01	UE-27_2007	110	Francia	16 a 64	1523
+2013	Aragón	01	UE-27_2007	110	Francia	65 y más	258
+2013	Aragón	01	UE-27_2007	111	Grecia	0 a 15	8
+2013	Aragón	01	UE-27_2007	111	Grecia	16 a 64	73
+2013	Aragón	01	UE-27_2007	112	Hungría	0 a 15	26
+2013	Aragón	01	UE-27_2007	112	Hungría	16 a 64	128
+2013	Aragón	01	UE-27_2007	112	Hungría	65 y más	3
+2013	Aragón	01	UE-27_2007	113	Irlanda	0 a 15	12
+2013	Aragón	01	UE-27_2007	113	Irlanda	16 a 64	91
+2013	Aragón	01	UE-27_2007	113	Irlanda	65 y más	4
+2013	Aragón	01	UE-27_2007	115	Italia	0 a 15	266
+2013	Aragón	01	UE-27_2007	115	Italia	16 a 64	1583
+2013	Aragón	01	UE-27_2007	115	Italia	65 y más	144
+2013	Aragón	01	UE-27_2007	117	Luxemburgo	16 a 64	1
+2013	Aragón	01	UE-27_2007	121	Países Bajos	0 a 15	71
+2013	Aragón	01	UE-27_2007	121	Países Bajos	16 a 64	378
+2013	Aragón	01	UE-27_2007	121	Países Bajos	65 y más	41
+2013	Aragón	01	UE-27_2007	122	Polonia	0 a 15	573
+2013	Aragón	01	UE-27_2007	122	Polonia	16 a 64	3329
+2013	Aragón	01	UE-27_2007	122	Polonia	65 y más	26
+2013	Aragón	01	UE-27_2007	123	Portugal	0 a 15	588
+2013	Aragón	01	UE-27_2007	123	Portugal	16 a 64	3752
+2013	Aragón	01	UE-27_2007	123	Portugal	65 y más	77
+2013	Aragón	01	UE-27_2007	125	Reino Unido	0 a 15	89
+2013	Aragón	01	UE-27_2007	125	Reino Unido	16 a 64	721
+2013	Aragón	01	UE-27_2007	125	Reino Unido	65 y más	75
+2013	Aragón	01	UE-27_2007	126	Alemania	0 a 15	83
+2013	Aragón	01	UE-27_2007	126	Alemania	16 a 64	697
+2013	Aragón	01	UE-27_2007	126	Alemania	65 y más	94
+2013	Aragón	01	UE-27_2007	128	Rumanía	0 a 15	10556
+2013	Aragón	01	UE-27_2007	128	Rumanía	16 a 64	55649
+2013	Aragón	01	UE-27_2007	128	Rumanía	65 y más	833
+2013	Aragón	01	UE-27_2007	131	Suecia	0 a 15	17
+2013	Aragón	01	UE-27_2007	131	Suecia	16 a 64	63
+2013	Aragón	01	UE-27_2007	131	Suecia	65 y más	6
+2013	Aragón	01	UE-27_2007	136	Letonia	0 a 15	8
+2013	Aragón	01	UE-27_2007	136	Letonia	16 a 64	58
+2013	Aragón	01	UE-27_2007	141	Estonia	0 a 15	2
+2013	Aragón	01	UE-27_2007	141	Estonia	16 a 64	14
+2013	Aragón	01	UE-27_2007	142	Lituania	0 a 15	70
+2013	Aragón	01	UE-27_2007	142	Lituania	16 a 64	349
+2013	Aragón	01	UE-27_2007	142	Lituania	65 y más	5
+2013	Aragón	01	UE-27_2007	143	República Checa	0 a 15	8
+2013	Aragón	01	UE-27_2007	143	República Checa	16 a 64	203
+2013	Aragón	01	UE-27_2007	144	Eslovaquia	0 a 15	15
+2013	Aragón	01	UE-27_2007	144	Eslovaquia	16 a 64	147
+2013	Aragón	01	UE-27_2007	147	Eslovenia	0 a 15	7
+2013	Aragón	01	UE-27_2007	147	Eslovenia	16 a 64	33
 2013	Aragón	02	Resto de Europa	101	Albania	0 a 15	10
 2013	Aragón	02	Resto de Europa	101	Albania	16 a 64	40
 2013	Aragón	02	Resto de Europa	101	Albania	65 y más	6

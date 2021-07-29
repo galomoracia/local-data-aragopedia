@@ -1,4 +1,399 @@
 Mes y año	Comarca código	Comarca nombre	Nivel formativo grupo IAEST código	Nivel formativo grupo IAEST descripción	Sexo	Nº parados
+Junio 2021	01	La Jacetania	10	Educación Primaria o inferior	Hombres	48
+Junio 2021	01	La Jacetania	10	Educación Primaria o inferior	Mujeres	76
+Junio 2021	01	La Jacetania	20	Primera etapa de educación secundaria	Hombres	186
+Junio 2021	01	La Jacetania	20	Primera etapa de educación secundaria	Mujeres	209
+Junio 2021	01	La Jacetania	31	Bachillerato	Hombres	40
+Junio 2021	01	La Jacetania	31	Bachillerato	Mujeres	54
+Junio 2021	01	La Jacetania	32	Enseñanza media de formación profesional	Hombres	23
+Junio 2021	01	La Jacetania	32	Enseñanza media de formación profesional	Mujeres	49
+Junio 2021	01	La Jacetania	41	Enseñanza superior de formación profesional	Hombres	14
+Junio 2021	01	La Jacetania	41	Enseñanza superior de formación profesional	Mujeres	19
+Junio 2021	01	La Jacetania	42	Enseñanza superior universitaria	Hombres	34
+Junio 2021	01	La Jacetania	42	Enseñanza superior universitaria	Mujeres	101
+Junio 2021	02	Alto Gállego	10	Educación Primaria o inferior	Hombres	74
+Junio 2021	02	Alto Gállego	10	Educación Primaria o inferior	Mujeres	126
+Junio 2021	02	Alto Gállego	20	Primera etapa de educación secundaria	Hombres	110
+Junio 2021	02	Alto Gállego	20	Primera etapa de educación secundaria	Mujeres	120
+Junio 2021	02	Alto Gállego	31	Bachillerato	Hombres	36
+Junio 2021	02	Alto Gállego	31	Bachillerato	Mujeres	30
+Junio 2021	02	Alto Gállego	32	Enseñanza media de formación profesional	Hombres	29
+Junio 2021	02	Alto Gállego	32	Enseñanza media de formación profesional	Mujeres	30
+Junio 2021	02	Alto Gállego	41	Enseñanza superior de formación profesional	Hombres	23
+Junio 2021	02	Alto Gállego	41	Enseñanza superior de formación profesional	Mujeres	35
+Junio 2021	02	Alto Gállego	42	Enseñanza superior universitaria	Hombres	26
+Junio 2021	02	Alto Gállego	42	Enseñanza superior universitaria	Mujeres	44
+Junio 2021	03	Sobrarbe	10	Educación Primaria o inferior	Hombres	22
+Junio 2021	03	Sobrarbe	10	Educación Primaria o inferior	Mujeres	25
+Junio 2021	03	Sobrarbe	20	Primera etapa de educación secundaria	Hombres	54
+Junio 2021	03	Sobrarbe	20	Primera etapa de educación secundaria	Mujeres	34
+Junio 2021	03	Sobrarbe	31	Bachillerato	Hombres	23
+Junio 2021	03	Sobrarbe	31	Bachillerato	Mujeres	17
+Junio 2021	03	Sobrarbe	32	Enseñanza media de formación profesional	Hombres	14
+Junio 2021	03	Sobrarbe	32	Enseñanza media de formación profesional	Mujeres	5
+Junio 2021	03	Sobrarbe	41	Enseñanza superior de formación profesional	Hombres	3
+Junio 2021	03	Sobrarbe	41	Enseñanza superior de formación profesional	Mujeres	18
+Junio 2021	03	Sobrarbe	42	Enseñanza superior universitaria	Hombres	13
+Junio 2021	03	Sobrarbe	42	Enseñanza superior universitaria	Mujeres	30
+Junio 2021	04	La Ribagorza	10	Educación Primaria o inferior	Hombres	49
+Junio 2021	04	La Ribagorza	10	Educación Primaria o inferior	Mujeres	73
+Junio 2021	04	La Ribagorza	20	Primera etapa de educación secundaria	Hombres	71
+Junio 2021	04	La Ribagorza	20	Primera etapa de educación secundaria	Mujeres	94
+Junio 2021	04	La Ribagorza	31	Bachillerato	Hombres	9
+Junio 2021	04	La Ribagorza	31	Bachillerato	Mujeres	28
+Junio 2021	04	La Ribagorza	32	Enseñanza media de formación profesional	Hombres	10
+Junio 2021	04	La Ribagorza	32	Enseñanza media de formación profesional	Mujeres	16
+Junio 2021	04	La Ribagorza	41	Enseñanza superior de formación profesional	Hombres	10
+Junio 2021	04	La Ribagorza	41	Enseñanza superior de formación profesional	Mujeres	18
+Junio 2021	04	La Ribagorza	42	Enseñanza superior universitaria	Hombres	10
+Junio 2021	04	La Ribagorza	42	Enseñanza superior universitaria	Mujeres	28
+Junio 2021	05	Cinco Villas	10	Educación Primaria o inferior	Hombres	230
+Junio 2021	05	Cinco Villas	10	Educación Primaria o inferior	Mujeres	333
+Junio 2021	05	Cinco Villas	20	Primera etapa de educación secundaria	Hombres	308
+Junio 2021	05	Cinco Villas	20	Primera etapa de educación secundaria	Mujeres	435
+Junio 2021	05	Cinco Villas	31	Bachillerato	Hombres	21
+Junio 2021	05	Cinco Villas	31	Bachillerato	Mujeres	28
+Junio 2021	05	Cinco Villas	32	Enseñanza media de formación profesional	Hombres	42
+Junio 2021	05	Cinco Villas	32	Enseñanza media de formación profesional	Mujeres	85
+Junio 2021	05	Cinco Villas	41	Enseñanza superior de formación profesional	Hombres	20
+Junio 2021	05	Cinco Villas	41	Enseñanza superior de formación profesional	Mujeres	52
+Junio 2021	05	Cinco Villas	42	Enseñanza superior universitaria	Hombres	14
+Junio 2021	05	Cinco Villas	42	Enseñanza superior universitaria	Mujeres	41
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	10	Educación Primaria o inferior	Hombres	366
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	10	Educación Primaria o inferior	Mujeres	523
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	20	Primera etapa de educación secundaria	Hombres	757
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	20	Primera etapa de educación secundaria	Mujeres	874
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	31	Bachillerato	Hombres	144
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	31	Bachillerato	Mujeres	175
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	32	Enseñanza media de formación profesional	Hombres	67
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	32	Enseñanza media de formación profesional	Mujeres	136
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	41	Enseñanza superior de formación profesional	Hombres	82
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	41	Enseñanza superior de formación profesional	Mujeres	104
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	42	Enseñanza superior universitaria	Hombres	121
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	42	Enseñanza superior universitaria	Mujeres	300
+Junio 2021	07	Somontano de Barbastro	10	Educación Primaria o inferior	Hombres	129
+Junio 2021	07	Somontano de Barbastro	10	Educación Primaria o inferior	Mujeres	228
+Junio 2021	07	Somontano de Barbastro	20	Primera etapa de educación secundaria	Hombres	234
+Junio 2021	07	Somontano de Barbastro	20	Primera etapa de educación secundaria	Mujeres	293
+Junio 2021	07	Somontano de Barbastro	31	Bachillerato	Hombres	27
+Junio 2021	07	Somontano de Barbastro	31	Bachillerato	Mujeres	42
+Junio 2021	07	Somontano de Barbastro	32	Enseñanza media de formación profesional	Hombres	33
+Junio 2021	07	Somontano de Barbastro	32	Enseñanza media de formación profesional	Mujeres	44
+Junio 2021	07	Somontano de Barbastro	41	Enseñanza superior de formación profesional	Hombres	16
+Junio 2021	07	Somontano de Barbastro	41	Enseñanza superior de formación profesional	Mujeres	47
+Junio 2021	07	Somontano de Barbastro	42	Enseñanza superior universitaria	Hombres	25
+Junio 2021	07	Somontano de Barbastro	42	Enseñanza superior universitaria	Mujeres	65
+Junio 2021	08	Cinca Medio	10	Educación Primaria o inferior	Hombres	199
+Junio 2021	08	Cinca Medio	10	Educación Primaria o inferior	Mujeres	294
+Junio 2021	08	Cinca Medio	20	Primera etapa de educación secundaria	Hombres	206
+Junio 2021	08	Cinca Medio	20	Primera etapa de educación secundaria	Mujeres	258
+Junio 2021	08	Cinca Medio	31	Bachillerato	Hombres	21
+Junio 2021	08	Cinca Medio	31	Bachillerato	Mujeres	42
+Junio 2021	08	Cinca Medio	32	Enseñanza media de formación profesional	Hombres	31
+Junio 2021	08	Cinca Medio	32	Enseñanza media de formación profesional	Mujeres	54
+Junio 2021	08	Cinca Medio	41	Enseñanza superior de formación profesional	Hombres	22
+Junio 2021	08	Cinca Medio	41	Enseñanza superior de formación profesional	Mujeres	37
+Junio 2021	08	Cinca Medio	42	Enseñanza superior universitaria	Hombres	20
+Junio 2021	08	Cinca Medio	42	Enseñanza superior universitaria	Mujeres	46
+Junio 2021	09	La Litera / La Llitera	10	Educación Primaria o inferior	Hombres	113
+Junio 2021	09	La Litera / La Llitera	10	Educación Primaria o inferior	Mujeres	91
+Junio 2021	09	La Litera / La Llitera	20	Primera etapa de educación secundaria	Hombres	135
+Junio 2021	09	La Litera / La Llitera	20	Primera etapa de educación secundaria	Mujeres	165
+Junio 2021	09	La Litera / La Llitera	31	Bachillerato	Hombres	33
+Junio 2021	09	La Litera / La Llitera	31	Bachillerato	Mujeres	42
+Junio 2021	09	La Litera / La Llitera	32	Enseñanza media de formación profesional	Hombres	25
+Junio 2021	09	La Litera / La Llitera	32	Enseñanza media de formación profesional	Mujeres	40
+Junio 2021	09	La Litera / La Llitera	41	Enseñanza superior de formación profesional	Hombres	18
+Junio 2021	09	La Litera / La Llitera	41	Enseñanza superior de formación profesional	Mujeres	35
+Junio 2021	09	La Litera / La Llitera	42	Enseñanza superior universitaria	Hombres	27
+Junio 2021	09	La Litera / La Llitera	42	Enseñanza superior universitaria	Mujeres	43
+Junio 2021	10	Los Monegros	10	Educación Primaria o inferior	Hombres	70
+Junio 2021	10	Los Monegros	10	Educación Primaria o inferior	Mujeres	101
+Junio 2021	10	Los Monegros	20	Primera etapa de educación secundaria	Hombres	112
+Junio 2021	10	Los Monegros	20	Primera etapa de educación secundaria	Mujeres	150
+Junio 2021	10	Los Monegros	31	Bachillerato	Hombres	15
+Junio 2021	10	Los Monegros	31	Bachillerato	Mujeres	22
+Junio 2021	10	Los Monegros	32	Enseñanza media de formación profesional	Hombres	7
+Junio 2021	10	Los Monegros	32	Enseñanza media de formación profesional	Mujeres	27
+Junio 2021	10	Los Monegros	41	Enseñanza superior de formación profesional	Hombres	14
+Junio 2021	10	Los Monegros	41	Enseñanza superior de formación profesional	Mujeres	31
+Junio 2021	10	Los Monegros	42	Enseñanza superior universitaria	Hombres	8
+Junio 2021	10	Los Monegros	42	Enseñanza superior universitaria	Mujeres	32
+Junio 2021	11	Bajo Cinca / Baix Cinca	10	Educación Primaria o inferior	Hombres	178
+Junio 2021	11	Bajo Cinca / Baix Cinca	10	Educación Primaria o inferior	Mujeres	209
+Junio 2021	11	Bajo Cinca / Baix Cinca	20	Primera etapa de educación secundaria	Hombres	124
+Junio 2021	11	Bajo Cinca / Baix Cinca	20	Primera etapa de educación secundaria	Mujeres	141
+Junio 2021	11	Bajo Cinca / Baix Cinca	31	Bachillerato	Hombres	19
+Junio 2021	11	Bajo Cinca / Baix Cinca	31	Bachillerato	Mujeres	42
+Junio 2021	11	Bajo Cinca / Baix Cinca	32	Enseñanza media de formación profesional	Hombres	21
+Junio 2021	11	Bajo Cinca / Baix Cinca	32	Enseñanza media de formación profesional	Mujeres	37
+Junio 2021	11	Bajo Cinca / Baix Cinca	41	Enseñanza superior de formación profesional	Hombres	11
+Junio 2021	11	Bajo Cinca / Baix Cinca	41	Enseñanza superior de formación profesional	Mujeres	27
+Junio 2021	11	Bajo Cinca / Baix Cinca	42	Enseñanza superior universitaria	Hombres	9
+Junio 2021	11	Bajo Cinca / Baix Cinca	42	Enseñanza superior universitaria	Mujeres	25
+Junio 2021	12	Tarazona y el Moncayo	10	Educación Primaria o inferior	Hombres	119
+Junio 2021	12	Tarazona y el Moncayo	10	Educación Primaria o inferior	Mujeres	124
+Junio 2021	12	Tarazona y el Moncayo	20	Primera etapa de educación secundaria	Hombres	118
+Junio 2021	12	Tarazona y el Moncayo	20	Primera etapa de educación secundaria	Mujeres	206
+Junio 2021	12	Tarazona y el Moncayo	31	Bachillerato	Hombres	21
+Junio 2021	12	Tarazona y el Moncayo	31	Bachillerato	Mujeres	34
+Junio 2021	12	Tarazona y el Moncayo	32	Enseñanza media de formación profesional	Hombres	24
+Junio 2021	12	Tarazona y el Moncayo	32	Enseñanza media de formación profesional	Mujeres	32
+Junio 2021	12	Tarazona y el Moncayo	41	Enseñanza superior de formación profesional	Hombres	11
+Junio 2021	12	Tarazona y el Moncayo	41	Enseñanza superior de formación profesional	Mujeres	24
+Junio 2021	12	Tarazona y el Moncayo	42	Enseñanza superior universitaria	Hombres	15
+Junio 2021	12	Tarazona y el Moncayo	42	Enseñanza superior universitaria	Mujeres	43
+Junio 2021	13	Campo de Borja	10	Educación Primaria o inferior	Hombres	132
+Junio 2021	13	Campo de Borja	10	Educación Primaria o inferior	Mujeres	169
+Junio 2021	13	Campo de Borja	20	Primera etapa de educación secundaria	Hombres	128
+Junio 2021	13	Campo de Borja	20	Primera etapa de educación secundaria	Mujeres	146
+Junio 2021	13	Campo de Borja	31	Bachillerato	Hombres	13
+Junio 2021	13	Campo de Borja	31	Bachillerato	Mujeres	15
+Junio 2021	13	Campo de Borja	32	Enseñanza media de formación profesional	Hombres	19
+Junio 2021	13	Campo de Borja	32	Enseñanza media de formación profesional	Mujeres	32
+Junio 2021	13	Campo de Borja	41	Enseñanza superior de formación profesional	Hombres	11
+Junio 2021	13	Campo de Borja	41	Enseñanza superior de formación profesional	Mujeres	22
+Junio 2021	13	Campo de Borja	42	Enseñanza superior universitaria	Hombres	6
+Junio 2021	13	Campo de Borja	42	Enseñanza superior universitaria	Mujeres	21
+Junio 2021	14	Aranda	10	Educación Primaria o inferior	Hombres	17
+Junio 2021	14	Aranda	10	Educación Primaria o inferior	Mujeres	45
+Junio 2021	14	Aranda	20	Primera etapa de educación secundaria	Hombres	88
+Junio 2021	14	Aranda	20	Primera etapa de educación secundaria	Mujeres	172
+Junio 2021	14	Aranda	31	Bachillerato	Hombres	2
+Junio 2021	14	Aranda	31	Bachillerato	Mujeres	7
+Junio 2021	14	Aranda	32	Enseñanza media de formación profesional	Hombres	5
+Junio 2021	14	Aranda	32	Enseñanza media de formación profesional	Mujeres	16
+Junio 2021	14	Aranda	41	Enseñanza superior de formación profesional	Hombres	3
+Junio 2021	14	Aranda	41	Enseñanza superior de formación profesional	Mujeres	11
+Junio 2021	14	Aranda	42	Enseñanza superior universitaria	Hombres	2
+Junio 2021	14	Aranda	42	Enseñanza superior universitaria	Mujeres	12
+Junio 2021	15	Ribera Alta del Ebro	10	Educación Primaria o inferior	Hombres	109
+Junio 2021	15	Ribera Alta del Ebro	10	Educación Primaria o inferior	Mujeres	172
+Junio 2021	15	Ribera Alta del Ebro	20	Primera etapa de educación secundaria	Hombres	445
+Junio 2021	15	Ribera Alta del Ebro	20	Primera etapa de educación secundaria	Mujeres	643
+Junio 2021	15	Ribera Alta del Ebro	31	Bachillerato	Hombres	27
+Junio 2021	15	Ribera Alta del Ebro	31	Bachillerato	Mujeres	49
+Junio 2021	15	Ribera Alta del Ebro	32	Enseñanza media de formación profesional	Hombres	42
+Junio 2021	15	Ribera Alta del Ebro	32	Enseñanza media de formación profesional	Mujeres	77
+Junio 2021	15	Ribera Alta del Ebro	41	Enseñanza superior de formación profesional	Hombres	24
+Junio 2021	15	Ribera Alta del Ebro	41	Enseñanza superior de formación profesional	Mujeres	40
+Junio 2021	15	Ribera Alta del Ebro	42	Enseñanza superior universitaria	Hombres	20
+Junio 2021	15	Ribera Alta del Ebro	42	Enseñanza superior universitaria	Mujeres	54
+Junio 2021	16	Valdejalón	10	Educación Primaria o inferior	Hombres	221
+Junio 2021	16	Valdejalón	10	Educación Primaria o inferior	Mujeres	334
+Junio 2021	16	Valdejalón	20	Primera etapa de educación secundaria	Hombres	436
+Junio 2021	16	Valdejalón	20	Primera etapa de educación secundaria	Mujeres	625
+Junio 2021	16	Valdejalón	31	Bachillerato	Hombres	24
+Junio 2021	16	Valdejalón	31	Bachillerato	Mujeres	44
+Junio 2021	16	Valdejalón	32	Enseñanza media de formación profesional	Hombres	24
+Junio 2021	16	Valdejalón	32	Enseñanza media de formación profesional	Mujeres	66
+Junio 2021	16	Valdejalón	41	Enseñanza superior de formación profesional	Hombres	16
+Junio 2021	16	Valdejalón	41	Enseñanza superior de formación profesional	Mujeres	40
+Junio 2021	16	Valdejalón	42	Enseñanza superior universitaria	Hombres	15
+Junio 2021	16	Valdejalón	42	Enseñanza superior universitaria	Mujeres	53
+Junio 2021	17	Central	10	Educación Primaria o inferior	Hombres	3552
+Junio 2021	17	Central	10	Educación Primaria o inferior	Mujeres	5210
+Junio 2021	17	Central	20	Primera etapa de educación secundaria	Hombres	9889
+Junio 2021	17	Central	20	Primera etapa de educación secundaria	Mujeres	13602
+Junio 2021	17	Central	31	Bachillerato	Hombres	1618
+Junio 2021	17	Central	31	Bachillerato	Mujeres	2522
+Junio 2021	17	Central	32	Enseñanza media de formación profesional	Hombres	1217
+Junio 2021	17	Central	32	Enseñanza media de formación profesional	Mujeres	2291
+Junio 2021	17	Central	41	Enseñanza superior de formación profesional	Hombres	1088
+Junio 2021	17	Central	41	Enseñanza superior de formación profesional	Mujeres	1816
+Junio 2021	17	Central	42	Enseñanza superior universitaria	Hombres	1607
+Junio 2021	17	Central	42	Enseñanza superior universitaria	Mujeres	3569
+Junio 2021	18	Ribera Baja del Ebro	10	Educación Primaria o inferior	Hombres	42
+Junio 2021	18	Ribera Baja del Ebro	10	Educación Primaria o inferior	Mujeres	70
+Junio 2021	18	Ribera Baja del Ebro	20	Primera etapa de educación secundaria	Hombres	87
+Junio 2021	18	Ribera Baja del Ebro	20	Primera etapa de educación secundaria	Mujeres	135
+Junio 2021	18	Ribera Baja del Ebro	31	Bachillerato	Hombres	3
+Junio 2021	18	Ribera Baja del Ebro	31	Bachillerato	Mujeres	9
+Junio 2021	18	Ribera Baja del Ebro	32	Enseñanza media de formación profesional	Hombres	6
+Junio 2021	18	Ribera Baja del Ebro	32	Enseñanza media de formación profesional	Mujeres	21
+Junio 2021	18	Ribera Baja del Ebro	41	Enseñanza superior de formación profesional	Hombres	6
+Junio 2021	18	Ribera Baja del Ebro	41	Enseñanza superior de formación profesional	Mujeres	6
+Junio 2021	18	Ribera Baja del Ebro	42	Enseñanza superior universitaria	Hombres	3
+Junio 2021	18	Ribera Baja del Ebro	42	Enseñanza superior universitaria	Mujeres	11
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	10	Educación Primaria o inferior	Hombres	105
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	10	Educación Primaria o inferior	Mujeres	170
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	20	Primera etapa de educación secundaria	Hombres	114
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	20	Primera etapa de educación secundaria	Mujeres	183
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	31	Bachillerato	Hombres	14
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	31	Bachillerato	Mujeres	23
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	32	Enseñanza media de formación profesional	Hombres	19
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	32	Enseñanza media de formación profesional	Mujeres	31
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	41	Enseñanza superior de formación profesional	Hombres	12
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	41	Enseñanza superior de formación profesional	Mujeres	17
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	42	Enseñanza superior universitaria	Hombres	6
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	42	Enseñanza superior universitaria	Mujeres	23
+Junio 2021	20	Comunidad de Calatayud	10	Educación Primaria o inferior	Hombres	198
+Junio 2021	20	Comunidad de Calatayud	10	Educación Primaria o inferior	Mujeres	332
+Junio 2021	20	Comunidad de Calatayud	20	Primera etapa de educación secundaria	Hombres	430
+Junio 2021	20	Comunidad de Calatayud	20	Primera etapa de educación secundaria	Mujeres	522
+Junio 2021	20	Comunidad de Calatayud	31	Bachillerato	Hombres	32
+Junio 2021	20	Comunidad de Calatayud	31	Bachillerato	Mujeres	46
+Junio 2021	20	Comunidad de Calatayud	32	Enseñanza media de formación profesional	Hombres	39
+Junio 2021	20	Comunidad de Calatayud	32	Enseñanza media de formación profesional	Mujeres	105
+Junio 2021	20	Comunidad de Calatayud	41	Enseñanza superior de formación profesional	Hombres	36
+Junio 2021	20	Comunidad de Calatayud	41	Enseñanza superior de formación profesional	Mujeres	62
+Junio 2021	20	Comunidad de Calatayud	42	Enseñanza superior universitaria	Hombres	31
+Junio 2021	20	Comunidad de Calatayud	42	Enseñanza superior universitaria	Mujeres	100
+Junio 2021	21	Campo de Cariñena	10	Educación Primaria o inferior	Hombres	37
+Junio 2021	21	Campo de Cariñena	10	Educación Primaria o inferior	Mujeres	50
+Junio 2021	21	Campo de Cariñena	20	Primera etapa de educación secundaria	Hombres	97
+Junio 2021	21	Campo de Cariñena	20	Primera etapa de educación secundaria	Mujeres	149
+Junio 2021	21	Campo de Cariñena	31	Bachillerato	Hombres	11
+Junio 2021	21	Campo de Cariñena	31	Bachillerato	Mujeres	12
+Junio 2021	21	Campo de Cariñena	32	Enseñanza media de formación profesional	Hombres	4
+Junio 2021	21	Campo de Cariñena	32	Enseñanza media de formación profesional	Mujeres	17
+Junio 2021	21	Campo de Cariñena	41	Enseñanza superior de formación profesional	Hombres	4
+Junio 2021	21	Campo de Cariñena	41	Enseñanza superior de formación profesional	Mujeres	10
+Junio 2021	21	Campo de Cariñena	42	Enseñanza superior universitaria	Hombres	7
+Junio 2021	21	Campo de Cariñena	42	Enseñanza superior universitaria	Mujeres	14
+Junio 2021	22	Campo de Belchite	10	Educación Primaria o inferior	Hombres	14
+Junio 2021	22	Campo de Belchite	10	Educación Primaria o inferior	Mujeres	18
+Junio 2021	22	Campo de Belchite	20	Primera etapa de educación secundaria	Hombres	43
+Junio 2021	22	Campo de Belchite	20	Primera etapa de educación secundaria	Mujeres	52
+Junio 2021	22	Campo de Belchite	31	Bachillerato	Hombres	3
+Junio 2021	22	Campo de Belchite	31	Bachillerato	Mujeres	4
+Junio 2021	22	Campo de Belchite	32	Enseñanza media de formación profesional	Hombres	6
+Junio 2021	22	Campo de Belchite	32	Enseñanza media de formación profesional	Mujeres	12
+Junio 2021	22	Campo de Belchite	41	Enseñanza superior de formación profesional	Hombres	2
+Junio 2021	22	Campo de Belchite	42	Enseñanza superior universitaria	Hombres	2
+Junio 2021	22	Campo de Belchite	42	Enseñanza superior universitaria	Mujeres	6
+Junio 2021	23	Bajo Martín	10	Educación Primaria o inferior	Hombres	38
+Junio 2021	23	Bajo Martín	10	Educación Primaria o inferior	Mujeres	95
+Junio 2021	23	Bajo Martín	20	Primera etapa de educación secundaria	Hombres	61
+Junio 2021	23	Bajo Martín	20	Primera etapa de educación secundaria	Mujeres	77
+Junio 2021	23	Bajo Martín	31	Bachillerato	Hombres	8
+Junio 2021	23	Bajo Martín	31	Bachillerato	Mujeres	5
+Junio 2021	23	Bajo Martín	32	Enseñanza media de formación profesional	Hombres	6
+Junio 2021	23	Bajo Martín	32	Enseñanza media de formación profesional	Mujeres	14
+Junio 2021	23	Bajo Martín	41	Enseñanza superior de formación profesional	Hombres	6
+Junio 2021	23	Bajo Martín	41	Enseñanza superior de formación profesional	Mujeres	5
+Junio 2021	23	Bajo Martín	42	Enseñanza superior universitaria	Hombres	2
+Junio 2021	23	Bajo Martín	42	Enseñanza superior universitaria	Mujeres	5
+Junio 2021	24	Campo de Daroca	10	Educación Primaria o inferior	Hombres	23
+Junio 2021	24	Campo de Daroca	10	Educación Primaria o inferior	Mujeres	36
+Junio 2021	24	Campo de Daroca	20	Primera etapa de educación secundaria	Hombres	36
+Junio 2021	24	Campo de Daroca	20	Primera etapa de educación secundaria	Mujeres	40
+Junio 2021	24	Campo de Daroca	31	Bachillerato	Hombres	5
+Junio 2021	24	Campo de Daroca	31	Bachillerato	Mujeres	2
+Junio 2021	24	Campo de Daroca	32	Enseñanza media de formación profesional	Hombres	1
+Junio 2021	24	Campo de Daroca	32	Enseñanza media de formación profesional	Mujeres	3
+Junio 2021	24	Campo de Daroca	41	Enseñanza superior de formación profesional	Hombres	5
+Junio 2021	24	Campo de Daroca	41	Enseñanza superior de formación profesional	Mujeres	7
+Junio 2021	24	Campo de Daroca	42	Enseñanza superior universitaria	Hombres	7
+Junio 2021	24	Campo de Daroca	42	Enseñanza superior universitaria	Mujeres	10
+Junio 2021	25	Jiloca	10	Educación Primaria o inferior	Hombres	49
+Junio 2021	25	Jiloca	10	Educación Primaria o inferior	Mujeres	75
+Junio 2021	25	Jiloca	20	Primera etapa de educación secundaria	Hombres	67
+Junio 2021	25	Jiloca	20	Primera etapa de educación secundaria	Mujeres	83
+Junio 2021	25	Jiloca	31	Bachillerato	Hombres	10
+Junio 2021	25	Jiloca	31	Bachillerato	Mujeres	17
+Junio 2021	25	Jiloca	32	Enseñanza media de formación profesional	Hombres	13
+Junio 2021	25	Jiloca	32	Enseñanza media de formación profesional	Mujeres	12
+Junio 2021	25	Jiloca	41	Enseñanza superior de formación profesional	Hombres	8
+Junio 2021	25	Jiloca	41	Enseñanza superior de formación profesional	Mujeres	10
+Junio 2021	25	Jiloca	42	Enseñanza superior universitaria	Hombres	10
+Junio 2021	25	Jiloca	42	Enseñanza superior universitaria	Mujeres	30
+Junio 2021	26	Cuencas Mineras	10	Educación Primaria o inferior	Hombres	22
+Junio 2021	26	Cuencas Mineras	10	Educación Primaria o inferior	Mujeres	62
+Junio 2021	26	Cuencas Mineras	20	Primera etapa de educación secundaria	Hombres	83
+Junio 2021	26	Cuencas Mineras	20	Primera etapa de educación secundaria	Mujeres	140
+Junio 2021	26	Cuencas Mineras	31	Bachillerato	Hombres	6
+Junio 2021	26	Cuencas Mineras	31	Bachillerato	Mujeres	6
+Junio 2021	26	Cuencas Mineras	32	Enseñanza media de formación profesional	Hombres	13
+Junio 2021	26	Cuencas Mineras	32	Enseñanza media de formación profesional	Mujeres	29
+Junio 2021	26	Cuencas Mineras	41	Enseñanza superior de formación profesional	Hombres	7
+Junio 2021	26	Cuencas Mineras	41	Enseñanza superior de formación profesional	Mujeres	6
+Junio 2021	26	Cuencas Mineras	42	Enseñanza superior universitaria	Hombres	2
+Junio 2021	26	Cuencas Mineras	42	Enseñanza superior universitaria	Mujeres	10
+Junio 2021	27	Andorra-Sierra de Arcos	10	Educación Primaria o inferior	Hombres	22
+Junio 2021	27	Andorra-Sierra de Arcos	10	Educación Primaria o inferior	Mujeres	44
+Junio 2021	27	Andorra-Sierra de Arcos	20	Primera etapa de educación secundaria	Hombres	123
+Junio 2021	27	Andorra-Sierra de Arcos	20	Primera etapa de educación secundaria	Mujeres	168
+Junio 2021	27	Andorra-Sierra de Arcos	31	Bachillerato	Hombres	9
+Junio 2021	27	Andorra-Sierra de Arcos	31	Bachillerato	Mujeres	9
+Junio 2021	27	Andorra-Sierra de Arcos	32	Enseñanza media de formación profesional	Hombres	10
+Junio 2021	27	Andorra-Sierra de Arcos	32	Enseñanza media de formación profesional	Mujeres	38
+Junio 2021	27	Andorra-Sierra de Arcos	41	Enseñanza superior de formación profesional	Hombres	14
+Junio 2021	27	Andorra-Sierra de Arcos	41	Enseñanza superior de formación profesional	Mujeres	31
+Junio 2021	27	Andorra-Sierra de Arcos	42	Enseñanza superior universitaria	Hombres	7
+Junio 2021	27	Andorra-Sierra de Arcos	42	Enseñanza superior universitaria	Mujeres	34
+Junio 2021	28	Bajo Aragón	10	Educación Primaria o inferior	Hombres	199
+Junio 2021	28	Bajo Aragón	10	Educación Primaria o inferior	Mujeres	429
+Junio 2021	28	Bajo Aragón	20	Primera etapa de educación secundaria	Hombres	229
+Junio 2021	28	Bajo Aragón	20	Primera etapa de educación secundaria	Mujeres	309
+Junio 2021	28	Bajo Aragón	31	Bachillerato	Hombres	19
+Junio 2021	28	Bajo Aragón	31	Bachillerato	Mujeres	41
+Junio 2021	28	Bajo Aragón	32	Enseñanza media de formación profesional	Hombres	35
+Junio 2021	28	Bajo Aragón	32	Enseñanza media de formación profesional	Mujeres	77
+Junio 2021	28	Bajo Aragón	41	Enseñanza superior de formación profesional	Hombres	22
+Junio 2021	28	Bajo Aragón	41	Enseñanza superior de formación profesional	Mujeres	31
+Junio 2021	28	Bajo Aragón	42	Enseñanza superior universitaria	Hombres	15
+Junio 2021	28	Bajo Aragón	42	Enseñanza superior universitaria	Mujeres	54
+Junio 2021	29	Comunidad de Teruel	10	Educación Primaria o inferior	Hombres	242
+Junio 2021	29	Comunidad de Teruel	10	Educación Primaria o inferior	Mujeres	367
+Junio 2021	29	Comunidad de Teruel	20	Primera etapa de educación secundaria	Hombres	471
+Junio 2021	29	Comunidad de Teruel	20	Primera etapa de educación secundaria	Mujeres	506
+Junio 2021	29	Comunidad de Teruel	31	Bachillerato	Hombres	55
+Junio 2021	29	Comunidad de Teruel	31	Bachillerato	Mujeres	90
+Junio 2021	29	Comunidad de Teruel	32	Enseñanza media de formación profesional	Hombres	57
+Junio 2021	29	Comunidad de Teruel	32	Enseñanza media de formación profesional	Mujeres	93
+Junio 2021	29	Comunidad de Teruel	41	Enseñanza superior de formación profesional	Hombres	53
+Junio 2021	29	Comunidad de Teruel	41	Enseñanza superior de formación profesional	Mujeres	87
+Junio 2021	29	Comunidad de Teruel	42	Enseñanza superior universitaria	Hombres	95
+Junio 2021	29	Comunidad de Teruel	42	Enseñanza superior universitaria	Mujeres	167
+Junio 2021	30	Maestrazgo	10	Educación Primaria o inferior	Hombres	12
+Junio 2021	30	Maestrazgo	10	Educación Primaria o inferior	Mujeres	19
+Junio 2021	30	Maestrazgo	20	Primera etapa de educación secundaria	Hombres	22
+Junio 2021	30	Maestrazgo	20	Primera etapa de educación secundaria	Mujeres	24
+Junio 2021	30	Maestrazgo	31	Bachillerato	Hombres	2
+Junio 2021	30	Maestrazgo	31	Bachillerato	Mujeres	6
+Junio 2021	30	Maestrazgo	32	Enseñanza media de formación profesional	Hombres	6
+Junio 2021	30	Maestrazgo	32	Enseñanza media de formación profesional	Mujeres	1
+Junio 2021	30	Maestrazgo	41	Enseñanza superior de formación profesional	Hombres	5
+Junio 2021	30	Maestrazgo	41	Enseñanza superior de formación profesional	Mujeres	4
+Junio 2021	30	Maestrazgo	42	Enseñanza superior universitaria	Hombres	3
+Junio 2021	30	Maestrazgo	42	Enseñanza superior universitaria	Mujeres	5
+Junio 2021	31	Sierra de Albarracín	10	Educación Primaria o inferior	Hombres	11
+Junio 2021	31	Sierra de Albarracín	10	Educación Primaria o inferior	Mujeres	27
+Junio 2021	31	Sierra de Albarracín	20	Primera etapa de educación secundaria	Hombres	36
+Junio 2021	31	Sierra de Albarracín	20	Primera etapa de educación secundaria	Mujeres	40
+Junio 2021	31	Sierra de Albarracín	31	Bachillerato	Hombres	2
+Junio 2021	31	Sierra de Albarracín	31	Bachillerato	Mujeres	3
+Junio 2021	31	Sierra de Albarracín	32	Enseñanza media de formación profesional	Hombres	2
+Junio 2021	31	Sierra de Albarracín	32	Enseñanza media de formación profesional	Mujeres	5
+Junio 2021	31	Sierra de Albarracín	41	Enseñanza superior de formación profesional	Hombres	1
+Junio 2021	31	Sierra de Albarracín	41	Enseñanza superior de formación profesional	Mujeres	8
+Junio 2021	31	Sierra de Albarracín	42	Enseñanza superior universitaria	Hombres	2
+Junio 2021	31	Sierra de Albarracín	42	Enseñanza superior universitaria	Mujeres	9
+Junio 2021	32	Gúdar-Javalambre	10	Educación Primaria o inferior	Hombres	47
+Junio 2021	32	Gúdar-Javalambre	10	Educación Primaria o inferior	Mujeres	52
+Junio 2021	32	Gúdar-Javalambre	20	Primera etapa de educación secundaria	Hombres	80
+Junio 2021	32	Gúdar-Javalambre	20	Primera etapa de educación secundaria	Mujeres	99
+Junio 2021	32	Gúdar-Javalambre	31	Bachillerato	Hombres	12
+Junio 2021	32	Gúdar-Javalambre	31	Bachillerato	Mujeres	14
+Junio 2021	32	Gúdar-Javalambre	32	Enseñanza media de formación profesional	Hombres	8
+Junio 2021	32	Gúdar-Javalambre	32	Enseñanza media de formación profesional	Mujeres	20
+Junio 2021	32	Gúdar-Javalambre	41	Enseñanza superior de formación profesional	Hombres	5
+Junio 2021	32	Gúdar-Javalambre	41	Enseñanza superior de formación profesional	Mujeres	17
+Junio 2021	32	Gúdar-Javalambre	42	Enseñanza superior universitaria	Hombres	7
+Junio 2021	32	Gúdar-Javalambre	42	Enseñanza superior universitaria	Mujeres	23
+Junio 2021	33	Matarraña / Matarranya	10	Educación Primaria o inferior	Hombres	44
+Junio 2021	33	Matarraña / Matarranya	10	Educación Primaria o inferior	Mujeres	56
+Junio 2021	33	Matarraña / Matarranya	20	Primera etapa de educación secundaria	Hombres	51
+Junio 2021	33	Matarraña / Matarranya	20	Primera etapa de educación secundaria	Mujeres	55
+Junio 2021	33	Matarraña / Matarranya	31	Bachillerato	Hombres	5
+Junio 2021	33	Matarraña / Matarranya	31	Bachillerato	Mujeres	10
+Junio 2021	33	Matarraña / Matarranya	32	Enseñanza media de formación profesional	Hombres	5
+Junio 2021	33	Matarraña / Matarranya	32	Enseñanza media de formación profesional	Mujeres	6
+Junio 2021	33	Matarraña / Matarranya	41	Enseñanza superior de formación profesional	Hombres	6
+Junio 2021	33	Matarraña / Matarranya	41	Enseñanza superior de formación profesional	Mujeres	11
+Junio 2021	33	Matarraña / Matarranya	42	Enseñanza superior universitaria	Hombres	8
+Junio 2021	33	Matarraña / Matarranya	42	Enseñanza superior universitaria	Mujeres	14
 Mayo 2021	01	La Jacetania	10	Educación Primaria o inferior	Hombres	68
 Mayo 2021	01	La Jacetania	10	Educación Primaria o inferior	Mujeres	84
 Mayo 2021	01	La Jacetania	20	Primera etapa de educación secundaria	Hombres	206

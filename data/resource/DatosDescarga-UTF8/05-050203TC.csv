@@ -1,4 +1,333 @@
 Mes y año	Comarca código	Comarca nombre	Sector código	Sector descripción	Sexo	Nº demandantes
+Junio 2021	01	La Jacetania	1	Agricultura, ganadería y pesca	Hombres	19
+Junio 2021	01	La Jacetania	1	Agricultura, ganadería y pesca	Mujeres	9
+Junio 2021	01	La Jacetania	2	Industria y energía	Hombres	21
+Junio 2021	01	La Jacetania	2	Industria y energía	Mujeres	13
+Junio 2021	01	La Jacetania	3	Construcción	Hombres	65
+Junio 2021	01	La Jacetania	3	Construcción	Mujeres	7
+Junio 2021	01	La Jacetania	4	Servicios	Hombres	214
+Junio 2021	01	La Jacetania	4	Servicios	Mujeres	455
+Junio 2021	01	La Jacetania		Sin empleo anterior	Hombres	26
+Junio 2021	01	La Jacetania		Sin empleo anterior	Mujeres	24
+Junio 2021	02	Alto Gállego	1	Agricultura, ganadería y pesca	Hombres	13
+Junio 2021	02	Alto Gállego	1	Agricultura, ganadería y pesca	Mujeres	2
+Junio 2021	02	Alto Gállego	2	Industria y energía	Hombres	31
+Junio 2021	02	Alto Gállego	2	Industria y energía	Mujeres	17
+Junio 2021	02	Alto Gállego	3	Construcción	Hombres	52
+Junio 2021	02	Alto Gállego	3	Construcción	Mujeres	8
+Junio 2021	02	Alto Gállego	4	Servicios	Hombres	184
+Junio 2021	02	Alto Gállego	4	Servicios	Mujeres	317
+Junio 2021	02	Alto Gállego		Sin empleo anterior	Hombres	18
+Junio 2021	02	Alto Gállego		Sin empleo anterior	Mujeres	41
+Junio 2021	03	Sobrarbe	1	Agricultura, ganadería y pesca	Hombres	8
+Junio 2021	03	Sobrarbe	1	Agricultura, ganadería y pesca	Mujeres	5
+Junio 2021	03	Sobrarbe	2	Industria y energía	Hombres	8
+Junio 2021	03	Sobrarbe	2	Industria y energía	Mujeres	6
+Junio 2021	03	Sobrarbe	3	Construcción	Hombres	12
+Junio 2021	03	Sobrarbe	3	Construcción	Mujeres	1
+Junio 2021	03	Sobrarbe	4	Servicios	Hombres	92
+Junio 2021	03	Sobrarbe	4	Servicios	Mujeres	114
+Junio 2021	03	Sobrarbe		Sin empleo anterior	Hombres	9
+Junio 2021	03	Sobrarbe		Sin empleo anterior	Mujeres	3
+Junio 2021	04	La Ribagorza	1	Agricultura, ganadería y pesca	Hombres	15
+Junio 2021	04	La Ribagorza	1	Agricultura, ganadería y pesca	Mujeres	9
+Junio 2021	04	La Ribagorza	2	Industria y energía	Hombres	21
+Junio 2021	04	La Ribagorza	2	Industria y energía	Mujeres	14
+Junio 2021	04	La Ribagorza	3	Construcción	Hombres	26
+Junio 2021	04	La Ribagorza	3	Construcción	Mujeres	4
+Junio 2021	04	La Ribagorza	4	Servicios	Hombres	90
+Junio 2021	04	La Ribagorza	4	Servicios	Mujeres	210
+Junio 2021	04	La Ribagorza		Sin empleo anterior	Hombres	7
+Junio 2021	04	La Ribagorza		Sin empleo anterior	Mujeres	20
+Junio 2021	05	Cinco Villas	1	Agricultura, ganadería y pesca	Hombres	173
+Junio 2021	05	Cinco Villas	1	Agricultura, ganadería y pesca	Mujeres	98
+Junio 2021	05	Cinco Villas	2	Industria y energía	Hombres	111
+Junio 2021	05	Cinco Villas	2	Industria y energía	Mujeres	184
+Junio 2021	05	Cinco Villas	3	Construcción	Hombres	73
+Junio 2021	05	Cinco Villas	3	Construcción	Mujeres	17
+Junio 2021	05	Cinco Villas	4	Servicios	Hombres	237
+Junio 2021	05	Cinco Villas	4	Servicios	Mujeres	559
+Junio 2021	05	Cinco Villas		Sin empleo anterior	Hombres	41
+Junio 2021	05	Cinco Villas		Sin empleo anterior	Mujeres	116
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	1	Agricultura, ganadería y pesca	Hombres	98
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	1	Agricultura, ganadería y pesca	Mujeres	42
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	2	Industria y energía	Hombres	161
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	2	Industria y energía	Mujeres	85
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	3	Construcción	Hombres	242
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	3	Construcción	Mujeres	36
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	4	Servicios	Hombres	823
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	4	Servicios	Mujeres	1653
+Junio 2021	06	Hoya de Huesca / Plana de Uesca		Sin empleo anterior	Hombres	213
+Junio 2021	06	Hoya de Huesca / Plana de Uesca		Sin empleo anterior	Mujeres	296
+Junio 2021	07	Somontano de Barbastro	1	Agricultura, ganadería y pesca	Hombres	64
+Junio 2021	07	Somontano de Barbastro	1	Agricultura, ganadería y pesca	Mujeres	27
+Junio 2021	07	Somontano de Barbastro	2	Industria y energía	Hombres	72
+Junio 2021	07	Somontano de Barbastro	2	Industria y energía	Mujeres	47
+Junio 2021	07	Somontano de Barbastro	3	Construcción	Hombres	61
+Junio 2021	07	Somontano de Barbastro	3	Construcción	Mujeres	8
+Junio 2021	07	Somontano de Barbastro	4	Servicios	Hombres	214
+Junio 2021	07	Somontano de Barbastro	4	Servicios	Mujeres	554
+Junio 2021	07	Somontano de Barbastro		Sin empleo anterior	Hombres	53
+Junio 2021	07	Somontano de Barbastro		Sin empleo anterior	Mujeres	83
+Junio 2021	08	Cinca Medio	1	Agricultura, ganadería y pesca	Hombres	65
+Junio 2021	08	Cinca Medio	1	Agricultura, ganadería y pesca	Mujeres	41
+Junio 2021	08	Cinca Medio	2	Industria y energía	Hombres	109
+Junio 2021	08	Cinca Medio	2	Industria y energía	Mujeres	76
+Junio 2021	08	Cinca Medio	3	Construcción	Hombres	77
+Junio 2021	08	Cinca Medio	3	Construcción	Mujeres	5
+Junio 2021	08	Cinca Medio	4	Servicios	Hombres	215
+Junio 2021	08	Cinca Medio	4	Servicios	Mujeres	515
+Junio 2021	08	Cinca Medio		Sin empleo anterior	Hombres	33
+Junio 2021	08	Cinca Medio		Sin empleo anterior	Mujeres	94
+Junio 2021	09	La Litera / La Llitera	1	Agricultura, ganadería y pesca	Hombres	73
+Junio 2021	09	La Litera / La Llitera	1	Agricultura, ganadería y pesca	Mujeres	35
+Junio 2021	09	La Litera / La Llitera	2	Industria y energía	Hombres	82
+Junio 2021	09	La Litera / La Llitera	2	Industria y energía	Mujeres	44
+Junio 2021	09	La Litera / La Llitera	3	Construcción	Hombres	33
+Junio 2021	09	La Litera / La Llitera	3	Construcción	Mujeres	10
+Junio 2021	09	La Litera / La Llitera	4	Servicios	Hombres	139
+Junio 2021	09	La Litera / La Llitera	4	Servicios	Mujeres	294
+Junio 2021	09	La Litera / La Llitera		Sin empleo anterior	Hombres	24
+Junio 2021	09	La Litera / La Llitera		Sin empleo anterior	Mujeres	33
+Junio 2021	10	Los Monegros	1	Agricultura, ganadería y pesca	Hombres	62
+Junio 2021	10	Los Monegros	1	Agricultura, ganadería y pesca	Mujeres	35
+Junio 2021	10	Los Monegros	2	Industria y energía	Hombres	33
+Junio 2021	10	Los Monegros	2	Industria y energía	Mujeres	24
+Junio 2021	10	Los Monegros	3	Construcción	Hombres	38
+Junio 2021	10	Los Monegros	3	Construcción	Mujeres	7
+Junio 2021	10	Los Monegros	4	Servicios	Hombres	84
+Junio 2021	10	Los Monegros	4	Servicios	Mujeres	255
+Junio 2021	10	Los Monegros		Sin empleo anterior	Hombres	9
+Junio 2021	10	Los Monegros		Sin empleo anterior	Mujeres	42
+Junio 2021	11	Bajo Cinca / Baix Cinca	1	Agricultura, ganadería y pesca	Hombres	134
+Junio 2021	11	Bajo Cinca / Baix Cinca	1	Agricultura, ganadería y pesca	Mujeres	82
+Junio 2021	11	Bajo Cinca / Baix Cinca	2	Industria y energía	Hombres	55
+Junio 2021	11	Bajo Cinca / Baix Cinca	2	Industria y energía	Mujeres	37
+Junio 2021	11	Bajo Cinca / Baix Cinca	3	Construcción	Hombres	30
+Junio 2021	11	Bajo Cinca / Baix Cinca	3	Construcción	Mujeres	3
+Junio 2021	11	Bajo Cinca / Baix Cinca	4	Servicios	Hombres	132
+Junio 2021	11	Bajo Cinca / Baix Cinca	4	Servicios	Mujeres	327
+Junio 2021	11	Bajo Cinca / Baix Cinca		Sin empleo anterior	Hombres	11
+Junio 2021	11	Bajo Cinca / Baix Cinca		Sin empleo anterior	Mujeres	32
+Junio 2021	12	Tarazona y el Moncayo	1	Agricultura, ganadería y pesca	Hombres	36
+Junio 2021	12	Tarazona y el Moncayo	1	Agricultura, ganadería y pesca	Mujeres	14
+Junio 2021	12	Tarazona y el Moncayo	2	Industria y energía	Hombres	59
+Junio 2021	12	Tarazona y el Moncayo	2	Industria y energía	Mujeres	83
+Junio 2021	12	Tarazona y el Moncayo	3	Construcción	Hombres	34
+Junio 2021	12	Tarazona y el Moncayo	3	Construcción	Mujeres	5
+Junio 2021	12	Tarazona y el Moncayo	4	Servicios	Hombres	158
+Junio 2021	12	Tarazona y el Moncayo	4	Servicios	Mujeres	333
+Junio 2021	12	Tarazona y el Moncayo		Sin empleo anterior	Hombres	21
+Junio 2021	12	Tarazona y el Moncayo		Sin empleo anterior	Mujeres	28
+Junio 2021	13	Campo de Borja	1	Agricultura, ganadería y pesca	Hombres	62
+Junio 2021	13	Campo de Borja	1	Agricultura, ganadería y pesca	Mujeres	31
+Junio 2021	13	Campo de Borja	2	Industria y energía	Hombres	70
+Junio 2021	13	Campo de Borja	2	Industria y energía	Mujeres	79
+Junio 2021	13	Campo de Borja	3	Construcción	Hombres	24
+Junio 2021	13	Campo de Borja	3	Construcción	Mujeres	2
+Junio 2021	13	Campo de Borja	4	Servicios	Hombres	142
+Junio 2021	13	Campo de Borja	4	Servicios	Mujeres	260
+Junio 2021	13	Campo de Borja		Sin empleo anterior	Hombres	11
+Junio 2021	13	Campo de Borja		Sin empleo anterior	Mujeres	33
+Junio 2021	14	Aranda	1	Agricultura, ganadería y pesca	Hombres	18
+Junio 2021	14	Aranda	1	Agricultura, ganadería y pesca	Mujeres	9
+Junio 2021	14	Aranda	2	Industria y energía	Hombres	43
+Junio 2021	14	Aranda	2	Industria y energía	Mujeres	105
+Junio 2021	14	Aranda	3	Construcción	Hombres	13
+Junio 2021	14	Aranda	3	Construcción	Mujeres	2
+Junio 2021	14	Aranda	4	Servicios	Hombres	41
+Junio 2021	14	Aranda	4	Servicios	Mujeres	128
+Junio 2021	14	Aranda		Sin empleo anterior	Hombres	2
+Junio 2021	14	Aranda		Sin empleo anterior	Mujeres	19
+Junio 2021	15	Ribera Alta del Ebro	1	Agricultura, ganadería y pesca	Hombres	50
+Junio 2021	15	Ribera Alta del Ebro	1	Agricultura, ganadería y pesca	Mujeres	56
+Junio 2021	15	Ribera Alta del Ebro	2	Industria y energía	Hombres	154
+Junio 2021	15	Ribera Alta del Ebro	2	Industria y energía	Mujeres	160
+Junio 2021	15	Ribera Alta del Ebro	3	Construcción	Hombres	57
+Junio 2021	15	Ribera Alta del Ebro	3	Construcción	Mujeres	11
+Junio 2021	15	Ribera Alta del Ebro	4	Servicios	Hombres	356
+Junio 2021	15	Ribera Alta del Ebro	4	Servicios	Mujeres	725
+Junio 2021	15	Ribera Alta del Ebro		Sin empleo anterior	Hombres	50
+Junio 2021	15	Ribera Alta del Ebro		Sin empleo anterior	Mujeres	83
+Junio 2021	16	Valdejalón	1	Agricultura, ganadería y pesca	Hombres	209
+Junio 2021	16	Valdejalón	1	Agricultura, ganadería y pesca	Mujeres	182
+Junio 2021	16	Valdejalón	2	Industria y energía	Hombres	103
+Junio 2021	16	Valdejalón	2	Industria y energía	Mujeres	127
+Junio 2021	16	Valdejalón	3	Construcción	Hombres	61
+Junio 2021	16	Valdejalón	3	Construcción	Mujeres	10
+Junio 2021	16	Valdejalón	4	Servicios	Hombres	333
+Junio 2021	16	Valdejalón	4	Servicios	Mujeres	737
+Junio 2021	16	Valdejalón		Sin empleo anterior	Hombres	30
+Junio 2021	16	Valdejalón		Sin empleo anterior	Mujeres	106
+Junio 2021	17	Central	1	Agricultura, ganadería y pesca	Hombres	751
+Junio 2021	17	Central	1	Agricultura, ganadería y pesca	Mujeres	441
+Junio 2021	17	Central	2	Industria y energía	Hombres	3006
+Junio 2021	17	Central	2	Industria y energía	Mujeres	2228
+Junio 2021	17	Central	3	Construcción	Hombres	2386
+Junio 2021	17	Central	3	Construcción	Mujeres	423
+Junio 2021	17	Central	4	Servicios	Hombres	11029
+Junio 2021	17	Central	4	Servicios	Mujeres	22492
+Junio 2021	17	Central		Sin empleo anterior	Hombres	1799
+Junio 2021	17	Central		Sin empleo anterior	Mujeres	3426
+Junio 2021	18	Ribera Baja del Ebro	1	Agricultura, ganadería y pesca	Hombres	19
+Junio 2021	18	Ribera Baja del Ebro	1	Agricultura, ganadería y pesca	Mujeres	21
+Junio 2021	18	Ribera Baja del Ebro	2	Industria y energía	Hombres	29
+Junio 2021	18	Ribera Baja del Ebro	2	Industria y energía	Mujeres	31
+Junio 2021	18	Ribera Baja del Ebro	3	Construcción	Hombres	18
+Junio 2021	18	Ribera Baja del Ebro	3	Construcción	Mujeres	1
+Junio 2021	18	Ribera Baja del Ebro	4	Servicios	Hombres	71
+Junio 2021	18	Ribera Baja del Ebro	4	Servicios	Mujeres	170
+Junio 2021	18	Ribera Baja del Ebro		Sin empleo anterior	Hombres	10
+Junio 2021	18	Ribera Baja del Ebro		Sin empleo anterior	Mujeres	29
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	1	Agricultura, ganadería y pesca	Hombres	87
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	1	Agricultura, ganadería y pesca	Mujeres	99
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	2	Industria y energía	Hombres	32
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	2	Industria y energía	Mujeres	69
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	3	Construcción	Hombres	38
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	3	Construcción	Mujeres	6
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	4	Servicios	Hombres	101
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	4	Servicios	Mujeres	244
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp		Sin empleo anterior	Hombres	12
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp		Sin empleo anterior	Mujeres	29
+Junio 2021	20	Comunidad de Calatayud	1	Agricultura, ganadería y pesca	Hombres	133
+Junio 2021	20	Comunidad de Calatayud	1	Agricultura, ganadería y pesca	Mujeres	96
+Junio 2021	20	Comunidad de Calatayud	2	Industria y energía	Hombres	95
+Junio 2021	20	Comunidad de Calatayud	2	Industria y energía	Mujeres	94
+Junio 2021	20	Comunidad de Calatayud	3	Construcción	Hombres	110
+Junio 2021	20	Comunidad de Calatayud	3	Construcción	Mujeres	8
+Junio 2021	20	Comunidad de Calatayud	4	Servicios	Hombres	373
+Junio 2021	20	Comunidad de Calatayud	4	Servicios	Mujeres	855
+Junio 2021	20	Comunidad de Calatayud		Sin empleo anterior	Hombres	55
+Junio 2021	20	Comunidad de Calatayud		Sin empleo anterior	Mujeres	114
+Junio 2021	21	Campo de Cariñena	1	Agricultura, ganadería y pesca	Hombres	45
+Junio 2021	21	Campo de Cariñena	1	Agricultura, ganadería y pesca	Mujeres	31
+Junio 2021	21	Campo de Cariñena	2	Industria y energía	Hombres	29
+Junio 2021	21	Campo de Cariñena	2	Industria y energía	Mujeres	37
+Junio 2021	21	Campo de Cariñena	3	Construcción	Hombres	11
+Junio 2021	21	Campo de Cariñena	3	Construcción	Mujeres	2
+Junio 2021	21	Campo de Cariñena	4	Servicios	Hombres	65
+Junio 2021	21	Campo de Cariñena	4	Servicios	Mujeres	160
+Junio 2021	21	Campo de Cariñena		Sin empleo anterior	Hombres	10
+Junio 2021	21	Campo de Cariñena		Sin empleo anterior	Mujeres	22
+Junio 2021	22	Campo de Belchite	1	Agricultura, ganadería y pesca	Hombres	7
+Junio 2021	22	Campo de Belchite	1	Agricultura, ganadería y pesca	Mujeres	3
+Junio 2021	22	Campo de Belchite	2	Industria y energía	Hombres	8
+Junio 2021	22	Campo de Belchite	2	Industria y energía	Mujeres	13
+Junio 2021	22	Campo de Belchite	3	Construcción	Hombres	14
+Junio 2021	22	Campo de Belchite	3	Construcción	Mujeres	2
+Junio 2021	22	Campo de Belchite	4	Servicios	Hombres	41
+Junio 2021	22	Campo de Belchite	4	Servicios	Mujeres	64
+Junio 2021	22	Campo de Belchite		Sin empleo anterior	Mujeres	10
+Junio 2021	23	Bajo Martín	1	Agricultura, ganadería y pesca	Hombres	8
+Junio 2021	23	Bajo Martín	1	Agricultura, ganadería y pesca	Mujeres	16
+Junio 2021	23	Bajo Martín	2	Industria y energía	Hombres	32
+Junio 2021	23	Bajo Martín	2	Industria y energía	Mujeres	30
+Junio 2021	23	Bajo Martín	3	Construcción	Hombres	15
+Junio 2021	23	Bajo Martín	3	Construcción	Mujeres	5
+Junio 2021	23	Bajo Martín	4	Servicios	Hombres	51
+Junio 2021	23	Bajo Martín	4	Servicios	Mujeres	127
+Junio 2021	23	Bajo Martín		Sin empleo anterior	Hombres	15
+Junio 2021	23	Bajo Martín		Sin empleo anterior	Mujeres	23
+Junio 2021	24	Campo de Daroca	1	Agricultura, ganadería y pesca	Hombres	11
+Junio 2021	24	Campo de Daroca	1	Agricultura, ganadería y pesca	Mujeres	11
+Junio 2021	24	Campo de Daroca	2	Industria y energía	Hombres	10
+Junio 2021	24	Campo de Daroca	2	Industria y energía	Mujeres	7
+Junio 2021	24	Campo de Daroca	3	Construcción	Hombres	1
+Junio 2021	24	Campo de Daroca	3	Construcción	Mujeres	1
+Junio 2021	24	Campo de Daroca	4	Servicios	Hombres	49
+Junio 2021	24	Campo de Daroca	4	Servicios	Mujeres	72
+Junio 2021	24	Campo de Daroca		Sin empleo anterior	Hombres	6
+Junio 2021	24	Campo de Daroca		Sin empleo anterior	Mujeres	7
+Junio 2021	25	Jiloca	1	Agricultura, ganadería y pesca	Hombres	18
+Junio 2021	25	Jiloca	1	Agricultura, ganadería y pesca	Mujeres	10
+Junio 2021	25	Jiloca	2	Industria y energía	Hombres	22
+Junio 2021	25	Jiloca	2	Industria y energía	Mujeres	19
+Junio 2021	25	Jiloca	3	Construcción	Hombres	22
+Junio 2021	25	Jiloca	3	Construcción	Mujeres	3
+Junio 2021	25	Jiloca	4	Servicios	Hombres	85
+Junio 2021	25	Jiloca	4	Servicios	Mujeres	162
+Junio 2021	25	Jiloca		Sin empleo anterior	Hombres	10
+Junio 2021	25	Jiloca		Sin empleo anterior	Mujeres	33
+Junio 2021	26	Cuencas Mineras	1	Agricultura, ganadería y pesca	Hombres	10
+Junio 2021	26	Cuencas Mineras	1	Agricultura, ganadería y pesca	Mujeres	5
+Junio 2021	26	Cuencas Mineras	2	Industria y energía	Hombres	26
+Junio 2021	26	Cuencas Mineras	2	Industria y energía	Mujeres	14
+Junio 2021	26	Cuencas Mineras	3	Construcción	Hombres	23
+Junio 2021	26	Cuencas Mineras	3	Construcción	Mujeres	1
+Junio 2021	26	Cuencas Mineras	4	Servicios	Hombres	61
+Junio 2021	26	Cuencas Mineras	4	Servicios	Mujeres	176
+Junio 2021	26	Cuencas Mineras		Sin empleo anterior	Hombres	13
+Junio 2021	26	Cuencas Mineras		Sin empleo anterior	Mujeres	57
+Junio 2021	27	Andorra-Sierra de Arcos	1	Agricultura, ganadería y pesca	Hombres	13
+Junio 2021	27	Andorra-Sierra de Arcos	1	Agricultura, ganadería y pesca	Mujeres	13
+Junio 2021	27	Andorra-Sierra de Arcos	2	Industria y energía	Hombres	42
+Junio 2021	27	Andorra-Sierra de Arcos	2	Industria y energía	Mujeres	23
+Junio 2021	27	Andorra-Sierra de Arcos	3	Construcción	Hombres	35
+Junio 2021	27	Andorra-Sierra de Arcos	3	Construcción	Mujeres	6
+Junio 2021	27	Andorra-Sierra de Arcos	4	Servicios	Hombres	73
+Junio 2021	27	Andorra-Sierra de Arcos	4	Servicios	Mujeres	231
+Junio 2021	27	Andorra-Sierra de Arcos		Sin empleo anterior	Hombres	22
+Junio 2021	27	Andorra-Sierra de Arcos		Sin empleo anterior	Mujeres	51
+Junio 2021	28	Bajo Aragón	1	Agricultura, ganadería y pesca	Hombres	73
+Junio 2021	28	Bajo Aragón	1	Agricultura, ganadería y pesca	Mujeres	68
+Junio 2021	28	Bajo Aragón	2	Industria y energía	Hombres	71
+Junio 2021	28	Bajo Aragón	2	Industria y energía	Mujeres	62
+Junio 2021	28	Bajo Aragón	3	Construcción	Hombres	92
+Junio 2021	28	Bajo Aragón	3	Construcción	Mujeres	13
+Junio 2021	28	Bajo Aragón	4	Servicios	Hombres	234
+Junio 2021	28	Bajo Aragón	4	Servicios	Mujeres	657
+Junio 2021	28	Bajo Aragón		Sin empleo anterior	Hombres	49
+Junio 2021	28	Bajo Aragón		Sin empleo anterior	Mujeres	141
+Junio 2021	29	Comunidad de Teruel	1	Agricultura, ganadería y pesca	Hombres	52
+Junio 2021	29	Comunidad de Teruel	1	Agricultura, ganadería y pesca	Mujeres	20
+Junio 2021	29	Comunidad de Teruel	2	Industria y energía	Hombres	124
+Junio 2021	29	Comunidad de Teruel	2	Industria y energía	Mujeres	111
+Junio 2021	29	Comunidad de Teruel	3	Construcción	Hombres	126
+Junio 2021	29	Comunidad de Teruel	3	Construcción	Mujeres	16
+Junio 2021	29	Comunidad de Teruel	4	Servicios	Hombres	574
+Junio 2021	29	Comunidad de Teruel	4	Servicios	Mujeres	1036
+Junio 2021	29	Comunidad de Teruel		Sin empleo anterior	Hombres	97
+Junio 2021	29	Comunidad de Teruel		Sin empleo anterior	Mujeres	127
+Junio 2021	30	Maestrazgo	1	Agricultura, ganadería y pesca	Hombres	4
+Junio 2021	30	Maestrazgo	1	Agricultura, ganadería y pesca	Mujeres	1
+Junio 2021	30	Maestrazgo	2	Industria y energía	Hombres	10
+Junio 2021	30	Maestrazgo	2	Industria y energía	Mujeres	7
+Junio 2021	30	Maestrazgo	3	Construcción	Hombres	11
+Junio 2021	30	Maestrazgo	3	Construcción	Mujeres	2
+Junio 2021	30	Maestrazgo	4	Servicios	Hombres	21
+Junio 2021	30	Maestrazgo	4	Servicios	Mujeres	45
+Junio 2021	30	Maestrazgo		Sin empleo anterior	Hombres	4
+Junio 2021	30	Maestrazgo		Sin empleo anterior	Mujeres	4
+Junio 2021	31	Sierra de Albarracín	1	Agricultura, ganadería y pesca	Hombres	6
+Junio 2021	31	Sierra de Albarracín	1	Agricultura, ganadería y pesca	Mujeres	4
+Junio 2021	31	Sierra de Albarracín	2	Industria y energía	Hombres	8
+Junio 2021	31	Sierra de Albarracín	2	Industria y energía	Mujeres	7
+Junio 2021	31	Sierra de Albarracín	3	Construcción	Hombres	8
+Junio 2021	31	Sierra de Albarracín	3	Construcción	Mujeres	1
+Junio 2021	31	Sierra de Albarracín	4	Servicios	Hombres	28
+Junio 2021	31	Sierra de Albarracín	4	Servicios	Mujeres	72
+Junio 2021	31	Sierra de Albarracín		Sin empleo anterior	Hombres	4
+Junio 2021	31	Sierra de Albarracín		Sin empleo anterior	Mujeres	8
+Junio 2021	32	Gúdar-Javalambre	1	Agricultura, ganadería y pesca	Hombres	19
+Junio 2021	32	Gúdar-Javalambre	1	Agricultura, ganadería y pesca	Mujeres	2
+Junio 2021	32	Gúdar-Javalambre	2	Industria y energía	Hombres	29
+Junio 2021	32	Gúdar-Javalambre	2	Industria y energía	Mujeres	26
+Junio 2021	32	Gúdar-Javalambre	3	Construcción	Hombres	18
+Junio 2021	32	Gúdar-Javalambre	3	Construcción	Mujeres	3
+Junio 2021	32	Gúdar-Javalambre	4	Servicios	Hombres	88
+Junio 2021	32	Gúdar-Javalambre	4	Servicios	Mujeres	182
+Junio 2021	32	Gúdar-Javalambre		Sin empleo anterior	Hombres	5
+Junio 2021	32	Gúdar-Javalambre		Sin empleo anterior	Mujeres	12
+Junio 2021	33	Matarraña / Matarranya	1	Agricultura, ganadería y pesca	Hombres	19
+Junio 2021	33	Matarraña / Matarranya	1	Agricultura, ganadería y pesca	Mujeres	8
+Junio 2021	33	Matarraña / Matarranya	2	Industria y energía	Hombres	16
+Junio 2021	33	Matarraña / Matarranya	2	Industria y energía	Mujeres	9
+Junio 2021	33	Matarraña / Matarranya	3	Construcción	Hombres	17
+Junio 2021	33	Matarraña / Matarranya	3	Construcción	Mujeres	3
+Junio 2021	33	Matarraña / Matarranya	4	Servicios	Hombres	62
+Junio 2021	33	Matarraña / Matarranya	4	Servicios	Mujeres	110
+Junio 2021	33	Matarraña / Matarranya		Sin empleo anterior	Hombres	5
+Junio 2021	33	Matarraña / Matarranya		Sin empleo anterior	Mujeres	22
 Mayo 2021	01	La Jacetania	1	Agricultura, ganadería y pesca	Hombres	23
 Mayo 2021	01	La Jacetania	1	Agricultura, ganadería y pesca	Mujeres	8
 Mayo 2021	01	La Jacetania	2	Industria y energía	Hombres	20

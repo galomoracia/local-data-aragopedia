@@ -1,4 +1,400 @@
 Mes y año	Comarca código	Comarca nombre	Sexo	Nº parados	Grupos 1 duración demanda código	Grupos 1 duración demanda descripción
+Junio 2021	01	La Jacetania	Hombres	81	1	Hasta 3 meses
+Junio 2021	01	La Jacetania	Hombres	39	2	De 3 a 6 meses
+Junio 2021	01	La Jacetania	Hombres	96	3	De 6 a 12 meses
+Junio 2021	01	La Jacetania	Hombres	77	4	De 1 a 2 años
+Junio 2021	01	La Jacetania	Hombres	20	5	De 2 a 3 años
+Junio 2021	01	La Jacetania	Hombres	32	6	Más de 3 años
+Junio 2021	01	La Jacetania	Mujeres	114	1	Hasta 3 meses
+Junio 2021	01	La Jacetania	Mujeres	54	2	De 3 a 6 meses
+Junio 2021	01	La Jacetania	Mujeres	107	3	De 6 a 12 meses
+Junio 2021	01	La Jacetania	Mujeres	142	4	De 1 a 2 años
+Junio 2021	01	La Jacetania	Mujeres	50	5	De 2 a 3 años
+Junio 2021	01	La Jacetania	Mujeres	41	6	Más de 3 años
+Junio 2021	02	Alto Gállego	Hombres	65	1	Hasta 3 meses
+Junio 2021	02	Alto Gállego	Hombres	42	2	De 3 a 6 meses
+Junio 2021	02	Alto Gállego	Hombres	66	3	De 6 a 12 meses
+Junio 2021	02	Alto Gállego	Hombres	75	4	De 1 a 2 años
+Junio 2021	02	Alto Gállego	Hombres	21	5	De 2 a 3 años
+Junio 2021	02	Alto Gállego	Hombres	29	6	Más de 3 años
+Junio 2021	02	Alto Gállego	Mujeres	77	1	Hasta 3 meses
+Junio 2021	02	Alto Gállego	Mujeres	46	2	De 3 a 6 meses
+Junio 2021	02	Alto Gállego	Mujeres	92	3	De 6 a 12 meses
+Junio 2021	02	Alto Gállego	Mujeres	96	4	De 1 a 2 años
+Junio 2021	02	Alto Gállego	Mujeres	37	5	De 2 a 3 años
+Junio 2021	02	Alto Gállego	Mujeres	37	6	Más de 3 años
+Junio 2021	03	Sobrarbe	Hombres	32	1	Hasta 3 meses
+Junio 2021	03	Sobrarbe	Hombres	25	2	De 3 a 6 meses
+Junio 2021	03	Sobrarbe	Hombres	24	3	De 6 a 12 meses
+Junio 2021	03	Sobrarbe	Hombres	29	4	De 1 a 2 años
+Junio 2021	03	Sobrarbe	Hombres	8	5	De 2 a 3 años
+Junio 2021	03	Sobrarbe	Hombres	11	6	Más de 3 años
+Junio 2021	03	Sobrarbe	Mujeres	27	1	Hasta 3 meses
+Junio 2021	03	Sobrarbe	Mujeres	17	2	De 3 a 6 meses
+Junio 2021	03	Sobrarbe	Mujeres	24	3	De 6 a 12 meses
+Junio 2021	03	Sobrarbe	Mujeres	44	4	De 1 a 2 años
+Junio 2021	03	Sobrarbe	Mujeres	8	5	De 2 a 3 años
+Junio 2021	03	Sobrarbe	Mujeres	9	6	Más de 3 años
+Junio 2021	04	La Ribagorza	Hombres	34	1	Hasta 3 meses
+Junio 2021	04	La Ribagorza	Hombres	24	2	De 3 a 6 meses
+Junio 2021	04	La Ribagorza	Hombres	38	3	De 6 a 12 meses
+Junio 2021	04	La Ribagorza	Hombres	41	4	De 1 a 2 años
+Junio 2021	04	La Ribagorza	Hombres	12	5	De 2 a 3 años
+Junio 2021	04	La Ribagorza	Hombres	10	6	Más de 3 años
+Junio 2021	04	La Ribagorza	Mujeres	39	1	Hasta 3 meses
+Junio 2021	04	La Ribagorza	Mujeres	37	2	De 3 a 6 meses
+Junio 2021	04	La Ribagorza	Mujeres	54	3	De 6 a 12 meses
+Junio 2021	04	La Ribagorza	Mujeres	67	4	De 1 a 2 años
+Junio 2021	04	La Ribagorza	Mujeres	25	5	De 2 a 3 años
+Junio 2021	04	La Ribagorza	Mujeres	35	6	Más de 3 años
+Junio 2021	05	Cinco Villas	Hombres	165	1	Hasta 3 meses
+Junio 2021	05	Cinco Villas	Hombres	92	2	De 3 a 6 meses
+Junio 2021	05	Cinco Villas	Hombres	117	3	De 6 a 12 meses
+Junio 2021	05	Cinco Villas	Hombres	153	4	De 1 a 2 años
+Junio 2021	05	Cinco Villas	Hombres	32	5	De 2 a 3 años
+Junio 2021	05	Cinco Villas	Hombres	76	6	Más de 3 años
+Junio 2021	05	Cinco Villas	Mujeres	164	1	Hasta 3 meses
+Junio 2021	05	Cinco Villas	Mujeres	97	2	De 3 a 6 meses
+Junio 2021	05	Cinco Villas	Mujeres	157	3	De 6 a 12 meses
+Junio 2021	05	Cinco Villas	Mujeres	260	4	De 1 a 2 años
+Junio 2021	05	Cinco Villas	Mujeres	104	5	De 2 a 3 años
+Junio 2021	05	Cinco Villas	Mujeres	192	6	Más de 3 años
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	343	1	Hasta 3 meses
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	234	2	De 3 a 6 meses
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	254	3	De 6 a 12 meses
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	437	4	De 1 a 2 años
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	113	5	De 2 a 3 años
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	156	6	Más de 3 años
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	399	1	Hasta 3 meses
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	243	2	De 3 a 6 meses
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	402	3	De 6 a 12 meses
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	613	4	De 1 a 2 años
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	209	5	De 2 a 3 años
+Junio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	246	6	Más de 3 años
+Junio 2021	07	Somontano de Barbastro	Hombres	118	1	Hasta 3 meses
+Junio 2021	07	Somontano de Barbastro	Hombres	54	2	De 3 a 6 meses
+Junio 2021	07	Somontano de Barbastro	Hombres	90	3	De 6 a 12 meses
+Junio 2021	07	Somontano de Barbastro	Hombres	97	4	De 1 a 2 años
+Junio 2021	07	Somontano de Barbastro	Hombres	36	5	De 2 a 3 años
+Junio 2021	07	Somontano de Barbastro	Hombres	69	6	Más de 3 años
+Junio 2021	07	Somontano de Barbastro	Mujeres	119	1	Hasta 3 meses
+Junio 2021	07	Somontano de Barbastro	Mujeres	54	2	De 3 a 6 meses
+Junio 2021	07	Somontano de Barbastro	Mujeres	121	3	De 6 a 12 meses
+Junio 2021	07	Somontano de Barbastro	Mujeres	228	4	De 1 a 2 años
+Junio 2021	07	Somontano de Barbastro	Mujeres	65	5	De 2 a 3 años
+Junio 2021	07	Somontano de Barbastro	Mujeres	132	6	Más de 3 años
+Junio 2021	08	Cinca Medio	Hombres	150	1	Hasta 3 meses
+Junio 2021	08	Cinca Medio	Hombres	59	2	De 3 a 6 meses
+Junio 2021	08	Cinca Medio	Hombres	94	3	De 6 a 12 meses
+Junio 2021	08	Cinca Medio	Hombres	130	4	De 1 a 2 años
+Junio 2021	08	Cinca Medio	Hombres	35	5	De 2 a 3 años
+Junio 2021	08	Cinca Medio	Hombres	31	6	Más de 3 años
+Junio 2021	08	Cinca Medio	Mujeres	142	1	Hasta 3 meses
+Junio 2021	08	Cinca Medio	Mujeres	91	2	De 3 a 6 meses
+Junio 2021	08	Cinca Medio	Mujeres	115	3	De 6 a 12 meses
+Junio 2021	08	Cinca Medio	Mujeres	187	4	De 1 a 2 años
+Junio 2021	08	Cinca Medio	Mujeres	77	5	De 2 a 3 años
+Junio 2021	08	Cinca Medio	Mujeres	119	6	Más de 3 años
+Junio 2021	09	La Litera / La Llitera	Hombres	117	1	Hasta 3 meses
+Junio 2021	09	La Litera / La Llitera	Hombres	55	2	De 3 a 6 meses
+Junio 2021	09	La Litera / La Llitera	Hombres	69	3	De 6 a 12 meses
+Junio 2021	09	La Litera / La Llitera	Hombres	68	4	De 1 a 2 años
+Junio 2021	09	La Litera / La Llitera	Hombres	13	5	De 2 a 3 años
+Junio 2021	09	La Litera / La Llitera	Hombres	29	6	Más de 3 años
+Junio 2021	09	La Litera / La Llitera	Mujeres	76	1	Hasta 3 meses
+Junio 2021	09	La Litera / La Llitera	Mujeres	62	2	De 3 a 6 meses
+Junio 2021	09	La Litera / La Llitera	Mujeres	82	3	De 6 a 12 meses
+Junio 2021	09	La Litera / La Llitera	Mujeres	110	4	De 1 a 2 años
+Junio 2021	09	La Litera / La Llitera	Mujeres	37	5	De 2 a 3 años
+Junio 2021	09	La Litera / La Llitera	Mujeres	49	6	Más de 3 años
+Junio 2021	10	Los Monegros	Hombres	64	1	Hasta 3 meses
+Junio 2021	10	Los Monegros	Hombres	29	2	De 3 a 6 meses
+Junio 2021	10	Los Monegros	Hombres	35	3	De 6 a 12 meses
+Junio 2021	10	Los Monegros	Hombres	51	4	De 1 a 2 años
+Junio 2021	10	Los Monegros	Hombres	24	5	De 2 a 3 años
+Junio 2021	10	Los Monegros	Hombres	23	6	Más de 3 años
+Junio 2021	10	Los Monegros	Mujeres	65	1	Hasta 3 meses
+Junio 2021	10	Los Monegros	Mujeres	46	2	De 3 a 6 meses
+Junio 2021	10	Los Monegros	Mujeres	62	3	De 6 a 12 meses
+Junio 2021	10	Los Monegros	Mujeres	98	4	De 1 a 2 años
+Junio 2021	10	Los Monegros	Mujeres	44	5	De 2 a 3 años
+Junio 2021	10	Los Monegros	Mujeres	48	6	Más de 3 años
+Junio 2021	11	Bajo Cinca / Baix Cinca	Hombres	111	1	Hasta 3 meses
+Junio 2021	11	Bajo Cinca / Baix Cinca	Hombres	43	2	De 3 a 6 meses
+Junio 2021	11	Bajo Cinca / Baix Cinca	Hombres	111	3	De 6 a 12 meses
+Junio 2021	11	Bajo Cinca / Baix Cinca	Hombres	53	4	De 1 a 2 años
+Junio 2021	11	Bajo Cinca / Baix Cinca	Hombres	16	5	De 2 a 3 años
+Junio 2021	11	Bajo Cinca / Baix Cinca	Hombres	28	6	Más de 3 años
+Junio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	89	1	Hasta 3 meses
+Junio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	41	2	De 3 a 6 meses
+Junio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	117	3	De 6 a 12 meses
+Junio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	136	4	De 1 a 2 años
+Junio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	39	5	De 2 a 3 años
+Junio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	59	6	Más de 3 años
+Junio 2021	12	Tarazona y el Moncayo	Hombres	75	1	Hasta 3 meses
+Junio 2021	12	Tarazona y el Moncayo	Hombres	31	2	De 3 a 6 meses
+Junio 2021	12	Tarazona y el Moncayo	Hombres	54	3	De 6 a 12 meses
+Junio 2021	12	Tarazona y el Moncayo	Hombres	91	4	De 1 a 2 años
+Junio 2021	12	Tarazona y el Moncayo	Hombres	26	5	De 2 a 3 años
+Junio 2021	12	Tarazona y el Moncayo	Hombres	31	6	Más de 3 años
+Junio 2021	12	Tarazona y el Moncayo	Mujeres	69	1	Hasta 3 meses
+Junio 2021	12	Tarazona y el Moncayo	Mujeres	46	2	De 3 a 6 meses
+Junio 2021	12	Tarazona y el Moncayo	Mujeres	66	3	De 6 a 12 meses
+Junio 2021	12	Tarazona y el Moncayo	Mujeres	123	4	De 1 a 2 años
+Junio 2021	12	Tarazona y el Moncayo	Mujeres	49	5	De 2 a 3 años
+Junio 2021	12	Tarazona y el Moncayo	Mujeres	110	6	Más de 3 años
+Junio 2021	13	Campo de Borja	Hombres	82	1	Hasta 3 meses
+Junio 2021	13	Campo de Borja	Hombres	50	2	De 3 a 6 meses
+Junio 2021	13	Campo de Borja	Hombres	45	3	De 6 a 12 meses
+Junio 2021	13	Campo de Borja	Hombres	76	4	De 1 a 2 años
+Junio 2021	13	Campo de Borja	Hombres	20	5	De 2 a 3 años
+Junio 2021	13	Campo de Borja	Hombres	36	6	Más de 3 años
+Junio 2021	13	Campo de Borja	Mujeres	90	1	Hasta 3 meses
+Junio 2021	13	Campo de Borja	Mujeres	39	2	De 3 a 6 meses
+Junio 2021	13	Campo de Borja	Mujeres	58	3	De 6 a 12 meses
+Junio 2021	13	Campo de Borja	Mujeres	104	4	De 1 a 2 años
+Junio 2021	13	Campo de Borja	Mujeres	42	5	De 2 a 3 años
+Junio 2021	13	Campo de Borja	Mujeres	72	6	Más de 3 años
+Junio 2021	14	Aranda	Hombres	23	1	Hasta 3 meses
+Junio 2021	14	Aranda	Hombres	20	2	De 3 a 6 meses
+Junio 2021	14	Aranda	Hombres	16	3	De 6 a 12 meses
+Junio 2021	14	Aranda	Hombres	29	4	De 1 a 2 años
+Junio 2021	14	Aranda	Hombres	14	5	De 2 a 3 años
+Junio 2021	14	Aranda	Hombres	15	6	Más de 3 años
+Junio 2021	14	Aranda	Mujeres	39	1	Hasta 3 meses
+Junio 2021	14	Aranda	Mujeres	24	2	De 3 a 6 meses
+Junio 2021	14	Aranda	Mujeres	37	3	De 6 a 12 meses
+Junio 2021	14	Aranda	Mujeres	59	4	De 1 a 2 años
+Junio 2021	14	Aranda	Mujeres	37	5	De 2 a 3 años
+Junio 2021	14	Aranda	Mujeres	67	6	Más de 3 años
+Junio 2021	15	Ribera Alta del Ebro	Hombres	166	1	Hasta 3 meses
+Junio 2021	15	Ribera Alta del Ebro	Hombres	89	2	De 3 a 6 meses
+Junio 2021	15	Ribera Alta del Ebro	Hombres	132	3	De 6 a 12 meses
+Junio 2021	15	Ribera Alta del Ebro	Hombres	160	4	De 1 a 2 años
+Junio 2021	15	Ribera Alta del Ebro	Hombres	41	5	De 2 a 3 años
+Junio 2021	15	Ribera Alta del Ebro	Hombres	79	6	Más de 3 años
+Junio 2021	15	Ribera Alta del Ebro	Mujeres	189	1	Hasta 3 meses
+Junio 2021	15	Ribera Alta del Ebro	Mujeres	101	2	De 3 a 6 meses
+Junio 2021	15	Ribera Alta del Ebro	Mujeres	142	3	De 6 a 12 meses
+Junio 2021	15	Ribera Alta del Ebro	Mujeres	301	4	De 1 a 2 años
+Junio 2021	15	Ribera Alta del Ebro	Mujeres	104	5	De 2 a 3 años
+Junio 2021	15	Ribera Alta del Ebro	Mujeres	198	6	Más de 3 años
+Junio 2021	16	Valdejalón	Hombres	191	1	Hasta 3 meses
+Junio 2021	16	Valdejalón	Hombres	90	2	De 3 a 6 meses
+Junio 2021	16	Valdejalón	Hombres	142	3	De 6 a 12 meses
+Junio 2021	16	Valdejalón	Hombres	192	4	De 1 a 2 años
+Junio 2021	16	Valdejalón	Hombres	38	5	De 2 a 3 años
+Junio 2021	16	Valdejalón	Hombres	83	6	Más de 3 años
+Junio 2021	16	Valdejalón	Mujeres	214	1	Hasta 3 meses
+Junio 2021	16	Valdejalón	Mujeres	106	2	De 3 a 6 meses
+Junio 2021	16	Valdejalón	Mujeres	203	3	De 6 a 12 meses
+Junio 2021	16	Valdejalón	Mujeres	332	4	De 1 a 2 años
+Junio 2021	16	Valdejalón	Mujeres	115	5	De 2 a 3 años
+Junio 2021	16	Valdejalón	Mujeres	192	6	Más de 3 años
+Junio 2021	17	Central	Hombres	4186	1	Hasta 3 meses
+Junio 2021	17	Central	Hombres	2157	2	De 3 a 6 meses
+Junio 2021	17	Central	Hombres	3408	3	De 6 a 12 meses
+Junio 2021	17	Central	Hombres	4914	4	De 1 a 2 años
+Junio 2021	17	Central	Hombres	1535	5	De 2 a 3 años
+Junio 2021	17	Central	Hombres	2771	6	Más de 3 años
+Junio 2021	17	Central	Mujeres	4947	1	Hasta 3 meses
+Junio 2021	17	Central	Mujeres	2876	2	De 3 a 6 meses
+Junio 2021	17	Central	Mujeres	4490	3	De 6 a 12 meses
+Junio 2021	17	Central	Mujeres	7857	4	De 1 a 2 años
+Junio 2021	17	Central	Mujeres	3084	5	De 2 a 3 años
+Junio 2021	17	Central	Mujeres	5756	6	Más de 3 años
+Junio 2021	18	Ribera Baja del Ebro	Hombres	37	1	Hasta 3 meses
+Junio 2021	18	Ribera Baja del Ebro	Hombres	21	2	De 3 a 6 meses
+Junio 2021	18	Ribera Baja del Ebro	Hombres	29	3	De 6 a 12 meses
+Junio 2021	18	Ribera Baja del Ebro	Hombres	34	4	De 1 a 2 años
+Junio 2021	18	Ribera Baja del Ebro	Hombres	12	5	De 2 a 3 años
+Junio 2021	18	Ribera Baja del Ebro	Hombres	14	6	Más de 3 años
+Junio 2021	18	Ribera Baja del Ebro	Mujeres	36	1	Hasta 3 meses
+Junio 2021	18	Ribera Baja del Ebro	Mujeres	25	2	De 3 a 6 meses
+Junio 2021	18	Ribera Baja del Ebro	Mujeres	43	3	De 6 a 12 meses
+Junio 2021	18	Ribera Baja del Ebro	Mujeres	73	4	De 1 a 2 años
+Junio 2021	18	Ribera Baja del Ebro	Mujeres	22	5	De 2 a 3 años
+Junio 2021	18	Ribera Baja del Ebro	Mujeres	53	6	Más de 3 años
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	70	1	Hasta 3 meses
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	37	2	De 3 a 6 meses
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	64	3	De 6 a 12 meses
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	60	4	De 1 a 2 años
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	14	5	De 2 a 3 años
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	25	6	Más de 3 años
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	74	1	Hasta 3 meses
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	29	2	De 3 a 6 meses
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	93	3	De 6 a 12 meses
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	128	4	De 1 a 2 años
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	41	5	De 2 a 3 años
+Junio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	82	6	Más de 3 años
+Junio 2021	20	Comunidad de Calatayud	Hombres	167	1	Hasta 3 meses
+Junio 2021	20	Comunidad de Calatayud	Hombres	87	2	De 3 a 6 meses
+Junio 2021	20	Comunidad de Calatayud	Hombres	137	3	De 6 a 12 meses
+Junio 2021	20	Comunidad de Calatayud	Hombres	190	4	De 1 a 2 años
+Junio 2021	20	Comunidad de Calatayud	Hombres	67	5	De 2 a 3 años
+Junio 2021	20	Comunidad de Calatayud	Hombres	118	6	Más de 3 años
+Junio 2021	20	Comunidad de Calatayud	Mujeres	194	1	Hasta 3 meses
+Junio 2021	20	Comunidad de Calatayud	Mujeres	121	2	De 3 a 6 meses
+Junio 2021	20	Comunidad de Calatayud	Mujeres	219	3	De 6 a 12 meses
+Junio 2021	20	Comunidad de Calatayud	Mujeres	323	4	De 1 a 2 años
+Junio 2021	20	Comunidad de Calatayud	Mujeres	116	5	De 2 a 3 años
+Junio 2021	20	Comunidad de Calatayud	Mujeres	194	6	Más de 3 años
+Junio 2021	21	Campo de Cariñena	Hombres	49	1	Hasta 3 meses
+Junio 2021	21	Campo de Cariñena	Hombres	15	2	De 3 a 6 meses
+Junio 2021	21	Campo de Cariñena	Hombres	25	3	De 6 a 12 meses
+Junio 2021	21	Campo de Cariñena	Hombres	47	4	De 1 a 2 años
+Junio 2021	21	Campo de Cariñena	Hombres	12	5	De 2 a 3 años
+Junio 2021	21	Campo de Cariñena	Hombres	12	6	Más de 3 años
+Junio 2021	21	Campo de Cariñena	Mujeres	42	1	Hasta 3 meses
+Junio 2021	21	Campo de Cariñena	Mujeres	36	2	De 3 a 6 meses
+Junio 2021	21	Campo de Cariñena	Mujeres	47	3	De 6 a 12 meses
+Junio 2021	21	Campo de Cariñena	Mujeres	64	4	De 1 a 2 años
+Junio 2021	21	Campo de Cariñena	Mujeres	28	5	De 2 a 3 años
+Junio 2021	21	Campo de Cariñena	Mujeres	35	6	Más de 3 años
+Junio 2021	22	Campo de Belchite	Hombres	13	1	Hasta 3 meses
+Junio 2021	22	Campo de Belchite	Hombres	11	2	De 3 a 6 meses
+Junio 2021	22	Campo de Belchite	Hombres	10	3	De 6 a 12 meses
+Junio 2021	22	Campo de Belchite	Hombres	16	4	De 1 a 2 años
+Junio 2021	22	Campo de Belchite	Hombres	10	5	De 2 a 3 años
+Junio 2021	22	Campo de Belchite	Hombres	10	6	Más de 3 años
+Junio 2021	22	Campo de Belchite	Mujeres	13	1	Hasta 3 meses
+Junio 2021	22	Campo de Belchite	Mujeres	6	2	De 3 a 6 meses
+Junio 2021	22	Campo de Belchite	Mujeres	13	3	De 6 a 12 meses
+Junio 2021	22	Campo de Belchite	Mujeres	23	4	De 1 a 2 años
+Junio 2021	22	Campo de Belchite	Mujeres	18	5	De 2 a 3 años
+Junio 2021	22	Campo de Belchite	Mujeres	19	6	Más de 3 años
+Junio 2021	23	Bajo Martín	Hombres	36	1	Hasta 3 meses
+Junio 2021	23	Bajo Martín	Hombres	8	2	De 3 a 6 meses
+Junio 2021	23	Bajo Martín	Hombres	32	3	De 6 a 12 meses
+Junio 2021	23	Bajo Martín	Hombres	24	4	De 1 a 2 años
+Junio 2021	23	Bajo Martín	Hombres	5	5	De 2 a 3 años
+Junio 2021	23	Bajo Martín	Hombres	16	6	Más de 3 años
+Junio 2021	23	Bajo Martín	Mujeres	23	1	Hasta 3 meses
+Junio 2021	23	Bajo Martín	Mujeres	36	2	De 3 a 6 meses
+Junio 2021	23	Bajo Martín	Mujeres	49	3	De 6 a 12 meses
+Junio 2021	23	Bajo Martín	Mujeres	45	4	De 1 a 2 años
+Junio 2021	23	Bajo Martín	Mujeres	21	5	De 2 a 3 años
+Junio 2021	23	Bajo Martín	Mujeres	27	6	Más de 3 años
+Junio 2021	24	Campo de Daroca	Hombres	18	1	Hasta 3 meses
+Junio 2021	24	Campo de Daroca	Hombres	12	2	De 3 a 6 meses
+Junio 2021	24	Campo de Daroca	Hombres	8	3	De 6 a 12 meses
+Junio 2021	24	Campo de Daroca	Hombres	24	4	De 1 a 2 años
+Junio 2021	24	Campo de Daroca	Hombres	7	5	De 2 a 3 años
+Junio 2021	24	Campo de Daroca	Hombres	8	6	Más de 3 años
+Junio 2021	24	Campo de Daroca	Mujeres	21	1	Hasta 3 meses
+Junio 2021	24	Campo de Daroca	Mujeres	9	2	De 3 a 6 meses
+Junio 2021	24	Campo de Daroca	Mujeres	23	3	De 6 a 12 meses
+Junio 2021	24	Campo de Daroca	Mujeres	21	4	De 1 a 2 años
+Junio 2021	24	Campo de Daroca	Mujeres	6	5	De 2 a 3 años
+Junio 2021	24	Campo de Daroca	Mujeres	18	6	Más de 3 años
+Junio 2021	25	Jiloca	Hombres	40	1	Hasta 3 meses
+Junio 2021	25	Jiloca	Hombres	20	2	De 3 a 6 meses
+Junio 2021	25	Jiloca	Hombres	36	3	De 6 a 12 meses
+Junio 2021	25	Jiloca	Hombres	35	4	De 1 a 2 años
+Junio 2021	25	Jiloca	Hombres	7	5	De 2 a 3 años
+Junio 2021	25	Jiloca	Hombres	19	6	Más de 3 años
+Junio 2021	25	Jiloca	Mujeres	53	1	Hasta 3 meses
+Junio 2021	25	Jiloca	Mujeres	39	2	De 3 a 6 meses
+Junio 2021	25	Jiloca	Mujeres	41	3	De 6 a 12 meses
+Junio 2021	25	Jiloca	Mujeres	60	4	De 1 a 2 años
+Junio 2021	25	Jiloca	Mujeres	11	5	De 2 a 3 años
+Junio 2021	25	Jiloca	Mujeres	23	6	Más de 3 años
+Junio 2021	26	Cuencas Mineras	Hombres	32	1	Hasta 3 meses
+Junio 2021	26	Cuencas Mineras	Hombres	20	2	De 3 a 6 meses
+Junio 2021	26	Cuencas Mineras	Hombres	21	3	De 6 a 12 meses
+Junio 2021	26	Cuencas Mineras	Hombres	28	4	De 1 a 2 años
+Junio 2021	26	Cuencas Mineras	Hombres	14	5	De 2 a 3 años
+Junio 2021	26	Cuencas Mineras	Hombres	18	6	Más de 3 años
+Junio 2021	26	Cuencas Mineras	Mujeres	50	1	Hasta 3 meses
+Junio 2021	26	Cuencas Mineras	Mujeres	24	2	De 3 a 6 meses
+Junio 2021	26	Cuencas Mineras	Mujeres	46	3	De 6 a 12 meses
+Junio 2021	26	Cuencas Mineras	Mujeres	69	4	De 1 a 2 años
+Junio 2021	26	Cuencas Mineras	Mujeres	30	5	De 2 a 3 años
+Junio 2021	26	Cuencas Mineras	Mujeres	34	6	Más de 3 años
+Junio 2021	27	Andorra-Sierra de Arcos	Hombres	50	1	Hasta 3 meses
+Junio 2021	27	Andorra-Sierra de Arcos	Hombres	27	2	De 3 a 6 meses
+Junio 2021	27	Andorra-Sierra de Arcos	Hombres	41	3	De 6 a 12 meses
+Junio 2021	27	Andorra-Sierra de Arcos	Hombres	33	4	De 1 a 2 años
+Junio 2021	27	Andorra-Sierra de Arcos	Hombres	11	5	De 2 a 3 años
+Junio 2021	27	Andorra-Sierra de Arcos	Hombres	23	6	Más de 3 años
+Junio 2021	27	Andorra-Sierra de Arcos	Mujeres	55	1	Hasta 3 meses
+Junio 2021	27	Andorra-Sierra de Arcos	Mujeres	39	2	De 3 a 6 meses
+Junio 2021	27	Andorra-Sierra de Arcos	Mujeres	58	3	De 6 a 12 meses
+Junio 2021	27	Andorra-Sierra de Arcos	Mujeres	107	4	De 1 a 2 años
+Junio 2021	27	Andorra-Sierra de Arcos	Mujeres	27	5	De 2 a 3 años
+Junio 2021	27	Andorra-Sierra de Arcos	Mujeres	38	6	Más de 3 años
+Junio 2021	28	Bajo Aragón	Hombres	140	1	Hasta 3 meses
+Junio 2021	28	Bajo Aragón	Hombres	79	2	De 3 a 6 meses
+Junio 2021	28	Bajo Aragón	Hombres	102	3	De 6 a 12 meses
+Junio 2021	28	Bajo Aragón	Hombres	118	4	De 1 a 2 años
+Junio 2021	28	Bajo Aragón	Hombres	23	5	De 2 a 3 años
+Junio 2021	28	Bajo Aragón	Hombres	57	6	Más de 3 años
+Junio 2021	28	Bajo Aragón	Mujeres	172	1	Hasta 3 meses
+Junio 2021	28	Bajo Aragón	Mujeres	76	2	De 3 a 6 meses
+Junio 2021	28	Bajo Aragón	Mujeres	197	3	De 6 a 12 meses
+Junio 2021	28	Bajo Aragón	Mujeres	262	4	De 1 a 2 años
+Junio 2021	28	Bajo Aragón	Mujeres	96	5	De 2 a 3 años
+Junio 2021	28	Bajo Aragón	Mujeres	138	6	Más de 3 años
+Junio 2021	29	Comunidad de Teruel	Hombres	258	1	Hasta 3 meses
+Junio 2021	29	Comunidad de Teruel	Hombres	118	2	De 3 a 6 meses
+Junio 2021	29	Comunidad de Teruel	Hombres	179	3	De 6 a 12 meses
+Junio 2021	29	Comunidad de Teruel	Hombres	252	4	De 1 a 2 años
+Junio 2021	29	Comunidad de Teruel	Hombres	72	5	De 2 a 3 años
+Junio 2021	29	Comunidad de Teruel	Hombres	94	6	Más de 3 años
+Junio 2021	29	Comunidad de Teruel	Mujeres	235	1	Hasta 3 meses
+Junio 2021	29	Comunidad de Teruel	Mujeres	167	2	De 3 a 6 meses
+Junio 2021	29	Comunidad de Teruel	Mujeres	271	3	De 6 a 12 meses
+Junio 2021	29	Comunidad de Teruel	Mujeres	359	4	De 1 a 2 años
+Junio 2021	29	Comunidad de Teruel	Mujeres	103	5	De 2 a 3 años
+Junio 2021	29	Comunidad de Teruel	Mujeres	175	6	Más de 3 años
+Junio 2021	30	Maestrazgo	Hombres	12	1	Hasta 3 meses
+Junio 2021	30	Maestrazgo	Hombres	7	2	De 3 a 6 meses
+Junio 2021	30	Maestrazgo	Hombres	11	3	De 6 a 12 meses
+Junio 2021	30	Maestrazgo	Hombres	9	4	De 1 a 2 años
+Junio 2021	30	Maestrazgo	Hombres	3	5	De 2 a 3 años
+Junio 2021	30	Maestrazgo	Hombres	8	6	Más de 3 años
+Junio 2021	30	Maestrazgo	Mujeres	7	1	Hasta 3 meses
+Junio 2021	30	Maestrazgo	Mujeres	10	2	De 3 a 6 meses
+Junio 2021	30	Maestrazgo	Mujeres	12	3	De 6 a 12 meses
+Junio 2021	30	Maestrazgo	Mujeres	19	4	De 1 a 2 años
+Junio 2021	30	Maestrazgo	Mujeres	4	5	De 2 a 3 años
+Junio 2021	30	Maestrazgo	Mujeres	7	6	Más de 3 años
+Junio 2021	31	Sierra de Albarracín	Hombres	21	1	Hasta 3 meses
+Junio 2021	31	Sierra de Albarracín	Hombres	11	2	De 3 a 6 meses
+Junio 2021	31	Sierra de Albarracín	Hombres	2	3	De 6 a 12 meses
+Junio 2021	31	Sierra de Albarracín	Hombres	14	4	De 1 a 2 años
+Junio 2021	31	Sierra de Albarracín	Hombres	3	5	De 2 a 3 años
+Junio 2021	31	Sierra de Albarracín	Hombres	3	6	Más de 3 años
+Junio 2021	31	Sierra de Albarracín	Mujeres	24	1	Hasta 3 meses
+Junio 2021	31	Sierra de Albarracín	Mujeres	6	2	De 3 a 6 meses
+Junio 2021	31	Sierra de Albarracín	Mujeres	23	3	De 6 a 12 meses
+Junio 2021	31	Sierra de Albarracín	Mujeres	27	4	De 1 a 2 años
+Junio 2021	31	Sierra de Albarracín	Mujeres	8	5	De 2 a 3 años
+Junio 2021	31	Sierra de Albarracín	Mujeres	4	6	Más de 3 años
+Junio 2021	32	Gúdar-Javalambre	Hombres	40	1	Hasta 3 meses
+Junio 2021	32	Gúdar-Javalambre	Hombres	20	2	De 3 a 6 meses
+Junio 2021	32	Gúdar-Javalambre	Hombres	35	3	De 6 a 12 meses
+Junio 2021	32	Gúdar-Javalambre	Hombres	33	4	De 1 a 2 años
+Junio 2021	32	Gúdar-Javalambre	Hombres	11	5	De 2 a 3 años
+Junio 2021	32	Gúdar-Javalambre	Hombres	20	6	Más de 3 años
+Junio 2021	32	Gúdar-Javalambre	Mujeres	39	1	Hasta 3 meses
+Junio 2021	32	Gúdar-Javalambre	Mujeres	36	2	De 3 a 6 meses
+Junio 2021	32	Gúdar-Javalambre	Mujeres	35	3	De 6 a 12 meses
+Junio 2021	32	Gúdar-Javalambre	Mujeres	69	4	De 1 a 2 años
+Junio 2021	32	Gúdar-Javalambre	Mujeres	19	5	De 2 a 3 años
+Junio 2021	32	Gúdar-Javalambre	Mujeres	27	6	Más de 3 años
+Junio 2021	33	Matarraña / Matarranya	Hombres	31	1	Hasta 3 meses
+Junio 2021	33	Matarraña / Matarranya	Hombres	14	2	De 3 a 6 meses
+Junio 2021	33	Matarraña / Matarranya	Hombres	20	3	De 6 a 12 meses
+Junio 2021	33	Matarraña / Matarranya	Hombres	33	4	De 1 a 2 años
+Junio 2021	33	Matarraña / Matarranya	Hombres	8	5	De 2 a 3 años
+Junio 2021	33	Matarraña / Matarranya	Hombres	13	6	Más de 3 años
+Junio 2021	33	Matarraña / Matarranya	Mujeres	25	1	Hasta 3 meses
+Junio 2021	33	Matarraña / Matarranya	Mujeres	16	2	De 3 a 6 meses
+Junio 2021	33	Matarraña / Matarranya	Mujeres	35	3	De 6 a 12 meses
+Junio 2021	33	Matarraña / Matarranya	Mujeres	33	4	De 1 a 2 años
+Junio 2021	33	Matarraña / Matarranya	Mujeres	19	5	De 2 a 3 años
+Junio 2021	33	Matarraña / Matarranya	Mujeres	24	6	Más de 3 años
 Mayo 2021	01	La Jacetania	Hombres	83	1	Hasta 3 meses
 Mayo 2021	01	La Jacetania	Hombres	64	2	De 3 a 6 meses
 Mayo 2021	01	La Jacetania	Hombres	126	3	De 6 a 12 meses

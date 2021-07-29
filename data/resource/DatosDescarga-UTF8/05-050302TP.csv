@@ -1,4 +1,70 @@
 Mes y año	Mes (código)	Provincia código	Provincia nombre	Sexo	Edad (grupos quinquenales)	Número de contratos
+Junio 2021	202106	22	Huesca	Hombres	16-19	621
+Junio 2021	202106	22	Huesca	Mujeres	16-19	358
+Junio 2021	202106	22	Huesca	Hombres	20-24	1025
+Junio 2021	202106	22	Huesca	Mujeres	20-24	814
+Junio 2021	202106	22	Huesca	Hombres	25-29	793
+Junio 2021	202106	22	Huesca	Mujeres	25-29	635
+Junio 2021	202106	22	Huesca	Hombres	30-34	743
+Junio 2021	202106	22	Huesca	Mujeres	30-34	564
+Junio 2021	202106	22	Huesca	Hombres	35-39	759
+Junio 2021	202106	22	Huesca	Mujeres	35-39	520
+Junio 2021	202106	22	Huesca	Hombres	40-44	822
+Junio 2021	202106	22	Huesca	Mujeres	40-44	580
+Junio 2021	202106	22	Huesca	Hombres	45-49	736
+Junio 2021	202106	22	Huesca	Mujeres	45-49	591
+Junio 2021	202106	22	Huesca	Hombres	50-54	533
+Junio 2021	202106	22	Huesca	Mujeres	50-54	445
+Junio 2021	202106	22	Huesca	Hombres	55-59	348
+Junio 2021	202106	22	Huesca	Mujeres	55-59	245
+Junio 2021	202106	22	Huesca	Hombres	60-64	158
+Junio 2021	202106	22	Huesca	Mujeres	60-64	110
+Junio 2021	202106	22	Huesca	Hombres	Más de 64	38
+Junio 2021	202106	22	Huesca	Mujeres	Más de 64	5
+Junio 2021	202106	44	Teruel	Hombres	16-19	273
+Junio 2021	202106	44	Teruel	Mujeres	16-19	169
+Junio 2021	202106	44	Teruel	Hombres	20-24	604
+Junio 2021	202106	44	Teruel	Mujeres	20-24	430
+Junio 2021	202106	44	Teruel	Hombres	25-29	396
+Junio 2021	202106	44	Teruel	Mujeres	25-29	328
+Junio 2021	202106	44	Teruel	Hombres	30-34	299
+Junio 2021	202106	44	Teruel	Mujeres	30-34	220
+Junio 2021	202106	44	Teruel	Hombres	35-39	260
+Junio 2021	202106	44	Teruel	Mujeres	35-39	186
+Junio 2021	202106	44	Teruel	Hombres	40-44	232
+Junio 2021	202106	44	Teruel	Mujeres	40-44	234
+Junio 2021	202106	44	Teruel	Hombres	45-49	216
+Junio 2021	202106	44	Teruel	Mujeres	45-49	222
+Junio 2021	202106	44	Teruel	Hombres	50-54	154
+Junio 2021	202106	44	Teruel	Mujeres	50-54	188
+Junio 2021	202106	44	Teruel	Hombres	55-59	182
+Junio 2021	202106	44	Teruel	Mujeres	55-59	99
+Junio 2021	202106	44	Teruel	Hombres	60-64	82
+Junio 2021	202106	44	Teruel	Mujeres	60-64	59
+Junio 2021	202106	44	Teruel	Hombres	Más de 64	8
+Junio 2021	202106	44	Teruel	Mujeres	Más de 64	5
+Junio 2021	202106	50	Zaragoza	Hombres	16-19	1650
+Junio 2021	202106	50	Zaragoza	Mujeres	16-19	901
+Junio 2021	202106	50	Zaragoza	Hombres	20-24	4771
+Junio 2021	202106	50	Zaragoza	Mujeres	20-24	3362
+Junio 2021	202106	50	Zaragoza	Hombres	25-29	3636
+Junio 2021	202106	50	Zaragoza	Mujeres	25-29	2851
+Junio 2021	202106	50	Zaragoza	Hombres	30-34	2960
+Junio 2021	202106	50	Zaragoza	Mujeres	30-34	2277
+Junio 2021	202106	50	Zaragoza	Hombres	35-39	2826
+Junio 2021	202106	50	Zaragoza	Mujeres	35-39	2125
+Junio 2021	202106	50	Zaragoza	Hombres	40-44	2950
+Junio 2021	202106	50	Zaragoza	Mujeres	40-44	2497
+Junio 2021	202106	50	Zaragoza	Hombres	45-49	2630
+Junio 2021	202106	50	Zaragoza	Mujeres	45-49	2232
+Junio 2021	202106	50	Zaragoza	Hombres	50-54	2095
+Junio 2021	202106	50	Zaragoza	Mujeres	50-54	1753
+Junio 2021	202106	50	Zaragoza	Hombres	55-59	1244
+Junio 2021	202106	50	Zaragoza	Mujeres	55-59	956
+Junio 2021	202106	50	Zaragoza	Hombres	60-64	681
+Junio 2021	202106	50	Zaragoza	Mujeres	60-64	370
+Junio 2021	202106	50	Zaragoza	Hombres	Más de 64	112
+Junio 2021	202106	50	Zaragoza	Mujeres	Más de 64	50
 Mayo 2021	202105	22	Huesca	Hombres	16-19	233
 Mayo 2021	202105	22	Huesca	Mujeres	16-19	117
 Mayo 2021	202105	22	Huesca	Hombres	20-24	599

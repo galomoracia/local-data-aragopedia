@@ -89,8 +89,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2006	Aragón	Extranjeros	07	Asia	Asia	Mujeres	1408
 2006	Aragón	Extranjeros	08	Oceanía	Oceanía	Mujeres	24
 2006	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	7
-2007	Aragón	Españoles	01	UE-27	Europa	Mujeres	593950
-2007	Aragón	Extranjeros	01	UE-27	Europa	Mujeres	25465
+2007	Aragón	Españoles	01	UE-27_2007	Europa	Mujeres	593950
+2007	Aragón	Extranjeros	01	UE-27_2007	Europa	Mujeres	25465
 2007	Aragón	Extranjeros	02	Resto de Europa	Europa	Mujeres	1717
 2007	Aragón	Extranjeros	03	Magreb	África	Mujeres	5424
 2007	Aragón	Extranjeros	04	Resto de África	África	Mujeres	3053
@@ -99,8 +99,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2007	Aragón	Extranjeros	07	Asia	Asia	Mujeres	1600
 2007	Aragón	Extranjeros	08	Oceanía	Oceanía	Mujeres	21
 2007	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	8
-2008	Aragón	Españoles	01	UE-27	Europa	Mujeres	594138
-2008	Aragón	Extranjeros	01	UE-27	Europa	Mujeres	33972
+2008	Aragón	Españoles	01	UE-27_2007	Europa	Mujeres	594138
+2008	Aragón	Extranjeros	01	UE-27_2007	Europa	Mujeres	33972
 2008	Aragón	Extranjeros	02	Resto de Europa	Europa	Mujeres	1969
 2008	Aragón	Extranjeros	03	Magreb	África	Mujeres	6460
 2008	Aragón	Extranjeros	04	Resto de África	África	Mujeres	3189
@@ -109,8 +109,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2008	Aragón	Extranjeros	07	Asia	Asia	Mujeres	1864
 2008	Aragón	Extranjeros	08	Oceanía	Oceanía	Mujeres	21
 2008	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	9
-2009	Aragón	Españoles	01	UE-27	Europa	Mujeres	595507
-2009	Aragón	Extranjeros	01	UE-27	Europa	Mujeres	38102
+2009	Aragón	Españoles	01	UE-27_2007	Europa	Mujeres	595507
+2009	Aragón	Extranjeros	01	UE-27_2007	Europa	Mujeres	38102
 2009	Aragón	Extranjeros	02	Resto de Europa	Europa	Mujeres	2109
 2009	Aragón	Extranjeros	03	Magreb	África	Mujeres	7819
 2009	Aragón	Extranjeros	04	Resto de África	África	Mujeres	3521
@@ -119,8 +119,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2009	Aragón	Extranjeros	07	Asia	Asia	Mujeres	2382
 2009	Aragón	Extranjeros	08	Oceanía	Oceanía	Mujeres	18
 2009	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	9
-2010	Aragón	Españoles	01	UE-27	Europa	Mujeres	595908
-2010	Aragón	Extranjeros	01	UE-27	Europa	Mujeres	39330
+2010	Aragón	Españoles	01	UE-27_2007	Europa	Mujeres	595908
+2010	Aragón	Extranjeros	01	UE-27_2007	Europa	Mujeres	39330
 2010	Aragón	Extranjeros	02	Resto de Europa	Europa	Mujeres	2098
 2010	Aragón	Extranjeros	03	Magreb	África	Mujeres	8589
 2010	Aragón	Extranjeros	04	Resto de África	África	Mujeres	3687
@@ -129,8 +129,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2010	Aragón	Extranjeros	07	Asia	Asia	Mujeres	2548
 2010	Aragón	Extranjeros	08	Oceanía	Oceanía	Mujeres	22
 2010	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	9
-2011	Aragón	Españoles	01	UE-27	Europa	Mujeres	596762
-2011	Aragón	Extranjeros	01	UE-27	Europa	Mujeres	40487
+2011	Aragón	Españoles	01	UE-27_2007	Europa	Mujeres	596762
+2011	Aragón	Extranjeros	01	UE-27_2007	Europa	Mujeres	40487
 2011	Aragón	Extranjeros	02	Resto de Europa	Europa	Mujeres	2171
 2011	Aragón	Extranjeros	03	Magreb	África	Mujeres	8828
 2011	Aragón	Extranjeros	04	Resto de África	África	Mujeres	3711
@@ -139,8 +139,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2011	Aragón	Extranjeros	07	Asia	Asia	Mujeres	2648
 2011	Aragón	Extranjeros	08	Oceanía	Oceanía	Mujeres	21
 2011	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	9
-2012	Aragón	Españoles	01	UE-27	Europa	Mujeres	597613
-2012	Aragón	Extranjeros	01	UE-27	Europa	Mujeres	42193
+2012	Aragón	Españoles	01	UE-27_2007	Europa	Mujeres	597613
+2012	Aragón	Extranjeros	01	UE-27_2007	Europa	Mujeres	42193
 2012	Aragón	Extranjeros	02	Resto de Europa	Europa	Mujeres	2306
 2012	Aragón	Extranjeros	03	Magreb	África	Mujeres	9403
 2012	Aragón	Extranjeros	04	Resto de África	África	Mujeres	3843
@@ -149,8 +149,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2012	Aragón	Extranjeros	07	Asia	Asia	Mujeres	2942
 2012	Aragón	Extranjeros	08	Oceanía	Oceanía	Mujeres	20
 2012	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Mujeres	10
-2013	Aragón	Españoles	01	UE-27	Europa	Mujeres	596264
-2013	Aragón	Extranjeros	01	UE-27	Europa	Mujeres	41872
+2013	Aragón	Españoles	01	UE-27_2007	Europa	Mujeres	596264
+2013	Aragón	Extranjeros	01	UE-27_2007	Europa	Mujeres	41872
 2013	Aragón	Extranjeros	02	Resto de Europa	Europa	Mujeres	2405
 2013	Aragón	Extranjeros	03	Magreb	África	Mujeres	10042
 2013	Aragón	Extranjeros	04	Resto de África	África	Mujeres	4002
@@ -319,8 +319,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2006	Aragón	Extranjeros	07	Asia	Asia	Hombres	2436
 2006	Aragón	Extranjeros	08	Oceanía	Oceanía	Hombres	38
 2006	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	19
-2007	Aragón	Españoles	01	UE-27	Europa	Hombres	578301
-2007	Aragón	Extranjeros	01	UE-27	Europa	Hombres	31398
+2007	Aragón	Españoles	01	UE-27_2007	Europa	Hombres	578301
+2007	Aragón	Extranjeros	01	UE-27_2007	Europa	Hombres	31398
 2007	Aragón	Extranjeros	02	Resto de Europa	Europa	Hombres	1444
 2007	Aragón	Extranjeros	03	Magreb	África	Hombres	11732
 2007	Aragón	Extranjeros	04	Resto de África	África	Hombres	7473
@@ -329,8 +329,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2007	Aragón	Extranjeros	07	Asia	Asia	Hombres	2410
 2007	Aragón	Extranjeros	08	Oceanía	Oceanía	Hombres	18
 2007	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2008	Aragón	Españoles	01	UE-27	Europa	Hombres	577888
-2008	Aragón	Extranjeros	01	UE-27	Europa	Hombres	43900
+2008	Aragón	Españoles	01	UE-27_2007	Europa	Hombres	577888
+2008	Aragón	Extranjeros	01	UE-27_2007	Europa	Hombres	43900
 2008	Aragón	Extranjeros	02	Resto de Europa	Europa	Hombres	1637
 2008	Aragón	Extranjeros	03	Magreb	África	Hombres	13587
 2008	Aragón	Extranjeros	04	Resto de África	África	Hombres	8239
@@ -339,8 +339,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2008	Aragón	Extranjeros	07	Asia	Asia	Hombres	2690
 2008	Aragón	Extranjeros	08	Oceanía	Oceanía	Hombres	23
 2008	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2009	Aragón	Españoles	01	UE-27	Europa	Hombres	577828
-2009	Aragón	Extranjeros	01	UE-27	Europa	Hombres	48189
+2009	Aragón	Españoles	01	UE-27_2007	Europa	Hombres	577828
+2009	Aragón	Extranjeros	01	UE-27_2007	Europa	Hombres	48189
 2009	Aragón	Extranjeros	02	Resto de Europa	Europa	Hombres	1682
 2009	Aragón	Extranjeros	03	Magreb	África	Hombres	15538
 2009	Aragón	Extranjeros	04	Resto de África	África	Hombres	9337
@@ -349,8 +349,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2009	Aragón	Extranjeros	07	Asia	Asia	Hombres	3419
 2009	Aragón	Extranjeros	08	Oceanía	Oceanía	Hombres	26
 2009	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2010	Aragón	Españoles	01	UE-27	Europa	Hombres	578101
-2010	Aragón	Extranjeros	01	UE-27	Europa	Hombres	48084
+2010	Aragón	Españoles	01	UE-27_2007	Europa	Hombres	578101
+2010	Aragón	Extranjeros	01	UE-27_2007	Europa	Hombres	48084
 2010	Aragón	Extranjeros	02	Resto de Europa	Europa	Hombres	1598
 2010	Aragón	Extranjeros	03	Magreb	África	Hombres	15530
 2010	Aragón	Extranjeros	04	Resto de África	África	Hombres	9294
@@ -359,8 +359,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2010	Aragón	Extranjeros	07	Asia	Asia	Hombres	3620
 2010	Aragón	Extranjeros	08	Oceanía	Oceanía	Hombres	23
 2010	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2011	Aragón	Españoles	01	UE-27	Europa	Hombres	578338
-2011	Aragón	Extranjeros	01	UE-27	Europa	Hombres	48022
+2011	Aragón	Españoles	01	UE-27_2007	Europa	Hombres	578338
+2011	Aragón	Extranjeros	01	UE-27_2007	Europa	Hombres	48022
 2011	Aragón	Extranjeros	02	Resto de Europa	Europa	Hombres	1608
 2011	Aragón	Extranjeros	03	Magreb	África	Hombres	15258
 2011	Aragón	Extranjeros	04	Resto de África	África	Hombres	9194
@@ -369,8 +369,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2011	Aragón	Extranjeros	07	Asia	Asia	Hombres	3732
 2011	Aragón	Extranjeros	08	Oceanía	Oceanía	Hombres	18
 2011	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	21
-2012	Aragón	Españoles	01	UE-27	Europa	Hombres	578743
-2012	Aragón	Extranjeros	01	UE-27	Europa	Hombres	48964
+2012	Aragón	Españoles	01	UE-27_2007	Europa	Hombres	578743
+2012	Aragón	Extranjeros	01	UE-27_2007	Europa	Hombres	48964
 2012	Aragón	Extranjeros	02	Resto de Europa	Europa	Hombres	1680
 2012	Aragón	Extranjeros	03	Magreb	África	Hombres	15374
 2012	Aragón	Extranjeros	04	Resto de África	África	Hombres	9233
@@ -379,8 +379,8 @@ Año	Residencia CCAA nombre	Tipo de nacionalidad	Nacionalidad área código	Naci
 2012	Aragón	Extranjeros	07	Asia	Asia	Hombres	4087
 2012	Aragón	Extranjeros	08	Oceanía	Oceanía	Hombres	20
 2012	Aragón	Extranjeros	09	Apátridas y no consta	Apátridas y no consta	Hombres	20
-2013	Aragón	Españoles	01	UE-27	Europa	Hombres	577233
-2013	Aragón	Extranjeros	01	UE-27	Europa	Hombres	47553
+2013	Aragón	Españoles	01	UE-27_2007	Europa	Hombres	577233
+2013	Aragón	Extranjeros	01	UE-27_2007	Europa	Hombres	47553
 2013	Aragón	Extranjeros	02	Resto de Europa	Europa	Hombres	1678
 2013	Aragón	Extranjeros	03	Magreb	África	Hombres	15837
 2013	Aragón	Extranjeros	04	Resto de África	África	Hombres	9518

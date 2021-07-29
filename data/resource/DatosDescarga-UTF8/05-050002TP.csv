@@ -1,77 +1,152 @@
 Mes y año	Provincia código	Provincia nombre	Edad (Grupos Quinquenales 2010)	Sexo	Afiliaciones en alta
-Mayo 2021	22	Huesca	16-19	Hombres	538
-Mayo 2021	22	Huesca	16-19	Mujeres	215
-Mayo 2021	22	Huesca	20-24	Hombres	2828
-Mayo 2021	22	Huesca	20-24	Mujeres	1431
-Mayo 2021	22	Huesca	25-29	Hombres	4260
-Mayo 2021	22	Huesca	25-29	Mujeres	3146
-Mayo 2021	22	Huesca	30-34	Hombres	5203
-Mayo 2021	22	Huesca	30-34	Mujeres	4059
-Mayo 2021	22	Huesca	35-39	Hombres	6610
-Mayo 2021	22	Huesca	35-39	Mujeres	4951
-Mayo 2021	22	Huesca	40-44	Hombres	8732
-Mayo 2021	22	Huesca	40-44	Mujeres	6449
-Mayo 2021	22	Huesca	45-49	Hombres	8541
-Mayo 2021	22	Huesca	45-49	Mujeres	6568
-Mayo 2021	22	Huesca	50-54	Hombres	7704
-Mayo 2021	22	Huesca	50-54	Mujeres	6241
-Mayo 2021	22	Huesca	55-59	Hombres	6943
-Mayo 2021	22	Huesca	55-59	Mujeres	5393
-Mayo 2021	22	Huesca	60-64	Hombres	4872
-Mayo 2021	22	Huesca	60-64	Mujeres	3806
-Mayo 2021	22	Huesca	65-69	Hombres	796
+Junio 2021	22	Huesca	16-19	Hombres	891
+Junio 2021	22	Huesca	16-19	Mujeres	473
+Junio 2021	22	Huesca	20-24	Hombres	3167
+Junio 2021	22	Huesca	20-24	Mujeres	1847
+Junio 2021	22	Huesca	25-29	Hombres	4376
+Junio 2021	22	Huesca	25-29	Mujeres	3336
+Junio 2021	22	Huesca	30-34	Hombres	5396
+Junio 2021	22	Huesca	30-34	Mujeres	4186
+Junio 2021	22	Huesca	35-39	Hombres	6731
+Junio 2021	22	Huesca	35-39	Mujeres	5082
+Junio 2021	22	Huesca	40-44	Hombres	8833
+Junio 2021	22	Huesca	40-44	Mujeres	6500
+Junio 2021	22	Huesca	45-49	Hombres	8595
+Junio 2021	22	Huesca	45-49	Mujeres	6732
+Junio 2021	22	Huesca	50-54	Hombres	7771
+Junio 2021	22	Huesca	50-54	Mujeres	6312
+Junio 2021	22	Huesca	55-59	Hombres	7010
+Junio 2021	22	Huesca	55-59	Mujeres	5400
+Junio 2021	22	Huesca	60-64	Hombres	4915
+Junio 2021	22	Huesca	60-64	Mujeres	3777
+Junio 2021	22	Huesca	65-69	Hombres	840
+Junio 2021	22	Huesca	65-69	Mujeres	585
+Junio 2021	22	Huesca	Más de 69	Hombres	381
+Junio 2021	22	Huesca	Más de 69	Mujeres	154
+Junio 2021	44	Teruel	16-19	Hombres	385
+Junio 2021	44	Teruel	16-19	Mujeres	203
+Junio 2021	44	Teruel	20-24	Hombres	1576
+Junio 2021	44	Teruel	20-24	Mujeres	910
+Junio 2021	44	Teruel	25-29	Hombres	2325
+Junio 2021	44	Teruel	25-29	Mujeres	1834
+Junio 2021	44	Teruel	30-34	Hombres	3011
+Junio 2021	44	Teruel	30-34	Mujeres	2410
+Junio 2021	44	Teruel	35-39	Hombres	3753
+Junio 2021	44	Teruel	35-39	Mujeres	2811
+Junio 2021	44	Teruel	40-44	Hombres	4542
+Junio 2021	44	Teruel	40-44	Mujeres	3428
+Junio 2021	44	Teruel	45-49	Hombres	4481
+Junio 2021	44	Teruel	45-49	Mujeres	3527
+Junio 2021	44	Teruel	50-54	Hombres	4255
+Junio 2021	44	Teruel	50-54	Mujeres	3486
+Junio 2021	44	Teruel	55-59	Hombres	4046
+Junio 2021	44	Teruel	55-59	Mujeres	3165
+Junio 2021	44	Teruel	60-64	Hombres	2773
+Junio 2021	44	Teruel	60-64	Mujeres	2146
+Junio 2021	44	Teruel	65-69	Hombres	266
+Junio 2021	44	Teruel	65-69	Mujeres	269
+Junio 2021	44	Teruel	Más de 69	Hombres	74
+Junio 2021	44	Teruel	Más de 69	Mujeres	27
+Junio 2021	44	Teruel	Sin clasificar	Hombres	1
+Junio 2021	50	Zaragoza	16-19	Hombres	2208
+Junio 2021	50	Zaragoza	16-19	Mujeres	1287
+Junio 2021	50	Zaragoza	20-24	Hombres	12239
+Junio 2021	50	Zaragoza	20-24	Mujeres	8349
+Junio 2021	50	Zaragoza	25-29	Hombres	18444
+Junio 2021	50	Zaragoza	25-29	Mujeres	16140
+Junio 2021	50	Zaragoza	30-34	Hombres	21318
+Junio 2021	50	Zaragoza	30-34	Mujeres	19383
+Junio 2021	50	Zaragoza	35-39	Hombres	26118
+Junio 2021	50	Zaragoza	35-39	Mujeres	23047
+Junio 2021	50	Zaragoza	40-44	Hombres	34129
+Junio 2021	50	Zaragoza	40-44	Mujeres	29653
+Junio 2021	50	Zaragoza	45-49	Hombres	36364
+Junio 2021	50	Zaragoza	45-49	Mujeres	31103
+Junio 2021	50	Zaragoza	50-54	Hombres	32348
+Junio 2021	50	Zaragoza	50-54	Mujeres	27883
+Junio 2021	50	Zaragoza	55-59	Hombres	27489
+Junio 2021	50	Zaragoza	55-59	Mujeres	22840
+Junio 2021	50	Zaragoza	60-64	Hombres	18115
+Junio 2021	50	Zaragoza	60-64	Mujeres	15111
+Junio 2021	50	Zaragoza	65-69	Hombres	2105
+Junio 2021	50	Zaragoza	65-69	Mujeres	2040
+Junio 2021	50	Zaragoza	Más de 69	Hombres	758
+Junio 2021	50	Zaragoza	Más de 69	Mujeres	425
+Junio 2021	50	Zaragoza	Sin clasificar	Hombres	2
+Junio 2021	50	Zaragoza	Sin clasificar	Mujeres	6
+Mayo 2021	22	Huesca	16-19	Hombres	542
+Mayo 2021	22	Huesca	16-19	Mujeres	218
+Mayo 2021	22	Huesca	20-24	Hombres	2841
+Mayo 2021	22	Huesca	20-24	Mujeres	1445
+Mayo 2021	22	Huesca	25-29	Hombres	4275
+Mayo 2021	22	Huesca	25-29	Mujeres	3168
+Mayo 2021	22	Huesca	30-34	Hombres	5237
+Mayo 2021	22	Huesca	30-34	Mujeres	4077
+Mayo 2021	22	Huesca	35-39	Hombres	6638
+Mayo 2021	22	Huesca	35-39	Mujeres	4974
+Mayo 2021	22	Huesca	40-44	Hombres	8761
+Mayo 2021	22	Huesca	40-44	Mujeres	6472
+Mayo 2021	22	Huesca	45-49	Hombres	8571
+Mayo 2021	22	Huesca	45-49	Mujeres	6587
+Mayo 2021	22	Huesca	50-54	Hombres	7726
+Mayo 2021	22	Huesca	50-54	Mujeres	6259
+Mayo 2021	22	Huesca	55-59	Hombres	6955
+Mayo 2021	22	Huesca	55-59	Mujeres	5401
+Mayo 2021	22	Huesca	60-64	Hombres	4878
+Mayo 2021	22	Huesca	60-64	Mujeres	3813
+Mayo 2021	22	Huesca	65-69	Hombres	797
 Mayo 2021	22	Huesca	65-69	Mujeres	570
 Mayo 2021	22	Huesca	Más de 69	Hombres	374
 Mayo 2021	22	Huesca	Más de 69	Mujeres	147
-Mayo 2021	44	Teruel	16-19	Hombres	225
+Mayo 2021	44	Teruel	16-19	Hombres	229
 Mayo 2021	44	Teruel	16-19	Mujeres	106
-Mayo 2021	44	Teruel	20-24	Hombres	1379
-Mayo 2021	44	Teruel	20-24	Mujeres	726
-Mayo 2021	44	Teruel	25-29	Hombres	2240
-Mayo 2021	44	Teruel	25-29	Mujeres	1715
-Mayo 2021	44	Teruel	30-34	Hombres	2939
-Mayo 2021	44	Teruel	30-34	Mujeres	2363
-Mayo 2021	44	Teruel	35-39	Hombres	3692
-Mayo 2021	44	Teruel	35-39	Mujeres	2767
-Mayo 2021	44	Teruel	40-44	Hombres	4509
-Mayo 2021	44	Teruel	40-44	Mujeres	3356
-Mayo 2021	44	Teruel	45-49	Hombres	4414
-Mayo 2021	44	Teruel	45-49	Mujeres	3472
-Mayo 2021	44	Teruel	50-54	Hombres	4258
-Mayo 2021	44	Teruel	50-54	Mujeres	3415
-Mayo 2021	44	Teruel	55-59	Hombres	3959
-Mayo 2021	44	Teruel	55-59	Mujeres	3171
-Mayo 2021	44	Teruel	60-64	Hombres	2729
-Mayo 2021	44	Teruel	60-64	Mujeres	2111
+Mayo 2021	44	Teruel	20-24	Hombres	1396
+Mayo 2021	44	Teruel	20-24	Mujeres	733
+Mayo 2021	44	Teruel	25-29	Hombres	2259
+Mayo 2021	44	Teruel	25-29	Mujeres	1723
+Mayo 2021	44	Teruel	30-34	Hombres	2964
+Mayo 2021	44	Teruel	30-34	Mujeres	2373
+Mayo 2021	44	Teruel	35-39	Hombres	3714
+Mayo 2021	44	Teruel	35-39	Mujeres	2775
+Mayo 2021	44	Teruel	40-44	Hombres	4524
+Mayo 2021	44	Teruel	40-44	Mujeres	3368
+Mayo 2021	44	Teruel	45-49	Hombres	4436
+Mayo 2021	44	Teruel	45-49	Mujeres	3488
+Mayo 2021	44	Teruel	50-54	Hombres	4276
+Mayo 2021	44	Teruel	50-54	Mujeres	3423
+Mayo 2021	44	Teruel	55-59	Hombres	3973
+Mayo 2021	44	Teruel	55-59	Mujeres	3175
+Mayo 2021	44	Teruel	60-64	Hombres	2736
+Mayo 2021	44	Teruel	60-64	Mujeres	2113
 Mayo 2021	44	Teruel	65-69	Hombres	258
-Mayo 2021	44	Teruel	65-69	Mujeres	271
+Mayo 2021	44	Teruel	65-69	Mujeres	272
 Mayo 2021	44	Teruel	Más de 69	Hombres	68
-Mayo 2021	44	Teruel	Más de 69	Mujeres	25
+Mayo 2021	44	Teruel	Más de 69	Mujeres	26
 Mayo 2021	44	Teruel	Sin clasificar	Hombres	1
-Mayo 2021	50	Zaragoza	16-19	Hombres	1567
-Mayo 2021	50	Zaragoza	16-19	Mujeres	906
-Mayo 2021	50	Zaragoza	20-24	Hombres	11329
-Mayo 2021	50	Zaragoza	20-24	Mujeres	7607
-Mayo 2021	50	Zaragoza	25-29	Hombres	18069
-Mayo 2021	50	Zaragoza	25-29	Mujeres	16069
-Mayo 2021	50	Zaragoza	30-34	Hombres	21299
-Mayo 2021	50	Zaragoza	30-34	Mujeres	19291
-Mayo 2021	50	Zaragoza	35-39	Hombres	25992
-Mayo 2021	50	Zaragoza	35-39	Mujeres	22975
-Mayo 2021	50	Zaragoza	40-44	Hombres	34198
-Mayo 2021	50	Zaragoza	40-44	Mujeres	29805
-Mayo 2021	50	Zaragoza	45-49	Hombres	36011
-Mayo 2021	50	Zaragoza	45-49	Mujeres	31220
-Mayo 2021	50	Zaragoza	50-54	Hombres	32131
-Mayo 2021	50	Zaragoza	50-54	Mujeres	28104
-Mayo 2021	50	Zaragoza	55-59	Hombres	27376
-Mayo 2021	50	Zaragoza	55-59	Mujeres	23343
-Mayo 2021	50	Zaragoza	60-64	Hombres	18040
-Mayo 2021	50	Zaragoza	60-64	Mujeres	15464
-Mayo 2021	50	Zaragoza	65-69	Hombres	2077
-Mayo 2021	50	Zaragoza	65-69	Mujeres	2077
-Mayo 2021	50	Zaragoza	Más de 69	Hombres	741
-Mayo 2021	50	Zaragoza	Más de 69	Mujeres	421
+Mayo 2021	50	Zaragoza	16-19	Hombres	1578
+Mayo 2021	50	Zaragoza	16-19	Mujeres	916
+Mayo 2021	50	Zaragoza	20-24	Hombres	11418
+Mayo 2021	50	Zaragoza	20-24	Mujeres	7667
+Mayo 2021	50	Zaragoza	25-29	Hombres	18186
+Mayo 2021	50	Zaragoza	25-29	Mujeres	16172
+Mayo 2021	50	Zaragoza	30-34	Hombres	21408
+Mayo 2021	50	Zaragoza	30-34	Mujeres	19389
+Mayo 2021	50	Zaragoza	35-39	Hombres	26138
+Mayo 2021	50	Zaragoza	35-39	Mujeres	23069
+Mayo 2021	50	Zaragoza	40-44	Hombres	34386
+Mayo 2021	50	Zaragoza	40-44	Mujeres	29921
+Mayo 2021	50	Zaragoza	45-49	Hombres	36253
+Mayo 2021	50	Zaragoza	45-49	Mujeres	31338
+Mayo 2021	50	Zaragoza	50-54	Hombres	32300
+Mayo 2021	50	Zaragoza	50-54	Mujeres	28194
+Mayo 2021	50	Zaragoza	55-59	Hombres	27494
+Mayo 2021	50	Zaragoza	55-59	Mujeres	23408
+Mayo 2021	50	Zaragoza	60-64	Hombres	18087
+Mayo 2021	50	Zaragoza	60-64	Mujeres	15495
+Mayo 2021	50	Zaragoza	65-69	Hombres	2080
+Mayo 2021	50	Zaragoza	65-69	Mujeres	2082
+Mayo 2021	50	Zaragoza	Más de 69	Hombres	742
+Mayo 2021	50	Zaragoza	Más de 69	Mujeres	422
 Mayo 2021	50	Zaragoza	Sin clasificar	Hombres	2
 Mayo 2021	50	Zaragoza	Sin clasificar	Mujeres	7
 Abril 2021	22	Huesca	16-19	Hombres	435

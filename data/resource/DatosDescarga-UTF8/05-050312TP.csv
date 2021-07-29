@@ -1,4 +1,28 @@
 Mes y año	Mes (código)	Mes nombre	Año	Sexo	Provincia código	Provincia nombre	Número de contratos	Temporalidad	Bonificado o no
+Junio 2021	202106	Junio	2021	Hombres	22	Huesca	16	Indefinido	Bonificados
+Junio 2021	202106	Junio	2021	Mujeres	22	Huesca	8	Indefinido	Bonificados
+Junio 2021	202106	Junio	2021	Hombres	22	Huesca	644	Indefinido	No bonificados
+Junio 2021	202106	Junio	2021	Mujeres	22	Huesca	454	Indefinido	No bonificados
+Junio 2021	202106	Junio	2021	Hombres	22	Huesca	43	Temporal	Bonificados
+Junio 2021	202106	Junio	2021	Mujeres	22	Huesca	50	Temporal	Bonificados
+Junio 2021	202106	Junio	2021	Hombres	22	Huesca	5873	Temporal	No bonificados
+Junio 2021	202106	Junio	2021	Mujeres	22	Huesca	4355	Temporal	No bonificados
+Junio 2021	202106	Junio	2021	Hombres	44	Teruel	5	Indefinido	Bonificados
+Junio 2021	202106	Junio	2021	Mujeres	44	Teruel	5	Indefinido	Bonificados
+Junio 2021	202106	Junio	2021	Hombres	44	Teruel	250	Indefinido	No bonificados
+Junio 2021	202106	Junio	2021	Mujeres	44	Teruel	167	Indefinido	No bonificados
+Junio 2021	202106	Junio	2021	Hombres	44	Teruel	31	Temporal	Bonificados
+Junio 2021	202106	Junio	2021	Mujeres	44	Teruel	33	Temporal	Bonificados
+Junio 2021	202106	Junio	2021	Hombres	44	Teruel	2420	Temporal	No bonificados
+Junio 2021	202106	Junio	2021	Mujeres	44	Teruel	1935	Temporal	No bonificados
+Junio 2021	202106	Junio	2021	Hombres	50	Zaragoza	37	Indefinido	Bonificados
+Junio 2021	202106	Junio	2021	Mujeres	50	Zaragoza	33	Indefinido	Bonificados
+Junio 2021	202106	Junio	2021	Hombres	50	Zaragoza	1681	Indefinido	No bonificados
+Junio 2021	202106	Junio	2021	Mujeres	50	Zaragoza	1493	Indefinido	No bonificados
+Junio 2021	202106	Junio	2021	Hombres	50	Zaragoza	223	Temporal	Bonificados
+Junio 2021	202106	Junio	2021	Mujeres	50	Zaragoza	204	Temporal	Bonificados
+Junio 2021	202106	Junio	2021	Hombres	50	Zaragoza	23614	Temporal	No bonificados
+Junio 2021	202106	Junio	2021	Mujeres	50	Zaragoza	17644	Temporal	No bonificados
 Mayo 2021	202105	Mayo	2021	Hombres	22	Huesca	9	Indefinido	Bonificados
 Mayo 2021	202105	Mayo	2021	Mujeres	22	Huesca	5	Indefinido	Bonificados
 Mayo 2021	202105	Mayo	2021	Hombres	22	Huesca	639	Indefinido	No bonificados

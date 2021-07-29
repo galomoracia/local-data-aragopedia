@@ -1,4 +1,499 @@
 Mes y año	Mes (código)	Mes nombre	Año	Comarca código	Comarca nombre	Sexo	Número de contratos	Número trabajadores (CC)
+Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	211	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Mujeres	189	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	33	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Mujeres	31	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	34	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Mujeres	59	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	10	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Mujeres	23	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	10	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Mujeres	24	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	9	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Mujeres	17	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	1	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	9	99 No consta
+Junio 2021	202106	Junio	2021	01	La Jacetania	Mujeres	6	99 No consta
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Hombres	153	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Mujeres	139	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Hombres	19	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Mujeres	23	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Hombres	28	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Mujeres	12	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Hombres	18	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Mujeres	26	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Hombres	6	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Hombres	11	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Mujeres	16	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Hombres	5	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Mujeres	5	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Hombres	14	99 No consta
+Junio 2021	202106	Junio	2021	02	Alto Gállego	Mujeres	11	99 No consta
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Hombres	191	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Mujeres	172	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Hombres	40	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Mujeres	44	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Hombres	61	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Mujeres	65	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Hombres	13	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Mujeres	31	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Hombres	7	99 No consta
+Junio 2021	202106	Junio	2021	03	Sobrarbe	Mujeres	5	99 No consta
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Hombres	162	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Mujeres	126	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Hombres	59	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Mujeres	51	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Hombres	30	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Mujeres	44	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Hombres	24	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Mujeres	28	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Hombres	3	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Mujeres	13	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Hombres	2	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Mujeres	18	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Hombres	5	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Hombres	3	99 No consta
+Junio 2021	202106	Junio	2021	04	La Ribagorza	Mujeres	1	99 No consta
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	189	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	118	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	50	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	27	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	165	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	36	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	57	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	238	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	52	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	44	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	47	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	21	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	18	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	5	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	2	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	8	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Hombres	15	99 No consta
+Junio 2021	202106	Junio	2021	05	Cinco Villas	Mujeres	5	99 No consta
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	435	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	427	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	216	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	169	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	214	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	200	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	135	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	120	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	42	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	71	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	116	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	187	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	5	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	1	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	6	99 No consta
+Junio 2021	202106	Junio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	10	99 No consta
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	199	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	151	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	60	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	49	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	79	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	30	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	46	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	47	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	11	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	5	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	16	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	32	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	13	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	5	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	1	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	2	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Hombres	13	99 No consta
+Junio 2021	202106	Junio	2021	07	Somontano de Barbastro	Mujeres	6	99 No consta
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Hombres	208	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Mujeres	109	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Hombres	84	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Mujeres	31	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Hombres	126	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Mujeres	56	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Hombres	60	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Mujeres	112	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Hombres	7	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Mujeres	7	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Hombres	95	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Mujeres	32	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Hombres	7	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Mujeres	4	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Hombres	10	99 No consta
+Junio 2021	202106	Junio	2021	08	Cinca Medio	Mujeres	4	99 No consta
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	195	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Mujeres	80	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	100	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Mujeres	43	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	88	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Mujeres	51	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	29	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Mujeres	55	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	2	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	2	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Mujeres	6	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	22	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Mujeres	8	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	106	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Mujeres	50	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Hombres	4	99 No consta
+Junio 2021	202106	Junio	2021	09	La Litera / La Llitera	Mujeres	2	99 No consta
+Junio 2021	202106	Junio	2021	10	Los Monegros	Hombres	156	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Mujeres	76	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Hombres	43	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Mujeres	7	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Hombres	32	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Mujeres	15	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Hombres	51	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Mujeres	18	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Hombres	2	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Mujeres	6	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Hombres	12	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Mujeres	4	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Hombres	3	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	10	Los Monegros	Hombres	5	99 No consta
+Junio 2021	202106	Junio	2021	10	Los Monegros	Mujeres	4	99 No consta
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	543	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	195	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	393	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	134	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	726	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	332	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	375	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	372	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	384	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	307	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	350	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	209	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	161	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	203	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	1	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Hombres	33	99 No consta
+Junio 2021	202106	Junio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	24	99 No consta
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	56	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	54	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	13	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	13	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	30	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	21	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	30	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	23	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	42	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	45	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	37	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	60	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	5	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	9	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	3	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	9	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Hombres	6	99 No consta
+Junio 2021	202106	Junio	2021	12	Tarazona y el Moncayo	Mujeres	3	99 No consta
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	68	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Mujeres	56	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	48	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Mujeres	28	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	15	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Mujeres	21	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	24	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Mujeres	49	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	5	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Mujeres	4	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	11	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Mujeres	17	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	28	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Mujeres	52	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	2	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Hombres	2	99 No consta
+Junio 2021	202106	Junio	2021	13	Campo de Borja	Mujeres	4	99 No consta
+Junio 2021	202106	Junio	2021	14	Aranda	Hombres	47	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Mujeres	24	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Hombres	15	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Mujeres	6	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Hombres	22	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Mujeres	17	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Mujeres	3	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Hombres	5	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Mujeres	2	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Hombres	1	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Hombres	1	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	14	Aranda	Hombres	5	99 No consta
+Junio 2021	202106	Junio	2021	14	Aranda	Mujeres	2	99 No consta
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	190	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	93	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	92	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	31	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	209	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	136	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	136	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	67	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	393	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	223	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	451	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	196	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	45	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	16	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	18	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	8	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	56	09 De 5.000 o más trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	14	09 De 5.000 o más trabajadores
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Hombres	97	99 No consta
+Junio 2021	202106	Junio	2021	15	Ribera Alta del Ebro	Mujeres	50	99 No consta
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	598	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	211	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	561	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	183	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	872	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	391	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	352	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	195	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	236	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	155	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	881	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	426	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	297	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	119	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	8	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	17	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	16	Valdejalón	Hombres	32	99 No consta
+Junio 2021	202106	Junio	2021	16	Valdejalón	Mujeres	15	99 No consta
+Junio 2021	202106	Junio	2021	17	Central	Hombres	3188	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	2920	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Hombres	1468	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	1179	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Hombres	2744	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	1945	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Hombres	1895	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	1768	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Hombres	2329	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	1767	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Hombres	1645	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	2392	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Hombres	954	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	687	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Hombres	737	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	682	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	17	Central	Hombres	246	99 No consta
+Junio 2021	202106	Junio	2021	17	Central	Mujeres	216	99 No consta
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	45	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Mujeres	48	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	28	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Mujeres	29	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	34	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Mujeres	32	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	54	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Mujeres	37	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	21	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Mujeres	34	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	14	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Mujeres	34	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	74	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Mujeres	53	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	1	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Hombres	4	99 No consta
+Junio 2021	202106	Junio	2021	18	Ribera Baja del Ebro	Mujeres	5	99 No consta
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	176	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	76	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	132	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	35	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	192	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	33	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	125	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	12	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	70	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	51	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	4	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	12	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	158	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	78	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	3	99 No consta
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	530	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	335	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	193	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	149	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	253	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	221	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	59	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	59	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	79	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	55	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	30	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	20	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	11	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	15	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	5	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	17	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Hombres	29	99 No consta
+Junio 2021	202106	Junio	2021	20	Comunidad de Calatayud	Mujeres	23	99 No consta
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Hombres	91	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Mujeres	58	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Hombres	54	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Mujeres	39	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Hombres	88	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Mujeres	47	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Hombres	98	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Mujeres	31	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Hombres	30	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Mujeres	32	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Hombres	8	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Mujeres	8	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Hombres	280	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Mujeres	85	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Hombres	2	99 No consta
+Junio 2021	202106	Junio	2021	21	Campo de Cariñena	Mujeres	3	99 No consta
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Hombres	25	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Mujeres	23	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Hombres	8	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Mujeres	2	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Hombres	4	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Mujeres	6	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Mujeres	3	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Mujeres	1	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Mujeres	1	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	22	Campo de Belchite	Mujeres	3	99 No consta
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Hombres	63	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Mujeres	27	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Hombres	24	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Mujeres	25	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Hombres	4	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Mujeres	24	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Hombres	9	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Mujeres	1	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Hombres	15	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Hombres	35	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	23	Bajo Martín	Mujeres	21	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Hombres	45	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Mujeres	36	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Hombres	16	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Mujeres	3	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Hombres	5	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Mujeres	7	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Hombres	13	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Mujeres	10	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Hombres	3	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Mujeres	1	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Hombres	2	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Mujeres	1	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	24	Campo de Daroca	Hombres	1	99 No consta
+Junio 2021	202106	Junio	2021	25	Jiloca	Hombres	94	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Mujeres	79	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Hombres	10	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Mujeres	8	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Hombres	20	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Mujeres	29	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Hombres	8	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Mujeres	21	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Hombres	15	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Mujeres	4	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Hombres	7	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Mujeres	3	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Hombres	2	08 De 1.000 a 4.999 trabajadores
+Junio 2021	202106	Junio	2021	25	Jiloca	Hombres	3	99 No consta
+Junio 2021	202106	Junio	2021	25	Jiloca	Mujeres	7	99 No consta
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Hombres	34	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Mujeres	28	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Hombres	18	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Mujeres	21	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Hombres	15	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Mujeres	15	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Hombres	21	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Mujeres	34	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Hombres	11	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Mujeres	13	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Hombres	15	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Mujeres	22	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Hombres	6	99 No consta
+Junio 2021	202106	Junio	2021	26	Cuencas Mineras	Mujeres	5	99 No consta
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Hombres	49	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Mujeres	54	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Hombres	12	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Mujeres	29	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Hombres	18	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Mujeres	19	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Hombres	9	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Mujeres	15	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Hombres	7	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Mujeres	8	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Mujeres	1	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Hombres	3	99 No consta
+Junio 2021	202106	Junio	2021	27	Andorra-Sierra de Arcos	Mujeres	3	99 No consta
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Hombres	197	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Mujeres	153	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Hombres	63	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Mujeres	43	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Hombres	77	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Mujeres	75	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Hombres	280	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Mujeres	113	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Hombres	12	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Mujeres	18	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Hombres	3	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Mujeres	7	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Hombres	2	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Mujeres	2	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Hombres	10	99 No consta
+Junio 2021	202106	Junio	2021	28	Bajo Aragón	Mujeres	12	99 No consta
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Hombres	236	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Mujeres	230	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Hombres	107	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Mujeres	75	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Hombres	93	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Mujeres	106	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Hombres	111	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Mujeres	163	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Hombres	179	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Mujeres	74	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Hombres	69	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Mujeres	46	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Hombres	322	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Mujeres	111	07 De 500 a 999 trabajadores
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Hombres	3	99 No consta
+Junio 2021	202106	Junio	2021	29	Comunidad de Teruel	Mujeres	5	99 No consta
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Hombres	31	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Mujeres	20	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Hombres	4	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Mujeres	9	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Hombres	5	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Mujeres	1	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Hombres	1	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Mujeres	3	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	30	Maestrazgo	Mujeres	1	99 No consta
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Hombres	62	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Mujeres	47	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Hombres	17	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Mujeres	13	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Hombres	3	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Mujeres	5	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Hombres	2	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Mujeres	4	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Hombres	9	99 No consta
+Junio 2021	202106	Junio	2021	31	Sierra de Albarracín	Mujeres	11	99 No consta
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Hombres	74	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Mujeres	65	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Hombres	28	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Mujeres	31	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Hombres	24	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Mujeres	15	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Hombres	3	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Mujeres	2	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Hombres	1	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Mujeres	2	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Mujeres	1	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Hombres	6	99 No consta
+Junio 2021	202106	Junio	2021	32	Gúdar-Javalambre	Mujeres	5	99 No consta
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Hombres	87	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Mujeres	80	01 De 1 a 9 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Hombres	39	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Mujeres	43	02 De 10 a 19 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Hombres	6	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Mujeres	8	03 De 20 a 49 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Hombres	4	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Mujeres	20	04 De 50 a 99 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Hombres	6	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Mujeres	1	05 De 100 a 199 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Mujeres	1	06 De 200 a 499 trabajadores
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Hombres	3	99 No consta
+Junio 2021	202106	Junio	2021	33	Matarraña / Matarranya	Mujeres	3	99 No consta
 Mayo 2021	202105	Mayo	2021	01	La Jacetania	Hombres	73	01 De 1 a 9 trabajadores
 Mayo 2021	202105	Mayo	2021	01	La Jacetania	Mujeres	50	01 De 1 a 9 trabajadores
 Mayo 2021	202105	Mayo	2021	01	La Jacetania	Hombres	10	02 De 10 a 19 trabajadores

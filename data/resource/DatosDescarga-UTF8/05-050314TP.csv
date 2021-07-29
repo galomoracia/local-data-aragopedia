@@ -1,4 +1,16 @@
 Mes y año	Mes (código)	Mes nombre	Año	Provincia código	Provincia nombre	Sexo	Temporalidad	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	0	3579	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	1	2337	172202	73,68506632434745400085579803166452717159
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	0	2199	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	1	2206	128724	58,35176790571169537624660018132366273799
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	0	758	0	0
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	1	1693	99144	58,56113408151210868281157708210277613703
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	0	601	0	0
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	1	1367	79380	58,06876371616678858814923189465983906364
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	0	9371	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	1	14466	669072	46,2513479883865615927001244296972210701
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	0	5846	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	1	12002	572576	47,70671554740876520579903349441759706716
 Mayo 2021	202105	Mayo	2021	22	Huesca	Hombres	Temporal	0	2854	0	0
 Mayo 2021	202105	Mayo	2021	22	Huesca	Hombres	Temporal	1	1529	122684	80,23806409417920209287115761935905820798
 Mayo 2021	202105	Mayo	2021	22	Huesca	Mujeres	Temporal	0	1510	0	0

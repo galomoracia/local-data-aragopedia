@@ -1,4 +1,23 @@
 Mes y año	Mes (código)	Mes nombre	Año	AÑO-CNO	 CASE  WHEN Ocupación (1 dígito) código = '0' THEN '99' ELSE Ocupación (1 dígito) código END	Ocupación (1 dígito) descripción	Sexo	Número de contratos	CCAA nombre
+Junio 2021	202106	Junio	2021	CNO - 2011	1	Directores y gerentes	Hombres	71	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	1	Directores y gerentes	Mujeres	46	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	2	Técnicos y profesionales científicos e intelectuales	Hombres	1074	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	2	Técnicos y profesionales científicos e intelectuales	Mujeres	1253	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	3	Técnicos; profesionales de apoyo	Hombres	1929	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	3	Técnicos; profesionales de apoyo	Mujeres	1610	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	787	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	1688	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	4424	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	7961	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	940	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	282	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	3277	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	753	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	3532	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	994	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	9	Ocupaciones elementales	Hombres	18801	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	9	Ocupaciones elementales	Mujeres	11794	Aragón
+Junio 2021	202106	Junio	2021	CNO - 2011	99	Ocupaciones militares	Hombres	2	Aragón
 Mayo 2021	202105	Mayo	2021	CNO - 2011	1	Directores y gerentes	Hombres	53	Aragón
 Mayo 2021	202105	Mayo	2021	CNO - 2011	1	Directores y gerentes	Mujeres	25	Aragón
 Mayo 2021	202105	Mayo	2021	CNO - 2011	2	Técnicos y profesionales científicos e intelectuales	Hombres	1008	Aragón

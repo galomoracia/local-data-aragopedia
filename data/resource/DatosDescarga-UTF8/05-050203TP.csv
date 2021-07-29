@@ -1,4 +1,34 @@
 Mes y año	Provincia código	Provincia nombre	Sector código	Sector descripción	Sexo	Nº parados
+Junio 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	536
+Junio 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	280
+Junio 2021	22	Huesca	2	Industria y energía	Hombres	575
+Junio 2021	22	Huesca	2	Industria y energía	Mujeres	351
+Junio 2021	22	Huesca	3	Construcción	Hombres	629
+Junio 2021	22	Huesca	3	Construcción	Mujeres	87
+Junio 2021	22	Huesca	4	Servicios	Hombres	2158
+Junio 2021	22	Huesca	4	Servicios	Mujeres	4617
+Junio 2021	22	Huesca		Sin empleo anterior	Hombres	397
+Junio 2021	22	Huesca		Sin empleo anterior	Mujeres	664
+Junio 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	222
+Junio 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	147
+Junio 2021	44	Teruel	2	Industria y energía	Hombres	380
+Junio 2021	44	Teruel	2	Industria y energía	Mujeres	308
+Junio 2021	44	Teruel	3	Construcción	Hombres	367
+Junio 2021	44	Teruel	3	Construcción	Mujeres	53
+Junio 2021	44	Teruel	4	Servicios	Hombres	1277
+Junio 2021	44	Teruel	4	Servicios	Mujeres	2798
+Junio 2021	44	Teruel		Sin empleo anterior	Hombres	224
+Junio 2021	44	Teruel		Sin empleo anterior	Mujeres	478
+Junio 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1616
+Junio 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1099
+Junio 2021	50	Zaragoza	2	Industria y energía	Hombres	3767
+Junio 2021	50	Zaragoza	2	Industria y energía	Mujeres	3229
+Junio 2021	50	Zaragoza	3	Construcción	Hombres	2847
+Junio 2021	50	Zaragoza	3	Construcción	Mujeres	492
+Junio 2021	50	Zaragoza	4	Servicios	Hombres	13025
+Junio 2021	50	Zaragoza	4	Servicios	Mujeres	26876
+Junio 2021	50	Zaragoza		Sin empleo anterior	Hombres	2053
+Junio 2021	50	Zaragoza		Sin empleo anterior	Mujeres	4026
 Mayo 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	586
 Mayo 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	299
 Mayo 2021	22	Huesca	2	Industria y energía	Hombres	598

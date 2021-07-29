@@ -1,4 +1,82 @@
 Mes y año	Mes (código)	Mes nombre	Año	Provincia código	Provincia nombre	Sexo	Temporalidad	Modalidad	orden_modalidad	Grupo de tipo de contrato	Grupo de tipo de contrato	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	3453	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	205	10306	50,27317073170731707317073170731707317073
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	1930	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	202	10722	53,07920792079207920792079207920792079208
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	7	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	2054	137606	66,99415774099318403115871470301850048685
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	20	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	1831	104171	56,89295466957946477334789732386673948662
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	116	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	30	1772	59,06666666666666666666666666666666666667
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	249	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	144	4206	29,20833333333333333333333333333333333333
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	5	1800	360
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	6	1890	315
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	2	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	10	11016	1101,6
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	2	2142	1071
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	3	1980	660
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	3	2515	838,333333333333333333333333333333333333
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	10	3420	342
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	21	4140	197,142857142857142857142857142857142857
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	8	1620	202,5
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	7	1260	180
+Junio 2021	202106	Junio	2021	22	Huesca	Hombres	Temporal	Otros	8	Otros	Otros	0	1	0	0
+Junio 2021	202106	Junio	2021	22	Huesca	Mujeres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	2	360	180
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	661	0	0
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	110	10638	96,70909090909090909090909090909090909091
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	452	0	0
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	87	5968	68,59770114942528735632183908045977011494
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	1464	55650	38,01229508196721311475409836065573770492
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	1117	51917	46,47896150402864816472694717994628469114
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	97	0	0
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	18	482	26,77777777777777777777777777777777777778
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	147	0	0
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	67	1545	23,0597014925373134328358208955223880597
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	4	1440	360
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	3	1080	360
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	8	8767	1095,875
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	5	2851	570,2
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	2	0	0
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	1	1080	1080
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	62	14896	240,258064516129032258064516129032258065
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	17	3340	196,470588235294117647058823529411764706
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	81	15630	192,962962962962962962962962962962962963
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	7	1260	180
+Junio 2021	202106	Junio	2021	44	Teruel	Hombres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	5	1080	216
+Junio 2021	202106	Junio	2021	44	Teruel	Mujeres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	4	900	225
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	8797	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	1221	36898	30,21949221949221949221949221949221949222
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	4668	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	1124	37512	33,37366548042704626334519572953736654804
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	25	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	12728	470224	36,94406033940917661847894406033940917662
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	6	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	9909	413520	41,73175900696336663639115955192249470179
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	511	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	193	10248	53,0984455958549222797927461139896373057
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	1168	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	744	23718	31,87903225806451612903225806451612903226
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	34	12240	360
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	25	9000	360
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	33	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	38	40085	1054,868421052631578947368421052631578947
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	40	49827	1245,675
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Ligados a la jubilación	6	Sust. Jubilación	Sust. Jubilación	0	1	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	3	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	16	16130	1008,125
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	25	24999	999,96
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	39	13868	355,589743589743589743589743589743589744
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	147	31353	213,285714285714285714285714285714285714
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	64	21234	331,78125
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	76	21659	284,986842105263157894736842105263157895
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Otros	8	Otros	Otros	0	4	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Otros	8	Otros	Otros	1	18	2889	160,5
+Junio 2021	202106	Junio	2021	50	Zaragoza	Hombres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	8	1440	180
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Otros	8	Otros	Otros	0	1	0	0
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Otros	8	Otros	Otros	1	9	3004	333,777777777777777777777777777777777778
+Junio 2021	202106	Junio	2021	50	Zaragoza	Mujeres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	10	1800	180
 Mayo 2021	202105	Mayo	2021	22	Huesca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	2770	0	0
 Mayo 2021	202105	Mayo	2021	22	Huesca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	108	4849	44,89814814814814814814814814814814814815
 Mayo 2021	202105	Mayo	2021	22	Huesca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	1264	0	0

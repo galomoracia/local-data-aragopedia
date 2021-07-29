@@ -1,70 +1,205 @@
 Mes y año	Comarca nombre	Comarca código	Sexo	Régimen	Afiliaciones en alta
-Mayo 2021	Alto Gállego	02	Hombres	General	2182
-Mayo 2021	Alto Gállego	02	Mujeres	General	1480
-Mayo 2021	Andorra-Sierra de Arcos	27	Hombres	General	759
-Mayo 2021	Andorra-Sierra de Arcos	27	Mujeres	General	664
-Mayo 2021	Aranda	14	Hombres	General	577
+Junio 2021	Alto Gállego	02	Hombres	General	2290
+Junio 2021	Alto Gállego	02	Mujeres	General	1577
+Junio 2021	Andorra-Sierra de Arcos	27	Hombres	General	799
+Junio 2021	Andorra-Sierra de Arcos	27	Mujeres	General	686
+Junio 2021	Aranda	14	Hombres	General	647
+Junio 2021	Aranda	14	Mujeres	General	444
+Junio 2021	Bajo Aragón	28	Hombres	General	4269
+Junio 2021	Bajo Aragón	28	Mujeres	General	3859
+Junio 2021	Bajo Aragón-Caspe / Baix Aragó-Casp	19	Hombres	General	3582
+Junio 2021	Bajo Aragón-Caspe / Baix Aragó-Casp	19	Mujeres	General	2152
+Junio 2021	Bajo Cinca / Baix Cinca	11	Hombres	General	8084
+Junio 2021	Bajo Cinca / Baix Cinca	11	Mujeres	General	5094
+Junio 2021	Bajo Martín	23	Hombres	General	1780
+Junio 2021	Bajo Martín	23	Mujeres	General	605
+Junio 2021	Campo de Belchite	22	Hombres	General	455
+Junio 2021	Campo de Belchite	22	Mujeres	General	274
+Junio 2021	Campo de Borja	13	Hombres	General	1590
+Junio 2021	Campo de Borja	13	Mujeres	General	1555
+Junio 2021	Campo de Cariñena	21	Hombres	General	2749
+Junio 2021	Campo de Cariñena	21	Mujeres	General	1307
+Junio 2021	Campo de Daroca	24	Hombres	General	870
+Junio 2021	Campo de Daroca	24	Mujeres	General	548
+Junio 2021	Central	17	Hombres	General	140160
+Junio 2021	Central	17	Mujeres	General	145200
+Junio 2021	Cinca Medio	08	Hombres	General	4737
+Junio 2021	Cinca Medio	08	Mujeres	General	2528
+Junio 2021	Cinco Villas	05	Hombres	General	6347
+Junio 2021	Cinco Villas	05	Mujeres	General	4047
+Junio 2021	Comunidad de Calatayud	20	Hombres	General	4972
+Junio 2021	Comunidad de Calatayud	20	Mujeres	General	4992
+Junio 2021	Comunidad de Teruel	29	Hombres	General	10405
+Junio 2021	Comunidad de Teruel	29	Mujeres	General	10516
+Junio 2021	Cuencas Mineras	26	Hombres	General	1080
+Junio 2021	Cuencas Mineras	26	Mujeres	General	701
+Junio 2021	Gúdar-Javalambre	32	Hombres	General	1256
+Junio 2021	Gúdar-Javalambre	32	Mujeres	General	819
+Junio 2021	Hoya de Huesca / Plana de Uesca	06	Hombres	General	13865
+Junio 2021	Hoya de Huesca / Plana de Uesca	06	Mujeres	General	15967
+Junio 2021	Jiloca	25	Hombres	General	1459
+Junio 2021	Jiloca	25	Mujeres	General	1038
+Junio 2021	La Jacetania	01	Hombres	General	1752
+Junio 2021	La Jacetania	01	Mujeres	General	2001
+Junio 2021	La Litera / La Llitera	09	Hombres	General	5386
+Junio 2021	La Litera / La Llitera	09	Mujeres	General	2474
+Junio 2021	La Ribagorza	04	Hombres	General	1766
+Junio 2021	La Ribagorza	04	Mujeres	General	1593
+Junio 2021	Los Monegros	10	Hombres	General	2589
+Junio 2021	Los Monegros	10	Mujeres	General	1415
+Junio 2021	Maestrazgo	30	Hombres	General	277
+Junio 2021	Maestrazgo	30	Mujeres	General	217
+Junio 2021	Matarraña / Matarranya	33	Hombres	General	1141
+Junio 2021	Matarraña / Matarranya	33	Mujeres	General	894
+Junio 2021	Ribera Alta del Ebro	15	Hombres	General	12479
+Junio 2021	Ribera Alta del Ebro	15	Mujeres	General	4470
+Junio 2021	Ribera Baja del Ebro	18	Hombres	General	1844
+Junio 2021	Ribera Baja del Ebro	18	Mujeres	General	1057
+Junio 2021	Sierra de Albarracín	31	Hombres	General	385
+Junio 2021	Sierra de Albarracín	31	Mujeres	General	408
+Junio 2021	Sobrarbe	03	Hombres	General	975
+Junio 2021	Sobrarbe	03	Mujeres	General	1092
+Junio 2021	Somontano de Barbastro	07	Hombres	General	3911
+Junio 2021	Somontano de Barbastro	07	Mujeres	General	4008
+Junio 2021	Tarazona y el Moncayo	12	Hombres	General	1807
+Junio 2021	Tarazona y el Moncayo	12	Mujeres	General	1405
+Junio 2021	Valdejalón	16	Hombres	General	10786
+Junio 2021	Valdejalón	16	Mujeres	General	5808
+Junio 2021	Andorra-Sierra de Arcos	27	Hombres	Minería	25
+Junio 2021	Central	17	Hombres	Minería	11
+Junio 2021	Central	17	Mujeres	Minería	3
+Junio 2021	Alto Gállego	02	Hombres	Autónomos	756
+Junio 2021	Alto Gállego	02	Mujeres	Autónomos	458
+Junio 2021	Andorra-Sierra de Arcos	27	Hombres	Autónomos	453
+Junio 2021	Andorra-Sierra de Arcos	27	Mujeres	Autónomos	241
+Junio 2021	Aranda	14	Hombres	Autónomos	379
+Junio 2021	Aranda	14	Mujeres	Autónomos	161
+Junio 2021	Bajo Aragón	28	Hombres	Autónomos	1820
+Junio 2021	Bajo Aragón	28	Mujeres	Autónomos	997
+Junio 2021	Bajo Aragón-Caspe / Baix Aragó-Casp	19	Hombres	Autónomos	1007
+Junio 2021	Bajo Aragón-Caspe / Baix Aragó-Casp	19	Mujeres	Autónomos	504
+Junio 2021	Bajo Cinca / Baix Cinca	11	Hombres	Autónomos	1745
+Junio 2021	Bajo Cinca / Baix Cinca	11	Mujeres	Autónomos	822
+Junio 2021	Bajo Martín	23	Hombres	Autónomos	377
+Junio 2021	Bajo Martín	23	Mujeres	Autónomos	194
+Junio 2021	Campo de Belchite	22	Hombres	Autónomos	366
+Junio 2021	Campo de Belchite	22	Mujeres	Autónomos	164
+Junio 2021	Campo de Borja	13	Hombres	Autónomos	895
+Junio 2021	Campo de Borja	13	Mujeres	Autónomos	430
+Junio 2021	Campo de Cariñena	21	Hombres	Autónomos	664
+Junio 2021	Campo de Cariñena	21	Mujeres	Autónomos	293
+Junio 2021	Campo de Daroca	24	Hombres	Autónomos	459
+Junio 2021	Campo de Daroca	24	Mujeres	Autónomos	175
+Junio 2021	Central	17	Hombres	Autónomos	30015
+Junio 2021	Central	17	Mujeres	Autónomos	17338
+Junio 2021	Cinca Medio	08	Hombres	Autónomos	1287
+Junio 2021	Cinca Medio	08	Mujeres	Autónomos	843
+Junio 2021	Cinco Villas	05	Hombres	Autónomos	2303
+Junio 2021	Cinco Villas	05	Mujeres	Autónomos	1168
+Junio 2021	Comunidad de Calatayud	20	Hombres	Autónomos	2017
+Junio 2021	Comunidad de Calatayud	20	Mujeres	Autónomos	912
+Junio 2021	Comunidad de Teruel	29	Hombres	Autónomos	2343
+Junio 2021	Comunidad de Teruel	29	Mujeres	Autónomos	1204
+Junio 2021	Cuencas Mineras	26	Hombres	Autónomos	351
+Junio 2021	Cuencas Mineras	26	Mujeres	Autónomos	176
+Junio 2021	Gúdar-Javalambre	32	Hombres	Autónomos	647
+Junio 2021	Gúdar-Javalambre	32	Mujeres	Autónomos	342
+Junio 2021	Hoya de Huesca / Plana de Uesca	06	Hombres	Autónomos	3537
+Junio 2021	Hoya de Huesca / Plana de Uesca	06	Mujeres	Autónomos	1631
+Junio 2021	Jiloca	25	Hombres	Autónomos	972
+Junio 2021	Jiloca	25	Mujeres	Autónomos	449
+Junio 2021	La Jacetania	01	Hombres	Autónomos	1107
+Junio 2021	La Jacetania	01	Mujeres	Autónomos	668
+Junio 2021	La Litera / La Llitera	09	Hombres	Autónomos	1390
+Junio 2021	La Litera / La Llitera	09	Mujeres	Autónomos	658
+Junio 2021	La Ribagorza	04	Hombres	Autónomos	1039
+Junio 2021	La Ribagorza	04	Mujeres	Autónomos	532
+Junio 2021	Los Monegros	10	Hombres	Autónomos	1834
+Junio 2021	Los Monegros	10	Mujeres	Autónomos	788
+Junio 2021	Maestrazgo	30	Hombres	Autónomos	336
+Junio 2021	Maestrazgo	30	Mujeres	Autónomos	172
+Junio 2021	Matarraña / Matarranya	33	Hombres	Autónomos	867
+Junio 2021	Matarraña / Matarranya	33	Mujeres	Autónomos	491
+Junio 2021	Ribera Alta del Ebro	15	Hombres	Autónomos	1105
+Junio 2021	Ribera Alta del Ebro	15	Mujeres	Autónomos	641
+Junio 2021	Ribera Baja del Ebro	18	Hombres	Autónomos	485
+Junio 2021	Ribera Baja del Ebro	18	Mujeres	Autónomos	300
+Junio 2021	Sierra de Albarracín	31	Hombres	Autónomos	347
+Junio 2021	Sierra de Albarracín	31	Mujeres	Autónomos	179
+Junio 2021	Sobrarbe	03	Hombres	Autónomos	766
+Junio 2021	Sobrarbe	03	Mujeres	Autónomos	374
+Junio 2021	Somontano de Barbastro	07	Hombres	Autónomos	1485
+Junio 2021	Somontano de Barbastro	07	Mujeres	Autónomos	722
+Junio 2021	Tarazona y el Moncayo	12	Hombres	Autónomos	588
+Junio 2021	Tarazona y el Moncayo	12	Mujeres	Autónomos	353
+Junio 2021	Valdejalón	16	Hombres	Autónomos	1587
+Junio 2021	Valdejalón	16	Mujeres	Autónomos	668
+Mayo 2021	Alto Gállego	02	Hombres	General	2189
+Mayo 2021	Alto Gállego	02	Mujeres	General	1495
+Mayo 2021	Andorra-Sierra de Arcos	27	Hombres	General	760
+Mayo 2021	Andorra-Sierra de Arcos	27	Mujeres	General	665
+Mayo 2021	Aranda	14	Hombres	General	582
 Mayo 2021	Aranda	14	Mujeres	General	400
-Mayo 2021	Bajo Aragón	28	Hombres	General	4133
-Mayo 2021	Bajo Aragón	28	Mujeres	General	3665
-Mayo 2021	Bajo Aragón-Caspe / Baix Aragó-Casp	19	Hombres	General	3933
-Mayo 2021	Bajo Aragón-Caspe / Baix Aragó-Casp	19	Mujeres	General	2107
-Mayo 2021	Bajo Cinca / Baix Cinca	11	Hombres	General	7779
-Mayo 2021	Bajo Cinca / Baix Cinca	11	Mujeres	General	4604
-Mayo 2021	Bajo Martín	23	Hombres	General	1701
-Mayo 2021	Bajo Martín	23	Mujeres	General	562
-Mayo 2021	Campo de Belchite	22	Hombres	General	446
+Mayo 2021	Bajo Aragón	28	Hombres	General	4181
+Mayo 2021	Bajo Aragón	28	Mujeres	General	3674
+Mayo 2021	Bajo Aragón-Caspe / Baix Aragó-Casp	19	Hombres	General	3968
+Mayo 2021	Bajo Aragón-Caspe / Baix Aragó-Casp	19	Mujeres	General	2111
+Mayo 2021	Bajo Cinca / Baix Cinca	11	Hombres	General	7801
+Mayo 2021	Bajo Cinca / Baix Cinca	11	Mujeres	General	4624
+Mayo 2021	Bajo Martín	23	Hombres	General	1721
+Mayo 2021	Bajo Martín	23	Mujeres	General	564
+Mayo 2021	Campo de Belchite	22	Hombres	General	448
 Mayo 2021	Campo de Belchite	22	Mujeres	General	301
-Mayo 2021	Campo de Borja	13	Hombres	General	1587
-Mayo 2021	Campo de Borja	13	Mujeres	General	1509
-Mayo 2021	Campo de Cariñena	21	Hombres	General	2697
-Mayo 2021	Campo de Cariñena	21	Mujeres	General	1440
-Mayo 2021	Campo de Daroca	24	Hombres	General	841
-Mayo 2021	Campo de Daroca	24	Mujeres	General	521
-Mayo 2021	Central	17	Hombres	General	138531
-Mayo 2021	Central	17	Mujeres	General	146375
-Mayo 2021	Cinca Medio	08	Hombres	General	4842
-Mayo 2021	Cinca Medio	08	Mujeres	General	2534
-Mayo 2021	Cinco Villas	05	Hombres	General	6134
-Mayo 2021	Cinco Villas	05	Mujeres	General	3886
-Mayo 2021	Comunidad de Calatayud	20	Hombres	General	4044
-Mayo 2021	Comunidad de Calatayud	20	Mujeres	General	4096
-Mayo 2021	Comunidad de Teruel	29	Hombres	General	10183
-Mayo 2021	Comunidad de Teruel	29	Mujeres	General	10345
+Mayo 2021	Campo de Borja	13	Hombres	General	1590
+Mayo 2021	Campo de Borja	13	Mujeres	General	1512
+Mayo 2021	Campo de Cariñena	21	Hombres	General	2723
+Mayo 2021	Campo de Cariñena	21	Mujeres	General	1469
+Mayo 2021	Campo de Daroca	24	Hombres	General	842
+Mayo 2021	Campo de Daroca	24	Mujeres	General	522
+Mayo 2021	Central	17	Hombres	General	139462
+Mayo 2021	Central	17	Mujeres	General	147019
+Mayo 2021	Cinca Medio	08	Hombres	General	4880
+Mayo 2021	Cinca Medio	08	Mujeres	General	2551
+Mayo 2021	Cinco Villas	05	Hombres	General	6190
+Mayo 2021	Cinco Villas	05	Mujeres	General	3932
+Mayo 2021	Comunidad de Calatayud	20	Hombres	General	4075
+Mayo 2021	Comunidad de Calatayud	20	Mujeres	General	4117
+Mayo 2021	Comunidad de Teruel	29	Hombres	General	10230
+Mayo 2021	Comunidad de Teruel	29	Mujeres	General	10397
 Mayo 2021	Cuencas Mineras	26	Hombres	General	1027
-Mayo 2021	Cuencas Mineras	26	Mujeres	General	661
-Mayo 2021	Gúdar-Javalambre	32	Hombres	General	1220
+Mayo 2021	Cuencas Mineras	26	Mujeres	General	662
+Mayo 2021	Gúdar-Javalambre	32	Hombres	General	1221
 Mayo 2021	Gúdar-Javalambre	32	Mujeres	General	751
-Mayo 2021	Hoya de Huesca / Plana de Uesca	06	Hombres	General	13652
-Mayo 2021	Hoya de Huesca / Plana de Uesca	06	Mujeres	General	16024
-Mayo 2021	Jiloca	25	Hombres	General	1360
-Mayo 2021	Jiloca	25	Mujeres	General	1019
-Mayo 2021	La Jacetania	01	Hombres	General	1629
-Mayo 2021	La Jacetania	01	Mujeres	General	1811
-Mayo 2021	La Litera / La Llitera	09	Hombres	General	5343
-Mayo 2021	La Litera / La Llitera	09	Mujeres	General	2580
-Mayo 2021	La Ribagorza	04	Hombres	General	1501
-Mayo 2021	La Ribagorza	04	Mujeres	General	1326
-Mayo 2021	Los Monegros	10	Hombres	General	2530
-Mayo 2021	Los Monegros	10	Mujeres	General	1315
-Mayo 2021	Maestrazgo	30	Hombres	General	264
-Mayo 2021	Maestrazgo	30	Mujeres	General	199
-Mayo 2021	Matarraña / Matarranya	33	Hombres	General	1060
-Mayo 2021	Matarraña / Matarranya	33	Mujeres	General	800
-Mayo 2021	Ribera Alta del Ebro	15	Hombres	General	12424
-Mayo 2021	Ribera Alta del Ebro	15	Mujeres	General	4484
-Mayo 2021	Ribera Baja del Ebro	18	Hombres	General	1796
-Mayo 2021	Ribera Baja del Ebro	18	Mujeres	General	995
-Mayo 2021	Sierra de Albarracín	31	Hombres	General	362
-Mayo 2021	Sierra de Albarracín	31	Mujeres	General	367
-Mayo 2021	Sobrarbe	03	Hombres	General	806
-Mayo 2021	Sobrarbe	03	Mujeres	General	841
-Mayo 2021	Somontano de Barbastro	07	Hombres	General	3892
-Mayo 2021	Somontano de Barbastro	07	Mujeres	General	3902
-Mayo 2021	Tarazona y el Moncayo	12	Hombres	General	1817
-Mayo 2021	Tarazona y el Moncayo	12	Mujeres	General	1378
-Mayo 2021	Valdejalón	16	Hombres	General	10402
-Mayo 2021	Valdejalón	16	Mujeres	General	5761
+Mayo 2021	Hoya de Huesca / Plana de Uesca	06	Hombres	General	13696
+Mayo 2021	Hoya de Huesca / Plana de Uesca	06	Mujeres	General	16069
+Mayo 2021	Jiloca	25	Hombres	General	1395
+Mayo 2021	Jiloca	25	Mujeres	General	1023
+Mayo 2021	La Jacetania	01	Hombres	General	1637
+Mayo 2021	La Jacetania	01	Mujeres	General	1818
+Mayo 2021	La Litera / La Llitera	09	Hombres	General	5346
+Mayo 2021	La Litera / La Llitera	09	Mujeres	General	2584
+Mayo 2021	La Ribagorza	04	Hombres	General	1549
+Mayo 2021	La Ribagorza	04	Mujeres	General	1349
+Mayo 2021	Los Monegros	10	Hombres	General	2534
+Mayo 2021	Los Monegros	10	Mujeres	General	1319
+Mayo 2021	Maestrazgo	30	Hombres	General	265
+Mayo 2021	Maestrazgo	30	Mujeres	General	200
+Mayo 2021	Matarraña / Matarranya	33	Hombres	General	1067
+Mayo 2021	Matarraña / Matarranya	33	Mujeres	General	805
+Mayo 2021	Ribera Alta del Ebro	15	Hombres	General	12539
+Mayo 2021	Ribera Alta del Ebro	15	Mujeres	General	4499
+Mayo 2021	Ribera Baja del Ebro	18	Hombres	General	1797
+Mayo 2021	Ribera Baja del Ebro	18	Mujeres	General	996
+Mayo 2021	Sierra de Albarracín	31	Hombres	General	365
+Mayo 2021	Sierra de Albarracín	31	Mujeres	General	369
+Mayo 2021	Sobrarbe	03	Hombres	General	808
+Mayo 2021	Sobrarbe	03	Mujeres	General	848
+Mayo 2021	Somontano de Barbastro	07	Hombres	General	3913
+Mayo 2021	Somontano de Barbastro	07	Mujeres	General	3919
+Mayo 2021	Tarazona y el Moncayo	12	Hombres	General	1819
+Mayo 2021	Tarazona y el Moncayo	12	Mujeres	General	1384
+Mayo 2021	Valdejalón	16	Hombres	General	10431
+Mayo 2021	Valdejalón	16	Mujeres	General	5778
 Mayo 2021	Andorra-Sierra de Arcos	27	Hombres	Minería	25
 Mayo 2021	Central	17	Hombres	Minería	12
 Mayo 2021	Central	17	Mujeres	Minería	3
