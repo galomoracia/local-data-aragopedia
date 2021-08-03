@@ -1,4 +1,784 @@
 Mes y año	Comarca código	Comarca nombre	Sexo	Afiliaciones en alta
+Julio 2021	01	La Jacetania	Hombres	3
+Julio 2021	02	Alto Gállego	Hombres	9
+Julio 2021	03	Sobrarbe	Hombres	2
+Julio 2021	04	La Ribagorza	Hombres	7
+Julio 2021	05	Cinco Villas	Hombres	10
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	15
+Julio 2021	07	Somontano de Barbastro	Hombres	3
+Julio 2021	08	Cinca Medio	Hombres	5
+Julio 2021	09	La Litera / La Llitera	Hombres	5
+Julio 2021	10	Los Monegros	Hombres	3
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	6
+Julio 2021	12	Tarazona y el Moncayo	Hombres	1
+Julio 2021	13	Campo de Borja	Hombres	2
+Julio 2021	14	Aranda	Hombres	1
+Julio 2021	15	Ribera Alta del Ebro	Hombres	7
+Julio 2021	16	Valdejalón	Hombres	4
+Julio 2021	17	Central	Hombres	98
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	4
+Julio 2021	20	Comunidad de Calatayud	Hombres	10
+Julio 2021	21	Campo de Cariñena	Hombres	3
+Julio 2021	22	Campo de Belchite	Hombres	3
+Julio 2021	23	Bajo Martín	Hombres	1
+Julio 2021	24	Campo de Daroca	Hombres	1
+Julio 2021	25	Jiloca	Hombres	5
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	3
+Julio 2021	28	Bajo Aragón	Hombres	9
+Julio 2021	29	Comunidad de Teruel	Hombres	11
+Julio 2021	30	Maestrazgo	Hombres	3
+Julio 2021	31	Sierra de Albarracín	Hombres	2
+Julio 2021	33	Matarraña / Matarranya	Hombres	3
+Julio 2021	01	La Jacetania	Mujeres	1
+Julio 2021	02	Alto Gállego	Mujeres	6
+Julio 2021	03	Sobrarbe	Mujeres	1
+Julio 2021	04	La Ribagorza	Mujeres	5
+Julio 2021	05	Cinco Villas	Mujeres	4
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	7
+Julio 2021	07	Somontano de Barbastro	Mujeres	5
+Julio 2021	08	Cinca Medio	Mujeres	3
+Julio 2021	09	La Litera / La Llitera	Mujeres	5
+Julio 2021	10	Los Monegros	Mujeres	4
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	2
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	1
+Julio 2021	13	Campo de Borja	Mujeres	1
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	1
+Julio 2021	16	Valdejalón	Mujeres	1
+Julio 2021	17	Central	Mujeres	49
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	1
+Julio 2021	20	Comunidad de Calatayud	Mujeres	3
+Julio 2021	21	Campo de Cariñena	Mujeres	1
+Julio 2021	22	Campo de Belchite	Mujeres	1
+Julio 2021	23	Bajo Martín	Mujeres	1
+Julio 2021	25	Jiloca	Mujeres	2
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	2
+Julio 2021	28	Bajo Aragón	Mujeres	3
+Julio 2021	29	Comunidad de Teruel	Mujeres	5
+Julio 2021	33	Matarraña / Matarranya	Mujeres	2
+Julio 2021	01	La Jacetania	Hombres	24
+Julio 2021	02	Alto Gállego	Hombres	15
+Julio 2021	03	Sobrarbe	Hombres	26
+Julio 2021	04	La Ribagorza	Hombres	20
+Julio 2021	05	Cinco Villas	Hombres	63
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	71
+Julio 2021	07	Somontano de Barbastro	Hombres	40
+Julio 2021	08	Cinca Medio	Hombres	28
+Julio 2021	09	La Litera / La Llitera	Hombres	36
+Julio 2021	10	Los Monegros	Hombres	52
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	34
+Julio 2021	12	Tarazona y el Moncayo	Hombres	13
+Julio 2021	13	Campo de Borja	Hombres	26
+Julio 2021	14	Aranda	Hombres	7
+Julio 2021	15	Ribera Alta del Ebro	Hombres	26
+Julio 2021	16	Valdejalón	Hombres	24
+Julio 2021	17	Central	Hombres	645
+Julio 2021	18	Ribera Baja del Ebro	Hombres	7
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	19
+Julio 2021	20	Comunidad de Calatayud	Hombres	41
+Julio 2021	21	Campo de Cariñena	Hombres	10
+Julio 2021	22	Campo de Belchite	Hombres	15
+Julio 2021	23	Bajo Martín	Hombres	15
+Julio 2021	24	Campo de Daroca	Hombres	15
+Julio 2021	25	Jiloca	Hombres	27
+Julio 2021	26	Cuencas Mineras	Hombres	9
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	10
+Julio 2021	28	Bajo Aragón	Hombres	43
+Julio 2021	29	Comunidad de Teruel	Hombres	54
+Julio 2021	30	Maestrazgo	Hombres	8
+Julio 2021	31	Sierra de Albarracín	Hombres	10
+Julio 2021	32	Gúdar-Javalambre	Hombres	24
+Julio 2021	33	Matarraña / Matarranya	Hombres	19
+Julio 2021	01	La Jacetania	Mujeres	5
+Julio 2021	02	Alto Gállego	Mujeres	8
+Julio 2021	03	Sobrarbe	Mujeres	3
+Julio 2021	04	La Ribagorza	Mujeres	11
+Julio 2021	05	Cinco Villas	Mujeres	16
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	19
+Julio 2021	07	Somontano de Barbastro	Mujeres	14
+Julio 2021	08	Cinca Medio	Mujeres	10
+Julio 2021	09	La Litera / La Llitera	Mujeres	8
+Julio 2021	10	Los Monegros	Mujeres	7
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	13
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	9
+Julio 2021	13	Campo de Borja	Mujeres	7
+Julio 2021	14	Aranda	Mujeres	3
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	14
+Julio 2021	16	Valdejalón	Mujeres	15
+Julio 2021	17	Central	Mujeres	296
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	7
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	5
+Julio 2021	20	Comunidad de Calatayud	Mujeres	12
+Julio 2021	21	Campo de Cariñena	Mujeres	4
+Julio 2021	22	Campo de Belchite	Mujeres	4
+Julio 2021	23	Bajo Martín	Mujeres	1
+Julio 2021	24	Campo de Daroca	Mujeres	5
+Julio 2021	25	Jiloca	Mujeres	8
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	3
+Julio 2021	28	Bajo Aragón	Mujeres	10
+Julio 2021	29	Comunidad de Teruel	Mujeres	22
+Julio 2021	30	Maestrazgo	Mujeres	3
+Julio 2021	31	Sierra de Albarracín	Mujeres	3
+Julio 2021	32	Gúdar-Javalambre	Mujeres	5
+Julio 2021	33	Matarraña / Matarranya	Mujeres	7
+Julio 2021	01	La Jacetania	Hombres	53
+Julio 2021	02	Alto Gállego	Hombres	28
+Julio 2021	03	Sobrarbe	Hombres	31
+Julio 2021	04	La Ribagorza	Hombres	41
+Julio 2021	05	Cinco Villas	Hombres	90
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	162
+Julio 2021	07	Somontano de Barbastro	Hombres	71
+Julio 2021	08	Cinca Medio	Hombres	45
+Julio 2021	09	La Litera / La Llitera	Hombres	39
+Julio 2021	10	Los Monegros	Hombres	79
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	66
+Julio 2021	12	Tarazona y el Moncayo	Hombres	19
+Julio 2021	13	Campo de Borja	Hombres	43
+Julio 2021	14	Aranda	Hombres	12
+Julio 2021	15	Ribera Alta del Ebro	Hombres	46
+Julio 2021	16	Valdejalón	Hombres	55
+Julio 2021	17	Central	Hombres	1240
+Julio 2021	18	Ribera Baja del Ebro	Hombres	20
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	41
+Julio 2021	20	Comunidad de Calatayud	Hombres	82
+Julio 2021	21	Campo de Cariñena	Hombres	18
+Julio 2021	22	Campo de Belchite	Hombres	16
+Julio 2021	23	Bajo Martín	Hombres	17
+Julio 2021	24	Campo de Daroca	Hombres	25
+Julio 2021	25	Jiloca	Hombres	45
+Julio 2021	26	Cuencas Mineras	Hombres	16
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	19
+Julio 2021	28	Bajo Aragón	Hombres	74
+Julio 2021	29	Comunidad de Teruel	Hombres	109
+Julio 2021	30	Maestrazgo	Hombres	17
+Julio 2021	31	Sierra de Albarracín	Hombres	25
+Julio 2021	32	Gúdar-Javalambre	Hombres	28
+Julio 2021	33	Matarraña / Matarranya	Hombres	30
+Julio 2021	01	La Jacetania	Mujeres	16
+Julio 2021	02	Alto Gállego	Mujeres	15
+Julio 2021	03	Sobrarbe	Mujeres	21
+Julio 2021	04	La Ribagorza	Mujeres	17
+Julio 2021	05	Cinco Villas	Mujeres	48
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	67
+Julio 2021	07	Somontano de Barbastro	Mujeres	27
+Julio 2021	08	Cinca Medio	Mujeres	38
+Julio 2021	09	La Litera / La Llitera	Mujeres	21
+Julio 2021	10	Los Monegros	Mujeres	16
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	19
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	17
+Julio 2021	13	Campo de Borja	Mujeres	15
+Julio 2021	14	Aranda	Mujeres	6
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	22
+Julio 2021	16	Valdejalón	Mujeres	33
+Julio 2021	17	Central	Mujeres	777
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	11
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	18
+Julio 2021	20	Comunidad de Calatayud	Mujeres	32
+Julio 2021	21	Campo de Cariñena	Mujeres	9
+Julio 2021	22	Campo de Belchite	Mujeres	6
+Julio 2021	23	Bajo Martín	Mujeres	7
+Julio 2021	24	Campo de Daroca	Mujeres	8
+Julio 2021	25	Jiloca	Mujeres	19
+Julio 2021	26	Cuencas Mineras	Mujeres	10
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	7
+Julio 2021	28	Bajo Aragón	Mujeres	28
+Julio 2021	29	Comunidad de Teruel	Mujeres	74
+Julio 2021	30	Maestrazgo	Mujeres	7
+Julio 2021	31	Sierra de Albarracín	Mujeres	9
+Julio 2021	32	Gúdar-Javalambre	Mujeres	19
+Julio 2021	33	Matarraña / Matarranya	Mujeres	13
+Julio 2021	01	La Jacetania	Hombres	64
+Julio 2021	02	Alto Gállego	Hombres	36
+Julio 2021	03	Sobrarbe	Hombres	52
+Julio 2021	04	La Ribagorza	Hombres	65
+Julio 2021	05	Cinco Villas	Hombres	130
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	229
+Julio 2021	07	Somontano de Barbastro	Hombres	98
+Julio 2021	08	Cinca Medio	Hombres	79
+Julio 2021	09	La Litera / La Llitera	Hombres	69
+Julio 2021	10	Los Monegros	Hombres	116
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	111
+Julio 2021	12	Tarazona y el Moncayo	Hombres	32
+Julio 2021	13	Campo de Borja	Hombres	67
+Julio 2021	14	Aranda	Hombres	15
+Julio 2021	15	Ribera Alta del Ebro	Hombres	59
+Julio 2021	16	Valdejalón	Hombres	108
+Julio 2021	17	Central	Hombres	1924
+Julio 2021	18	Ribera Baja del Ebro	Hombres	33
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	55
+Julio 2021	20	Comunidad de Calatayud	Hombres	112
+Julio 2021	21	Campo de Cariñena	Hombres	36
+Julio 2021	22	Campo de Belchite	Hombres	29
+Julio 2021	23	Bajo Martín	Hombres	31
+Julio 2021	24	Campo de Daroca	Hombres	32
+Julio 2021	25	Jiloca	Hombres	70
+Julio 2021	26	Cuencas Mineras	Hombres	30
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	26
+Julio 2021	28	Bajo Aragón	Hombres	114
+Julio 2021	29	Comunidad de Teruel	Hombres	162
+Julio 2021	30	Maestrazgo	Hombres	23
+Julio 2021	31	Sierra de Albarracín	Hombres	31
+Julio 2021	32	Gúdar-Javalambre	Hombres	52
+Julio 2021	33	Matarraña / Matarranya	Hombres	61
+Julio 2021	01	La Jacetania	Mujeres	31
+Julio 2021	02	Alto Gállego	Mujeres	42
+Julio 2021	03	Sobrarbe	Mujeres	38
+Julio 2021	04	La Ribagorza	Mujeres	38
+Julio 2021	05	Cinco Villas	Mujeres	64
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	126
+Julio 2021	07	Somontano de Barbastro	Mujeres	46
+Julio 2021	08	Cinca Medio	Mujeres	62
+Julio 2021	09	La Litera / La Llitera	Mujeres	37
+Julio 2021	10	Los Monegros	Mujeres	36
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	42
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	27
+Julio 2021	13	Campo de Borja	Mujeres	35
+Julio 2021	14	Aranda	Mujeres	9
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	46
+Julio 2021	16	Valdejalón	Mujeres	40
+Julio 2021	17	Central	Mujeres	1324
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	14
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	29
+Julio 2021	20	Comunidad de Calatayud	Mujeres	60
+Julio 2021	21	Campo de Cariñena	Mujeres	8
+Julio 2021	22	Campo de Belchite	Mujeres	8
+Julio 2021	23	Bajo Martín	Mujeres	6
+Julio 2021	24	Campo de Daroca	Mujeres	11
+Julio 2021	25	Jiloca	Mujeres	31
+Julio 2021	26	Cuencas Mineras	Mujeres	12
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	7
+Julio 2021	28	Bajo Aragón	Mujeres	69
+Julio 2021	29	Comunidad de Teruel	Mujeres	98
+Julio 2021	30	Maestrazgo	Mujeres	21
+Julio 2021	31	Sierra de Albarracín	Mujeres	13
+Julio 2021	32	Gúdar-Javalambre	Mujeres	24
+Julio 2021	33	Matarraña / Matarranya	Mujeres	32
+Julio 2021	01	La Jacetania	Hombres	77
+Julio 2021	02	Alto Gállego	Hombres	73
+Julio 2021	03	Sobrarbe	Hombres	67
+Julio 2021	04	La Ribagorza	Hombres	81
+Julio 2021	05	Cinco Villas	Hombres	161
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	350
+Julio 2021	07	Somontano de Barbastro	Hombres	157
+Julio 2021	08	Cinca Medio	Hombres	144
+Julio 2021	09	La Litera / La Llitera	Hombres	112
+Julio 2021	10	Los Monegros	Hombres	158
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	132
+Julio 2021	12	Tarazona y el Moncayo	Hombres	39
+Julio 2021	13	Campo de Borja	Hombres	94
+Julio 2021	14	Aranda	Hombres	31
+Julio 2021	15	Ribera Alta del Ebro	Hombres	96
+Julio 2021	16	Valdejalón	Hombres	151
+Julio 2021	17	Central	Hombres	2875
+Julio 2021	18	Ribera Baja del Ebro	Hombres	32
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	104
+Julio 2021	20	Comunidad de Calatayud	Hombres	179
+Julio 2021	21	Campo de Cariñena	Hombres	53
+Julio 2021	22	Campo de Belchite	Hombres	23
+Julio 2021	23	Bajo Martín	Hombres	23
+Julio 2021	24	Campo de Daroca	Hombres	30
+Julio 2021	25	Jiloca	Hombres	81
+Julio 2021	26	Cuencas Mineras	Hombres	19
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	40
+Julio 2021	28	Bajo Aragón	Hombres	187
+Julio 2021	29	Comunidad de Teruel	Hombres	252
+Julio 2021	30	Maestrazgo	Hombres	31
+Julio 2021	31	Sierra de Albarracín	Hombres	28
+Julio 2021	32	Gúdar-Javalambre	Hombres	64
+Julio 2021	33	Matarraña / Matarranya	Hombres	85
+Julio 2021	01	La Jacetania	Mujeres	62
+Julio 2021	02	Alto Gállego	Mujeres	60
+Julio 2021	03	Sobrarbe	Mujeres	28
+Julio 2021	04	La Ribagorza	Mujeres	58
+Julio 2021	05	Cinco Villas	Mujeres	88
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	188
+Julio 2021	07	Somontano de Barbastro	Mujeres	70
+Julio 2021	08	Cinca Medio	Mujeres	66
+Julio 2021	09	La Litera / La Llitera	Mujeres	48
+Julio 2021	10	Los Monegros	Mujeres	62
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	66
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	28
+Julio 2021	13	Campo de Borja	Mujeres	43
+Julio 2021	14	Aranda	Mujeres	17
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	57
+Julio 2021	16	Valdejalón	Mujeres	59
+Julio 2021	17	Central	Mujeres	1887
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	25
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	55
+Julio 2021	20	Comunidad de Calatayud	Mujeres	82
+Julio 2021	21	Campo de Cariñena	Mujeres	30
+Julio 2021	22	Campo de Belchite	Mujeres	7
+Julio 2021	23	Bajo Martín	Mujeres	11
+Julio 2021	24	Campo de Daroca	Mujeres	17
+Julio 2021	25	Jiloca	Mujeres	43
+Julio 2021	26	Cuencas Mineras	Mujeres	22
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	21
+Julio 2021	28	Bajo Aragón	Mujeres	82
+Julio 2021	29	Comunidad de Teruel	Mujeres	148
+Julio 2021	30	Maestrazgo	Mujeres	10
+Julio 2021	31	Sierra de Albarracín	Mujeres	16
+Julio 2021	32	Gúdar-Javalambre	Mujeres	38
+Julio 2021	33	Matarraña / Matarranya	Mujeres	40
+Julio 2021	01	La Jacetania	Hombres	143
+Julio 2021	02	Alto Gállego	Hombres	110
+Julio 2021	03	Sobrarbe	Hombres	106
+Julio 2021	04	La Ribagorza	Hombres	126
+Julio 2021	05	Cinco Villas	Hombres	270
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	497
+Julio 2021	07	Somontano de Barbastro	Hombres	203
+Julio 2021	08	Cinca Medio	Hombres	184
+Julio 2021	09	La Litera / La Llitera	Hombres	188
+Julio 2021	10	Los Monegros	Hombres	262
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	225
+Julio 2021	12	Tarazona y el Moncayo	Hombres	77
+Julio 2021	13	Campo de Borja	Hombres	102
+Julio 2021	14	Aranda	Hombres	45
+Julio 2021	15	Ribera Alta del Ebro	Hombres	151
+Julio 2021	16	Valdejalón	Hombres	239
+Julio 2021	17	Central	Hombres	4314
+Julio 2021	18	Ribera Baja del Ebro	Hombres	62
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	144
+Julio 2021	20	Comunidad de Calatayud	Hombres	219
+Julio 2021	21	Campo de Cariñena	Hombres	79
+Julio 2021	22	Campo de Belchite	Hombres	33
+Julio 2021	23	Bajo Martín	Hombres	39
+Julio 2021	24	Campo de Daroca	Hombres	50
+Julio 2021	25	Jiloca	Hombres	132
+Julio 2021	26	Cuencas Mineras	Hombres	39
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	61
+Julio 2021	28	Bajo Aragón	Hombres	233
+Julio 2021	29	Comunidad de Teruel	Hombres	303
+Julio 2021	30	Maestrazgo	Hombres	41
+Julio 2021	31	Sierra de Albarracín	Hombres	32
+Julio 2021	32	Gúdar-Javalambre	Hombres	69
+Julio 2021	33	Matarraña / Matarranya	Hombres	95
+Julio 2021	01	La Jacetania	Mujeres	92
+Julio 2021	02	Alto Gállego	Mujeres	61
+Julio 2021	03	Sobrarbe	Mujeres	60
+Julio 2021	04	La Ribagorza	Mujeres	68
+Julio 2021	05	Cinco Villas	Mujeres	189
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	270
+Julio 2021	07	Somontano de Barbastro	Mujeres	96
+Julio 2021	08	Cinca Medio	Mujeres	112
+Julio 2021	09	La Litera / La Llitera	Mujeres	65
+Julio 2021	10	Los Monegros	Mujeres	89
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	99
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	48
+Julio 2021	13	Campo de Borja	Mujeres	58
+Julio 2021	14	Aranda	Mujeres	16
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	79
+Julio 2021	16	Valdejalón	Mujeres	105
+Julio 2021	17	Central	Mujeres	2374
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	32
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	68
+Julio 2021	20	Comunidad de Calatayud	Mujeres	114
+Julio 2021	21	Campo de Cariñena	Mujeres	36
+Julio 2021	22	Campo de Belchite	Mujeres	19
+Julio 2021	23	Bajo Martín	Mujeres	26
+Julio 2021	24	Campo de Daroca	Mujeres	21
+Julio 2021	25	Jiloca	Mujeres	51
+Julio 2021	26	Cuencas Mineras	Mujeres	22
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	26
+Julio 2021	28	Bajo Aragón	Mujeres	137
+Julio 2021	29	Comunidad de Teruel	Mujeres	159
+Julio 2021	30	Maestrazgo	Mujeres	16
+Julio 2021	31	Sierra de Albarracín	Mujeres	15
+Julio 2021	32	Gúdar-Javalambre	Mujeres	38
+Julio 2021	33	Matarraña / Matarranya	Mujeres	46
+Julio 2021	01	La Jacetania	Hombres	177
+Julio 2021	02	Alto Gállego	Hombres	108
+Julio 2021	03	Sobrarbe	Hombres	117
+Julio 2021	04	La Ribagorza	Hombres	152
+Julio 2021	05	Cinco Villas	Hombres	330
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	587
+Julio 2021	07	Somontano de Barbastro	Hombres	218
+Julio 2021	08	Cinca Medio	Hombres	186
+Julio 2021	09	La Litera / La Llitera	Hombres	208
+Julio 2021	10	Los Monegros	Hombres	233
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	263
+Julio 2021	12	Tarazona y el Moncayo	Hombres	102
+Julio 2021	13	Campo de Borja	Hombres	144
+Julio 2021	14	Aranda	Hombres	63
+Julio 2021	15	Ribera Alta del Ebro	Hombres	200
+Julio 2021	16	Valdejalón	Hombres	267
+Julio 2021	17	Central	Hombres	5129
+Julio 2021	18	Ribera Baja del Ebro	Hombres	71
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	166
+Julio 2021	20	Comunidad de Calatayud	Hombres	300
+Julio 2021	21	Campo de Cariñena	Hombres	93
+Julio 2021	22	Campo de Belchite	Hombres	44
+Julio 2021	23	Bajo Martín	Hombres	56
+Julio 2021	24	Campo de Daroca	Hombres	61
+Julio 2021	25	Jiloca	Hombres	138
+Julio 2021	26	Cuencas Mineras	Hombres	44
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	71
+Julio 2021	28	Bajo Aragón	Hombres	310
+Julio 2021	29	Comunidad de Teruel	Hombres	352
+Julio 2021	30	Maestrazgo	Hombres	46
+Julio 2021	31	Sierra de Albarracín	Hombres	52
+Julio 2021	32	Gúdar-Javalambre	Hombres	96
+Julio 2021	33	Matarraña / Matarranya	Hombres	128
+Julio 2021	01	La Jacetania	Mujeres	113
+Julio 2021	02	Alto Gállego	Mujeres	70
+Julio 2021	03	Sobrarbe	Mujeres	58
+Julio 2021	04	La Ribagorza	Mujeres	59
+Julio 2021	05	Cinco Villas	Mujeres	164
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	241
+Julio 2021	07	Somontano de Barbastro	Mujeres	117
+Julio 2021	08	Cinca Medio	Mujeres	135
+Julio 2021	09	La Litera / La Llitera	Mujeres	98
+Julio 2021	10	Los Monegros	Mujeres	99
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	132
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	71
+Julio 2021	13	Campo de Borja	Mujeres	65
+Julio 2021	14	Aranda	Mujeres	30
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	102
+Julio 2021	16	Valdejalón	Mujeres	94
+Julio 2021	17	Central	Mujeres	2847
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	34
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	81
+Julio 2021	20	Comunidad de Calatayud	Mujeres	138
+Julio 2021	21	Campo de Cariñena	Mujeres	41
+Julio 2021	22	Campo de Belchite	Mujeres	24
+Julio 2021	23	Bajo Martín	Mujeres	28
+Julio 2021	24	Campo de Daroca	Mujeres	33
+Julio 2021	25	Jiloca	Mujeres	59
+Julio 2021	26	Cuencas Mineras	Mujeres	17
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	42
+Julio 2021	28	Bajo Aragón	Mujeres	155
+Julio 2021	29	Comunidad de Teruel	Mujeres	168
+Julio 2021	30	Maestrazgo	Mujeres	19
+Julio 2021	31	Sierra de Albarracín	Mujeres	29
+Julio 2021	32	Gúdar-Javalambre	Mujeres	42
+Julio 2021	33	Matarraña / Matarranya	Mujeres	67
+Julio 2021	01	La Jacetania	Hombres	179
+Julio 2021	02	Alto Gállego	Hombres	128
+Julio 2021	03	Sobrarbe	Hombres	96
+Julio 2021	04	La Ribagorza	Hombres	169
+Julio 2021	05	Cinco Villas	Hombres	378
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	543
+Julio 2021	07	Somontano de Barbastro	Hombres	231
+Julio 2021	08	Cinca Medio	Hombres	191
+Julio 2021	09	La Litera / La Llitera	Hombres	235
+Julio 2021	10	Los Monegros	Hombres	282
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	263
+Julio 2021	12	Tarazona y el Moncayo	Hombres	113
+Julio 2021	13	Campo de Borja	Hombres	141
+Julio 2021	14	Aranda	Hombres	66
+Julio 2021	15	Ribera Alta del Ebro	Hombres	155
+Julio 2021	16	Valdejalón	Hombres	283
+Julio 2021	17	Central	Hombres	4749
+Julio 2021	18	Ribera Baja del Ebro	Hombres	75
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	167
+Julio 2021	20	Comunidad de Calatayud	Hombres	402
+Julio 2021	21	Campo de Cariñena	Hombres	117
+Julio 2021	22	Campo de Belchite	Hombres	63
+Julio 2021	23	Bajo Martín	Hombres	58
+Julio 2021	24	Campo de Daroca	Hombres	80
+Julio 2021	25	Jiloca	Hombres	149
+Julio 2021	26	Cuencas Mineras	Hombres	61
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	77
+Julio 2021	28	Bajo Aragón	Hombres	275
+Julio 2021	29	Comunidad de Teruel	Hombres	365
+Julio 2021	30	Maestrazgo	Hombres	53
+Julio 2021	31	Sierra de Albarracín	Hombres	41
+Julio 2021	32	Gúdar-Javalambre	Hombres	103
+Julio 2021	33	Matarraña / Matarranya	Hombres	125
+Julio 2021	01	La Jacetania	Mujeres	113
+Julio 2021	02	Alto Gállego	Mujeres	73
+Julio 2021	03	Sobrarbe	Mujeres	57
+Julio 2021	04	La Ribagorza	Mujeres	84
+Julio 2021	05	Cinco Villas	Mujeres	182
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	262
+Julio 2021	07	Somontano de Barbastro	Mujeres	129
+Julio 2021	08	Cinca Medio	Mujeres	139
+Julio 2021	09	La Litera / La Llitera	Mujeres	122
+Julio 2021	10	Los Monegros	Mujeres	121
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	123
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	61
+Julio 2021	13	Campo de Borja	Mujeres	81
+Julio 2021	14	Aranda	Mujeres	24
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	96
+Julio 2021	16	Valdejalón	Mujeres	128
+Julio 2021	17	Central	Mujeres	2816
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	55
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	71
+Julio 2021	20	Comunidad de Calatayud	Mujeres	163
+Julio 2021	21	Campo de Cariñena	Mujeres	40
+Julio 2021	22	Campo de Belchite	Mujeres	32
+Julio 2021	23	Bajo Martín	Mujeres	39
+Julio 2021	24	Campo de Daroca	Mujeres	29
+Julio 2021	25	Jiloca	Mujeres	78
+Julio 2021	26	Cuencas Mineras	Mujeres	31
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	42
+Julio 2021	28	Bajo Aragón	Mujeres	159
+Julio 2021	29	Comunidad de Teruel	Mujeres	188
+Julio 2021	30	Maestrazgo	Mujeres	27
+Julio 2021	31	Sierra de Albarracín	Mujeres	24
+Julio 2021	32	Gúdar-Javalambre	Mujeres	47
+Julio 2021	33	Matarraña / Matarranya	Mujeres	67
+Julio 2021	01	La Jacetania	Hombres	187
+Julio 2021	02	Alto Gállego	Hombres	123
+Julio 2021	03	Sobrarbe	Hombres	120
+Julio 2021	04	La Ribagorza	Hombres	174
+Julio 2021	05	Cinco Villas	Hombres	419
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	483
+Julio 2021	07	Somontano de Barbastro	Hombres	205
+Julio 2021	08	Cinca Medio	Hombres	205
+Julio 2021	09	La Litera / La Llitera	Hombres	221
+Julio 2021	10	Los Monegros	Hombres	280
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	274
+Julio 2021	12	Tarazona y el Moncayo	Hombres	109
+Julio 2021	13	Campo de Borja	Hombres	158
+Julio 2021	14	Aranda	Hombres	87
+Julio 2021	15	Ribera Alta del Ebro	Hombres	167
+Julio 2021	16	Valdejalón	Hombres	222
+Julio 2021	17	Central	Hombres	4484
+Julio 2021	18	Ribera Baja del Ebro	Hombres	89
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	138
+Julio 2021	20	Comunidad de Calatayud	Hombres	328
+Julio 2021	21	Campo de Cariñena	Hombres	117
+Julio 2021	22	Campo de Belchite	Hombres	69
+Julio 2021	23	Bajo Martín	Hombres	65
+Julio 2021	24	Campo de Daroca	Hombres	84
+Julio 2021	25	Jiloca	Hombres	175
+Julio 2021	26	Cuencas Mineras	Hombres	66
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	72
+Julio 2021	28	Bajo Aragón	Hombres	307
+Julio 2021	29	Comunidad de Teruel	Hombres	393
+Julio 2021	30	Maestrazgo	Hombres	58
+Julio 2021	31	Sierra de Albarracín	Hombres	68
+Julio 2021	32	Gúdar-Javalambre	Hombres	108
+Julio 2021	33	Matarraña / Matarranya	Hombres	168
+Julio 2021	01	La Jacetania	Mujeres	127
+Julio 2021	02	Alto Gállego	Mujeres	63
+Julio 2021	03	Sobrarbe	Mujeres	61
+Julio 2021	04	La Ribagorza	Mujeres	77
+Julio 2021	05	Cinco Villas	Mujeres	176
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	231
+Julio 2021	07	Somontano de Barbastro	Mujeres	109
+Julio 2021	08	Cinca Medio	Mujeres	135
+Julio 2021	09	La Litera / La Llitera	Mujeres	117
+Julio 2021	10	Los Monegros	Mujeres	152
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	145
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	50
+Julio 2021	13	Campo de Borja	Mujeres	61
+Julio 2021	14	Aranda	Mujeres	37
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	95
+Julio 2021	16	Valdejalón	Mujeres	94
+Julio 2021	17	Central	Mujeres	2433
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	58
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	70
+Julio 2021	20	Comunidad de Calatayud	Mujeres	149
+Julio 2021	21	Campo de Cariñena	Mujeres	59
+Julio 2021	22	Campo de Belchite	Mujeres	28
+Julio 2021	23	Bajo Martín	Mujeres	44
+Julio 2021	24	Campo de Daroca	Mujeres	23
+Julio 2021	25	Jiloca	Mujeres	77
+Julio 2021	26	Cuencas Mineras	Mujeres	41
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	52
+Julio 2021	28	Bajo Aragón	Mujeres	184
+Julio 2021	29	Comunidad de Teruel	Mujeres	161
+Julio 2021	30	Maestrazgo	Mujeres	38
+Julio 2021	31	Sierra de Albarracín	Mujeres	38
+Julio 2021	32	Gúdar-Javalambre	Mujeres	58
+Julio 2021	33	Matarraña / Matarranya	Mujeres	95
+Julio 2021	01	La Jacetania	Hombres	154
+Julio 2021	02	Alto Gállego	Hombres	108
+Julio 2021	03	Sobrarbe	Hombres	109
+Julio 2021	04	La Ribagorza	Hombres	150
+Julio 2021	05	Cinco Villas	Hombres	324
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	405
+Julio 2021	07	Somontano de Barbastro	Hombres	170
+Julio 2021	08	Cinca Medio	Hombres	147
+Julio 2021	09	La Litera / La Llitera	Hombres	164
+Julio 2021	10	Los Monegros	Hombres	235
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	243
+Julio 2021	12	Tarazona y el Moncayo	Hombres	66
+Julio 2021	13	Campo de Borja	Hombres	98
+Julio 2021	14	Aranda	Hombres	42
+Julio 2021	15	Ribera Alta del Ebro	Hombres	142
+Julio 2021	16	Valdejalón	Hombres	183
+Julio 2021	17	Central	Hombres	3223
+Julio 2021	18	Ribera Baja del Ebro	Hombres	72
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	138
+Julio 2021	20	Comunidad de Calatayud	Hombres	261
+Julio 2021	21	Campo de Cariñena	Hombres	107
+Julio 2021	22	Campo de Belchite	Hombres	45
+Julio 2021	23	Bajo Martín	Hombres	56
+Julio 2021	24	Campo de Daroca	Hombres	59
+Julio 2021	25	Jiloca	Hombres	127
+Julio 2021	26	Cuencas Mineras	Hombres	50
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	65
+Julio 2021	28	Bajo Aragón	Hombres	214
+Julio 2021	29	Comunidad de Teruel	Hombres	295
+Julio 2021	30	Maestrazgo	Hombres	55
+Julio 2021	31	Sierra de Albarracín	Hombres	54
+Julio 2021	32	Gúdar-Javalambre	Hombres	88
+Julio 2021	33	Matarraña / Matarranya	Hombres	134
+Julio 2021	01	La Jacetania	Mujeres	93
+Julio 2021	02	Alto Gállego	Mujeres	58
+Julio 2021	03	Sobrarbe	Mujeres	36
+Julio 2021	04	La Ribagorza	Mujeres	67
+Julio 2021	05	Cinco Villas	Mujeres	181
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	151
+Julio 2021	07	Somontano de Barbastro	Mujeres	90
+Julio 2021	08	Cinca Medio	Mujeres	98
+Julio 2021	09	La Litera / La Llitera	Mujeres	96
+Julio 2021	10	Los Monegros	Mujeres	118
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	132
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	35
+Julio 2021	13	Campo de Borja	Mujeres	56
+Julio 2021	14	Aranda	Mujeres	14
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	99
+Julio 2021	16	Valdejalón	Mujeres	77
+Julio 2021	17	Central	Mujeres	1783
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	46
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	70
+Julio 2021	20	Comunidad de Calatayud	Mujeres	123
+Julio 2021	21	Campo de Cariñena	Mujeres	49
+Julio 2021	22	Campo de Belchite	Mujeres	21
+Julio 2021	23	Bajo Martín	Mujeres	25
+Julio 2021	24	Campo de Daroca	Mujeres	25
+Julio 2021	25	Jiloca	Mujeres	72
+Julio 2021	26	Cuencas Mineras	Mujeres	22
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	34
+Julio 2021	28	Bajo Aragón	Mujeres	138
+Julio 2021	29	Comunidad de Teruel	Mujeres	156
+Julio 2021	30	Maestrazgo	Mujeres	27
+Julio 2021	31	Sierra de Albarracín	Mujeres	31
+Julio 2021	32	Gúdar-Javalambre	Mujeres	48
+Julio 2021	33	Matarraña / Matarranya	Mujeres	101
+Julio 2021	01	La Jacetania	Hombres	41
+Julio 2021	02	Alto Gállego	Hombres	25
+Julio 2021	03	Sobrarbe	Hombres	36
+Julio 2021	04	La Ribagorza	Hombres	50
+Julio 2021	05	Cinco Villas	Hombres	106
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	128
+Julio 2021	07	Somontano de Barbastro	Hombres	54
+Julio 2021	08	Cinca Medio	Hombres	57
+Julio 2021	09	La Litera / La Llitera	Hombres	68
+Julio 2021	10	Los Monegros	Hombres	98
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	87
+Julio 2021	12	Tarazona y el Moncayo	Hombres	13
+Julio 2021	13	Campo de Borja	Hombres	17
+Julio 2021	14	Aranda	Hombres	4
+Julio 2021	15	Ribera Alta del Ebro	Hombres	31
+Julio 2021	16	Valdejalón	Hombres	36
+Julio 2021	17	Central	Hombres	890
+Julio 2021	18	Ribera Baja del Ebro	Hombres	20
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	17
+Julio 2021	20	Comunidad de Calatayud	Hombres	61
+Julio 2021	21	Campo de Cariñena	Hombres	21
+Julio 2021	22	Campo de Belchite	Hombres	16
+Julio 2021	23	Bajo Martín	Hombres	11
+Julio 2021	24	Campo de Daroca	Hombres	15
+Julio 2021	25	Jiloca	Hombres	17
+Julio 2021	26	Cuencas Mineras	Hombres	10
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	9
+Julio 2021	28	Bajo Aragón	Hombres	36
+Julio 2021	29	Comunidad de Teruel	Hombres	42
+Julio 2021	30	Maestrazgo	Hombres	6
+Julio 2021	31	Sierra de Albarracín	Hombres	5
+Julio 2021	32	Gúdar-Javalambre	Hombres	17
+Julio 2021	33	Matarraña / Matarranya	Hombres	14
+Julio 2021	01	La Jacetania	Mujeres	23
+Julio 2021	02	Alto Gállego	Mujeres	17
+Julio 2021	03	Sobrarbe	Mujeres	21
+Julio 2021	04	La Ribagorza	Mujeres	33
+Julio 2021	05	Cinco Villas	Mujeres	48
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	51
+Julio 2021	07	Somontano de Barbastro	Mujeres	29
+Julio 2021	08	Cinca Medio	Mujeres	30
+Julio 2021	09	La Litera / La Llitera	Mujeres	34
+Julio 2021	10	Los Monegros	Mujeres	60
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	42
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	6
+Julio 2021	13	Campo de Borja	Mujeres	8
+Julio 2021	14	Aranda	Mujeres	4
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	16
+Julio 2021	16	Valdejalón	Mujeres	17
+Julio 2021	17	Central	Mujeres	516
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	12
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	24
+Julio 2021	20	Comunidad de Calatayud	Mujeres	33
+Julio 2021	21	Campo de Cariñena	Mujeres	11
+Julio 2021	22	Campo de Belchite	Mujeres	9
+Julio 2021	23	Bajo Martín	Mujeres	7
+Julio 2021	24	Campo de Daroca	Mujeres	8
+Julio 2021	25	Jiloca	Mujeres	13
+Julio 2021	26	Cuencas Mineras	Mujeres	2
+Julio 2021	27	Andorra-Sierra de Arcos	Mujeres	6
+Julio 2021	28	Bajo Aragón	Mujeres	28
+Julio 2021	29	Comunidad de Teruel	Mujeres	26
+Julio 2021	30	Maestrazgo	Mujeres	4
+Julio 2021	31	Sierra de Albarracín	Mujeres	4
+Julio 2021	32	Gúdar-Javalambre	Mujeres	20
+Julio 2021	33	Matarraña / Matarranya	Mujeres	18
+Julio 2021	01	La Jacetania	Hombres	19
+Julio 2021	02	Alto Gállego	Hombres	9
+Julio 2021	03	Sobrarbe	Hombres	16
+Julio 2021	04	La Ribagorza	Hombres	23
+Julio 2021	05	Cinco Villas	Hombres	27
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	74
+Julio 2021	07	Somontano de Barbastro	Hombres	40
+Julio 2021	08	Cinca Medio	Hombres	27
+Julio 2021	09	La Litera / La Llitera	Hombres	53
+Julio 2021	10	Los Monegros	Hombres	41
+Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	45
+Julio 2021	12	Tarazona y el Moncayo	Hombres	8
+Julio 2021	13	Campo de Borja	Hombres	4
+Julio 2021	14	Aranda	Hombres	3
+Julio 2021	15	Ribera Alta del Ebro	Hombres	22
+Julio 2021	16	Valdejalón	Hombres	17
+Julio 2021	17	Central	Hombres	430
+Julio 2021	18	Ribera Baja del Ebro	Hombres	6
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	8
+Julio 2021	20	Comunidad de Calatayud	Hombres	32
+Julio 2021	21	Campo de Cariñena	Hombres	10
+Julio 2021	22	Campo de Belchite	Hombres	12
+Julio 2021	23	Bajo Martín	Hombres	3
+Julio 2021	24	Campo de Daroca	Hombres	10
+Julio 2021	25	Jiloca	Hombres	8
+Julio 2021	26	Cuencas Mineras	Hombres	5
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	1
+Julio 2021	28	Bajo Aragón	Hombres	15
+Julio 2021	29	Comunidad de Teruel	Hombres	16
+Julio 2021	30	Maestrazgo	Hombres	1
+Julio 2021	31	Sierra de Albarracín	Hombres	4
+Julio 2021	32	Gúdar-Javalambre	Hombres	5
+Julio 2021	33	Matarraña / Matarranya	Hombres	4
+Julio 2021	01	La Jacetania	Mujeres	8
+Julio 2021	02	Alto Gállego	Mujeres	4
+Julio 2021	03	Sobrarbe	Mujeres	9
+Julio 2021	04	La Ribagorza	Mujeres	22
+Julio 2021	05	Cinco Villas	Mujeres	11
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	24
+Julio 2021	07	Somontano de Barbastro	Mujeres	9
+Julio 2021	08	Cinca Medio	Mujeres	6
+Julio 2021	09	La Litera / La Llitera	Mujeres	14
+Julio 2021	10	Los Monegros	Mujeres	18
+Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	13
+Julio 2021	12	Tarazona y el Moncayo	Mujeres	3
+Julio 2021	13	Campo de Borja	Mujeres	3
+Julio 2021	14	Aranda	Mujeres	2
+Julio 2021	15	Ribera Alta del Ebro	Mujeres	13
+Julio 2021	16	Valdejalón	Mujeres	5
+Julio 2021	17	Central	Mujeres	248
+Julio 2021	18	Ribera Baja del Ebro	Mujeres	4
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	4
+Julio 2021	20	Comunidad de Calatayud	Mujeres	9
+Julio 2021	21	Campo de Cariñena	Mujeres	3
+Julio 2021	22	Campo de Belchite	Mujeres	5
+Julio 2021	25	Jiloca	Mujeres	2
+Julio 2021	26	Cuencas Mineras	Mujeres	3
+Julio 2021	28	Bajo Aragón	Mujeres	6
+Julio 2021	29	Comunidad de Teruel	Mujeres	4
+Julio 2021	30	Maestrazgo	Mujeres	1
+Julio 2021	32	Gúdar-Javalambre	Mujeres	5
+Julio 2021	33	Matarraña / Matarranya	Mujeres	2
+Julio 2021	17	Central	Hombres	1
+Julio 2021	27	Andorra-Sierra de Arcos	Hombres	1
+Julio 2021	17	Central	Mujeres	6
 Junio 2021	01	La Jacetania	Hombres	1
 Junio 2021	02	Alto Gállego	Hombres	6
 Junio 2021	04	La Ribagorza	Hombres	3
