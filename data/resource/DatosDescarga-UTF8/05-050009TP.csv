@@ -329,6 +329,12 @@ Junio 2021	44	Teruel	Indefinido	Hombres	14507
 Junio 2021	44	Teruel	Indefinido	Mujeres	9995
 Junio 2021	50	Zaragoza	Indefinido	Hombres	125299
 Junio 2021	50	Zaragoza	Indefinido	Mujeres	105729
+Julio 2021	22	Huesca	Indefinido	Hombres	27501
+Julio 2021	22	Huesca	Indefinido	Mujeres	20657
+Julio 2021	44	Teruel	Indefinido	Hombres	14538
+Julio 2021	44	Teruel	Indefinido	Mujeres	9951
+Julio 2021	50	Zaragoza	Indefinido	Hombres	125179
+Julio 2021	50	Zaragoza	Indefinido	Mujeres	104778
 Marzo 2010	22	Huesca	Temporal	Hombres	9967
 Marzo 2010	22	Huesca	Temporal	Mujeres	8587
 Marzo 2010	44	Teruel	Temporal	Hombres	5843
@@ -659,6 +665,12 @@ Junio 2021	44	Teruel	Temporal	Hombres	6299
 Junio 2021	44	Teruel	Temporal	Mujeres	6098
 Junio 2021	50	Zaragoza	Temporal	Hombres	51882
 Junio 2021	50	Zaragoza	Temporal	Mujeres	48253
+Julio 2021	22	Huesca	Temporal	Hombres	15475
+Julio 2021	22	Huesca	Temporal	Mujeres	13334
+Julio 2021	44	Teruel	Temporal	Hombres	6911
+Julio 2021	44	Teruel	Temporal	Mujeres	7011
+Julio 2021	50	Zaragoza	Temporal	Hombres	49480
+Julio 2021	50	Zaragoza	Temporal	Mujeres	48446
 Marzo 2010	22	Huesca	Sin clasificar	Hombres	2446
 Marzo 2010	22	Huesca	Sin clasificar	Mujeres	3503
 Marzo 2010	44	Teruel	Sin clasificar	Hombres	1735
@@ -989,3 +1001,9 @@ Junio 2021	44	Teruel	Sin clasificar	Hombres	2100
 Junio 2021	44	Teruel	Sin clasificar	Mujeres	3656
 Junio 2021	50	Zaragoza	Sin clasificar	Hombres	12089
 Junio 2021	50	Zaragoza	Sin clasificar	Mujeres	19935
+Julio 2021	22	Huesca	Sin clasificar	Hombres	3158
+Julio 2021	22	Huesca	Sin clasificar	Mujeres	5007
+Julio 2021	44	Teruel	Sin clasificar	Hombres	2099
+Julio 2021	44	Teruel	Sin clasificar	Mujeres	3627
+Julio 2021	50	Zaragoza	Sin clasificar	Hombres	12265
+Julio 2021	50	Zaragoza	Sin clasificar	Mujeres	19871
