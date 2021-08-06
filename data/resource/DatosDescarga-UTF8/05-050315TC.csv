@@ -1,4 +1,448 @@
 Mes y año	Mes (código)	Mes nombre	Año	Comarca código	Comarca nombre	Sexo	Temporalidad	Modalidad	orden_modalidad	Grupo de tipo de contrato	Grupo de tipo de contrato	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos
+Julio 2021	202107	Julio	2021	01	La Jacetania	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	159	0	0
+Julio 2021	202107	Julio	2021	01	La Jacetania	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	20	1599	79,95
+Julio 2021	202107	Julio	2021	01	La Jacetania	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	161	0	0
+Julio 2021	202107	Julio	2021	01	La Jacetania	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	29	1355	46,7241379310344827586206896551724137931
+Julio 2021	202107	Julio	2021	01	La Jacetania	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	174	9609	55,2241379310344827586206896551724137931
+Julio 2021	202107	Julio	2021	01	La Jacetania	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	206	10640	51,65048543689320388349514563106796116505
+Julio 2021	202107	Julio	2021	01	La Jacetania	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	13	0	0
+Julio 2021	202107	Julio	2021	01	La Jacetania	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	66	33
+Julio 2021	202107	Julio	2021	01	La Jacetania	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	11	0	0
+Julio 2021	202107	Julio	2021	01	La Jacetania	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	19	447	23,52631578947368421052631578947368421053
+Julio 2021	202107	Julio	2021	01	La Jacetania	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	01	La Jacetania	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	1	644	644
+Julio 2021	202107	Julio	2021	01	La Jacetania	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	151	0	0
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	17	831	48,88235294117647058823529411764705882353
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	129	0	0
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	8	268	33,5
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	2	0	0
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	162	7649	47,21604938271604938271604938271604938272
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	165	8310	50,36363636363636363636363636363636363636
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	3	0	0
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	1	110	110
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	6	0	0
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	3	52	17,33333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	02	Alto Gállego	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	138	0	0
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	38	1370	36,05263157894736842105263157894736842105
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	155	0	0
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	14	745	53,21428571428571428571428571428571428571
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	225	9995	44,42222222222222222222222222222222222222
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	236	11836	50,15254237288135593220338983050847457627
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	1	0	0
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	7	0	0
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	55	27,5
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	1	1081	1081
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	6	2160	360
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	184	184
+Julio 2021	202107	Julio	2021	03	Sobrarbe	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	4	1440	360
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	156	0	0
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	6	198	33
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	185	0	0
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	7	615	87,85714285714285714285714285714285714286
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	1	0	0
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	147	8017	54,53741496598639455782312925170068027211
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	2	0	0
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	151	8038	53,23178807947019867549668874172185430464
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	12	0	0
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	138	69
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	14	0	0
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	6	98	16,33333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	04	La Ribagorza	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	223	0	0
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	11	1715	155,909090909090909090909090909090909091
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	118	0	0
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	20	1142	57,1
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	179	11768	65,74301675977653631284916201117318435754
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	139	6976	50,1870503597122302158273381294964028777
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	11	0	0
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	3	199	66,33333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	31	0	0
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	8	199	24,875
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	7	7112	1016
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	2	110	55
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	3	1080	360
+Julio 2021	202107	Julio	2021	05	Cinco Villas	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	2	540	270
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	359	0	0
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	72	1863	25,875
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	161	0	0
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	53	1951	36,81132075471698113207547169811320754717
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	4	0	0
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	614	29476	48,00651465798045602605863192182410423453
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	11	0	0
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	650	30682	47,20307692307692307692307692307692307692
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	37	0	0
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	16	1095	68,4375
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	86	0	0
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	31	1564	50,4516129032258064516129032258064516129
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	2	720	360
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	2	720	360
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	2	0	0
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	3	3314	1104,666666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	3	3124	1041,333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	2	1578	789
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	2	1267	633,5
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	7	2520	360
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	12	2340	195
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	6	2160	360
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	4	720	180
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Otros	8	Otros	Otros	1	1	1080	1080
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	1	180	180
+Julio 2021	202107	Julio	2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	7	1620	231,428571428571428571428571428571428571
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	157	0	0
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	7	179	25,57142857142857142857142857142857142857
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	90	0	0
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	6	361	60,16666666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	259	11251	43,44015444015444015444015444015444015444
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	1	0	0
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	183	7517	41,0765027322404371584699453551912568306
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	7	0	0
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	1	71	71
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	16	0	0
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	5	129	25,8
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	1	0	0
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	1	1440	1440
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	5	1800	360
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	4	720	180
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	7	2520	360
+Julio 2021	202107	Julio	2021	07	Somontano de Barbastro	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	435	0	0
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	8	152	19
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	150	0	0
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	12	361	30,08333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	160	11458	71,6125
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	219	7634	34,85844748858447488584474885844748858447
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	3	0	0
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	159	79,5
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	30	0	0
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	13	739	56,84615384615384615384615384615384615385
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	1	0	0
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	1	1440	1440
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	2	2804	1402
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	08	Cinca Medio	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	2	540	270
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	184	0	0
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	8	1359	169,875
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	60	0	0
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	1	98	98
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	1	0	0
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	345	34449	99,85217391304347826086956521739130434783
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	141	9334	66,19858156028368794326241134751773049645
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	6	0	0
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	3	127	42,33333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	26	0	0
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	18	790	43,88888888888888888888888888888888888889
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	1	1415	1415
+Julio 2021	202107	Julio	2021	09	La Litera / La Llitera	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	2	540	270
+Julio 2021	202107	Julio	2021	10	Los Monegros	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	108	0	0
+Julio 2021	202107	Julio	2021	10	Los Monegros	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	7	650	92,85714285714285714285714285714285714286
+Julio 2021	202107	Julio	2021	10	Los Monegros	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	47	0	0
+Julio 2021	202107	Julio	2021	10	Los Monegros	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	5	216	43,2
+Julio 2021	202107	Julio	2021	10	Los Monegros	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	66	6258	94,81818181818181818181818181818181818182
+Julio 2021	202107	Julio	2021	10	Los Monegros	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	53	4031	76,05660377358490566037735849056603773585
+Julio 2021	202107	Julio	2021	10	Los Monegros	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	4	0	0
+Julio 2021	202107	Julio	2021	10	Los Monegros	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	1	7	7
+Julio 2021	202107	Julio	2021	10	Los Monegros	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	11	0	0
+Julio 2021	202107	Julio	2021	10	Los Monegros	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	17	457	26,88235294117647058823529411764705882353
+Julio 2021	202107	Julio	2021	10	Los Monegros	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	973	0	0
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	66	2725	41,28787878787878787878787878787878787879
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	414	0	0
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	37	346	9,35135135135135135135135135135135135135
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	1	0	0
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	400	17521	43,8025
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	451	12115	26,86252771618625277161862527716186252772
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	9	0	0
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	98	49
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	16	0	0
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	3	68	22,66666666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	3	2404	801,333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	1	0	0
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	9	1620	180
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	1	180	180
+Julio 2021	202107	Julio	2021	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	2	540	270
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	50	0	0
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	11	2162	196,545454545454545454545454545454545455
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	36	0	0
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	6	631	105,166666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	251	3108	12,38247011952191235059760956175298804781
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	234	3408	14,56410256410256410256410256410256410256
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	4	0	0
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	1	1	1
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	16	0	0
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	4	45	11,25
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	3	3580	1193,333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	12	Tarazona y el Moncayo	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	1	711	711
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	85	0	0
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	10	652	65,2
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	39	0	0
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	13	1301	100,076923076923076923076923076923076923
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	16	0	0
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	99	3819	38,57575757575757575757575757575757575758
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	107	3756	35,10280373831775700934579439252336448598
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	23	0	0
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	34	0	0
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	7	417	59,57142857142857142857142857142857142857
+Julio 2021	202107	Julio	2021	13	Campo de Borja	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	1	360	360
+Julio 2021	202107	Julio	2021	14	Aranda	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	85	0	0
+Julio 2021	202107	Julio	2021	14	Aranda	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	4	544	136
+Julio 2021	202107	Julio	2021	14	Aranda	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	39	0	0
+Julio 2021	202107	Julio	2021	14	Aranda	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	6	572	95,33333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	14	Aranda	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	10	932	93,2
+Julio 2021	202107	Julio	2021	14	Aranda	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	12	939	78,25
+Julio 2021	202107	Julio	2021	14	Aranda	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	4	0	0
+Julio 2021	202107	Julio	2021	14	Aranda	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	100	50
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	268	0	0
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	33	642	19,45454545454545454545454545454545454545
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	113	0	0
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	21	368	17,52380952380952380952380952380952380952
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	1073	15026	14,00372786579683131407269338303821062442
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	491	9175	18,68635437881873727087576374745417515275
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	14	0	0
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	68	34
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	33	0	0
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	11	1113	101,181818181818181818181818181818181818
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	1	0	0
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	2	2858	1429
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	8	9128	1141
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Mujeres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	5	7084	1416,8
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	1	360	360
+Julio 2021	202107	Julio	2021	15	Ribera Alta del Ebro	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	4	899	224,75
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	1020	0	0
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	39	3842	98,51282051282051282051282051282051282051
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	413	0	0
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	21	2154	102,571428571428571428571428571428571429
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	1	0	0
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	918	19811	21,58061002178649237472766884531590413943
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	1	0	0
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	360	9630	26,75
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	22	0	0
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	29	14,5
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	11	0	0
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	9	340	37,77777777777777777777777777777777777778
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	5	1800	360
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	5	1800	360
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	1	0	0
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	2	720	360
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	5	900	180
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	2	360	180
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Otros	8	Otros	Otros	0	1	0	0
+Julio 2021	202107	Julio	2021	16	Valdejalón	Hombres	Temporal	Otros	8	Otros	Otros	1	1	1	1
+Julio 2021	202107	Julio	2021	16	Valdejalón	Mujeres	Temporal	Otros	8	Otros	Otros	0	1	0	0
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	3155	0	0
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	1010	31109	30,8009900990099009900990099009900990099
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	1887	0	0
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	722	13275	18,38642659279778393351800554016620498615
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	6	0	0
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	8075	320905	39,74055727554179566563467492260061919505
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	2	0	0
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	7193	291922	40,58417906297789517586542471847629639928
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	375	0	0
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	195	7182	36,83076923076923076923076923076923076923
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	841	0	0
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	462	14127	30,57792207792207792207792207792207792208
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	18	6480	360
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	7	2547	363,857142857142857142857142857142857143
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	3	0	0
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	32	34639	1082,46875
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	2	2042	1021
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	3	0	0
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	14	15248	1089,142857142857142857142857142857142857
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	4	3307	826,75
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Ligados a la jubilación	6	Sust. Jubilación	Sust. Jubilación	1	1	360	360
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	20	6120	306
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	146	32733	224,198630136986301369863013698630136986
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	29	7549	260,310344827586206896551724137931034483
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	70	17851	255,014285714285714285714285714285714286
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Otros	8	Otros	Otros	0	11	0	0
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Otros	8	Otros	Otros	1	17	5048	296,941176470588235294117647058823529412
+Julio 2021	202107	Julio	2021	17	Central	Hombres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	4	720	180
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Otros	8	Otros	Otros	0	17	0	0
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Otros	8	Otros	Otros	1	3	3240	1080
+Julio 2021	202107	Julio	2021	17	Central	Mujeres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	9	1621	180,111111111111111111111111111111111111
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	111	0	0
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	30	3367	112,233333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	49	0	0
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	63	1336	21,20634920634920634920634920634920634921
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	159	5459	34,33333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	188	4418	23,5
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	6	0	0
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	25	12,5
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	9	0	0
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	6	68	11,33333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	1	0	0
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	1	180	180
+Julio 2021	202107	Julio	2021	18	Ribera Baja del Ebro	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	183	183
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	432	0	0
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	18	278	15,44444444444444444444444444444444444444
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	116	0	0
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	12	44	3,66666666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	233	7491	32,15021459227467811158798283261802575107
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	145	5304	36,57931034482758620689655172413793103448
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	1	0	0
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	14	0	0
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	3	144	48
+Julio 2021	202107	Julio	2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	2	360	180
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	1061	0	0
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	57	2207	38,71929824561403508771929824561403508772
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	783	0	0
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	45	2328	51,73333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	3	0	0
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	514	13417	26,10311284046692607003891050583657587549
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	386	9964	25,81347150259067357512953367875647668394
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	12	0	0
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	11	310	28,18181818181818181818181818181818181818
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	12	0	0
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	9	334	37,11111111111111111111111111111111111111
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	1	0	0
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	5	900	180
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	20	Comunidad de Calatayud	Mujeres	Temporal	Otros	8	Otros	Otros	1	1	180	180
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	168	0	0
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	6	81	13,5
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	72	0	0
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	13	550	42,30769230769230769230769230769230769231
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	311	14443	46,44051446945337620578778135048231511254
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	106	4113	38,80188679245283018867924528301886792453
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	2	0	0
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	1	33	33
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	9	0	0
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	4	151	37,75
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	4	3805	951,25
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	1	527	527
+Julio 2021	202107	Julio	2021	21	Campo de Cariñena	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	9	0	0
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	7	0	0
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	15	1287	85,8
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	17	978	57,52941176470588235294117647058823529412
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	1	0	0
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	1	81	81
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	3	0	0
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	4	94	23,5
+Julio 2021	202107	Julio	2021	22	Campo de Belchite	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	360	360
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	42	0	0
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	5	1093	218,6
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	23	0	0
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	3	50	16,66666666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	48	4389	91,4375
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	38	1903	50,07894736842105263157894736842105263158
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	2	0	0
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	2	0	0
+Julio 2021	202107	Julio	2021	23	Bajo Martín	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	28	0	0
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	5	203	40,6
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	25	0	0
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	4	219	54,75
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	38	2893	76,13157894736842105263157894736842105263
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	26	2398	92,23076923076923076923076923076923076923
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	5	0	0
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	8	0	0
+Julio 2021	202107	Julio	2021	24	Campo de Daroca	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	25	Jiloca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	55	0	0
+Julio 2021	202107	Julio	2021	25	Jiloca	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	14	1520	108,571428571428571428571428571428571429
+Julio 2021	202107	Julio	2021	25	Jiloca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	27	0	0
+Julio 2021	202107	Julio	2021	25	Jiloca	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	14	1649	117,785714285714285714285714285714285714
+Julio 2021	202107	Julio	2021	25	Jiloca	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	74	4895	66,14864864864864864864864864864864864865
+Julio 2021	202107	Julio	2021	25	Jiloca	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	79	5117	64,77215189873417721518987341772151898734
+Julio 2021	202107	Julio	2021	25	Jiloca	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	4	0	0
+Julio 2021	202107	Julio	2021	25	Jiloca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	10	0	0
+Julio 2021	202107	Julio	2021	25	Jiloca	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	3	47	15,66666666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	21	0	0
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	2	139	69,5
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	12	0	0
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	7	454	64,85714285714285714285714285714285714286
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	64	4130	64,53125
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	74	3485	47,09459459459459459459459459459459459459
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	1	0	0
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	1	14	14
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	12	0	0
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	3	44	14,66666666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	26	Cuencas Mineras	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	34	0	0
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	8	713	89,125
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	31	0	0
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	6	261	43,5
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	44	2075	47,15909090909090909090909090909090909091
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	64	2317	36,203125
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	7	0	0
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	4	33	8,25
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	7	0	0
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	10	126	12,6
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	1	153	153
+Julio 2021	202107	Julio	2021	27	Andorra-Sierra de Arcos	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	212	0	0
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	9	1493	165,888888888888888888888888888888888889
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	193	0	0
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	21	1387	66,04761904761904761904761904761904761905
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	548	10957	19,99452554744525547445255474452554744526
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	240	5127	21,3625
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	13	0	0
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	2	41	20,5
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	18	0	0
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	9	388	43,11111111111111111111111111111111111111
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	2	2060	1030
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	2	1800	900
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	1	720	720
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	3	720	240
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	1	150	150
+Julio 2021	202107	Julio	2021	28	Bajo Aragón	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	4	720	180
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	118	0	0
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	22	1987	90,31818181818181818181818181818181818182
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	90	0	0
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	27	1792	66,37037037037037037037037037037037037037
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	720	29230	40,59722222222222222222222222222222222222
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	540	18980	35,14814814814814814814814814814814814815
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	49	0	0
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	4	166	41,5
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	81	0	0
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	20	1515	75,75
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	1	360	360
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	2	822	411
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	2	1062	531
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	8	1800	225
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	360	360
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Hombres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	1	180	180
+Julio 2021	202107	Julio	2021	29	Comunidad de Teruel	Mujeres	Temporal	Otros	8	Otros	Otros	1	2	360	180
+Julio 2021	202107	Julio	2021	30	Maestrazgo	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	11	0	0
+Julio 2021	202107	Julio	2021	30	Maestrazgo	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	2	300	150
+Julio 2021	202107	Julio	2021	30	Maestrazgo	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	15	0	0
+Julio 2021	202107	Julio	2021	30	Maestrazgo	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	3	25	8,33333333333333333333333333333333333333
+Julio 2021	202107	Julio	2021	30	Maestrazgo	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	17	1461	85,94117647058823529411764705882352941176
+Julio 2021	202107	Julio	2021	30	Maestrazgo	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	35	2297	65,62857142857142857142857142857142857143
+Julio 2021	202107	Julio	2021	30	Maestrazgo	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	5	0	0
+Julio 2021	202107	Julio	2021	31	Sierra de Albarracín	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	23	0	0
+Julio 2021	202107	Julio	2021	31	Sierra de Albarracín	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	7	297	42,42857142857142857142857142857142857143
+Julio 2021	202107	Julio	2021	31	Sierra de Albarracín	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	20	0	0
+Julio 2021	202107	Julio	2021	31	Sierra de Albarracín	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	9	260	28,88888888888888888888888888888888888889
+Julio 2021	202107	Julio	2021	31	Sierra de Albarracín	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	41	2244	54,73170731707317073170731707317073170732
+Julio 2021	202107	Julio	2021	31	Sierra de Albarracín	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	55	3049	55,43636363636363636363636363636363636364
+Julio 2021	202107	Julio	2021	31	Sierra de Albarracín	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	1	0	0
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	52	0	0
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	13	304	23,38461538461538461538461538461538461538
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	41	0	0
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	15	208	13,86666666666666666666666666666666666667
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	124	6294	50,75806451612903225806451612903225806452
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	158	6349	40,18354430379746835443037974683544303797
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	2	0	0
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	2	720	360
+Julio 2021	202107	Julio	2021	32	Gúdar-Javalambre	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	1	180	180
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	67	0	0
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	8	181	22,625
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	69	0	0
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	5	244	48,8
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	42	3281	78,11904761904761904761904761904761904762
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	34	2732	80,35294117647058823529411764705882352941
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	1	0	0
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	2	0	0
+Julio 2021	202107	Julio	2021	33	Matarraña / Matarranya	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	1	8	8
 Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	133	0	0
 Junio 2021	202106	Junio	2021	01	La Jacetania	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	22	2263	102,863636363636363636363636363636363636
 Junio 2021	202106	Junio	2021	01	La Jacetania	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	132	0	0

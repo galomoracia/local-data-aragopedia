@@ -1,4 +1,35 @@
 Mes y año	Mes (código)	Mes nombre	Año	Sexo	Temporalidad	Modalidad	orden_modalidad	Grupo de tipo de contrato	Grupo de tipo de contrato	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos	CCAA nombre
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	10150	0	0	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	1573	65755	41,80228862047043865225683407501589319771	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	5770	0	0	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	1228	36566	29,77687296416938110749185667752442996743	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	35	0	0	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	16149	634998	39,32119635890767230169050715214564369311	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	0	17	0	0	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Eventual por circunstancias de la producción	2	Eventual producción	Eventual producción	1	13176	514474	39,0462962962962962962962962962962962963	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	0	648	0	0	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Interinidad	3	Interinidad	Interinidad	1	259	10053	38,81467181467181467181467181467181467181	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	0	1388	0	0	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Interinidad	3	Interinidad	Interinidad	1	692	23659	34,18930635838150289017341040462427745665	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	34	12240	360	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Discapacitados	4	Temp. Minusv	Temp. Minusv	1	17	6147	361,588235294117647058823529411764705882	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	11	0	0	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	61	65792	1078,557377049180327868852459016393442623	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	21	20958	998	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	0	4	0	0	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Ligados a la jubilación	6	Jubilación parcial	Jubilación parcial	1	17	17546	1032,117647058823529411764705882352941176	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Ligados a la jubilación	6	Relevo	Relevo	1	13	12720	978,461538461538461538461538461538461538	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Ligados a la jubilación	6	Sust. Jubilación	Sust. Jubilación	1	1	360	360	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Ligados a la formación	7	Formación	Formación	1	52	15813	304,096153846153846153846153846153846154	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	202	43826	216,960396039603960396039603960396039604	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Ligados a la formación	7	Formación	Formación	1	52	15259	293,442307692307692307692307692307692308	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Ligados a la formación	7	Prácticas	Prácticas	1	93	22714	244,236559139784946236559139784946236559	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Otros	8	Otros	Otros	0	12	0	0	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Otros	8	Otros	Otros	1	19	6129	322,578947368421052631578947368421052632	Aragón
+Julio 2021	202107	Julio	2021	Hombres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	6	1080	180	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Otros	8	Otros	Otros	0	18	0	0	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Otros	8	Otros	Otros	1	6	3780	630	Aragón
+Julio 2021	202107	Julio	2021	Mujeres	Temporal	Otros	8	Temp. Inserción	Temp. Inserción	1	16	3241	202,5625	Aragón
 Junio 2021	202106	Junio	2021	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	12911	0	0	Aragón
 Junio 2021	202106	Junio	2021	Hombres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	1	1536	57842	37,65755208333333333333333333333333333333	Aragón
 Junio 2021	202106	Junio	2021	Mujeres	Temporal	Obra o servicio	1	Obra o servicio	Obra o servicio	0	7050	0	0	Aragón

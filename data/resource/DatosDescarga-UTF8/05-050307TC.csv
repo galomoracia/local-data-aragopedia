@@ -1,4 +1,523 @@
 Año	Mes y año	Mes (código)	Mes nombre	AÑO-CNO	Comarca código	Comarca nombre	 CASE  WHEN Ocupación (1 dígito) código = '0' THEN '99' ELSE Ocupación (1 dígito) código END	Ocupación (1 dígito) descripción	Sexo	Número de contratos
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	2	Técnicos y profesionales científicos e intelectuales	Hombres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	2	Técnicos y profesionales científicos e intelectuales	Mujeres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	3	Técnicos; profesionales de apoyo	Hombres	74
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	3	Técnicos; profesionales de apoyo	Mujeres	72
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	17
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	141
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	236
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	28
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	29
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	9	Ocupaciones elementales	Hombres	99
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	9	Ocupaciones elementales	Mujeres	122
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	99	Ocupaciones militares	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	01	La Jacetania	99	Ocupaciones militares	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	1	Directores y gerentes	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	2	Técnicos y profesionales científicos e intelectuales	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	2	Técnicos y profesionales científicos e intelectuales	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	3	Técnicos; profesionales de apoyo	Hombres	34
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	3	Técnicos; profesionales de apoyo	Mujeres	25
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	22
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	154
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	190
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	51
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	25
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	9	Ocupaciones elementales	Hombres	90
+2021	Julio 2021	202107	Julio	CNO - 2011	02	Alto Gállego	9	Ocupaciones elementales	Mujeres	106
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	1	Directores y gerentes	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	2	Técnicos y profesionales científicos e intelectuales	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	2	Técnicos y profesionales científicos e intelectuales	Mujeres	20
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	3	Técnicos; profesionales de apoyo	Hombres	62
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	3	Técnicos; profesionales de apoyo	Mujeres	19
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	16
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	37
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	203
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	232
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	33
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	9	Ocupaciones elementales	Hombres	98
+2021	Julio 2021	202107	Julio	CNO - 2011	03	Sobrarbe	9	Ocupaciones elementales	Mujeres	127
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	1	Directores y gerentes	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	2	Técnicos y profesionales científicos e intelectuales	Hombres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	2	Técnicos y profesionales científicos e intelectuales	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	3	Técnicos; profesionales de apoyo	Hombres	86
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	3	Técnicos; profesionales de apoyo	Mujeres	53
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	10
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	32
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	87
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	161
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	12
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	45
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	9	Ocupaciones elementales	Hombres	80
+2021	Julio 2021	202107	Julio	CNO - 2011	04	La Ribagorza	9	Ocupaciones elementales	Mujeres	122
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	2	Técnicos y profesionales científicos e intelectuales	Hombres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	2	Técnicos y profesionales científicos e intelectuales	Mujeres	14
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	3	Técnicos; profesionales de apoyo	Hombres	30
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	3	Técnicos; profesionales de apoyo	Mujeres	30
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	31
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	108
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	20
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	48
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	64
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	9	Ocupaciones elementales	Hombres	282
+2021	Julio 2021	202107	Julio	CNO - 2011	05	Cinco Villas	9	Ocupaciones elementales	Mujeres	169
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	1	Directores y gerentes	Hombres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	2	Técnicos y profesionales científicos e intelectuales	Hombres	101
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	2	Técnicos y profesionales científicos e intelectuales	Mujeres	73
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	3	Técnicos; profesionales de apoyo	Hombres	119
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	3	Técnicos; profesionales de apoyo	Mujeres	70
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	67
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	106
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	328
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	441
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	33
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	156
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	111
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	9	Ocupaciones elementales	Hombres	315
+2021	Julio 2021	202107	Julio	CNO - 2011	06	Hoya de Huesca / Plana de Uesca	9	Ocupaciones elementales	Mujeres	378
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	1	Directores y gerentes	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	2	Técnicos y profesionales científicos e intelectuales	Hombres	14
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	2	Técnicos y profesionales científicos e intelectuales	Mujeres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	3	Técnicos; profesionales de apoyo	Hombres	50
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	3	Técnicos; profesionales de apoyo	Mujeres	29
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	37
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	41
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	83
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	136
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	46
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	65
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	9	Ocupaciones elementales	Hombres	175
+2021	Julio 2021	202107	Julio	CNO - 2011	07	Somontano de Barbastro	9	Ocupaciones elementales	Mujeres	101
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	2	Técnicos y profesionales científicos e intelectuales	Hombres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	2	Técnicos y profesionales científicos e intelectuales	Mujeres	15
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	3	Técnicos; profesionales de apoyo	Hombres	19
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	3	Técnicos; profesionales de apoyo	Mujeres	23
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	16
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	60
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	164
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	16
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	54
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	74
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	22
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	9	Ocupaciones elementales	Hombres	404
+2021	Julio 2021	202107	Julio	CNO - 2011	08	Cinca Medio	9	Ocupaciones elementales	Mujeres	205
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	1	Directores y gerentes	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	2	Técnicos y profesionales científicos e intelectuales	Hombres	36
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	2	Técnicos y profesionales científicos e intelectuales	Mujeres	14
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	3	Técnicos; profesionales de apoyo	Hombres	31
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	3	Técnicos; profesionales de apoyo	Mujeres	22
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	10
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	26
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	19
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	55
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	15
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	153
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	35
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	94
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	9	Ocupaciones elementales	Hombres	268
+2021	Julio 2021	202107	Julio	CNO - 2011	09	La Litera / La Llitera	9	Ocupaciones elementales	Mujeres	106
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	2	Técnicos y profesionales científicos e intelectuales	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	2	Técnicos y profesionales científicos e intelectuales	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	3	Técnicos; profesionales de apoyo	Hombres	30
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	3	Técnicos; profesionales de apoyo	Mujeres	26
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	15
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	63
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	16
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	9	Ocupaciones elementales	Hombres	126
+2021	Julio 2021	202107	Julio	CNO - 2011	10	Los Monegros	9	Ocupaciones elementales	Mujeres	52
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	1	Directores y gerentes	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	2	Técnicos y profesionales científicos e intelectuales	Hombres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	2	Técnicos y profesionales científicos e intelectuales	Mujeres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	3	Técnicos; profesionales de apoyo	Hombres	29
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	3	Técnicos; profesionales de apoyo	Mujeres	45
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	24
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	66
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	84
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	34
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	58
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	36
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	71
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	35
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	9	Ocupaciones elementales	Hombres	1299
+2021	Julio 2021	202107	Julio	CNO - 2011	11	Bajo Cinca / Baix Cinca	9	Ocupaciones elementales	Mujeres	779
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	1	Directores y gerentes	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	2	Técnicos y profesionales científicos e intelectuales	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	2	Técnicos y profesionales científicos e intelectuales	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	3	Técnicos; profesionales de apoyo	Hombres	18
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	3	Técnicos; profesionales de apoyo	Mujeres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	47
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	55
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	21
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	122
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	152
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	9	Ocupaciones elementales	Hombres	116
+2021	Julio 2021	202107	Julio	CNO - 2011	12	Tarazona y el Moncayo	9	Ocupaciones elementales	Mujeres	61
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	2	Técnicos y profesionales científicos e intelectuales	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	2	Técnicos y profesionales científicos e intelectuales	Mujeres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	3	Técnicos; profesionales de apoyo	Hombres	24
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	3	Técnicos; profesionales de apoyo	Mujeres	20
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	10
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	36
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	72
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	10
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	15
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	9	Ocupaciones elementales	Hombres	149
+2021	Julio 2021	202107	Julio	CNO - 2011	13	Campo de Borja	9	Ocupaciones elementales	Mujeres	93
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	2	Técnicos y profesionales científicos e intelectuales	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	2	Técnicos y profesionales científicos e intelectuales	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	3	Técnicos; profesionales de apoyo	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	3	Técnicos; profesionales de apoyo	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	21
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	28
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	9	Ocupaciones elementales	Hombres	41
+2021	Julio 2021	202107	Julio	CNO - 2011	14	Aranda	9	Ocupaciones elementales	Mujeres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	2	Técnicos y profesionales científicos e intelectuales	Hombres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	2	Técnicos y profesionales científicos e intelectuales	Mujeres	12
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	3	Técnicos; profesionales de apoyo	Hombres	42
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	3	Técnicos; profesionales de apoyo	Mujeres	22
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	25
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	68
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	99
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	135
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	16
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	457
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	109
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	9	Ocupaciones elementales	Hombres	745
+2021	Julio 2021	202107	Julio	CNO - 2011	15	Ribera Alta del Ebro	9	Ocupaciones elementales	Mujeres	417
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	1	Directores y gerentes	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	2	Técnicos y profesionales científicos e intelectuales	Hombres	12
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	2	Técnicos y profesionales científicos e intelectuales	Mujeres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	3	Técnicos; profesionales de apoyo	Hombres	43
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	3	Técnicos; profesionales de apoyo	Mujeres	14
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	31
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	46
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	65
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	47
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	90
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	47
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	177
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	47
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	9	Ocupaciones elementales	Hombres	1652
+2021	Julio 2021	202107	Julio	CNO - 2011	16	Valdejalón	9	Ocupaciones elementales	Mujeres	612
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	1	Directores y gerentes	Hombres	36
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	1	Directores y gerentes	Mujeres	19
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	2	Técnicos y profesionales científicos e intelectuales	Hombres	846
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	2	Técnicos y profesionales científicos e intelectuales	Mujeres	910
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	3	Técnicos; profesionales de apoyo	Hombres	1320
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	3	Técnicos; profesionales de apoyo	Mujeres	835
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	554
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	1024
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	2363
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	3605
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	393
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	128
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	1657
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	219
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	1278
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	444
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	9	Ocupaciones elementales	Hombres	5974
+2021	Julio 2021	202107	Julio	CNO - 2011	17	Central	9	Ocupaciones elementales	Mujeres	5131
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	2	Técnicos y profesionales científicos e intelectuales	Hombres	18
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	2	Técnicos y profesionales científicos e intelectuales	Mujeres	18
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	3	Técnicos; profesionales de apoyo	Hombres	20
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	3	Técnicos; profesionales de apoyo	Mujeres	12
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	19
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	62
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	31
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	71
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	9	Ocupaciones elementales	Hombres	165
+2021	Julio 2021	202107	Julio	CNO - 2011	18	Ribera Baja del Ebro	9	Ocupaciones elementales	Mujeres	217
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	2	Técnicos y profesionales científicos e intelectuales	Hombres	15
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	2	Técnicos y profesionales científicos e intelectuales	Mujeres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	3	Técnicos; profesionales de apoyo	Hombres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	3	Técnicos; profesionales de apoyo	Mujeres	19
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	18
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	74
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	24
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	16
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	9	Ocupaciones elementales	Hombres	605
+2021	Julio 2021	202107	Julio	CNO - 2011	19	Bajo Aragón-Caspe / Baix Aragó-Casp	9	Ocupaciones elementales	Mujeres	181
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	1	Directores y gerentes	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	2	Técnicos y profesionales científicos e intelectuales	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	2	Técnicos y profesionales científicos e intelectuales	Mujeres	17
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	3	Técnicos; profesionales de apoyo	Hombres	24
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	3	Técnicos; profesionales de apoyo	Mujeres	60
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	20
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	34
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	76
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	149
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	52
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	37
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	12
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	125
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	58
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	9	Ocupaciones elementales	Hombres	1350
+2021	Julio 2021	202107	Julio	CNO - 2011	20	Comunidad de Calatayud	9	Ocupaciones elementales	Mujeres	926
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	2	Técnicos y profesionales científicos e intelectuales	Mujeres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	3	Técnicos; profesionales de apoyo	Hombres	15
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	3	Técnicos; profesionales de apoyo	Mujeres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	14
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	32
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	43
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	32
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	21
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	67
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	9	Ocupaciones elementales	Hombres	340
+2021	Julio 2021	202107	Julio	CNO - 2011	21	Campo de Cariñena	9	Ocupaciones elementales	Mujeres	116
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	2	Técnicos y profesionales científicos e intelectuales	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	2	Técnicos y profesionales científicos e intelectuales	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	3	Técnicos; profesionales de apoyo	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	3	Técnicos; profesionales de apoyo	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	23
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	9	Ocupaciones elementales	Hombres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	22	Campo de Belchite	9	Ocupaciones elementales	Mujeres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	2	Técnicos y profesionales científicos e intelectuales	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	3	Técnicos; profesionales de apoyo	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	3	Técnicos; profesionales de apoyo	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	17
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	32
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	41
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	9	Ocupaciones elementales	Hombres	32
+2021	Julio 2021	202107	Julio	CNO - 2011	23	Bajo Martín	9	Ocupaciones elementales	Mujeres	15
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	2	Técnicos y profesionales científicos e intelectuales	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	3	Técnicos; profesionales de apoyo	Hombres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	3	Técnicos; profesionales de apoyo	Mujeres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	23
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	9	Ocupaciones elementales	Hombres	30
+2021	Julio 2021	202107	Julio	CNO - 2011	24	Campo de Daroca	9	Ocupaciones elementales	Mujeres	26
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	1	Directores y gerentes	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	2	Técnicos y profesionales científicos e intelectuales	Hombres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	2	Técnicos y profesionales científicos e intelectuales	Mujeres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	3	Técnicos; profesionales de apoyo	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	3	Técnicos; profesionales de apoyo	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	26
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	59
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	41
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	24
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	9	Ocupaciones elementales	Hombres	53
+2021	Julio 2021	202107	Julio	CNO - 2011	25	Jiloca	9	Ocupaciones elementales	Mujeres	55
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	2	Técnicos y profesionales científicos e intelectuales	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	3	Técnicos; profesionales de apoyo	Hombres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	3	Técnicos; profesionales de apoyo	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	35
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	26
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	9	Ocupaciones elementales	Hombres	38
+2021	Julio 2021	202107	Julio	CNO - 2011	26	Cuencas Mineras	9	Ocupaciones elementales	Mujeres	43
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	2	Técnicos y profesionales científicos e intelectuales	Hombres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	2	Técnicos y profesionales científicos e intelectuales	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	3	Técnicos; profesionales de apoyo	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	3	Técnicos; profesionales de apoyo	Mujeres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	22
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	79
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	19
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	17
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	9	Ocupaciones elementales	Hombres	38
+2021	Julio 2021	202107	Julio	CNO - 2011	27	Andorra-Sierra de Arcos	9	Ocupaciones elementales	Mujeres	24
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	1	Directores y gerentes	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	2	Técnicos y profesionales científicos e intelectuales	Hombres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	2	Técnicos y profesionales científicos e intelectuales	Mujeres	12
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	3	Técnicos; profesionales de apoyo	Hombres	30
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	3	Técnicos; profesionales de apoyo	Mujeres	17
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	18
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	35
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	62
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	140
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	354
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	123
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	147
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	9	Ocupaciones elementales	Hombres	195
+2021	Julio 2021	202107	Julio	CNO - 2011	28	Bajo Aragón	9	Ocupaciones elementales	Mujeres	171
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	1	Directores y gerentes	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	2	Técnicos y profesionales científicos e intelectuales	Hombres	43
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	2	Técnicos y profesionales científicos e intelectuales	Mujeres	65
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	3	Técnicos; profesionales de apoyo	Hombres	43
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	3	Técnicos; profesionales de apoyo	Mujeres	53
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	15
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	39
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	197
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	307
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	17
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	121
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	10
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	96
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	9	Ocupaciones elementales	Hombres	467
+2021	Julio 2021	202107	Julio	CNO - 2011	29	Comunidad de Teruel	9	Ocupaciones elementales	Mujeres	328
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	2	Técnicos y profesionales científicos e intelectuales	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	3	Técnicos; profesionales de apoyo	Hombres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	3	Técnicos; profesionales de apoyo	Mujeres	12
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	27
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	9	Ocupaciones elementales	Hombres	12
+2021	Julio 2021	202107	Julio	CNO - 2011	30	Maestrazgo	9	Ocupaciones elementales	Mujeres	16
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	3	Técnicos; profesionales de apoyo	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	3	Técnicos; profesionales de apoyo	Mujeres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	24
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	38
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	8
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	9	Ocupaciones elementales	Hombres	17
+2021	Julio 2021	202107	Julio	CNO - 2011	31	Sierra de Albarracín	9	Ocupaciones elementales	Mujeres	38
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	2	Técnicos y profesionales científicos e intelectuales	Hombres	4
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	2	Técnicos y profesionales científicos e intelectuales	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	3	Técnicos; profesionales de apoyo	Hombres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	3	Técnicos; profesionales de apoyo	Mujeres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	100
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	156
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	37
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	19
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	13
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	9	Ocupaciones elementales	Hombres	63
+2021	Julio 2021	202107	Julio	CNO - 2011	32	Gúdar-Javalambre	9	Ocupaciones elementales	Mujeres	47
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	1	Directores y gerentes	Mujeres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	2	Técnicos y profesionales científicos e intelectuales	Hombres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	2	Técnicos y profesionales científicos e intelectuales	Mujeres	5
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	3	Técnicos; profesionales de apoyo	Hombres	11
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	3	Técnicos; profesionales de apoyo	Mujeres	10
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	6
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	49
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	53
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	1
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	9
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	3
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	7
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	2
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	9	Ocupaciones elementales	Hombres	41
+2021	Julio 2021	202107	Julio	CNO - 2011	33	Matarraña / Matarranya	9	Ocupaciones elementales	Mujeres	39
 2021	Junio 2021	202106	Junio	CNO - 2011	01	La Jacetania	1	Directores y gerentes	Hombres	1
 2021	Junio 2021	202106	Junio	CNO - 2011	01	La Jacetania	2	Técnicos y profesionales científicos e intelectuales	Hombres	7
 2021	Junio 2021	202106	Junio	CNO - 2011	01	La Jacetania	2	Técnicos y profesionales científicos e intelectuales	Mujeres	7

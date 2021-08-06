@@ -1,4 +1,454 @@
 Mes y año	Mes (código)	Año	Mes nombre	Comarca código	Comarca nombre	Sexo	Temporalidad	Días duración contrato	Sector código	Sector descripción	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos
+Julio 2021	202107	2021	Julio	01	La Jacetania	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	3	0	0
+Julio 2021	202107	2021	Julio	01	La Jacetania	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	2	293	146,5
+Julio 2021	202107	2021	Julio	01	La Jacetania	Hombres	Temporal	0	2	Industria y energía	5	0	0
+Julio 2021	202107	2021	Julio	01	La Jacetania	Hombres	Temporal	1	2	Industria y energía	6	290	48,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	01	La Jacetania	Mujeres	Temporal	0	2	Industria y energía	1	0	0
+Julio 2021	202107	2021	Julio	01	La Jacetania	Mujeres	Temporal	1	2	Industria y energía	6	385	64,16666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	01	La Jacetania	Hombres	Temporal	0	3	Construcción	21	0	0
+Julio 2021	202107	2021	Julio	01	La Jacetania	Hombres	Temporal	1	3	Construcción	4	298	74,5
+Julio 2021	202107	2021	Julio	01	La Jacetania	Hombres	Temporal	0	4	Servicios	143	0	0
+Julio 2021	202107	2021	Julio	01	La Jacetania	Hombres	Temporal	1	4	Servicios	186	11397	61,27419354838709677419354838709677419355
+Julio 2021	202107	2021	Julio	01	La Jacetania	Mujeres	Temporal	0	4	Servicios	171	0	0
+Julio 2021	202107	2021	Julio	01	La Jacetania	Mujeres	Temporal	1	4	Servicios	249	12237	49,14457831325301204819277108433734939759
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Hombres	Temporal	0	2	Industria y energía	11	0	0
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Hombres	Temporal	1	2	Industria y energía	8	658	82,25
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Mujeres	Temporal	0	2	Industria y energía	2	0	0
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Mujeres	Temporal	1	2	Industria y energía	5	174	34,8
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Hombres	Temporal	0	3	Construcción	16	0	0
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Hombres	Temporal	1	3	Construcción	12	1012	84,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Hombres	Temporal	0	4	Servicios	129	0	0
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Hombres	Temporal	1	4	Servicios	161	7100	44,09937888198757763975155279503105590062
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Mujeres	Temporal	0	4	Servicios	133	0	0
+Julio 2021	202107	2021	Julio	02	Alto Gállego	Mujeres	Temporal	1	4	Servicios	171	8456	49,45029239766081871345029239766081871345
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	3	0	0
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	8	981	122,625
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	1	180	180
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Hombres	Temporal	0	2	Industria y energía	7	0	0
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Hombres	Temporal	1	2	Industria y energía	6	404	67,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Mujeres	Temporal	1	2	Industria y energía	3	177	59
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Hombres	Temporal	0	3	Construcción	9	0	0
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Hombres	Temporal	1	3	Construcción	4	366	91,5
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Hombres	Temporal	0	4	Servicios	120	0	0
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Hombres	Temporal	1	4	Servicios	253	13039	51,53754940711462450592885375494071146245
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Mujeres	Temporal	0	4	Servicios	162	0	0
+Julio 2021	202107	2021	Julio	03	Sobrarbe	Mujeres	Temporal	1	4	Servicios	252	13719	54,44047619047619047619047619047619047619
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	14	0	0
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	5	517	103,4
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	5	0	0
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	3	322	107,333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Hombres	Temporal	0	2	Industria y energía	6	0	0
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Hombres	Temporal	1	2	Industria y energía	7	784	112
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Mujeres	Temporal	1	2	Industria y energía	3	90	30
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Hombres	Temporal	0	3	Construcción	10	0	0
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Hombres	Temporal	1	3	Construcción	16	1055	65,9375
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Mujeres	Temporal	1	3	Construcción	6	204	34
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Hombres	Temporal	0	4	Servicios	139	0	0
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Hombres	Temporal	1	4	Servicios	128	6357	49,6640625
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Mujeres	Temporal	0	4	Servicios	195	0	0
+Julio 2021	202107	2021	Julio	04	La Ribagorza	Mujeres	Temporal	1	4	Servicios	152	8135	53,51973684210526315789473684210526315789
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	124	0	0
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	23	2122	92,26086956521739130434782608695652173913
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	42	0	0
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	8	629	78,625
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Hombres	Temporal	0	2	Industria y energía	38	0	0
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Hombres	Temporal	1	2	Industria y energía	103	11475	111,407766990291262135922330097087378641
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Mujeres	Temporal	0	2	Industria y energía	24	0	0
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Mujeres	Temporal	1	2	Industria y energía	21	1801	85,76190476190476190476190476190476190476
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Hombres	Temporal	0	3	Construcción	31	0	0
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Hombres	Temporal	1	3	Construcción	3	325	108,333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Mujeres	Temporal	1	3	Construcción	1	90	90
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Hombres	Temporal	0	4	Servicios	41	0	0
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Hombres	Temporal	1	4	Servicios	74	7342	99,21621621621621621621621621621621621622
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Mujeres	Temporal	0	4	Servicios	83	0	0
+Julio 2021	202107	2021	Julio	05	Cinco Villas	Mujeres	Temporal	1	4	Servicios	142	7417	52,23239436619718309859154929577464788732
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	105	0	0
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	17	1515	89,11764705882352941176470588235294117647
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	29	0	0
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	5	297	59,4
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	0	2	Industria y energía	46	0	0
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	1	2	Industria y energía	33	4963	150,393939393939393939393939393939393939
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	0	2	Industria y energía	8	0	0
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	1	2	Industria y energía	13	961	73,92307692307692307692307692307692307692
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	0	3	Construcción	97	0	0
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	1	3	Construcción	38	3044	80,10526315789473684210526315789473684211
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	1	3	Construcción	3	343	114,333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	0	4	Servicios	154	0	0
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	1	4	Servicios	643	36190	56,28304821150855365474339035769828926905
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	0	4	Servicios	220	0	0
+Julio 2021	202107	2021	Julio	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	1	4	Servicios	736	40661	55,24592391304347826086956521739130434783
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	25	0	0
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	5	258	51,6
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	1	0	0
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	3	44	14,66666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Hombres	Temporal	0	2	Industria y energía	35	0	0
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Hombres	Temporal	1	2	Industria y energía	42	3604	85,80952380952380952380952380952380952381
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Mujeres	Temporal	0	2	Industria y energía	16	0	0
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Mujeres	Temporal	1	2	Industria y energía	14	196	14
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Hombres	Temporal	0	3	Construcción	28	0	0
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Hombres	Temporal	1	3	Construcción	10	719	71,9
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Mujeres	Temporal	1	3	Construcción	1	210	210
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Hombres	Temporal	0	4	Servicios	77	0	0
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Hombres	Temporal	1	4	Servicios	221	11240	50,85972850678733031674208144796380090498
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Mujeres	Temporal	0	4	Servicios	89	0	0
+Julio 2021	202107	2021	Julio	07	Somontano de Barbastro	Mujeres	Temporal	1	4	Servicios	185	10617	57,38918918918918918918918918918918918919
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	260	0	0
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	13	981	75,46153846153846153846153846153846153846
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	14	0	0
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	5	522	104,4
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Hombres	Temporal	0	2	Industria y energía	106	0	0
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Hombres	Temporal	1	2	Industria y energía	28	7076	252,714285714285714285714285714285714286
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Mujeres	Temporal	0	2	Industria y energía	74	0	0
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Mujeres	Temporal	1	2	Industria y energía	8	610	76,25
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Hombres	Temporal	0	3	Construcción	33	0	0
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Hombres	Temporal	1	3	Construcción	13	1493	114,846153846153846153846153846153846154
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Mujeres	Temporal	1	3	Construcción	2	235	117,5
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Hombres	Temporal	0	4	Servicios	40	0	0
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Hombres	Temporal	1	4	Servicios	120	6643	55,35833333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Mujeres	Temporal	0	4	Servicios	91	0	0
+Julio 2021	202107	2021	Julio	08	Cinca Medio	Mujeres	Temporal	1	4	Servicios	231	7907	34,22943722943722943722943722943722943723
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	139	0	0
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	67	3022	45,10447761194029850746268656716417910448
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	12	0	0
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	32	1004	31,375
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Hombres	Temporal	0	2	Industria y energía	14	0	0
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Hombres	Temporal	1	2	Industria y energía	164	24853	151,542682926829268292682926829268292683
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Mujeres	Temporal	0	2	Industria y energía	4	0	0
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Mujeres	Temporal	1	2	Industria y energía	38	5131	135,026315789473684210526315789473684211
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Hombres	Temporal	0	3	Construcción	14	0	0
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Hombres	Temporal	1	3	Construcción	21	2513	119,666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Mujeres	Temporal	1	3	Construcción	2	148	74
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Hombres	Temporal	0	4	Servicios	24	0	0
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Hombres	Temporal	1	4	Servicios	108	7862	72,7962962962962962962962962962962962963
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Mujeres	Temporal	0	4	Servicios	70	0	0
+Julio 2021	202107	2021	Julio	09	La Litera / La Llitera	Mujeres	Temporal	1	4	Servicios	88	3939	44,76136363636363636363636363636363636364
+Julio 2021	202107	2021	Julio	10	Los Monegros	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	59	0	0
+Julio 2021	202107	2021	Julio	10	Los Monegros	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	27	2801	103,740740740740740740740740740740740741
+Julio 2021	202107	2021	Julio	10	Los Monegros	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	20	0	0
+Julio 2021	202107	2021	Julio	10	Los Monegros	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	9	722	80,22222222222222222222222222222222222222
+Julio 2021	202107	2021	Julio	10	Los Monegros	Hombres	Temporal	0	2	Industria y energía	16	0	0
+Julio 2021	202107	2021	Julio	10	Los Monegros	Hombres	Temporal	1	2	Industria y energía	3	187	62,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	10	Los Monegros	Mujeres	Temporal	0	2	Industria y energía	2	0	0
+Julio 2021	202107	2021	Julio	10	Los Monegros	Mujeres	Temporal	1	2	Industria y energía	1	90	90
+Julio 2021	202107	2021	Julio	10	Los Monegros	Hombres	Temporal	0	3	Construcción	7	0	0
+Julio 2021	202107	2021	Julio	10	Los Monegros	Hombres	Temporal	1	3	Construcción	8	564	70,5
+Julio 2021	202107	2021	Julio	10	Los Monegros	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	10	Los Monegros	Hombres	Temporal	0	4	Servicios	30	0	0
+Julio 2021	202107	2021	Julio	10	Los Monegros	Hombres	Temporal	1	4	Servicios	36	3363	93,41666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	10	Los Monegros	Mujeres	Temporal	0	4	Servicios	35	0	0
+Julio 2021	202107	2021	Julio	10	Los Monegros	Mujeres	Temporal	1	4	Servicios	66	4252	64,42424242424242424242424242424242424242
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	777	0	0
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	194	8914	45,9484536082474226804123711340206185567
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	176	0	0
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	26	380	14,61538461538461538461538461538461538462
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	0	2	Industria y energía	34	0	0
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	1	2	Industria y energía	147	5159	35,0952380952380952380952380952380952381
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	0	2	Industria y energía	13	0	0
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	1	2	Industria y energía	334	5423	16,23652694610778443113772455089820359281
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	0	3	Construcción	17	0	0
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	1	3	Construcción	12	853	71,08333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	0	4	Servicios	155	0	0
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	1	4	Servicios	128	9622	75,171875
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	0	4	Servicios	242	0	0
+Julio 2021	202107	2021	Julio	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	1	4	Servicios	134	7446	55,56716417910447761194029850746268656716
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	8	0	0
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	2	2	1
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	4	0	0
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Hombres	Temporal	0	2	Industria y energía	9	0	0
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Hombres	Temporal	1	2	Industria y energía	187	6126	32,75935828877005347593582887700534759358
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Mujeres	Temporal	1	2	Industria y energía	170	832	4,89411764705882352941176470588235294118
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Hombres	Temporal	0	3	Construcción	5	0	0
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Hombres	Temporal	0	4	Servicios	32	0	0
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Hombres	Temporal	1	4	Servicios	78	3434	44,02564102564102564102564102564102564103
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Mujeres	Temporal	0	4	Servicios	48	0	0
+Julio 2021	202107	2021	Julio	12	Tarazona y el Moncayo	Mujeres	Temporal	1	4	Servicios	74	3252	43,94594594594594594594594594594594594595
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	37	0	0
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	4	360	90
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	7	0	0
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Hombres	Temporal	0	2	Industria y energía	6	0	0
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Hombres	Temporal	1	2	Industria y energía	61	1938	31,7704918032786885245901639344262295082
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Mujeres	Temporal	0	2	Industria y energía	3	0	0
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Mujeres	Temporal	1	2	Industria y energía	50	1233	24,66
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Hombres	Temporal	0	3	Construcción	7	0	0
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Hombres	Temporal	1	3	Construcción	4	402	100,5
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Hombres	Temporal	0	4	Servicios	74	0	0
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Hombres	Temporal	1	4	Servicios	41	2131	51,97560975609756097560975609756097560976
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Mujeres	Temporal	0	4	Servicios	62	0	0
+Julio 2021	202107	2021	Julio	13	Campo de Borja	Mujeres	Temporal	1	4	Servicios	77	4241	55,07792207792207792207792207792207792208
+Julio 2021	202107	2021	Julio	14	Aranda	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	42	0	0
+Julio 2021	202107	2021	Julio	14	Aranda	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	3	204	68
+Julio 2021	202107	2021	Julio	14	Aranda	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	9	0	0
+Julio 2021	202107	2021	Julio	14	Aranda	Hombres	Temporal	0	2	Industria y energía	25	0	0
+Julio 2021	202107	2021	Julio	14	Aranda	Hombres	Temporal	1	2	Industria y energía	1	39	39
+Julio 2021	202107	2021	Julio	14	Aranda	Mujeres	Temporal	0	2	Industria y energía	5	0	0
+Julio 2021	202107	2021	Julio	14	Aranda	Mujeres	Temporal	1	2	Industria y energía	1	30	30
+Julio 2021	202107	2021	Julio	14	Aranda	Hombres	Temporal	0	3	Construcción	9	0	0
+Julio 2021	202107	2021	Julio	14	Aranda	Hombres	Temporal	1	3	Construcción	1	90	90
+Julio 2021	202107	2021	Julio	14	Aranda	Mujeres	Temporal	1	3	Construcción	1	11	11
+Julio 2021	202107	2021	Julio	14	Aranda	Hombres	Temporal	0	4	Servicios	9	0	0
+Julio 2021	202107	2021	Julio	14	Aranda	Hombres	Temporal	1	4	Servicios	9	1143	127
+Julio 2021	202107	2021	Julio	14	Aranda	Mujeres	Temporal	0	4	Servicios	29	0	0
+Julio 2021	202107	2021	Julio	14	Aranda	Mujeres	Temporal	1	4	Servicios	18	1570	87,22222222222222222222222222222222222222
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	38	0	0
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	45	1209	26,86666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	14	0	0
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	16	564	35,25
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Hombres	Temporal	0	2	Industria y energía	92	0	0
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Hombres	Temporal	1	2	Industria y energía	586	19399	33,10409556313993174061433447098976109215
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Mujeres	Temporal	0	2	Industria y energía	20	0	0
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Mujeres	Temporal	1	2	Industria y energía	174	8355	48,01724137931034482758620689655172413793
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Hombres	Temporal	0	3	Construcción	26	0	0
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Hombres	Temporal	1	3	Construcción	18	1306	72,55555555555555555555555555555555555556
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Hombres	Temporal	0	4	Servicios	127	0	0
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Hombres	Temporal	1	4	Servicios	475	7427	15,63578947368421052631578947368421052632
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Mujeres	Temporal	0	4	Servicios	112	0	0
+Julio 2021	202107	2021	Julio	15	Ribera Alta del Ebro	Mujeres	Temporal	1	4	Servicios	338	8821	26,09763313609467455621301775147928994083
+Julio 2021	202107	2021	Julio	16	Valdejalón	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	896	0	0
+Julio 2021	202107	2021	Julio	16	Valdejalón	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	365	7260	19,89041095890410958904109589041095890411
+Julio 2021	202107	2021	Julio	16	Valdejalón	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	277	0	0
+Julio 2021	202107	2021	Julio	16	Valdejalón	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	100	2274	22,74
+Julio 2021	202107	2021	Julio	16	Valdejalón	Hombres	Temporal	0	2	Industria y energía	55	0	0
+Julio 2021	202107	2021	Julio	16	Valdejalón	Hombres	Temporal	1	2	Industria y energía	320	7977	24,928125
+Julio 2021	202107	2021	Julio	16	Valdejalón	Mujeres	Temporal	0	2	Industria y energía	54	0	0
+Julio 2021	202107	2021	Julio	16	Valdejalón	Mujeres	Temporal	1	2	Industria y energía	120	3653	30,44166666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	16	Valdejalón	Hombres	Temporal	0	3	Construcción	25	0	0
+Julio 2021	202107	2021	Julio	16	Valdejalón	Hombres	Temporal	1	3	Construcción	17	2109	124,058823529411764705882352941176470588
+Julio 2021	202107	2021	Julio	16	Valdejalón	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	16	Valdejalón	Mujeres	Temporal	1	3	Construcción	4	383	95,75
+Julio 2021	202107	2021	Julio	16	Valdejalón	Hombres	Temporal	0	4	Servicios	69	0	0
+Julio 2021	202107	2021	Julio	16	Valdejalón	Hombres	Temporal	1	4	Servicios	270	9757	36,13703703703703703703703703703703703704
+Julio 2021	202107	2021	Julio	16	Valdejalón	Mujeres	Temporal	0	4	Servicios	94	0	0
+Julio 2021	202107	2021	Julio	16	Valdejalón	Mujeres	Temporal	1	4	Servicios	173	7974	46,09248554913294797687861271676300578035
+Julio 2021	202107	2021	Julio	17	Central	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	429	0	0
+Julio 2021	202107	2021	Julio	17	Central	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	408	46834	114,789215686274509803921568627450980392
+Julio 2021	202107	2021	Julio	17	Central	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	61	0	0
+Julio 2021	202107	2021	Julio	17	Central	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	125	15476	123,808
+Julio 2021	202107	2021	Julio	17	Central	Hombres	Temporal	0	2	Industria y energía	720	0	0
+Julio 2021	202107	2021	Julio	17	Central	Hombres	Temporal	1	2	Industria y energía	2722	86047	31,61168258633357825128581925055106539309
+Julio 2021	202107	2021	Julio	17	Central	Mujeres	Temporal	0	2	Industria y energía	343	0	0
+Julio 2021	202107	2021	Julio	17	Central	Mujeres	Temporal	1	2	Industria y energía	1729	39181	22,66107576633892423366107576633892423366
+Julio 2021	202107	2021	Julio	17	Central	Hombres	Temporal	0	3	Construcción	583	0	0
+Julio 2021	202107	2021	Julio	17	Central	Hombres	Temporal	1	3	Construcción	237	24794	104,616033755274261603375527426160337553
+Julio 2021	202107	2021	Julio	17	Central	Mujeres	Temporal	0	3	Construcción	7	0	0
+Julio 2021	202107	2021	Julio	17	Central	Mujeres	Temporal	1	3	Construcción	36	4453	123,694444444444444444444444444444444444
+Julio 2021	202107	2021	Julio	17	Central	Hombres	Temporal	0	4	Servicios	1818	0	0
+Julio 2021	202107	2021	Julio	17	Central	Hombres	Temporal	1	4	Servicios	6152	289303	47,02584525357607282184655396618985695709
+Julio 2021	202107	2021	Julio	17	Central	Mujeres	Temporal	0	4	Servicios	2339	0	0
+Julio 2021	202107	2021	Julio	17	Central	Mujeres	Temporal	1	4	Servicios	6624	311937	47,09193840579710144927536231884057971014
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	12	0	0
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	86	2814	32,72093023255813953488372093023255813953
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	3	0	0
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	79	2289	28,97468354430379746835443037974683544304
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Hombres	Temporal	0	2	Industria y energía	34	0	0
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Hombres	Temporal	1	2	Industria y energía	55	1671	30,38181818181818181818181818181818181818
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Mujeres	Temporal	0	2	Industria y energía	32	0	0
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Mujeres	Temporal	1	2	Industria y energía	80	705	8,8125
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Hombres	Temporal	0	3	Construcción	54	0	0
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Hombres	Temporal	1	3	Construcción	3	162	54
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Hombres	Temporal	0	4	Servicios	18	0	0
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Hombres	Temporal	1	4	Servicios	47	4204	89,44680851063829787234042553191489361702
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Mujeres	Temporal	0	4	Servicios	22	0	0
+Julio 2021	202107	2021	Julio	18	Ribera Baja del Ebro	Mujeres	Temporal	1	4	Servicios	100	3191	31,91
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	369	0	0
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	182	3555	19,53296703296703296703296703296703296703
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	43	0	0
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	75	1586	21,14666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	0	2	Industria y energía	18	0	0
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	1	2	Industria y energía	6	45	7,5
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	0	2	Industria y energía	26	0	0
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	1	2	Industria y energía	8	20	2,5
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	0	3	Construcción	18	0	0
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	1	3	Construcción	1	57	57
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	0	4	Servicios	28	0	0
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	1	4	Servicios	64	4472	69,875
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	0	4	Servicios	61	0	0
+Julio 2021	202107	2021	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	1	4	Servicios	77	3886	50,46753246753246753246753246753246753247
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	911	0	0
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	267	4821	18,05617977528089887640449438202247191011
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	665	0	0
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	110	2037	18,51818181818181818181818181818181818182
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Hombres	Temporal	0	2	Industria y energía	16	0	0
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Hombres	Temporal	1	2	Industria y energía	137	2228	16,26277372262773722627737226277372262774
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Mujeres	Temporal	0	2	Industria y energía	3	0	0
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Mujeres	Temporal	1	2	Industria y energía	106	1494	14,09433962264150943396226415094339622642
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Hombres	Temporal	0	3	Construcción	62	0	0
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Hombres	Temporal	1	3	Construcción	8	406	50,75
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Mujeres	Temporal	0	3	Construcción	2	0	0
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Mujeres	Temporal	1	3	Construcción	3	271	90,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Hombres	Temporal	0	4	Servicios	88	0	0
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Hombres	Temporal	1	4	Servicios	175	9379	53,59428571428571428571428571428571428571
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Mujeres	Temporal	0	4	Servicios	125	0	0
+Julio 2021	202107	2021	Julio	20	Comunidad de Calatayud	Mujeres	Temporal	1	4	Servicios	223	9184	41,18385650224215246636771300448430493274
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	118	0	0
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	100	2232	22,32
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	56	0	0
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	40	1303	32,575
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Hombres	Temporal	0	2	Industria y energía	22	0	0
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Hombres	Temporal	1	2	Industria y energía	164	8508	51,87804878048780487804878048780487804878
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Mujeres	Temporal	0	2	Industria y energía	6	0	0
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Mujeres	Temporal	1	2	Industria y energía	40	1624	40,6
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Hombres	Temporal	0	3	Construcción	6	0	0
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Hombres	Temporal	1	3	Construcción	2	56	28
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Hombres	Temporal	0	4	Servicios	24	0	0
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Hombres	Temporal	1	4	Servicios	58	8273	142,637931034482758620689655172413793103
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Mujeres	Temporal	0	4	Servicios	19	0	0
+Julio 2021	202107	2021	Julio	21	Campo de Cariñena	Mujeres	Temporal	1	4	Servicios	43	1887	43,88372093023255813953488372093023255814
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	1	15	15
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Hombres	Temporal	0	2	Industria y energía	2	0	0
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Hombres	Temporal	1	2	Industria y energía	3	631	210,333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Mujeres	Temporal	0	2	Industria y energía	1	0	0
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Mujeres	Temporal	1	2	Industria y energía	1	120	120
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Hombres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Hombres	Temporal	0	4	Servicios	7	0	0
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Hombres	Temporal	1	4	Servicios	13	1082	83,23076923076923076923076923076923076923
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Mujeres	Temporal	0	4	Servicios	9	0	0
+Julio 2021	202107	2021	Julio	22	Campo de Belchite	Mujeres	Temporal	1	4	Servicios	20	952	47,6
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	8	0	0
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	2	330	165
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	1	0	0
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Hombres	Temporal	0	2	Industria y energía	20	0	0
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Hombres	Temporal	1	2	Industria y energía	7	759	108,428571428571428571428571428571428571
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Mujeres	Temporal	0	2	Industria y energía	5	0	0
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Mujeres	Temporal	1	2	Industria y energía	7	458	65,42857142857142857142857142857142857143
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Hombres	Temporal	0	3	Construcción	8	0	0
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Hombres	Temporal	1	3	Construcción	3	100	33,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Hombres	Temporal	0	4	Servicios	8	0	0
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Hombres	Temporal	1	4	Servicios	41	4293	104,707317073170731707317073170731707317
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Mujeres	Temporal	0	4	Servicios	19	0	0
+Julio 2021	202107	2021	Julio	23	Bajo Martín	Mujeres	Temporal	1	4	Servicios	35	1675	47,85714285714285714285714285714285714286
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	16	0	0
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	6	630	105
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	4	0	0
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	5	749	149,8
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Hombres	Temporal	0	2	Industria y energía	2	0	0
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Hombres	Temporal	1	2	Industria y energía	7	264	37,71428571428571428571428571428571428571
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Mujeres	Temporal	0	2	Industria y energía	4	0	0
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Mujeres	Temporal	1	2	Industria y energía	3	94	31,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Hombres	Temporal	0	3	Construcción	4	0	0
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Hombres	Temporal	0	4	Servicios	11	0	0
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Hombres	Temporal	1	4	Servicios	31	2382	76,83870967741935483870967741935483870968
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Mujeres	Temporal	0	4	Servicios	25	0	0
+Julio 2021	202107	2021	Julio	24	Campo de Daroca	Mujeres	Temporal	1	4	Servicios	22	1774	80,63636363636363636363636363636363636364
+Julio 2021	202107	2021	Julio	25	Jiloca	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	8	0	0
+Julio 2021	202107	2021	Julio	25	Jiloca	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	6	834	139
+Julio 2021	202107	2021	Julio	25	Jiloca	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	1	180	180
+Julio 2021	202107	2021	Julio	25	Jiloca	Hombres	Temporal	0	2	Industria y energía	14	0	0
+Julio 2021	202107	2021	Julio	25	Jiloca	Hombres	Temporal	1	2	Industria y energía	24	949	39,54166666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	25	Jiloca	Mujeres	Temporal	0	2	Industria y energía	2	0	0
+Julio 2021	202107	2021	Julio	25	Jiloca	Mujeres	Temporal	1	2	Industria y energía	8	271	33,875
+Julio 2021	202107	2021	Julio	25	Jiloca	Hombres	Temporal	0	3	Construcción	25	0	0
+Julio 2021	202107	2021	Julio	25	Jiloca	Hombres	Temporal	1	3	Construcción	3	164	54,66666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	25	Jiloca	Hombres	Temporal	0	4	Servicios	12	0	0
+Julio 2021	202107	2021	Julio	25	Jiloca	Hombres	Temporal	1	4	Servicios	55	4468	81,23636363636363636363636363636363636364
+Julio 2021	202107	2021	Julio	25	Jiloca	Mujeres	Temporal	0	4	Servicios	35	0	0
+Julio 2021	202107	2021	Julio	25	Jiloca	Mujeres	Temporal	1	4	Servicios	87	6362	73,12643678160919540229885057471264367816
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	3	0	0
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	5	660	132
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	1	180	180
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Hombres	Temporal	0	2	Industria y energía	3	0	0
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Hombres	Temporal	1	2	Industria y energía	29	1667	57,48275862068965517241379310344827586207
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Mujeres	Temporal	0	2	Industria y energía	5	0	0
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Mujeres	Temporal	1	2	Industria y energía	35	901	25,74285714285714285714285714285714285714
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Hombres	Temporal	0	3	Construcción	4	0	0
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Hombres	Temporal	1	3	Construcción	3	300	100
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Hombres	Temporal	0	4	Servicios	12	0	0
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Hombres	Temporal	1	4	Servicios	31	1836	59,22580645161290322580645161290322580645
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Mujeres	Temporal	0	4	Servicios	19	0	0
+Julio 2021	202107	2021	Julio	26	Cuencas Mineras	Mujeres	Temporal	1	4	Servicios	48	2902	60,45833333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	1	0	0
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Hombres	Temporal	0	2	Industria y energía	8	0	0
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Hombres	Temporal	1	2	Industria y energía	13	629	48,38461538461538461538461538461538461538
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Mujeres	Temporal	0	2	Industria y energía	3	0	0
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Hombres	Temporal	0	3	Construcción	12	0	0
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Hombres	Temporal	0	4	Servicios	20	0	0
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Hombres	Temporal	1	4	Servicios	44	2345	53,29545454545454545454545454545454545455
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Mujeres	Temporal	0	4	Servicios	35	0	0
+Julio 2021	202107	2021	Julio	27	Andorra-Sierra de Arcos	Mujeres	Temporal	1	4	Servicios	81	2884	35,6049382716049382716049382716049382716
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	99	0	0
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	18	1529	84,94444444444444444444444444444444444444
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	63	0	0
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	2	56	28
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Hombres	Temporal	0	2	Industria y energía	13	0	0
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Hombres	Temporal	1	2	Industria y energía	27	2779	102,925925925925925925925925925925925926
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Mujeres	Temporal	0	2	Industria y energía	6	0	0
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Mujeres	Temporal	1	2	Industria y energía	3	268	89,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Hombres	Temporal	0	3	Construcción	38	0	0
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Hombres	Temporal	1	3	Construcción	20	1914	95,7
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Mujeres	Temporal	0	3	Construcción	2	0	0
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Mujeres	Temporal	1	3	Construcción	1	39	39
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Hombres	Temporal	0	4	Servicios	75	0	0
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Hombres	Temporal	1	4	Servicios	501	10849	21,65469061876247504990019960079840319361
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Mujeres	Temporal	0	4	Servicios	140	0	0
+Julio 2021	202107	2021	Julio	28	Bajo Aragón	Mujeres	Temporal	1	4	Servicios	270	8129	30,10740740740740740740740740740740740741
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	24	0	0
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	11	1267	115,181818181818181818181818181818181818
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	6	0	0
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Hombres	Temporal	0	2	Industria y energía	50	0	0
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Hombres	Temporal	1	2	Industria y energía	387	4831	12,48320413436692506459948320413436692506
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Mujeres	Temporal	0	2	Industria y energía	3	0	0
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Mujeres	Temporal	1	2	Industria y energía	150	1546	10,30666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Hombres	Temporal	0	3	Construcción	28	0	0
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Hombres	Temporal	1	3	Construcción	27	3088	114,37037037037037037037037037037037037
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Mujeres	Temporal	0	3	Construcción	2	0	0
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Mujeres	Temporal	1	3	Construcción	5	300	60
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Hombres	Temporal	0	4	Servicios	65	0	0
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Hombres	Temporal	1	4	Servicios	333	25359	76,15315315315315315315315315315315315315
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Mujeres	Temporal	0	4	Servicios	160	0	0
+Julio 2021	202107	2021	Julio	29	Comunidad de Teruel	Mujeres	Temporal	1	4	Servicios	438	22583	51,55936073059360730593607305936073059361
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	1	0	0
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	1	180	180
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Hombres	Temporal	0	2	Industria y energía	1	0	0
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Mujeres	Temporal	1	2	Industria y energía	3	154	51,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Hombres	Temporal	0	3	Construcción	5	0	0
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Hombres	Temporal	1	3	Construcción	2	290	145
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Hombres	Temporal	0	4	Servicios	4	0	0
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Hombres	Temporal	1	4	Servicios	16	1291	80,6875
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Mujeres	Temporal	0	4	Servicios	20	0	0
+Julio 2021	202107	2021	Julio	30	Maestrazgo	Mujeres	Temporal	1	4	Servicios	35	2168	61,94285714285714285714285714285714285714
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	3	0	0
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	2	270	135
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	3	0	0
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Hombres	Temporal	0	2	Industria y energía	1	0	0
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Hombres	Temporal	1	2	Industria y energía	4	375	93,75
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Mujeres	Temporal	1	2	Industria y energía	3	210	70
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Hombres	Temporal	0	3	Construcción	8	0	0
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Hombres	Temporal	0	4	Servicios	11	0	0
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Hombres	Temporal	1	4	Servicios	42	1896	45,14285714285714285714285714285714285714
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Mujeres	Temporal	0	4	Servicios	18	0	0
+Julio 2021	202107	2021	Julio	31	Sierra de Albarracín	Mujeres	Temporal	1	4	Servicios	61	3099	50,80327868852459016393442622950819672131
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	4	0	0
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	6	458	76,33333333333333333333333333333333333333
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	1	14	14
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Hombres	Temporal	0	2	Industria y energía	19	0	0
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Hombres	Temporal	1	2	Industria y energía	12	1388	115,666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Mujeres	Temporal	0	2	Industria y energía	2	0	0
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Mujeres	Temporal	1	2	Industria y energía	1	60	60
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Hombres	Temporal	0	3	Construcción	6	0	0
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Hombres	Temporal	1	3	Construcción	3	327	109
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Hombres	Temporal	0	4	Servicios	23	0	0
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Hombres	Temporal	1	4	Servicios	119	5325	44,74789915966386554621848739495798319328
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Mujeres	Temporal	0	4	Servicios	41	0	0
+Julio 2021	202107	2021	Julio	32	Gúdar-Javalambre	Mujeres	Temporal	1	4	Servicios	171	6483	37,91228070175438596491228070175438596491
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	8	0	0
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	4	266	66,5
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Mujeres	Temporal	1	1	Agricultura, ganadería y pesca	1	30	30
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Hombres	Temporal	0	2	Industria y energía	9	0	0
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Hombres	Temporal	1	2	Industria y energía	3	182	60,66666666666666666666666666666666666667
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Mujeres	Temporal	0	2	Industria y energía	3	0	0
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Mujeres	Temporal	1	2	Industria y energía	1	90	90
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Hombres	Temporal	0	3	Construcción	6	0	0
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Hombres	Temporal	1	3	Construcción	2	228	114
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Mujeres	Temporal	0	3	Construcción	1	0	0
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Hombres	Temporal	0	4	Servicios	45	0	0
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Hombres	Temporal	1	4	Servicios	41	2786	67,95121951219512195121951219512195121951
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Mujeres	Temporal	0	4	Servicios	67	0	0
+Julio 2021	202107	2021	Julio	33	Matarraña / Matarranya	Mujeres	Temporal	1	4	Servicios	38	2864	75,36842105263157894736842105263157894737
 Junio 2021	202106	2021	Junio	01	La Jacetania	Hombres	Temporal	0	1	Agricultura, ganadería y pesca	11	0	0
 Junio 2021	202106	2021	Junio	01	La Jacetania	Hombres	Temporal	1	1	Agricultura, ganadería y pesca	5	274	54,8
 Junio 2021	202106	2021	Junio	01	La Jacetania	Mujeres	Temporal	0	1	Agricultura, ganadería y pesca	3	0	0
