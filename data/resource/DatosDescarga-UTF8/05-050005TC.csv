@@ -51,19 +51,19 @@ Julio 2021	01	La Jacetania	74	Otras actividades profesionales, científicas y t�
 Julio 2021	01	La Jacetania	75	Actividades veterinarias	20
 Julio 2021	01	La Jacetania	77	Actividades de alquiler	33
 Julio 2021	01	La Jacetania	78	Actividades relacionadas con el empleo	3
-Julio 2021	01	La Jacetania	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	71
+Julio 2021	01	La Jacetania	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	72
 Julio 2021	01	La Jacetania	80	Actividades de seguridad e investigación	29
 Julio 2021	01	La Jacetania	81	Servicios a edificios y actividades de jardinería	180
 Julio 2021	01	La Jacetania	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	57
 Julio 2021	01	La Jacetania	84	Administración Pública y defensa; Seguridad Social obligatoria	474
-Julio 2021	01	La Jacetania	85	Educación	152
+Julio 2021	01	La Jacetania	85	Educación	156
 Julio 2021	01	La Jacetania	86	Actividades sanitarias	140
 Julio 2021	01	La Jacetania	87	Asistencia en establecimientos residenciales	112
 Julio 2021	01	La Jacetania	88	Actividades de servicios sociales sin alojamiento	4
 Julio 2021	01	La Jacetania	90	Actividades de creación, artísticas y espectáculos	12
 Julio 2021	01	La Jacetania	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	1
 Julio 2021	01	La Jacetania	92	Actividades de juegos de azar y apuestas	14
-Julio 2021	01	La Jacetania	93	Actividades deportivas, recreativas y de entretenimiento	175
+Julio 2021	01	La Jacetania	93	Actividades deportivas, recreativas y de entretenimiento	176
 Julio 2021	01	La Jacetania	94	Actividades asociativas	83
 Julio 2021	01	La Jacetania	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	21
 Julio 2021	01	La Jacetania	96	Otros servicios personales	147
@@ -92,7 +92,7 @@ Julio 2021	02	Alto Gállego	35	Suministro de energía eléctrica, gas, vapor y a
 Julio 2021	02	Alto Gállego	37	Recogida y tratamiento de aguas residuales	10
 Julio 2021	02	Alto Gállego	41	Construcción de edificios	185
 Julio 2021	02	Alto Gállego	42	Ingeniería civil	41
-Julio 2021	02	Alto Gállego	43	Actividades de construcción especializada	372
+Julio 2021	02	Alto Gállego	43	Actividades de construcción especializada	373
 Julio 2021	02	Alto Gállego	45	Venta y reparación de vehículos de motor y motocicletas	80
 Julio 2021	02	Alto Gállego	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	139
 Julio 2021	02	Alto Gállego	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	432
@@ -110,7 +110,7 @@ Julio 2021	02	Alto Gállego	66	Actividades auxiliares a los servicios financiero
 Julio 2021	02	Alto Gállego	68	Actividades inmobiliarias	44
 Julio 2021	02	Alto Gállego	69	Actividades jurídicas y de contabilidad	59
 Julio 2021	02	Alto Gállego	70	Actividades de las sedes centrales; actividades de consultoría de gestión empresarial	4
-Julio 2021	02	Alto Gállego	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	69
+Julio 2021	02	Alto Gállego	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	70
 Julio 2021	02	Alto Gállego	73	Publicidad y estudios de mercado	6
 Julio 2021	02	Alto Gállego	74	Otras actividades profesionales, científicas y técnicas	12
 Julio 2021	02	Alto Gállego	75	Actividades veterinarias	8
@@ -126,7 +126,7 @@ Julio 2021	02	Alto Gállego	88	Actividades de servicios sociales sin alojamiento
 Julio 2021	02	Alto Gállego	90	Actividades de creación, artísticas y espectáculos	9
 Julio 2021	02	Alto Gállego	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	28
 Julio 2021	02	Alto Gállego	92	Actividades de juegos de azar y apuestas	1
-Julio 2021	02	Alto Gállego	93	Actividades deportivas, recreativas y de entretenimiento	192
+Julio 2021	02	Alto Gállego	93	Actividades deportivas, recreativas y de entretenimiento	193
 Julio 2021	02	Alto Gállego	94	Actividades asociativas	12
 Julio 2021	02	Alto Gállego	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	10
 Julio 2021	02	Alto Gállego	96	Otros servicios personales	96
@@ -157,7 +157,7 @@ Julio 2021	03	Sobrarbe	46	Comercio al por mayor e intermediarios del comercio, e
 Julio 2021	03	Sobrarbe	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	361
 Julio 2021	03	Sobrarbe	49	Transporte terrestre y por tubería	56
 Julio 2021	03	Sobrarbe	52	Almacenamiento y actividades anexas al transporte	1
-Julio 2021	03	Sobrarbe	55	Servicios de alojamiento	1011
+Julio 2021	03	Sobrarbe	55	Servicios de alojamiento	1017
 Julio 2021	03	Sobrarbe	56	Servicios de comidas y bebidas	644
 Julio 2021	03	Sobrarbe	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	1
 Julio 2021	03	Sobrarbe	60	Actividades de programación y emisión de radio y televisión	3
@@ -171,15 +171,15 @@ Julio 2021	03	Sobrarbe	70	Actividades de las sedes centrales; actividades de con
 Julio 2021	03	Sobrarbe	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	19
 Julio 2021	03	Sobrarbe	72	Investigación y desarrollo	3
 Julio 2021	03	Sobrarbe	73	Publicidad y estudios de mercado	13
-Julio 2021	03	Sobrarbe	74	Otras actividades profesionales, científicas y técnicas	12
+Julio 2021	03	Sobrarbe	74	Otras actividades profesionales, científicas y técnicas	13
 Julio 2021	03	Sobrarbe	75	Actividades veterinarias	5
 Julio 2021	03	Sobrarbe	77	Actividades de alquiler	2
 Julio 2021	03	Sobrarbe	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	47
 Julio 2021	03	Sobrarbe	81	Servicios a edificios y actividades de jardinería	42
-Julio 2021	03	Sobrarbe	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	5
+Julio 2021	03	Sobrarbe	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	6
 Julio 2021	03	Sobrarbe	84	Administración Pública y defensa; Seguridad Social obligatoria	206
 Julio 2021	03	Sobrarbe	85	Educación	45
-Julio 2021	03	Sobrarbe	86	Actividades sanitarias	20
+Julio 2021	03	Sobrarbe	86	Actividades sanitarias	21
 Julio 2021	03	Sobrarbe	87	Asistencia en establecimientos residenciales	30
 Julio 2021	03	Sobrarbe	88	Actividades de servicios sociales sin alojamiento	29
 Julio 2021	03	Sobrarbe	90	Actividades de creación, artísticas y espectáculos	5
@@ -188,9 +188,9 @@ Julio 2021	03	Sobrarbe	92	Actividades de juegos de azar y apuestas	1
 Julio 2021	03	Sobrarbe	93	Actividades deportivas, recreativas y de entretenimiento	111
 Julio 2021	03	Sobrarbe	94	Actividades asociativas	5
 Julio 2021	03	Sobrarbe	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	11
-Julio 2021	03	Sobrarbe	96	Otros servicios personales	30
+Julio 2021	03	Sobrarbe	96	Otros servicios personales	31
 Julio 2021	03	Sobrarbe	97	Actividades de los hogares como empleadores de personal doméstico	46
-Julio 2021	04	La Ribagorza	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	813
+Julio 2021	04	La Ribagorza	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	814
 Julio 2021	04	La Ribagorza	02	Silvicultura y explotación forestal	4
 Julio 2021	04	La Ribagorza	03	Pesca y acuicultura	1
 Julio 2021	04	La Ribagorza	08	Otras industrias extractivas	16
@@ -206,19 +206,19 @@ Julio 2021	04	La Ribagorza	28	Fabricación de maquinaria y equipo n.c.o.p.	4
 Julio 2021	04	La Ribagorza	31	Fabricación de muebles	4
 Julio 2021	04	La Ribagorza	32	Otras industrias manufactureras	1
 Julio 2021	04	La Ribagorza	33	Reparación e instalación de maquinaria y equipo	19
-Julio 2021	04	La Ribagorza	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	7
+Julio 2021	04	La Ribagorza	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	8
 Julio 2021	04	La Ribagorza	36	Captación, depuración y distribución de agua	4
 Julio 2021	04	La Ribagorza	37	Recogida y tratamiento de aguas residuales	14
-Julio 2021	04	La Ribagorza	41	Construcción de edificios	287
+Julio 2021	04	La Ribagorza	41	Construcción de edificios	288
 Julio 2021	04	La Ribagorza	42	Ingeniería civil	59
 Julio 2021	04	La Ribagorza	43	Actividades de construcción especializada	239
 Julio 2021	04	La Ribagorza	45	Venta y reparación de vehículos de motor y motocicletas	49
 Julio 2021	04	La Ribagorza	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	233
-Julio 2021	04	La Ribagorza	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	486
+Julio 2021	04	La Ribagorza	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	487
 Julio 2021	04	La Ribagorza	49	Transporte terrestre y por tubería	216
 Julio 2021	04	La Ribagorza	52	Almacenamiento y actividades anexas al transporte	2
 Julio 2021	04	La Ribagorza	55	Servicios de alojamiento	735
-Julio 2021	04	La Ribagorza	56	Servicios de comidas y bebidas	438
+Julio 2021	04	La Ribagorza	56	Servicios de comidas y bebidas	439
 Julio 2021	04	La Ribagorza	60	Actividades de programación y emisión de radio y televisión	3
 Julio 2021	04	La Ribagorza	62	Programación, consultoría y otras actividades relacionadas con la informática	7
 Julio 2021	04	La Ribagorza	64	Servicios financieros, excepto seguros y fondos de pensiones	1
@@ -227,7 +227,7 @@ Julio 2021	04	La Ribagorza	66	Actividades auxiliares a los servicios financieros
 Julio 2021	04	La Ribagorza	68	Actividades inmobiliarias	17
 Julio 2021	04	La Ribagorza	69	Actividades jurídicas y de contabilidad	48
 Julio 2021	04	La Ribagorza	70	Actividades de las sedes centrales; actividades de consultoría de gestión empresarial	9
-Julio 2021	04	La Ribagorza	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	34
+Julio 2021	04	La Ribagorza	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	35
 Julio 2021	04	La Ribagorza	72	Investigación y desarrollo	2
 Julio 2021	04	La Ribagorza	73	Publicidad y estudios de mercado	9
 Julio 2021	04	La Ribagorza	74	Otras actividades profesionales, científicas y técnicas	26
@@ -235,9 +235,9 @@ Julio 2021	04	La Ribagorza	75	Actividades veterinarias	7
 Julio 2021	04	La Ribagorza	77	Actividades de alquiler	13
 Julio 2021	04	La Ribagorza	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	6
 Julio 2021	04	La Ribagorza	81	Servicios a edificios y actividades de jardinería	155
-Julio 2021	04	La Ribagorza	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	14
-Julio 2021	04	La Ribagorza	84	Administración Pública y defensa; Seguridad Social obligatoria	332
-Julio 2021	04	La Ribagorza	85	Educación	89
+Julio 2021	04	La Ribagorza	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	15
+Julio 2021	04	La Ribagorza	84	Administración Pública y defensa; Seguridad Social obligatoria	333
+Julio 2021	04	La Ribagorza	85	Educación	90
 Julio 2021	04	La Ribagorza	86	Actividades sanitarias	36
 Julio 2021	04	La Ribagorza	87	Asistencia en establecimientos residenciales	164
 Julio 2021	04	La Ribagorza	88	Actividades de servicios sociales sin alojamiento	95
@@ -263,12 +263,12 @@ Julio 2021	05	Cinco Villas	18	Artes gráficas y reproducción de soportes grabad
 Julio 2021	05	Cinco Villas	20	Industria química	1
 Julio 2021	05	Cinco Villas	22	Fabricación de productos de caucho y plásticos	51
 Julio 2021	05	Cinco Villas	23	Fabricación de otros productos minerales no metálicos	448
-Julio 2021	05	Cinco Villas	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	110
+Julio 2021	05	Cinco Villas	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	111
 Julio 2021	05	Cinco Villas	25	Fabricación de productos metálicos, excepto maquinaria y equipo	231
 Julio 2021	05	Cinco Villas	26	Fabricación de productos informáticos, electrónicos y ópticos	10
 Julio 2021	05	Cinco Villas	27	Fabricación de material y equipo eléctrico	63
 Julio 2021	05	Cinco Villas	28	Fabricación de maquinaria y equipo n.c.o.p.	235
-Julio 2021	05	Cinco Villas	29	Fabricación de vehículos de motor, remolques y semirremolques	434
+Julio 2021	05	Cinco Villas	29	Fabricación de vehículos de motor, remolques y semirremolques	435
 Julio 2021	05	Cinco Villas	30	Fabricación de otro material de transporte	1
 Julio 2021	05	Cinco Villas	31	Fabricación de muebles	42
 Julio 2021	05	Cinco Villas	32	Otras industrias manufactureras	5
@@ -311,7 +311,7 @@ Julio 2021	05	Cinco Villas	80	Actividades de seguridad e investigación	1
 Julio 2021	05	Cinco Villas	81	Servicios a edificios y actividades de jardinería	149
 Julio 2021	05	Cinco Villas	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	22
 Julio 2021	05	Cinco Villas	84	Administración Pública y defensa; Seguridad Social obligatoria	605
-Julio 2021	05	Cinco Villas	85	Educación	123
+Julio 2021	05	Cinco Villas	85	Educación	125
 Julio 2021	05	Cinco Villas	86	Actividades sanitarias	162
 Julio 2021	05	Cinco Villas	87	Asistencia en establecimientos residenciales	388
 Julio 2021	05	Cinco Villas	88	Actividades de servicios sociales sin alojamiento	22
@@ -354,12 +354,12 @@ Julio 2021	06	Hoya de Huesca / Plana de Uesca	36	Captación, depuración y distr
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	37	Recogida y tratamiento de aguas residuales	13
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	38	Recogida, tratamiento y eliminación de residuos; valorización	235
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	39	Actividades de descontaminación y otros servicios de gestión de residuos	2
-Julio 2021	06	Hoya de Huesca / Plana de Uesca	41	Construcción de edificios	928
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	41	Construcción de edificios	929
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	42	Ingeniería civil	121
-Julio 2021	06	Hoya de Huesca / Plana de Uesca	43	Actividades de construcción especializada	1365
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	43	Actividades de construcción especializada	1366
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	45	Venta y reparación de vehículos de motor y motocicletas	818
-Julio 2021	06	Hoya de Huesca / Plana de Uesca	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	1364
-Julio 2021	06	Hoya de Huesca / Plana de Uesca	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	2880
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	1365
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	2882
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	49	Transporte terrestre y por tubería	725
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	52	Almacenamiento y actividades anexas al transporte	122
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	53	Actividades postales y de correos	351
@@ -380,7 +380,7 @@ Julio 2021	06	Hoya de Huesca / Plana de Uesca	70	Actividades de las sedes centra
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	396
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	72	Investigación y desarrollo	51
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	73	Publicidad y estudios de mercado	69
-Julio 2021	06	Hoya de Huesca / Plana de Uesca	74	Otras actividades profesionales, científicas y técnicas	202
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	74	Otras actividades profesionales, científicas y técnicas	204
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	75	Actividades veterinarias	42
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	77	Actividades de alquiler	69
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	78	Actividades relacionadas con el empleo	154
@@ -388,9 +388,9 @@ Julio 2021	06	Hoya de Huesca / Plana de Uesca	79	Actividades de agencias de viaj
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	80	Actividades de seguridad e investigación	193
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	81	Servicios a edificios y actividades de jardinería	1728
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	165
-Julio 2021	06	Hoya de Huesca / Plana de Uesca	84	Administración Pública y defensa; Seguridad Social obligatoria	5509
-Julio 2021	06	Hoya de Huesca / Plana de Uesca	85	Educación	1162
-Julio 2021	06	Hoya de Huesca / Plana de Uesca	86	Actividades sanitarias	3442
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	84	Administración Pública y defensa; Seguridad Social obligatoria	5512
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	85	Educación	1167
+Julio 2021	06	Hoya de Huesca / Plana de Uesca	86	Actividades sanitarias	3443
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	87	Asistencia en establecimientos residenciales	1467
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	88	Actividades de servicios sociales sin alojamiento	677
 Julio 2021	06	Hoya de Huesca / Plana de Uesca	90	Actividades de creación, artísticas y espectáculos	82
@@ -462,7 +462,7 @@ Julio 2021	07	Somontano de Barbastro	79	Actividades de agencias de viajes, opera
 Julio 2021	07	Somontano de Barbastro	81	Servicios a edificios y actividades de jardinería	198
 Julio 2021	07	Somontano de Barbastro	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	217
 Julio 2021	07	Somontano de Barbastro	84	Administración Pública y defensa; Seguridad Social obligatoria	365
-Julio 2021	07	Somontano de Barbastro	85	Educación	186
+Julio 2021	07	Somontano de Barbastro	85	Educación	187
 Julio 2021	07	Somontano de Barbastro	86	Actividades sanitarias	1802
 Julio 2021	07	Somontano de Barbastro	87	Asistencia en establecimientos residenciales	289
 Julio 2021	07	Somontano de Barbastro	88	Actividades de servicios sociales sin alojamiento	66
@@ -601,7 +601,7 @@ Julio 2021	09	La Litera / La Llitera	80	Actividades de seguridad e investigació
 Julio 2021	09	La Litera / La Llitera	81	Servicios a edificios y actividades de jardinería	96
 Julio 2021	09	La Litera / La Llitera	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	26
 Julio 2021	09	La Litera / La Llitera	84	Administración Pública y defensa; Seguridad Social obligatoria	280
-Julio 2021	09	La Litera / La Llitera	85	Educación	90
+Julio 2021	09	La Litera / La Llitera	85	Educación	91
 Julio 2021	09	La Litera / La Llitera	86	Actividades sanitarias	80
 Julio 2021	09	La Litera / La Llitera	87	Asistencia en establecimientos residenciales	179
 Julio 2021	09	La Litera / La Llitera	88	Actividades de servicios sociales sin alojamiento	14
@@ -687,7 +687,7 @@ Julio 2021	11	Bajo Cinca / Baix Cinca	11	Fabricación de bebidas	4
 Julio 2021	11	Bajo Cinca / Baix Cinca	13	Industria textil	28
 Julio 2021	11	Bajo Cinca / Baix Cinca	14	Confección de prendas de vestir	12
 Julio 2021	11	Bajo Cinca / Baix Cinca	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	149
-Julio 2021	11	Bajo Cinca / Baix Cinca	17	Industria del papel	317
+Julio 2021	11	Bajo Cinca / Baix Cinca	17	Industria del papel	318
 Julio 2021	11	Bajo Cinca / Baix Cinca	18	Artes gráficas y reproducción de soportes grabados	13
 Julio 2021	11	Bajo Cinca / Baix Cinca	20	Industria química	15
 Julio 2021	11	Bajo Cinca / Baix Cinca	22	Fabricación de productos de caucho y plásticos	4
@@ -706,14 +706,14 @@ Julio 2021	11	Bajo Cinca / Baix Cinca	41	Construcción de edificios	230
 Julio 2021	11	Bajo Cinca / Baix Cinca	42	Ingeniería civil	29
 Julio 2021	11	Bajo Cinca / Baix Cinca	43	Actividades de construcción especializada	466
 Julio 2021	11	Bajo Cinca / Baix Cinca	45	Venta y reparación de vehículos de motor y motocicletas	256
-Julio 2021	11	Bajo Cinca / Baix Cinca	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	1838
-Julio 2021	11	Bajo Cinca / Baix Cinca	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	941
+Julio 2021	11	Bajo Cinca / Baix Cinca	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	1839
+Julio 2021	11	Bajo Cinca / Baix Cinca	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	942
 Julio 2021	11	Bajo Cinca / Baix Cinca	49	Transporte terrestre y por tubería	390
 Julio 2021	11	Bajo Cinca / Baix Cinca	50	Transporte marítimo y por vías navegables interiores	2
 Julio 2021	11	Bajo Cinca / Baix Cinca	52	Almacenamiento y actividades anexas al transporte	68
 Julio 2021	11	Bajo Cinca / Baix Cinca	53	Actividades postales y de correos	7
 Julio 2021	11	Bajo Cinca / Baix Cinca	55	Servicios de alojamiento	55
-Julio 2021	11	Bajo Cinca / Baix Cinca	56	Servicios de comidas y bebidas	395
+Julio 2021	11	Bajo Cinca / Baix Cinca	56	Servicios de comidas y bebidas	396
 Julio 2021	11	Bajo Cinca / Baix Cinca	58	Edición	8
 Julio 2021	11	Bajo Cinca / Baix Cinca	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	4
 Julio 2021	11	Bajo Cinca / Baix Cinca	61	Telecomunicaciones	1
@@ -732,12 +732,12 @@ Julio 2021	11	Bajo Cinca / Baix Cinca	74	Otras actividades profesionales, cient�
 Julio 2021	11	Bajo Cinca / Baix Cinca	75	Actividades veterinarias	10
 Julio 2021	11	Bajo Cinca / Baix Cinca	77	Actividades de alquiler	21
 Julio 2021	11	Bajo Cinca / Baix Cinca	78	Actividades relacionadas con el empleo	644
-Julio 2021	11	Bajo Cinca / Baix Cinca	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	12
+Julio 2021	11	Bajo Cinca / Baix Cinca	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	13
 Julio 2021	11	Bajo Cinca / Baix Cinca	80	Actividades de seguridad e investigación	2
 Julio 2021	11	Bajo Cinca / Baix Cinca	81	Servicios a edificios y actividades de jardinería	248
 Julio 2021	11	Bajo Cinca / Baix Cinca	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	220
 Julio 2021	11	Bajo Cinca / Baix Cinca	84	Administración Pública y defensa; Seguridad Social obligatoria	343
-Julio 2021	11	Bajo Cinca / Baix Cinca	85	Educación	126
+Julio 2021	11	Bajo Cinca / Baix Cinca	85	Educación	127
 Julio 2021	11	Bajo Cinca / Baix Cinca	86	Actividades sanitarias	132
 Julio 2021	11	Bajo Cinca / Baix Cinca	87	Asistencia en establecimientos residenciales	148
 Julio 2021	11	Bajo Cinca / Baix Cinca	88	Actividades de servicios sociales sin alojamiento	93
@@ -957,7 +957,7 @@ Julio 2021	15	Ribera Alta del Ebro	41	Construcción de edificios	139
 Julio 2021	15	Ribera Alta del Ebro	42	Ingeniería civil	33
 Julio 2021	15	Ribera Alta del Ebro	43	Actividades de construcción especializada	839
 Julio 2021	15	Ribera Alta del Ebro	45	Venta y reparación de vehículos de motor y motocicletas	176
-Julio 2021	15	Ribera Alta del Ebro	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	393
+Julio 2021	15	Ribera Alta del Ebro	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	394
 Julio 2021	15	Ribera Alta del Ebro	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	468
 Julio 2021	15	Ribera Alta del Ebro	49	Transporte terrestre y por tubería	1905
 Julio 2021	15	Ribera Alta del Ebro	52	Almacenamiento y actividades anexas al transporte	562
@@ -978,7 +978,7 @@ Julio 2021	15	Ribera Alta del Ebro	70	Actividades de las sedes centrales; activi
 Julio 2021	15	Ribera Alta del Ebro	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	85
 Julio 2021	15	Ribera Alta del Ebro	72	Investigación y desarrollo	61
 Julio 2021	15	Ribera Alta del Ebro	73	Publicidad y estudios de mercado	4
-Julio 2021	15	Ribera Alta del Ebro	74	Otras actividades profesionales, científicas y técnicas	27
+Julio 2021	15	Ribera Alta del Ebro	74	Otras actividades profesionales, científicas y técnicas	28
 Julio 2021	15	Ribera Alta del Ebro	75	Actividades veterinarias	5
 Julio 2021	15	Ribera Alta del Ebro	77	Actividades de alquiler	24
 Julio 2021	15	Ribera Alta del Ebro	78	Actividades relacionadas con el empleo	9
@@ -987,7 +987,7 @@ Julio 2021	15	Ribera Alta del Ebro	80	Actividades de seguridad e investigación	
 Julio 2021	15	Ribera Alta del Ebro	81	Servicios a edificios y actividades de jardinería	139
 Julio 2021	15	Ribera Alta del Ebro	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	75
 Julio 2021	15	Ribera Alta del Ebro	84	Administración Pública y defensa; Seguridad Social obligatoria	509
-Julio 2021	15	Ribera Alta del Ebro	85	Educación	91
+Julio 2021	15	Ribera Alta del Ebro	85	Educación	93
 Julio 2021	15	Ribera Alta del Ebro	86	Actividades sanitarias	48
 Julio 2021	15	Ribera Alta del Ebro	87	Asistencia en establecimientos residenciales	349
 Julio 2021	15	Ribera Alta del Ebro	88	Actividades de servicios sociales sin alojamiento	8
@@ -1032,7 +1032,7 @@ Julio 2021	16	Valdejalón	42	Ingeniería civil	107
 Julio 2021	16	Valdejalón	43	Actividades de construcción especializada	711
 Julio 2021	16	Valdejalón	45	Venta y reparación de vehículos de motor y motocicletas	324
 Julio 2021	16	Valdejalón	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	1380
-Julio 2021	16	Valdejalón	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	698
+Julio 2021	16	Valdejalón	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	699
 Julio 2021	16	Valdejalón	49	Transporte terrestre y por tubería	481
 Julio 2021	16	Valdejalón	52	Almacenamiento y actividades anexas al transporte	98
 Julio 2021	16	Valdejalón	53	Actividades postales y de correos	20
@@ -1058,11 +1058,11 @@ Julio 2021	16	Valdejalón	75	Actividades veterinarias	10
 Julio 2021	16	Valdejalón	77	Actividades de alquiler	15
 Julio 2021	16	Valdejalón	78	Actividades relacionadas con el empleo	298
 Julio 2021	16	Valdejalón	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	3
-Julio 2021	16	Valdejalón	80	Actividades de seguridad e investigación	92
+Julio 2021	16	Valdejalón	80	Actividades de seguridad e investigación	93
 Julio 2021	16	Valdejalón	81	Servicios a edificios y actividades de jardinería	147
 Julio 2021	16	Valdejalón	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	52
 Julio 2021	16	Valdejalón	84	Administración Pública y defensa; Seguridad Social obligatoria	492
-Julio 2021	16	Valdejalón	85	Educación	201
+Julio 2021	16	Valdejalón	85	Educación	202
 Julio 2021	16	Valdejalón	86	Actividades sanitarias	60
 Julio 2021	16	Valdejalón	87	Asistencia en establecimientos residenciales	150
 Julio 2021	16	Valdejalón	88	Actividades de servicios sociales sin alojamiento	5
@@ -1079,23 +1079,23 @@ Julio 2021	17	Central	05	Extracción de antracita, hulla y lignito	15
 Julio 2021	17	Central	07	Extracción de minerales metálicos	12
 Julio 2021	17	Central	08	Otras industrias extractivas	168
 Julio 2021	17	Central	09	Actividades de apoyo a las industrias extractivas	3
-Julio 2021	17	Central	10	Industria de la alimentación	5770
+Julio 2021	17	Central	10	Industria de la alimentación	5771
 Julio 2021	17	Central	11	Fabricación de bebidas	135
-Julio 2021	17	Central	13	Industria textil	662
+Julio 2021	17	Central	13	Industria textil	663
 Julio 2021	17	Central	14	Confección de prendas de vestir	524
 Julio 2021	17	Central	15	Industria del cuero y del calzado	54
 Julio 2021	17	Central	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	500
-Julio 2021	17	Central	17	Industria del papel	1792
+Julio 2021	17	Central	17	Industria del papel	1793
 Julio 2021	17	Central	18	Artes gráficas y reproducción de soportes grabados	1130
-Julio 2021	17	Central	20	Industria química	1754
+Julio 2021	17	Central	20	Industria química	1755
 Julio 2021	17	Central	21	Fabricación de productos farmacéuticos	1039
 Julio 2021	17	Central	22	Fabricación de productos de caucho y plásticos	2070
 Julio 2021	17	Central	23	Fabricación de otros productos minerales no metálicos	763
 Julio 2021	17	Central	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	1400
 Julio 2021	17	Central	25	Fabricación de productos metálicos, excepto maquinaria y equipo	6056
 Julio 2021	17	Central	26	Fabricación de productos informáticos, electrónicos y ópticos	1081
-Julio 2021	17	Central	27	Fabricación de material y equipo eléctrico	4894
-Julio 2021	17	Central	28	Fabricación de maquinaria y equipo n.c.o.p.	4480
+Julio 2021	17	Central	27	Fabricación de material y equipo eléctrico	4899
+Julio 2021	17	Central	28	Fabricación de maquinaria y equipo n.c.o.p.	4481
 Julio 2021	17	Central	29	Fabricación de vehículos de motor, remolques y semirremolques	3703
 Julio 2021	17	Central	30	Fabricación de otro material de transporte	941
 Julio 2021	17	Central	31	Fabricación de muebles	1715
@@ -1110,53 +1110,53 @@ Julio 2021	17	Central	41	Construcción de edificios	4604
 Julio 2021	17	Central	42	Ingeniería civil	919
 Julio 2021	17	Central	43	Actividades de construcción especializada	13349
 Julio 2021	17	Central	45	Venta y reparación de vehículos de motor y motocicletas	5152
-Julio 2021	17	Central	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17589
-Julio 2021	17	Central	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	31978
+Julio 2021	17	Central	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17595
+Julio 2021	17	Central	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	31982
 Julio 2021	17	Central	49	Transporte terrestre y por tubería	12899
 Julio 2021	17	Central	50	Transporte marítimo y por vías navegables interiores	2
 Julio 2021	17	Central	51	Transporte aéreo	37
 Julio 2021	17	Central	52	Almacenamiento y actividades anexas al transporte	5994
 Julio 2021	17	Central	53	Actividades postales y de correos	1882
-Julio 2021	17	Central	55	Servicios de alojamiento	1332
-Julio 2021	17	Central	56	Servicios de comidas y bebidas	16985
+Julio 2021	17	Central	55	Servicios de alojamiento	1333
+Julio 2021	17	Central	56	Servicios de comidas y bebidas	16990
 Julio 2021	17	Central	58	Edición	993
 Julio 2021	17	Central	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	779
-Julio 2021	17	Central	60	Actividades de programación y emisión de radio y televisión	375
+Julio 2021	17	Central	60	Actividades de programación y emisión de radio y televisión	376
 Julio 2021	17	Central	61	Telecomunicaciones	968
-Julio 2021	17	Central	62	Programación, consultoría y otras actividades relacionadas con la informática	6570
+Julio 2021	17	Central	62	Programación, consultoría y otras actividades relacionadas con la informática	6573
 Julio 2021	17	Central	63	Servicios de información	357
-Julio 2021	17	Central	64	Servicios financieros, excepto seguros y fondos de pensiones	4184
+Julio 2021	17	Central	64	Servicios financieros, excepto seguros y fondos de pensiones	4185
 Julio 2021	17	Central	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	941
 Julio 2021	17	Central	66	Actividades auxiliares a los servicios financieros y a los seguros	1912
 Julio 2021	17	Central	68	Actividades inmobiliarias	2358
 Julio 2021	17	Central	69	Actividades jurídicas y de contabilidad	4793
-Julio 2021	17	Central	70	Actividades de las sedes centrales; actividades de consultoría de gestión empresarial	1732
-Julio 2021	17	Central	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	4140
-Julio 2021	17	Central	72	Investigación y desarrollo	1729
+Julio 2021	17	Central	70	Actividades de las sedes centrales; actividades de consultoría de gestión empresarial	1734
+Julio 2021	17	Central	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	4141
+Julio 2021	17	Central	72	Investigación y desarrollo	1732
 Julio 2021	17	Central	73	Publicidad y estudios de mercado	1108
-Julio 2021	17	Central	74	Otras actividades profesionales, científicas y técnicas	2289
+Julio 2021	17	Central	74	Otras actividades profesionales, científicas y técnicas	2294
 Julio 2021	17	Central	75	Actividades veterinarias	427
-Julio 2021	17	Central	77	Actividades de alquiler	988
-Julio 2021	17	Central	78	Actividades relacionadas con el empleo	7695
+Julio 2021	17	Central	77	Actividades de alquiler	989
+Julio 2021	17	Central	78	Actividades relacionadas con el empleo	7696
 Julio 2021	17	Central	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	698
 Julio 2021	17	Central	80	Actividades de seguridad e investigación	2464
-Julio 2021	17	Central	81	Servicios a edificios y actividades de jardinería	13269
+Julio 2021	17	Central	81	Servicios a edificios y actividades de jardinería	13272
 Julio 2021	17	Central	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	6507
-Julio 2021	17	Central	84	Administración Pública y defensa; Seguridad Social obligatoria	22008
-Julio 2021	17	Central	85	Educación	16142
-Julio 2021	17	Central	86	Actividades sanitarias	27546
+Julio 2021	17	Central	84	Administración Pública y defensa; Seguridad Social obligatoria	22018
+Julio 2021	17	Central	85	Educación	16217
+Julio 2021	17	Central	86	Actividades sanitarias	27548
 Julio 2021	17	Central	87	Asistencia en establecimientos residenciales	6158
 Julio 2021	17	Central	88	Actividades de servicios sociales sin alojamiento	3900
-Julio 2021	17	Central	90	Actividades de creación, artísticas y espectáculos	798
+Julio 2021	17	Central	90	Actividades de creación, artísticas y espectáculos	800
 Julio 2021	17	Central	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	73
 Julio 2021	17	Central	92	Actividades de juegos de azar y apuestas	753
 Julio 2021	17	Central	93	Actividades deportivas, recreativas y de entretenimiento	3069
-Julio 2021	17	Central	94	Actividades asociativas	3061
+Julio 2021	17	Central	94	Actividades asociativas	3062
 Julio 2021	17	Central	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	1358
 Julio 2021	17	Central	96	Otros servicios personales	5452
 Julio 2021	17	Central	97	Actividades de los hogares como empleadores de personal doméstico	11973
 Julio 2021	17	Central	99	Actividades de organizaciones y organismos extraterritoriales	9
-Julio 2021	18	Ribera Baja del Ebro	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	571
+Julio 2021	18	Ribera Baja del Ebro	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	572
 Julio 2021	18	Ribera Baja del Ebro	02	Silvicultura y explotación forestal	1
 Julio 2021	18	Ribera Baja del Ebro	05	Extracción de antracita, hulla y lignito	1
 Julio 2021	18	Ribera Baja del Ebro	07	Extracción de minerales metálicos	4
@@ -1233,7 +1233,7 @@ Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	33	Reparación e instalació
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	6
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	36	Captación, depuración y distribución de agua	22
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	38	Recogida, tratamiento y eliminación de residuos; valorización	5
-Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	41	Construcción de edificios	120
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	41	Construcción de edificios	121
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	42	Ingeniería civil	22
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	43	Actividades de construcción especializada	201
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	45	Venta y reparación de vehículos de motor y motocicletas	62
@@ -1242,14 +1242,14 @@ Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	47	Comercio al por menor, ex
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	49	Transporte terrestre y por tubería	91
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	52	Almacenamiento y actividades anexas al transporte	1
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	53	Actividades postales y de correos	2
-Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	55	Servicios de alojamiento	52
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	55	Servicios de alojamiento	55
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	56	Servicios de comidas y bebidas	185
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	58	Edición	7
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	61	Telecomunicaciones	2
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	62	Programación, consultoría y otras actividades relacionadas con la informática	2
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	63	Servicios de información	1
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	64	Servicios financieros, excepto seguros y fondos de pensiones	1
-Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	2
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	3
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	66	Actividades auxiliares a los servicios financieros y a los seguros	13
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	68	Actividades inmobiliarias	5
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	69	Actividades jurídicas y de contabilidad	82
@@ -1259,13 +1259,13 @@ Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	72	Investigación y desarrol
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	73	Publicidad y estudios de mercado	1
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	74	Otras actividades profesionales, científicas y técnicas	5
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	75	Actividades veterinarias	8
-Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	77	Actividades de alquiler	17
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	77	Actividades de alquiler	18
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	78	Actividades relacionadas con el empleo	1
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	4
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	81	Servicios a edificios y actividades de jardinería	19
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	8
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	84	Administración Pública y defensa; Seguridad Social obligatoria	300
-Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	85	Educación	68
+Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	85	Educación	69
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	86	Actividades sanitarias	26
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	87	Asistencia en establecimientos residenciales	35
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	88	Actividades de servicios sociales sin alojamiento	17
@@ -1277,12 +1277,12 @@ Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	94	Actividades asociativas	1
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	15
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	96	Otros servicios personales	77
 Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	97	Actividades de los hogares como empleadores de personal doméstico	62
-Julio 2021	20	Comunidad de Calatayud	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	1973
+Julio 2021	20	Comunidad de Calatayud	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	1974
 Julio 2021	20	Comunidad de Calatayud	02	Silvicultura y explotación forestal	3
 Julio 2021	20	Comunidad de Calatayud	03	Pesca y acuicultura	9
 Julio 2021	20	Comunidad de Calatayud	08	Otras industrias extractivas	19
 Julio 2021	20	Comunidad de Calatayud	10	Industria de la alimentación	323
-Julio 2021	20	Comunidad de Calatayud	11	Fabricación de bebidas	111
+Julio 2021	20	Comunidad de Calatayud	11	Fabricación de bebidas	113
 Julio 2021	20	Comunidad de Calatayud	13	Industria textil	9
 Julio 2021	20	Comunidad de Calatayud	14	Confección de prendas de vestir	3
 Julio 2021	20	Comunidad de Calatayud	15	Industria del cuero y del calzado	34
@@ -1360,7 +1360,7 @@ Julio 2021	21	Campo de Cariñena	20	Industria química	3
 Julio 2021	21	Campo de Cariñena	22	Fabricación de productos de caucho y plásticos	57
 Julio 2021	21	Campo de Cariñena	23	Fabricación de otros productos minerales no metálicos	51
 Julio 2021	21	Campo de Cariñena	25	Fabricación de productos metálicos, excepto maquinaria y equipo	193
-Julio 2021	21	Campo de Cariñena	27	Fabricación de material y equipo eléctrico	263
+Julio 2021	21	Campo de Cariñena	27	Fabricación de material y equipo eléctrico	264
 Julio 2021	21	Campo de Cariñena	28	Fabricación de maquinaria y equipo n.c.o.p.	21
 Julio 2021	21	Campo de Cariñena	31	Fabricación de muebles	920
 Julio 2021	21	Campo de Cariñena	32	Otras industrias manufactureras	2
@@ -1750,8 +1750,8 @@ Julio 2021	28	Bajo Aragón	37	Recogida y tratamiento de aguas residuales	10
 Julio 2021	28	Bajo Aragón	38	Recogida, tratamiento y eliminación de residuos; valorización	26
 Julio 2021	28	Bajo Aragón	41	Construcción de edificios	563
 Julio 2021	28	Bajo Aragón	42	Ingeniería civil	12
-Julio 2021	28	Bajo Aragón	43	Actividades de construcción especializada	557
-Julio 2021	28	Bajo Aragón	45	Venta y reparación de vehículos de motor y motocicletas	350
+Julio 2021	28	Bajo Aragón	43	Actividades de construcción especializada	558
+Julio 2021	28	Bajo Aragón	45	Venta y reparación de vehículos de motor y motocicletas	351
 Julio 2021	28	Bajo Aragón	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	548
 Julio 2021	28	Bajo Aragón	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	1202
 Julio 2021	28	Bajo Aragón	49	Transporte terrestre y por tubería	423
@@ -1781,10 +1781,10 @@ Julio 2021	28	Bajo Aragón	78	Actividades relacionadas con el empleo	137
 Julio 2021	28	Bajo Aragón	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	4
 Julio 2021	28	Bajo Aragón	80	Actividades de seguridad e investigación	5
 Julio 2021	28	Bajo Aragón	81	Servicios a edificios y actividades de jardinería	152
-Julio 2021	28	Bajo Aragón	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	8
-Julio 2021	28	Bajo Aragón	84	Administración Pública y defensa; Seguridad Social obligatoria	489
-Julio 2021	28	Bajo Aragón	85	Educación	157
-Julio 2021	28	Bajo Aragón	86	Actividades sanitarias	1350
+Julio 2021	28	Bajo Aragón	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	9
+Julio 2021	28	Bajo Aragón	84	Administración Pública y defensa; Seguridad Social obligatoria	490
+Julio 2021	28	Bajo Aragón	85	Educación	158
+Julio 2021	28	Bajo Aragón	86	Actividades sanitarias	1351
 Julio 2021	28	Bajo Aragón	87	Asistencia en establecimientos residenciales	187
 Julio 2021	28	Bajo Aragón	88	Actividades de servicios sociales sin alojamiento	10
 Julio 2021	28	Bajo Aragón	90	Actividades de creación, artísticas y espectáculos	22
@@ -1857,8 +1857,8 @@ Julio 2021	29	Comunidad de Teruel	79	Actividades de agencias de viajes, operador
 Julio 2021	29	Comunidad de Teruel	80	Actividades de seguridad e investigación	210
 Julio 2021	29	Comunidad de Teruel	81	Servicios a edificios y actividades de jardinería	986
 Julio 2021	29	Comunidad de Teruel	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	52
-Julio 2021	29	Comunidad de Teruel	84	Administración Pública y defensa; Seguridad Social obligatoria	4255
-Julio 2021	29	Comunidad de Teruel	85	Educación	654
+Julio 2021	29	Comunidad de Teruel	84	Administración Pública y defensa; Seguridad Social obligatoria	4258
+Julio 2021	29	Comunidad de Teruel	85	Educación	655
 Julio 2021	29	Comunidad de Teruel	86	Actividades sanitarias	2373
 Julio 2021	29	Comunidad de Teruel	87	Asistencia en establecimientos residenciales	1233
 Julio 2021	29	Comunidad de Teruel	88	Actividades de servicios sociales sin alojamiento	359
@@ -1965,7 +1965,7 @@ Julio 2021	32	Gúdar-Javalambre	31	Fabricación de muebles	3
 Julio 2021	32	Gúdar-Javalambre	33	Reparación e instalación de maquinaria y equipo	6
 Julio 2021	32	Gúdar-Javalambre	36	Captación, depuración y distribución de agua	5
 Julio 2021	32	Gúdar-Javalambre	38	Recogida, tratamiento y eliminación de residuos; valorización	7
-Julio 2021	32	Gúdar-Javalambre	41	Construcción de edificios	222
+Julio 2021	32	Gúdar-Javalambre	41	Construcción de edificios	223
 Julio 2021	32	Gúdar-Javalambre	42	Ingeniería civil	3
 Julio 2021	32	Gúdar-Javalambre	43	Actividades de construcción especializada	188
 Julio 2021	32	Gúdar-Javalambre	45	Venta y reparación de vehículos de motor y motocicletas	36
@@ -1973,7 +1973,7 @@ Julio 2021	32	Gúdar-Javalambre	46	Comercio al por mayor e intermediarios del co
 Julio 2021	32	Gúdar-Javalambre	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	284
 Julio 2021	32	Gúdar-Javalambre	49	Transporte terrestre y por tubería	76
 Julio 2021	32	Gúdar-Javalambre	55	Servicios de alojamiento	240
-Julio 2021	32	Gúdar-Javalambre	56	Servicios de comidas y bebidas	386
+Julio 2021	32	Gúdar-Javalambre	56	Servicios de comidas y bebidas	387
 Julio 2021	32	Gúdar-Javalambre	66	Actividades auxiliares a los servicios financieros y a los seguros	9
 Julio 2021	32	Gúdar-Javalambre	68	Actividades inmobiliarias	5
 Julio 2021	32	Gúdar-Javalambre	69	Actividades jurídicas y de contabilidad	18
@@ -1995,7 +1995,7 @@ Julio 2021	32	Gúdar-Javalambre	93	Actividades deportivas, recreativas y de entr
 Julio 2021	32	Gúdar-Javalambre	94	Actividades asociativas	14
 Julio 2021	32	Gúdar-Javalambre	96	Otros servicios personales	32
 Julio 2021	32	Gúdar-Javalambre	97	Actividades de los hogares como empleadores de personal doméstico	41
-Julio 2021	33	Matarraña / Matarranya	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	820
+Julio 2021	33	Matarraña / Matarranya	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	821
 Julio 2021	33	Matarraña / Matarranya	02	Silvicultura y explotación forestal	26
 Julio 2021	33	Matarraña / Matarranya	03	Pesca y acuicultura	4
 Julio 2021	33	Matarraña / Matarranya	08	Otras industrias extractivas	23
@@ -2022,10 +2022,10 @@ Julio 2021	33	Matarraña / Matarranya	42	Ingeniería civil	1
 Julio 2021	33	Matarraña / Matarranya	43	Actividades de construcción especializada	122
 Julio 2021	33	Matarraña / Matarranya	45	Venta y reparación de vehículos de motor y motocicletas	62
 Julio 2021	33	Matarraña / Matarranya	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	79
-Julio 2021	33	Matarraña / Matarranya	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	216
+Julio 2021	33	Matarraña / Matarranya	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	217
 Julio 2021	33	Matarraña / Matarranya	49	Transporte terrestre y por tubería	103
-Julio 2021	33	Matarraña / Matarranya	55	Servicios de alojamiento	307
-Julio 2021	33	Matarraña / Matarranya	56	Servicios de comidas y bebidas	269
+Julio 2021	33	Matarraña / Matarranya	55	Servicios de alojamiento	308
+Julio 2021	33	Matarraña / Matarranya	56	Servicios de comidas y bebidas	271
 Julio 2021	33	Matarraña / Matarranya	58	Edición	1
 Julio 2021	33	Matarraña / Matarranya	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	5
 Julio 2021	33	Matarraña / Matarranya	62	Programación, consultoría y otras actividades relacionadas con la informática	6
@@ -2035,14 +2035,15 @@ Julio 2021	33	Matarraña / Matarranya	69	Actividades jurídicas y de contabilida
 Julio 2021	33	Matarraña / Matarranya	70	Actividades de las sedes centrales; actividades de consultoría de gestión empresarial	15
 Julio 2021	33	Matarraña / Matarranya	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	16
 Julio 2021	33	Matarraña / Matarranya	72	Investigación y desarrollo	3
+Julio 2021	33	Matarraña / Matarranya	73	Publicidad y estudios de mercado	1
 Julio 2021	33	Matarraña / Matarranya	74	Otras actividades profesionales, científicas y técnicas	5
 Julio 2021	33	Matarraña / Matarranya	75	Actividades veterinarias	6
 Julio 2021	33	Matarraña / Matarranya	77	Actividades de alquiler	3
 Julio 2021	33	Matarraña / Matarranya	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	7
 Julio 2021	33	Matarraña / Matarranya	81	Servicios a edificios y actividades de jardinería	34
 Julio 2021	33	Matarraña / Matarranya	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	1
-Julio 2021	33	Matarraña / Matarranya	84	Administración Pública y defensa; Seguridad Social obligatoria	234
-Julio 2021	33	Matarraña / Matarranya	85	Educación	40
+Julio 2021	33	Matarraña / Matarranya	84	Administración Pública y defensa; Seguridad Social obligatoria	235
+Julio 2021	33	Matarraña / Matarranya	85	Educación	42
 Julio 2021	33	Matarraña / Matarranya	86	Actividades sanitarias	24
 Julio 2021	33	Matarraña / Matarranya	87	Asistencia en establecimientos residenciales	57
 Julio 2021	33	Matarraña / Matarranya	88	Actividades de servicios sociales sin alojamiento	13
@@ -2052,7 +2053,7 @@ Julio 2021	33	Matarraña / Matarranya	93	Actividades deportivas, recreativas y d
 Julio 2021	33	Matarraña / Matarranya	94	Actividades asociativas	9
 Julio 2021	33	Matarraña / Matarranya	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	11
 Julio 2021	33	Matarraña / Matarranya	96	Otros servicios personales	47
-Julio 2021	33	Matarraña / Matarranya	97	Actividades de los hogares como empleadores de personal doméstico	41
+Julio 2021	33	Matarraña / Matarranya	97	Actividades de los hogares como empleadores de personal doméstico	42
 Junio 2021	01	La Jacetania	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	368
 Junio 2021	01	La Jacetania	02	Silvicultura y explotación forestal	9
 Junio 2021	01	La Jacetania	03	Pesca y acuicultura	9

@@ -1,4 +1,902 @@
 Mes y año	Mes (código)	Mes nombre	Comarca código	Comarca nombre	Sección (1 letra) código	Sección (1 letra) descripción	Clasificación	Sexo	Número de contratos
+Julio 2021	202107	Julio	01	La Jacetania	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	01	La Jacetania	C	Industria manufacturera	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	01	La Jacetania	C	Industria manufacturera	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	01	La Jacetania	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	01	La Jacetania	F	Construcción	CNAE - 2009	Hombres	26
+Julio 2021	202107	Julio	01	La Jacetania	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	47
+Julio 2021	202107	Julio	01	La Jacetania	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	57
+Julio 2021	202107	Julio	01	La Jacetania	H	Transporte y almacenamiento	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	01	La Jacetania	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	01	La Jacetania	I	Hostelería	CNAE - 2009	Hombres	161
+Julio 2021	202107	Julio	01	La Jacetania	I	Hostelería	CNAE - 2009	Mujeres	216
+Julio 2021	202107	Julio	01	La Jacetania	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	01	La Jacetania	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	01	La Jacetania	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	01	La Jacetania	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	01	La Jacetania	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	40
+Julio 2021	202107	Julio	01	La Jacetania	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	32
+Julio 2021	202107	Julio	01	La Jacetania	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	20
+Julio 2021	202107	Julio	01	La Jacetania	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	32
+Julio 2021	202107	Julio	01	La Jacetania	P	Educación	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	01	La Jacetania	P	Educación	CNAE - 2009	Mujeres	19
+Julio 2021	202107	Julio	01	La Jacetania	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	01	La Jacetania	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	01	La Jacetania	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	46
+Julio 2021	202107	Julio	01	La Jacetania	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	57
+Julio 2021	202107	Julio	01	La Jacetania	S	Otros servicios	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	01	La Jacetania	S	Otros servicios	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	01	La Jacetania	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	01	La Jacetania	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	02	Alto Gállego	C	Industria manufacturera	CNAE - 2009	Hombres	19
+Julio 2021	202107	Julio	02	Alto Gállego	C	Industria manufacturera	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	02	Alto Gállego	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	02	Alto Gállego	F	Construcción	CNAE - 2009	Hombres	31
+Julio 2021	202107	Julio	02	Alto Gállego	F	Construcción	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	02	Alto Gállego	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	33
+Julio 2021	202107	Julio	02	Alto Gállego	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	32
+Julio 2021	202107	Julio	02	Alto Gállego	H	Transporte y almacenamiento	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	02	Alto Gállego	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	02	Alto Gállego	I	Hostelería	CNAE - 2009	Hombres	193
+Julio 2021	202107	Julio	02	Alto Gállego	I	Hostelería	CNAE - 2009	Mujeres	235
+Julio 2021	202107	Julio	02	Alto Gállego	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	02	Alto Gállego	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	02	Alto Gállego	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	20
+Julio 2021	202107	Julio	02	Alto Gállego	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	11
+Julio 2021	202107	Julio	02	Alto Gállego	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	16
+Julio 2021	202107	Julio	02	Alto Gállego	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	02	Alto Gállego	P	Educación	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	02	Alto Gállego	P	Educación	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	02	Alto Gállego	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	02	Alto Gállego	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	11
+Julio 2021	202107	Julio	02	Alto Gállego	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	41
+Julio 2021	202107	Julio	02	Alto Gállego	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	18
+Julio 2021	202107	Julio	02	Alto Gállego	S	Otros servicios	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	02	Alto Gállego	S	Otros servicios	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	02	Alto Gállego	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	03	Sobrarbe	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	03	Sobrarbe	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	03	Sobrarbe	B	Industrias extractivas	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	03	Sobrarbe	C	Industria manufacturera	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	03	Sobrarbe	C	Industria manufacturera	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	03	Sobrarbe	F	Construcción	CNAE - 2009	Hombres	19
+Julio 2021	202107	Julio	03	Sobrarbe	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	28
+Julio 2021	202107	Julio	03	Sobrarbe	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	29
+Julio 2021	202107	Julio	03	Sobrarbe	H	Transporte y almacenamiento	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	03	Sobrarbe	I	Hostelería	CNAE - 2009	Hombres	212
+Julio 2021	202107	Julio	03	Sobrarbe	I	Hostelería	CNAE - 2009	Mujeres	317
+Julio 2021	202107	Julio	03	Sobrarbe	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	03	Sobrarbe	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	03	Sobrarbe	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	03	Sobrarbe	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	03	Sobrarbe	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	34
+Julio 2021	202107	Julio	03	Sobrarbe	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	03	Sobrarbe	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	33
+Julio 2021	202107	Julio	03	Sobrarbe	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	03	Sobrarbe	P	Educación	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	03	Sobrarbe	P	Educación	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	03	Sobrarbe	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	03	Sobrarbe	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	12
+Julio 2021	202107	Julio	03	Sobrarbe	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	63
+Julio 2021	202107	Julio	03	Sobrarbe	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	21
+Julio 2021	202107	Julio	03	Sobrarbe	S	Otros servicios	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	03	Sobrarbe	S	Otros servicios	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	03	Sobrarbe	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	03	Sobrarbe	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	04	La Ribagorza	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	23
+Julio 2021	202107	Julio	04	La Ribagorza	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	04	La Ribagorza	C	Industria manufacturera	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	04	La Ribagorza	C	Industria manufacturera	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	04	La Ribagorza	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	04	La Ribagorza	F	Construcción	CNAE - 2009	Hombres	31
+Julio 2021	202107	Julio	04	La Ribagorza	F	Construcción	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	04	La Ribagorza	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	38
+Julio 2021	202107	Julio	04	La Ribagorza	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	47
+Julio 2021	202107	Julio	04	La Ribagorza	H	Transporte y almacenamiento	CNAE - 2009	Hombres	14
+Julio 2021	202107	Julio	04	La Ribagorza	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	04	La Ribagorza	I	Hostelería	CNAE - 2009	Hombres	109
+Julio 2021	202107	Julio	04	La Ribagorza	I	Hostelería	CNAE - 2009	Mujeres	201
+Julio 2021	202107	Julio	04	La Ribagorza	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	04	La Ribagorza	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	04	La Ribagorza	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	04	La Ribagorza	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	04	La Ribagorza	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	04	La Ribagorza	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	04	La Ribagorza	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	18
+Julio 2021	202107	Julio	04	La Ribagorza	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	24
+Julio 2021	202107	Julio	04	La Ribagorza	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	04	La Ribagorza	P	Educación	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	04	La Ribagorza	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	04	La Ribagorza	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	22
+Julio 2021	202107	Julio	04	La Ribagorza	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	81
+Julio 2021	202107	Julio	04	La Ribagorza	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	41
+Julio 2021	202107	Julio	04	La Ribagorza	S	Otros servicios	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	04	La Ribagorza	S	Otros servicios	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	04	La Ribagorza	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	05	Cinco Villas	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	165
+Julio 2021	202107	Julio	05	Cinco Villas	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	55
+Julio 2021	202107	Julio	05	Cinco Villas	C	Industria manufacturera	CNAE - 2009	Hombres	160
+Julio 2021	202107	Julio	05	Cinco Villas	C	Industria manufacturera	CNAE - 2009	Mujeres	53
+Julio 2021	202107	Julio	05	Cinco Villas	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	05	Cinco Villas	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	05	Cinco Villas	F	Construcción	CNAE - 2009	Hombres	37
+Julio 2021	202107	Julio	05	Cinco Villas	F	Construcción	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	05	Cinco Villas	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	21
+Julio 2021	202107	Julio	05	Cinco Villas	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	21
+Julio 2021	202107	Julio	05	Cinco Villas	H	Transporte y almacenamiento	CNAE - 2009	Hombres	18
+Julio 2021	202107	Julio	05	Cinco Villas	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	05	Cinco Villas	I	Hostelería	CNAE - 2009	Hombres	22
+Julio 2021	202107	Julio	05	Cinco Villas	I	Hostelería	CNAE - 2009	Mujeres	82
+Julio 2021	202107	Julio	05	Cinco Villas	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	05	Cinco Villas	L	Actividades inmobiliarias	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	05	Cinco Villas	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	16
+Julio 2021	202107	Julio	05	Cinco Villas	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	05	Cinco Villas	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	05	Cinco Villas	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	05	Cinco Villas	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	19
+Julio 2021	202107	Julio	05	Cinco Villas	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	26
+Julio 2021	202107	Julio	05	Cinco Villas	P	Educación	CNAE - 2009	Hombres	16
+Julio 2021	202107	Julio	05	Cinco Villas	P	Educación	CNAE - 2009	Mujeres	28
+Julio 2021	202107	Julio	05	Cinco Villas	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	05	Cinco Villas	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	51
+Julio 2021	202107	Julio	05	Cinco Villas	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	05	Cinco Villas	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	05	Cinco Villas	S	Otros servicios	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	05	Cinco Villas	S	Otros servicios	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	05	Cinco Villas	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	128
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	36
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	C	Industria manufacturera	CNAE - 2009	Hombres	80
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	C	Industria manufacturera	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	D	Suministro de energía eléctrica, gas, vapor y aire acondicionado	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	F	Construcción	CNAE - 2009	Hombres	143
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	F	Construcción	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	135
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	165
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	H	Transporte y almacenamiento	CNAE - 2009	Hombres	95
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	64
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	I	Hostelería	CNAE - 2009	Hombres	259
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	I	Hostelería	CNAE - 2009	Mujeres	265
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	J	Información y comunicaciones	CNAE - 2009	Hombres	14
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	J	Información y comunicaciones	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	L	Actividades inmobiliarias	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	23
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	13
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	103
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	207
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	26
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	15
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	P	Educación	CNAE - 2009	Hombres	43
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	P	Educación	CNAE - 2009	Mujeres	26
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	41
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	179
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	107
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	44
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	S	Otros servicios	CNAE - 2009	Hombres	18
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	S	Otros servicios	CNAE - 2009	Mujeres	15
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	06	Hoya de Huesca / Plana de Uesca	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	21
+Julio 2021	202107	Julio	07	Somontano de Barbastro	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	33
+Julio 2021	202107	Julio	07	Somontano de Barbastro	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	07	Somontano de Barbastro	B	Industrias extractivas	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	07	Somontano de Barbastro	C	Industria manufacturera	CNAE - 2009	Hombres	84
+Julio 2021	202107	Julio	07	Somontano de Barbastro	C	Industria manufacturera	CNAE - 2009	Mujeres	33
+Julio 2021	202107	Julio	07	Somontano de Barbastro	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	07	Somontano de Barbastro	F	Construcción	CNAE - 2009	Hombres	43
+Julio 2021	202107	Julio	07	Somontano de Barbastro	F	Construcción	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	07	Somontano de Barbastro	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	99
+Julio 2021	202107	Julio	07	Somontano de Barbastro	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	40
+Julio 2021	202107	Julio	07	Somontano de Barbastro	H	Transporte y almacenamiento	CNAE - 2009	Hombres	15
+Julio 2021	202107	Julio	07	Somontano de Barbastro	I	Hostelería	CNAE - 2009	Hombres	89
+Julio 2021	202107	Julio	07	Somontano de Barbastro	I	Hostelería	CNAE - 2009	Mujeres	115
+Julio 2021	202107	Julio	07	Somontano de Barbastro	J	Información y comunicaciones	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	07	Somontano de Barbastro	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	07	Somontano de Barbastro	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	07	Somontano de Barbastro	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	07	Somontano de Barbastro	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	07	Somontano de Barbastro	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	07	Somontano de Barbastro	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	24
+Julio 2021	202107	Julio	07	Somontano de Barbastro	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	29
+Julio 2021	202107	Julio	07	Somontano de Barbastro	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	25
+Julio 2021	202107	Julio	07	Somontano de Barbastro	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	23
+Julio 2021	202107	Julio	07	Somontano de Barbastro	P	Educación	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	07	Somontano de Barbastro	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	07	Somontano de Barbastro	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	34
+Julio 2021	202107	Julio	07	Somontano de Barbastro	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	34
+Julio 2021	202107	Julio	07	Somontano de Barbastro	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	11
+Julio 2021	202107	Julio	07	Somontano de Barbastro	S	Otros servicios	CNAE - 2009	Hombres	14
+Julio 2021	202107	Julio	07	Somontano de Barbastro	S	Otros servicios	CNAE - 2009	Mujeres	19
+Julio 2021	202107	Julio	07	Somontano de Barbastro	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	08	Cinca Medio	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	280
+Julio 2021	202107	Julio	08	Cinca Medio	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	20
+Julio 2021	202107	Julio	08	Cinca Medio	C	Industria manufacturera	CNAE - 2009	Hombres	145
+Julio 2021	202107	Julio	08	Cinca Medio	C	Industria manufacturera	CNAE - 2009	Mujeres	93
+Julio 2021	202107	Julio	08	Cinca Medio	D	Suministro de energía eléctrica, gas, vapor y aire acondicionado	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	08	Cinca Medio	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	08	Cinca Medio	F	Construcción	CNAE - 2009	Hombres	49
+Julio 2021	202107	Julio	08	Cinca Medio	F	Construcción	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	08	Cinca Medio	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	37
+Julio 2021	202107	Julio	08	Cinca Medio	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	32
+Julio 2021	202107	Julio	08	Cinca Medio	H	Transporte y almacenamiento	CNAE - 2009	Hombres	28
+Julio 2021	202107	Julio	08	Cinca Medio	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	08	Cinca Medio	I	Hostelería	CNAE - 2009	Hombres	55
+Julio 2021	202107	Julio	08	Cinca Medio	I	Hostelería	CNAE - 2009	Mujeres	153
+Julio 2021	202107	Julio	08	Cinca Medio	J	Información y comunicaciones	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	08	Cinca Medio	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	08	Cinca Medio	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	08	Cinca Medio	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	12
+Julio 2021	202107	Julio	08	Cinca Medio	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	08	Cinca Medio	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	38
+Julio 2021	202107	Julio	08	Cinca Medio	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	08	Cinca Medio	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	08	Cinca Medio	P	Educación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	08	Cinca Medio	P	Educación	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	08	Cinca Medio	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	08	Cinca Medio	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	60
+Julio 2021	202107	Julio	08	Cinca Medio	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	15
+Julio 2021	202107	Julio	08	Cinca Medio	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	08	Cinca Medio	S	Otros servicios	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	08	Cinca Medio	S	Otros servicios	CNAE - 2009	Mujeres	12
+Julio 2021	202107	Julio	08	Cinca Medio	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	09	La Litera / La Llitera	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	216
+Julio 2021	202107	Julio	09	La Litera / La Llitera	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	44
+Julio 2021	202107	Julio	09	La Litera / La Llitera	B	Industrias extractivas	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	09	La Litera / La Llitera	C	Industria manufacturera	CNAE - 2009	Hombres	215
+Julio 2021	202107	Julio	09	La Litera / La Llitera	C	Industria manufacturera	CNAE - 2009	Mujeres	50
+Julio 2021	202107	Julio	09	La Litera / La Llitera	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	09	La Litera / La Llitera	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	09	La Litera / La Llitera	F	Construcción	CNAE - 2009	Hombres	42
+Julio 2021	202107	Julio	09	La Litera / La Llitera	F	Construcción	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	09	La Litera / La Llitera	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	37
+Julio 2021	202107	Julio	09	La Litera / La Llitera	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	43
+Julio 2021	202107	Julio	09	La Litera / La Llitera	H	Transporte y almacenamiento	CNAE - 2009	Hombres	23
+Julio 2021	202107	Julio	09	La Litera / La Llitera	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	09	La Litera / La Llitera	I	Hostelería	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	09	La Litera / La Llitera	I	Hostelería	CNAE - 2009	Mujeres	23
+Julio 2021	202107	Julio	09	La Litera / La Llitera	J	Información y comunicaciones	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	09	La Litera / La Llitera	J	Información y comunicaciones	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	09	La Litera / La Llitera	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	09	La Litera / La Llitera	L	Actividades inmobiliarias	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	09	La Litera / La Llitera	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	09	La Litera / La Llitera	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	09	La Litera / La Llitera	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	09	La Litera / La Llitera	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	09	La Litera / La Llitera	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	09	La Litera / La Llitera	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	09	La Litera / La Llitera	P	Educación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	09	La Litera / La Llitera	P	Educación	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	09	La Litera / La Llitera	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	09	La Litera / La Llitera	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	36
+Julio 2021	202107	Julio	09	La Litera / La Llitera	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	46
+Julio 2021	202107	Julio	09	La Litera / La Llitera	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	29
+Julio 2021	202107	Julio	09	La Litera / La Llitera	S	Otros servicios	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	09	La Litera / La Llitera	S	Otros servicios	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	09	La Litera / La Llitera	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	10	Los Monegros	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	106
+Julio 2021	202107	Julio	10	Los Monegros	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	39
+Julio 2021	202107	Julio	10	Los Monegros	C	Industria manufacturera	CNAE - 2009	Hombres	22
+Julio 2021	202107	Julio	10	Los Monegros	C	Industria manufacturera	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	10	Los Monegros	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	10	Los Monegros	F	Construcción	CNAE - 2009	Hombres	20
+Julio 2021	202107	Julio	10	Los Monegros	F	Construcción	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	10	Los Monegros	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	17
+Julio 2021	202107	Julio	10	Los Monegros	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	18
+Julio 2021	202107	Julio	10	Los Monegros	H	Transporte y almacenamiento	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	10	Los Monegros	I	Hostelería	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	10	Los Monegros	I	Hostelería	CNAE - 2009	Mujeres	19
+Julio 2021	202107	Julio	10	Los Monegros	J	Información y comunicaciones	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	10	Los Monegros	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	10	Los Monegros	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	10	Los Monegros	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	10	Los Monegros	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	10	Los Monegros	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	10	Los Monegros	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	10	Los Monegros	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	12
+Julio 2021	202107	Julio	10	Los Monegros	P	Educación	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	10	Los Monegros	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	29
+Julio 2021	202107	Julio	10	Los Monegros	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	23
+Julio 2021	202107	Julio	10	Los Monegros	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	20
+Julio 2021	202107	Julio	10	Los Monegros	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	1020
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	216
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	C	Industria manufacturera	CNAE - 2009	Hombres	193
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	C	Industria manufacturera	CNAE - 2009	Mujeres	354
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	F	Construcción	CNAE - 2009	Hombres	33
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	160
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	256
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	H	Transporte y almacenamiento	CNAE - 2009	Hombres	26
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	I	Hostelería	CNAE - 2009	Hombres	49
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	I	Hostelería	CNAE - 2009	Mujeres	57
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	35
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	44
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	19
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	P	Educación	CNAE - 2009	Hombres	16
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	P	Educación	CNAE - 2009	Mujeres	23
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	13
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	S	Otros servicios	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	S	Otros servicios	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	11	Bajo Cinca / Baix Cinca	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	C	Industria manufacturera	CNAE - 2009	Hombres	197
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	C	Industria manufacturera	CNAE - 2009	Mujeres	172
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	F	Construcción	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	15
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	22
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	H	Transporte y almacenamiento	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	I	Hostelería	CNAE - 2009	Hombres	38
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	I	Hostelería	CNAE - 2009	Mujeres	32
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	14
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	20
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	P	Educación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	P	Educación	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	11
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	12	Tarazona y el Moncayo	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	13	Campo de Borja	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	43
+Julio 2021	202107	Julio	13	Campo de Borja	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	13	Campo de Borja	C	Industria manufacturera	CNAE - 2009	Hombres	70
+Julio 2021	202107	Julio	13	Campo de Borja	C	Industria manufacturera	CNAE - 2009	Mujeres	55
+Julio 2021	202107	Julio	13	Campo de Borja	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	13	Campo de Borja	F	Construcción	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	13	Campo de Borja	F	Construcción	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	13	Campo de Borja	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	31
+Julio 2021	202107	Julio	13	Campo de Borja	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	46
+Julio 2021	202107	Julio	13	Campo de Borja	H	Transporte y almacenamiento	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	13	Campo de Borja	I	Hostelería	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	13	Campo de Borja	I	Hostelería	CNAE - 2009	Mujeres	24
+Julio 2021	202107	Julio	13	Campo de Borja	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	13	Campo de Borja	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	13	Campo de Borja	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	13	Campo de Borja	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	13	Campo de Borja	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	24
+Julio 2021	202107	Julio	13	Campo de Borja	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	13	Campo de Borja	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	29
+Julio 2021	202107	Julio	13	Campo de Borja	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	27
+Julio 2021	202107	Julio	13	Campo de Borja	P	Educación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	13	Campo de Borja	P	Educación	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	13	Campo de Borja	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	13	Campo de Borja	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	18
+Julio 2021	202107	Julio	13	Campo de Borja	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	13	Campo de Borja	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	13	Campo de Borja	S	Otros servicios	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	13	Campo de Borja	S	Otros servicios	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	13	Campo de Borja	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	14	Aranda	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	45
+Julio 2021	202107	Julio	14	Aranda	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	14	Aranda	C	Industria manufacturera	CNAE - 2009	Hombres	26
+Julio 2021	202107	Julio	14	Aranda	C	Industria manufacturera	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	14	Aranda	F	Construcción	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	14	Aranda	F	Construcción	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	14	Aranda	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	14	Aranda	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	14	Aranda	H	Transporte y almacenamiento	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	14	Aranda	I	Hostelería	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	14	Aranda	I	Hostelería	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	14	Aranda	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	14	Aranda	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	14	Aranda	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	14	Aranda	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	14	Aranda	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	14	Aranda	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	14	Aranda	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	14	Aranda	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	14	Aranda	S	Otros servicios	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	14	Aranda	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	86
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	C	Industria manufacturera	CNAE - 2009	Hombres	711
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	C	Industria manufacturera	CNAE - 2009	Mujeres	209
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	D	Suministro de energía eléctrica, gas, vapor y aire acondicionado	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	F	Construcción	CNAE - 2009	Hombres	46
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	F	Construcción	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	22
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	18
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	H	Transporte y almacenamiento	CNAE - 2009	Hombres	279
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	90
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	I	Hostelería	CNAE - 2009	Hombres	57
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	I	Hostelería	CNAE - 2009	Mujeres	67
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	J	Información y comunicaciones	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	115
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	131
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	121
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	64
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	33
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	P	Educación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	P	Educación	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	14
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	S	Otros servicios	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	15	Ribera Alta del Ebro	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	16	Valdejalón	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	1274
+Julio 2021	202107	Julio	16	Valdejalón	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	382
+Julio 2021	202107	Julio	16	Valdejalón	C	Industria manufacturera	CNAE - 2009	Hombres	392
+Julio 2021	202107	Julio	16	Valdejalón	C	Industria manufacturera	CNAE - 2009	Mujeres	183
+Julio 2021	202107	Julio	16	Valdejalón	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	16	Valdejalón	F	Construcción	CNAE - 2009	Hombres	48
+Julio 2021	202107	Julio	16	Valdejalón	F	Construcción	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	16	Valdejalón	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	184
+Julio 2021	202107	Julio	16	Valdejalón	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	155
+Julio 2021	202107	Julio	16	Valdejalón	H	Transporte y almacenamiento	CNAE - 2009	Hombres	41
+Julio 2021	202107	Julio	16	Valdejalón	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	16	Valdejalón	I	Hostelería	CNAE - 2009	Hombres	34
+Julio 2021	202107	Julio	16	Valdejalón	I	Hostelería	CNAE - 2009	Mujeres	32
+Julio 2021	202107	Julio	16	Valdejalón	J	Información y comunicaciones	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	16	Valdejalón	J	Información y comunicaciones	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	16	Valdejalón	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	16	Valdejalón	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	16	Valdejalón	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	16	Valdejalón	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	53
+Julio 2021	202107	Julio	16	Valdejalón	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	26
+Julio 2021	202107	Julio	16	Valdejalón	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	23
+Julio 2021	202107	Julio	16	Valdejalón	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	15
+Julio 2021	202107	Julio	16	Valdejalón	P	Educación	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	16	Valdejalón	P	Educación	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	16	Valdejalón	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	16	Valdejalón	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	16	Valdejalón	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	16	Valdejalón	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	16	Valdejalón	S	Otros servicios	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	16	Valdejalón	S	Otros servicios	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	16	Valdejalón	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	17	Central	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	847
+Julio 2021	202107	Julio	17	Central	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	188
+Julio 2021	202107	Julio	17	Central	C	Industria manufacturera	CNAE - 2009	Hombres	3577
+Julio 2021	202107	Julio	17	Central	C	Industria manufacturera	CNAE - 2009	Mujeres	2118
+Julio 2021	202107	Julio	17	Central	D	Suministro de energía eléctrica, gas, vapor y aire acondicionado	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	17	Central	D	Suministro de energía eléctrica, gas, vapor y aire acondicionado	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	17	Central	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	66
+Julio 2021	202107	Julio	17	Central	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Mujeres	28
+Julio 2021	202107	Julio	17	Central	F	Construcción	CNAE - 2009	Hombres	1058
+Julio 2021	202107	Julio	17	Central	F	Construcción	CNAE - 2009	Mujeres	65
+Julio 2021	202107	Julio	17	Central	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	1589
+Julio 2021	202107	Julio	17	Central	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	1623
+Julio 2021	202107	Julio	17	Central	H	Transporte y almacenamiento	CNAE - 2009	Hombres	1672
+Julio 2021	202107	Julio	17	Central	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	622
+Julio 2021	202107	Julio	17	Central	I	Hostelería	CNAE - 2009	Hombres	1529
+Julio 2021	202107	Julio	17	Central	I	Hostelería	CNAE - 2009	Mujeres	1730
+Julio 2021	202107	Julio	17	Central	J	Información y comunicaciones	CNAE - 2009	Hombres	401
+Julio 2021	202107	Julio	17	Central	J	Información y comunicaciones	CNAE - 2009	Mujeres	235
+Julio 2021	202107	Julio	17	Central	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	29
+Julio 2021	202107	Julio	17	Central	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	41
+Julio 2021	202107	Julio	17	Central	L	Actividades inmobiliarias	CNAE - 2009	Hombres	26
+Julio 2021	202107	Julio	17	Central	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	45
+Julio 2021	202107	Julio	17	Central	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	344
+Julio 2021	202107	Julio	17	Central	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	490
+Julio 2021	202107	Julio	17	Central	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	1321
+Julio 2021	202107	Julio	17	Central	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	2085
+Julio 2021	202107	Julio	17	Central	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	44
+Julio 2021	202107	Julio	17	Central	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	84
+Julio 2021	202107	Julio	17	Central	P	Educación	CNAE - 2009	Hombres	261
+Julio 2021	202107	Julio	17	Central	P	Educación	CNAE - 2009	Mujeres	364
+Julio 2021	202107	Julio	17	Central	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	300
+Julio 2021	202107	Julio	17	Central	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	1370
+Julio 2021	202107	Julio	17	Central	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	1066
+Julio 2021	202107	Julio	17	Central	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	522
+Julio 2021	202107	Julio	17	Central	S	Otros servicios	CNAE - 2009	Hombres	172
+Julio 2021	202107	Julio	17	Central	S	Otros servicios	CNAE - 2009	Mujeres	314
+Julio 2021	202107	Julio	17	Central	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Hombres	111
+Julio 2021	202107	Julio	17	Central	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	385
+Julio 2021	202107	Julio	17	Central	U	Actividades de organizaciones y organismos extraterritoriales	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	17	Central	U	Actividades de organizaciones y organismos extraterritoriales	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	100
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	82
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	B	Industrias extractivas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	C	Industria manufacturera	CNAE - 2009	Hombres	83
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	C	Industria manufacturera	CNAE - 2009	Mujeres	113
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	D	Suministro de energía eléctrica, gas, vapor y aire acondicionado	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	D	Suministro de energía eléctrica, gas, vapor y aire acondicionado	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	F	Construcción	CNAE - 2009	Hombres	58
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	F	Construcción	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	H	Transporte y almacenamiento	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	I	Hostelería	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	I	Hostelería	CNAE - 2009	Mujeres	28
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	J	Información y comunicaciones	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	20
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	P	Educación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	37
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	20
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	18	Ribera Baja del Ebro	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	557
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	119
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	C	Industria manufacturera	CNAE - 2009	Hombres	24
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	C	Industria manufacturera	CNAE - 2009	Mujeres	34
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	F	Construcción	CNAE - 2009	Hombres	20
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	41
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	76
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	H	Transporte y almacenamiento	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	I	Hostelería	CNAE - 2009	Hombres	14
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	I	Hostelería	CNAE - 2009	Mujeres	15
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	19
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	P	Educación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	P	Educación	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	S	Otros servicios	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	S	Otros servicios	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	19	Bajo Aragón-Caspe / Baix Aragó-Casp	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	1182
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	775
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	B	Industrias extractivas	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	B	Industrias extractivas	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	C	Industria manufacturera	CNAE - 2009	Hombres	147
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	C	Industria manufacturera	CNAE - 2009	Mujeres	114
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	F	Construcción	CNAE - 2009	Hombres	75
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	F	Construcción	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	73
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	57
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	H	Transporte y almacenamiento	CNAE - 2009	Hombres	14
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	I	Hostelería	CNAE - 2009	Hombres	91
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	I	Hostelería	CNAE - 2009	Mujeres	129
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	J	Información y comunicaciones	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	J	Información y comunicaciones	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	28
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	48
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	41
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	50
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	P	Educación	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	P	Educación	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	32
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	S	Otros servicios	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	S	Otros servicios	CNAE - 2009	Mujeres	21
+Julio 2021	202107	Julio	20	Comunidad de Calatayud	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	21	Campo de Cariñena	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	220
+Julio 2021	202107	Julio	21	Campo de Cariñena	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	96
+Julio 2021	202107	Julio	21	Campo de Cariñena	B	Industrias extractivas	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	21	Campo de Cariñena	C	Industria manufacturera	CNAE - 2009	Hombres	194
+Julio 2021	202107	Julio	21	Campo de Cariñena	C	Industria manufacturera	CNAE - 2009	Mujeres	49
+Julio 2021	202107	Julio	21	Campo de Cariñena	F	Construcción	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	21	Campo de Cariñena	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	58
+Julio 2021	202107	Julio	21	Campo de Cariñena	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	21	Campo de Cariñena	I	Hostelería	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	21	Campo de Cariñena	I	Hostelería	CNAE - 2009	Mujeres	18
+Julio 2021	202107	Julio	21	Campo de Cariñena	J	Información y comunicaciones	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	21	Campo de Cariñena	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	21	Campo de Cariñena	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	21	Campo de Cariñena	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	21	Campo de Cariñena	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	21	Campo de Cariñena	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	21	Campo de Cariñena	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	21	Campo de Cariñena	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	21	Campo de Cariñena	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	21	Campo de Cariñena	S	Otros servicios	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	21	Campo de Cariñena	S	Otros servicios	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	21	Campo de Cariñena	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	22	Campo de Belchite	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	22	Campo de Belchite	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	22	Campo de Belchite	B	Industrias extractivas	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	22	Campo de Belchite	C	Industria manufacturera	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	22	Campo de Belchite	C	Industria manufacturera	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	22	Campo de Belchite	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	22	Campo de Belchite	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	22	Campo de Belchite	F	Construcción	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	22	Campo de Belchite	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	22	Campo de Belchite	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	22	Campo de Belchite	H	Transporte y almacenamiento	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	22	Campo de Belchite	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	22	Campo de Belchite	I	Hostelería	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	22	Campo de Belchite	I	Hostelería	CNAE - 2009	Mujeres	12
+Julio 2021	202107	Julio	22	Campo de Belchite	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	22	Campo de Belchite	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	22	Campo de Belchite	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	22	Campo de Belchite	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	22	Campo de Belchite	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	22	Campo de Belchite	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	22	Campo de Belchite	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	23	Bajo Martín	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	37
+Julio 2021	202107	Julio	23	Bajo Martín	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	23	Bajo Martín	C	Industria manufacturera	CNAE - 2009	Hombres	32
+Julio 2021	202107	Julio	23	Bajo Martín	C	Industria manufacturera	CNAE - 2009	Mujeres	13
+Julio 2021	202107	Julio	23	Bajo Martín	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	23	Bajo Martín	F	Construcción	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	23	Bajo Martín	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	23	Bajo Martín	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	23	Bajo Martín	H	Transporte y almacenamiento	CNAE - 2009	Hombres	22
+Julio 2021	202107	Julio	23	Bajo Martín	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	23	Bajo Martín	I	Hostelería	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	23	Bajo Martín	I	Hostelería	CNAE - 2009	Mujeres	18
+Julio 2021	202107	Julio	23	Bajo Martín	J	Información y comunicaciones	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	23	Bajo Martín	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	23	Bajo Martín	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	23	Bajo Martín	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	23	Bajo Martín	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	12
+Julio 2021	202107	Julio	23	Bajo Martín	P	Educación	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	23	Bajo Martín	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	23	Bajo Martín	S	Otros servicios	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	23	Bajo Martín	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	24	Campo de Daroca	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	22
+Julio 2021	202107	Julio	24	Campo de Daroca	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	24	Campo de Daroca	C	Industria manufacturera	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	24	Campo de Daroca	C	Industria manufacturera	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	24	Campo de Daroca	F	Construcción	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	24	Campo de Daroca	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	24	Campo de Daroca	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	24	Campo de Daroca	H	Transporte y almacenamiento	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	24	Campo de Daroca	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	24	Campo de Daroca	I	Hostelería	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	24	Campo de Daroca	I	Hostelería	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	24	Campo de Daroca	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	24	Campo de Daroca	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	13
+Julio 2021	202107	Julio	24	Campo de Daroca	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	24	Campo de Daroca	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	11
+Julio 2021	202107	Julio	24	Campo de Daroca	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	24	Campo de Daroca	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	24	Campo de Daroca	S	Otros servicios	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	24	Campo de Daroca	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	25	Jiloca	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	15
+Julio 2021	202107	Julio	25	Jiloca	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	25	Jiloca	C	Industria manufacturera	CNAE - 2009	Hombres	38
+Julio 2021	202107	Julio	25	Jiloca	C	Industria manufacturera	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	25	Jiloca	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	25	Jiloca	F	Construcción	CNAE - 2009	Hombres	30
+Julio 2021	202107	Julio	25	Jiloca	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	31
+Julio 2021	202107	Julio	25	Jiloca	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	26
+Julio 2021	202107	Julio	25	Jiloca	H	Transporte y almacenamiento	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	25	Jiloca	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	25	Jiloca	I	Hostelería	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	25	Jiloca	I	Hostelería	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	25	Jiloca	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	25	Jiloca	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	25	Jiloca	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	25	Jiloca	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	20
+Julio 2021	202107	Julio	25	Jiloca	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	29
+Julio 2021	202107	Julio	25	Jiloca	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	25	Jiloca	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	23
+Julio 2021	202107	Julio	25	Jiloca	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	25	Jiloca	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	25	Jiloca	S	Otros servicios	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	25	Jiloca	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	26	Cuencas Mineras	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	26	Cuencas Mineras	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	26	Cuencas Mineras	C	Industria manufacturera	CNAE - 2009	Hombres	30
+Julio 2021	202107	Julio	26	Cuencas Mineras	C	Industria manufacturera	CNAE - 2009	Mujeres	40
+Julio 2021	202107	Julio	26	Cuencas Mineras	D	Suministro de energía eléctrica, gas, vapor y aire acondicionado	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	26	Cuencas Mineras	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	26	Cuencas Mineras	F	Construcción	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	26	Cuencas Mineras	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	26	Cuencas Mineras	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	26	Cuencas Mineras	H	Transporte y almacenamiento	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	26	Cuencas Mineras	I	Hostelería	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	26	Cuencas Mineras	I	Hostelería	CNAE - 2009	Mujeres	18
+Julio 2021	202107	Julio	26	Cuencas Mineras	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	26	Cuencas Mineras	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	26	Cuencas Mineras	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	26	Cuencas Mineras	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	16
+Julio 2021	202107	Julio	26	Cuencas Mineras	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	15
+Julio 2021	202107	Julio	26	Cuencas Mineras	P	Educación	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	26	Cuencas Mineras	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	26	Cuencas Mineras	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	14
+Julio 2021	202107	Julio	26	Cuencas Mineras	S	Otros servicios	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	26	Cuencas Mineras	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	B	Industrias extractivas	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	C	Industria manufacturera	CNAE - 2009	Hombres	18
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	C	Industria manufacturera	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	F	Construcción	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	H	Transporte y almacenamiento	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	I	Hostelería	CNAE - 2009	Hombres	14
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	I	Hostelería	CNAE - 2009	Mujeres	51
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	15
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	21
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	P	Educación	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	4
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	13
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	5
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	S	Otros servicios	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	S	Otros servicios	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	27	Andorra-Sierra de Arcos	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	28	Bajo Aragón	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	127
+Julio 2021	202107	Julio	28	Bajo Aragón	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	67
+Julio 2021	202107	Julio	28	Bajo Aragón	C	Industria manufacturera	CNAE - 2009	Hombres	46
+Julio 2021	202107	Julio	28	Bajo Aragón	C	Industria manufacturera	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	28	Bajo Aragón	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	28	Bajo Aragón	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	28	Bajo Aragón	F	Construcción	CNAE - 2009	Hombres	61
+Julio 2021	202107	Julio	28	Bajo Aragón	F	Construcción	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	28	Bajo Aragón	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	43
+Julio 2021	202107	Julio	28	Bajo Aragón	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	86
+Julio 2021	202107	Julio	28	Bajo Aragón	H	Transporte y almacenamiento	CNAE - 2009	Hombres	20
+Julio 2021	202107	Julio	28	Bajo Aragón	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	28	Bajo Aragón	I	Hostelería	CNAE - 2009	Hombres	40
+Julio 2021	202107	Julio	28	Bajo Aragón	I	Hostelería	CNAE - 2009	Mujeres	92
+Julio 2021	202107	Julio	28	Bajo Aragón	J	Información y comunicaciones	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	28	Bajo Aragón	J	Información y comunicaciones	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	28	Bajo Aragón	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	28	Bajo Aragón	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	23
+Julio 2021	202107	Julio	28	Bajo Aragón	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	28	Bajo Aragón	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	22
+Julio 2021	202107	Julio	28	Bajo Aragón	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	25
+Julio 2021	202107	Julio	28	Bajo Aragón	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	21
+Julio 2021	202107	Julio	28	Bajo Aragón	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	20
+Julio 2021	202107	Julio	28	Bajo Aragón	P	Educación	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	28	Bajo Aragón	P	Educación	CNAE - 2009	Mujeres	14
+Julio 2021	202107	Julio	28	Bajo Aragón	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	28	Bajo Aragón	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	17
+Julio 2021	202107	Julio	28	Bajo Aragón	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	406
+Julio 2021	202107	Julio	28	Bajo Aragón	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	135
+Julio 2021	202107	Julio	28	Bajo Aragón	S	Otros servicios	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	28	Bajo Aragón	S	Otros servicios	CNAE - 2009	Mujeres	12
+Julio 2021	202107	Julio	28	Bajo Aragón	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	13
+Julio 2021	202107	Julio	29	Comunidad de Teruel	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	52
+Julio 2021	202107	Julio	29	Comunidad de Teruel	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	29	Comunidad de Teruel	B	Industrias extractivas	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	29	Comunidad de Teruel	C	Industria manufacturera	CNAE - 2009	Hombres	442
+Julio 2021	202107	Julio	29	Comunidad de Teruel	C	Industria manufacturera	CNAE - 2009	Mujeres	157
+Julio 2021	202107	Julio	29	Comunidad de Teruel	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	29	Comunidad de Teruel	F	Construcción	CNAE - 2009	Hombres	67
+Julio 2021	202107	Julio	29	Comunidad de Teruel	F	Construcción	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	29	Comunidad de Teruel	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	75
+Julio 2021	202107	Julio	29	Comunidad de Teruel	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	67
+Julio 2021	202107	Julio	29	Comunidad de Teruel	H	Transporte y almacenamiento	CNAE - 2009	Hombres	42
+Julio 2021	202107	Julio	29	Comunidad de Teruel	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	11
+Julio 2021	202107	Julio	29	Comunidad de Teruel	I	Hostelería	CNAE - 2009	Hombres	99
+Julio 2021	202107	Julio	29	Comunidad de Teruel	I	Hostelería	CNAE - 2009	Mujeres	152
+Julio 2021	202107	Julio	29	Comunidad de Teruel	J	Información y comunicaciones	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	29	Comunidad de Teruel	J	Información y comunicaciones	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	29	Comunidad de Teruel	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	29	Comunidad de Teruel	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	29	Comunidad de Teruel	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	29	Comunidad de Teruel	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	13
+Julio 2021	202107	Julio	29	Comunidad de Teruel	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	57
+Julio 2021	202107	Julio	29	Comunidad de Teruel	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	97
+Julio 2021	202107	Julio	29	Comunidad de Teruel	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	26
+Julio 2021	202107	Julio	29	Comunidad de Teruel	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	25
+Julio 2021	202107	Julio	29	Comunidad de Teruel	P	Educación	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	29	Comunidad de Teruel	P	Educación	CNAE - 2009	Mujeres	20
+Julio 2021	202107	Julio	29	Comunidad de Teruel	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	28
+Julio 2021	202107	Julio	29	Comunidad de Teruel	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	102
+Julio 2021	202107	Julio	29	Comunidad de Teruel	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	75
+Julio 2021	202107	Julio	29	Comunidad de Teruel	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	99
+Julio 2021	202107	Julio	29	Comunidad de Teruel	S	Otros servicios	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	29	Comunidad de Teruel	S	Otros servicios	CNAE - 2009	Mujeres	26
+Julio 2021	202107	Julio	29	Comunidad de Teruel	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	19
+Julio 2021	202107	Julio	30	Maestrazgo	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	30	Maestrazgo	C	Industria manufacturera	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	30	Maestrazgo	C	Industria manufacturera	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	30	Maestrazgo	F	Construcción	CNAE - 2009	Hombres	7
+Julio 2021	202107	Julio	30	Maestrazgo	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	30	Maestrazgo	H	Transporte y almacenamiento	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	30	Maestrazgo	I	Hostelería	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	30	Maestrazgo	I	Hostelería	CNAE - 2009	Mujeres	26
+Julio 2021	202107	Julio	30	Maestrazgo	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	6
+Julio 2021	202107	Julio	30	Maestrazgo	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	16
+Julio 2021	202107	Julio	30	Maestrazgo	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	30	Maestrazgo	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	30	Maestrazgo	S	Otros servicios	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	30	Maestrazgo	S	Otros servicios	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	30	Maestrazgo	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	31	Sierra de Albarracín	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	31	Sierra de Albarracín	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	31	Sierra de Albarracín	C	Industria manufacturera	CNAE - 2009	Hombres	5
+Julio 2021	202107	Julio	31	Sierra de Albarracín	C	Industria manufacturera	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	31	Sierra de Albarracín	F	Construcción	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	31	Sierra de Albarracín	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	31	Sierra de Albarracín	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	31	Sierra de Albarracín	H	Transporte y almacenamiento	CNAE - 2009	Hombres	3
+Julio 2021	202107	Julio	31	Sierra de Albarracín	I	Hostelería	CNAE - 2009	Hombres	24
+Julio 2021	202107	Julio	31	Sierra de Albarracín	I	Hostelería	CNAE - 2009	Mujeres	40
+Julio 2021	202107	Julio	31	Sierra de Albarracín	K	Actividades financieras y de seguros	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	31	Sierra de Albarracín	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	31	Sierra de Albarracín	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	31	Sierra de Albarracín	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	31	Sierra de Albarracín	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	14
+Julio 2021	202107	Julio	31	Sierra de Albarracín	P	Educación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	31	Sierra de Albarracín	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	31	Sierra de Albarracín	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	7
+Julio 2021	202107	Julio	31	Sierra de Albarracín	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	31	Sierra de Albarracín	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	11
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	49
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	C	Industria manufacturera	CNAE - 2009	Hombres	32
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	C	Industria manufacturera	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	E	Suministro de agua, actividades de saneamiento, gestión de residuos y descontaminación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	F	Construcción	CNAE - 2009	Hombres	13
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	F	Construcción	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	17
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	30
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	H	Transporte y almacenamiento	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	I	Hostelería	CNAE - 2009	Hombres	96
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	I	Hostelería	CNAE - 2009	Mujeres	146
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	K	Actividades financieras y de seguros	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	9
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	21
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	20
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	P	Educación	CNAE - 2009	Mujeres	8
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	S	Otros servicios	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	S	Otros servicios	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Hombres	2
+Julio 2021	202107	Julio	32	Gúdar-Javalambre	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	6
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	B	Industrias extractivas	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	C	Industria manufacturera	CNAE - 2009	Hombres	12
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	C	Industria manufacturera	CNAE - 2009	Mujeres	4
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	F	Construcción	CNAE - 2009	Hombres	8
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	F	Construcción	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Hombres	11
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	G	Comercio al por mayor y al por menor; reparación de vehículos de motor y motocicletas	CNAE - 2009	Mujeres	10
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	H	Transporte y almacenamiento	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	I	Hostelería	CNAE - 2009	Hombres	47
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	I	Hostelería	CNAE - 2009	Mujeres	71
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	L	Actividades inmobiliarias	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	M	Actividades profesionales, científicas y técnicas	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	N	Actividades administrativas y servicios auxiliares	CNAE - 2009	Mujeres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Hombres	22
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	O	Administración Pública y defensa; Seguridad Social obligatoria	CNAE - 2009	Mujeres	9
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	P	Educación	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	P	Educación	CNAE - 2009	Mujeres	3
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	Q	Actividades sanitarias y de servicios sociales	CNAE - 2009	Mujeres	2
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Hombres	10
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	R	Actividades artísticas, recreativas y de entretenimiento	CNAE - 2009	Mujeres	11
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	S	Otros servicios	CNAE - 2009	Hombres	1
+Julio 2021	202107	Julio	33	Matarraña / Matarranya	T	Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio	CNAE - 2009	Mujeres	2
 Junio 2021	202106	Junio	01	La Jacetania	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Hombres	17
 Junio 2021	202106	Junio	01	La Jacetania	A	Agricultura, ganadería, silvicultura y pesca	CNAE - 2009	Mujeres	4
 Junio 2021	202106	Junio	01	La Jacetania	C	Industria manufacturera	CNAE - 2009	Hombres	4
