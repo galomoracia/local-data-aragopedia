@@ -8,8 +8,6 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	01	La Jacetania	Mujeres	Extranjeros no comunitarios	205
 202107	Julio 2021	01	La Jacetania	Hombres	Extranjeros comunitarios (UE-28)	48
 202107	Julio 2021	01	La Jacetania	Mujeres	Extranjeros comunitarios (UE-28)	41
-202107	Julio 2021	01	La Jacetania	Hombres	Extranjeros comunitarios (UE-28)	3
-202107	Julio 2021	01	La Jacetania	Mujeres	Extranjeros comunitarios (UE-28)	3
 202107	Julio 2021	02	Alto Gállego	Hombres	Españoles	2889
 202107	Julio 2021	02	Alto Gállego	Mujeres	Españoles	2005
 202107	Julio 2021	02	Alto Gállego	Hombres	No consta	1
@@ -20,8 +18,8 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	02	Alto Gállego	Mujeres	Extranjeros no comunitarios	119
 202107	Julio 2021	02	Alto Gállego	Hombres	Extranjeros comunitarios (UE-28)	73
 202107	Julio 2021	02	Alto Gállego	Mujeres	Extranjeros comunitarios (UE-28)	52
-202107	Julio 2021	02	Alto Gállego	Hombres	Extranjeros comunitarios (UE-28)	3
-202107	Julio 2021	02	Alto Gállego	Mujeres	Extranjeros comunitarios (UE-28)	2
+202107	Julio 2021	02	Alto Gállego	Hombres	Extranjeros comunitarios (UE-28)	1
+202107	Julio 2021	02	Alto Gállego	Mujeres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	03	Sobrarbe	Hombres	Españoles	1703
 202107	Julio 2021	03	Sobrarbe	Mujeres	Españoles	1439
 202107	Julio 2021	03	Sobrarbe	Hombres	No consta	1
@@ -31,29 +29,26 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	03	Sobrarbe	Mujeres	Extranjeros no comunitarios	146
 202107	Julio 2021	03	Sobrarbe	Hombres	Extranjeros comunitarios (UE-28)	40
 202107	Julio 2021	03	Sobrarbe	Mujeres	Extranjeros comunitarios (UE-28)	52
-202107	Julio 2021	03	Sobrarbe	Hombres	Extranjeros comunitarios (UE-28)	6
-202107	Julio 2021	03	Sobrarbe	Mujeres	Extranjeros comunitarios (UE-28)	5
+202107	Julio 2021	03	Sobrarbe	Hombres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	04	La Ribagorza	Hombres	Españoles	2509
-202107	Julio 2021	04	La Ribagorza	Mujeres	Españoles	1981
+202107	Julio 2021	04	La Ribagorza	Mujeres	Españoles	1980
 202107	Julio 2021	04	La Ribagorza	Hombres	Extranjeros comunitarios (UE-28)	298
 202107	Julio 2021	04	La Ribagorza	Mujeres	Extranjeros comunitarios (UE-28)	239
 202107	Julio 2021	04	La Ribagorza	Hombres	Extranjeros no comunitarios	167
 202107	Julio 2021	04	La Ribagorza	Mujeres	Extranjeros no comunitarios	149
 202107	Julio 2021	04	La Ribagorza	Hombres	Extranjeros comunitarios (UE-28)	54
-202107	Julio 2021	04	La Ribagorza	Mujeres	Extranjeros comunitarios (UE-28)	36
-202107	Julio 2021	04	La Ribagorza	Hombres	Extranjeros comunitarios (UE-28)	4
-202107	Julio 2021	04	La Ribagorza	Mujeres	Extranjeros comunitarios (UE-28)	5
+202107	Julio 2021	04	La Ribagorza	Mujeres	Extranjeros comunitarios (UE-28)	35
+202107	Julio 2021	04	La Ribagorza	Mujeres	Extranjeros comunitarios (UE-28)	2
 202107	Julio 2021	05	Cinco Villas	Hombres	Españoles	6552
 202107	Julio 2021	05	Cinco Villas	Mujeres	Españoles	4351
 202107	Julio 2021	05	Cinco Villas	Mujeres	No consta	1
 202107	Julio 2021	05	Cinco Villas	Hombres	Extranjeros comunitarios (UE-28)	805
 202107	Julio 2021	05	Cinco Villas	Mujeres	Extranjeros comunitarios (UE-28)	499
-202107	Julio 2021	05	Cinco Villas	Hombres	Extranjeros no comunitarios	1243
+202107	Julio 2021	05	Cinco Villas	Hombres	Extranjeros no comunitarios	1242
 202107	Julio 2021	05	Cinco Villas	Mujeres	Extranjeros no comunitarios	392
 202107	Julio 2021	05	Cinco Villas	Hombres	Extranjeros comunitarios (UE-28)	56
 202107	Julio 2021	05	Cinco Villas	Mujeres	Extranjeros comunitarios (UE-28)	37
-202107	Julio 2021	05	Cinco Villas	Hombres	Extranjeros comunitarios (UE-28)	1
-202107	Julio 2021	05	Cinco Villas	Mujeres	Extranjeros comunitarios (UE-28)	3
+202107	Julio 2021	05	Cinco Villas	Mujeres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Españoles	15887
 202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Españoles	16205
 202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	No consta	2
@@ -61,11 +56,11 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Extranjeros comunitarios (UE-28)	474
 202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Extranjeros comunitarios (UE-28)	612
 202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Extranjeros no comunitarios	1092
-202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Extranjeros no comunitarios	856
-202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Extranjeros comunitarios (UE-28)	129
-202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Extranjeros comunitarios (UE-28)	140
-202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Extranjeros comunitarios (UE-28)	7
-202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Extranjeros comunitarios (UE-28)	9
+202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Extranjeros no comunitarios	855
+202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Extranjeros comunitarios (UE-28)	128
+202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Extranjeros comunitarios (UE-28)	139
+202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Hombres	Extranjeros comunitarios (UE-28)	2
+202107	Julio 2021	06	Hoya de Huesca / Plana de Uesca	Mujeres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	07	Somontano de Barbastro	Hombres	Españoles	4718
 202107	Julio 2021	07	Somontano de Barbastro	Mujeres	Españoles	4321
 202107	Julio 2021	07	Somontano de Barbastro	Hombres	No consta	2
@@ -76,7 +71,7 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	07	Somontano de Barbastro	Mujeres	Extranjeros no comunitarios	272
 202107	Julio 2021	07	Somontano de Barbastro	Hombres	Extranjeros comunitarios (UE-28)	94
 202107	Julio 2021	07	Somontano de Barbastro	Mujeres	Extranjeros comunitarios (UE-28)	57
-202107	Julio 2021	07	Somontano de Barbastro	Hombres	Extranjeros comunitarios (UE-28)	2
+202107	Julio 2021	07	Somontano de Barbastro	Hombres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	07	Somontano de Barbastro	Mujeres	Extranjeros comunitarios (UE-28)	3
 202107	Julio 2021	08	Cinca Medio	Hombres	Españoles	4665
 202107	Julio 2021	08	Cinca Medio	Mujeres	Españoles	2839
@@ -99,7 +94,7 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	09	La Litera / La Llitera	Hombres	Extranjeros comunitarios (UE-28)	93
 202107	Julio 2021	09	La Litera / La Llitera	Mujeres	Extranjeros comunitarios (UE-28)	42
 202107	Julio 2021	09	La Litera / La Llitera	Hombres	Extranjeros comunitarios (UE-28)	1
-202107	Julio 2021	09	La Litera / La Llitera	Mujeres	Extranjeros comunitarios (UE-28)	2
+202107	Julio 2021	09	La Litera / La Llitera	Mujeres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	10	Los Monegros	Hombres	Españoles	3686
 202107	Julio 2021	10	Los Monegros	Mujeres	Españoles	1911
 202107	Julio 2021	10	Los Monegros	Mujeres	No consta	2
@@ -119,8 +114,8 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	Extranjeros no comunitarios	629
 202107	Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	Extranjeros comunitarios (UE-28)	127
 202107	Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	Extranjeros comunitarios (UE-28)	156
-202107	Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	Extranjeros comunitarios (UE-28)	12
-202107	Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	Extranjeros comunitarios (UE-28)	4
+202107	Julio 2021	11	Bajo Cinca / Baix Cinca	Hombres	Extranjeros comunitarios (UE-28)	9
+202107	Julio 2021	11	Bajo Cinca / Baix Cinca	Mujeres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	12	Tarazona y el Moncayo	Hombres	Españoles	2233
 202107	Julio 2021	12	Tarazona y el Moncayo	Mujeres	Españoles	1713
 202107	Julio 2021	12	Tarazona y el Moncayo	Hombres	Extranjeros comunitarios (UE-28)	87
@@ -153,8 +148,6 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	15	Ribera Alta del Ebro	Mujeres	Extranjeros no comunitarios	297
 202107	Julio 2021	15	Ribera Alta del Ebro	Hombres	Extranjeros comunitarios (UE-28)	178
 202107	Julio 2021	15	Ribera Alta del Ebro	Mujeres	Extranjeros comunitarios (UE-28)	61
-202107	Julio 2021	15	Ribera Alta del Ebro	Hombres	Extranjeros comunitarios (UE-28)	2
-202107	Julio 2021	15	Ribera Alta del Ebro	Mujeres	Extranjeros comunitarios (UE-28)	2
 202107	Julio 2021	16	Valdejalón	Hombres	Españoles	7505
 202107	Julio 2021	16	Valdejalón	Mujeres	Españoles	3883
 202107	Julio 2021	16	Valdejalón	Hombres	No consta	7
@@ -165,7 +158,6 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	16	Valdejalón	Mujeres	Extranjeros no comunitarios	449
 202107	Julio 2021	16	Valdejalón	Hombres	Extranjeros comunitarios (UE-28)	112
 202107	Julio 2021	16	Valdejalón	Mujeres	Extranjeros comunitarios (UE-28)	46
-202107	Julio 2021	16	Valdejalón	Hombres	Extranjeros comunitarios (UE-28)	3
 202107	Julio 2021	16	Valdejalón	Mujeres	Extranjeros comunitarios (UE-28)	2
 202107	Julio 2021	17	Central	Hombres	Españoles	149033
 202107	Julio 2021	17	Central	Mujeres	Españoles	141997
@@ -173,12 +165,12 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	17	Central	Mujeres	No consta	26
 202107	Julio 2021	17	Central	Hombres	Extranjeros comunitarios (UE-28)	6742
 202107	Julio 2021	17	Central	Mujeres	Extranjeros comunitarios (UE-28)	8130
-202107	Julio 2021	17	Central	Hombres	Extranjeros no comunitarios	12795
-202107	Julio 2021	17	Central	Mujeres	Extranjeros no comunitarios	11247
-202107	Julio 2021	17	Central	Hombres	Extranjeros comunitarios (UE-28)	1679
-202107	Julio 2021	17	Central	Mujeres	Extranjeros comunitarios (UE-28)	1333
-202107	Julio 2021	17	Central	Hombres	Extranjeros comunitarios (UE-28)	172
-202107	Julio 2021	17	Central	Mujeres	Extranjeros comunitarios (UE-28)	108
+202107	Julio 2021	17	Central	Hombres	Extranjeros no comunitarios	12793
+202107	Julio 2021	17	Central	Mujeres	Extranjeros no comunitarios	11246
+202107	Julio 2021	17	Central	Hombres	Extranjeros comunitarios (UE-28)	1678
+202107	Julio 2021	17	Central	Mujeres	Extranjeros comunitarios (UE-28)	1332
+202107	Julio 2021	17	Central	Hombres	Extranjeros comunitarios (UE-28)	92
+202107	Julio 2021	17	Central	Mujeres	Extranjeros comunitarios (UE-28)	56
 202107	Julio 2021	18	Ribera Baja del Ebro	Hombres	Españoles	2046
 202107	Julio 2021	18	Ribera Baja del Ebro	Mujeres	Españoles	1287
 202107	Julio 2021	18	Ribera Baja del Ebro	Hombres	No consta	6
@@ -188,7 +180,6 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	18	Ribera Baja del Ebro	Mujeres	Extranjeros no comunitarios	70
 202107	Julio 2021	18	Ribera Baja del Ebro	Hombres	Extranjeros comunitarios (UE-28)	14
 202107	Julio 2021	18	Ribera Baja del Ebro	Mujeres	Extranjeros comunitarios (UE-28)	8
-202107	Julio 2021	18	Ribera Baja del Ebro	Hombres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	18	Ribera Baja del Ebro	Mujeres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Españoles	2319
 202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Españoles	1810
@@ -200,8 +191,8 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Extranjeros no comunitarios	290
 202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Extranjeros comunitarios (UE-28)	65
 202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Extranjeros comunitarios (UE-28)	64
-202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Extranjeros comunitarios (UE-28)	8
-202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Extranjeros comunitarios (UE-28)	4
+202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Extranjeros comunitarios (UE-28)	3
+202107	Julio 2021	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Extranjeros comunitarios (UE-28)	2
 202107	Julio 2021	20	Comunidad de Calatayud	Hombres	Españoles	5025
 202107	Julio 2021	20	Comunidad de Calatayud	Mujeres	Españoles	4331
 202107	Julio 2021	20	Comunidad de Calatayud	Hombres	No consta	1
@@ -212,8 +203,7 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	20	Comunidad de Calatayud	Mujeres	Extranjeros no comunitarios	267
 202107	Julio 2021	20	Comunidad de Calatayud	Hombres	Extranjeros comunitarios (UE-28)	35
 202107	Julio 2021	20	Comunidad de Calatayud	Mujeres	Extranjeros comunitarios (UE-28)	32
-202107	Julio 2021	20	Comunidad de Calatayud	Hombres	Extranjeros comunitarios (UE-28)	3
-202107	Julio 2021	20	Comunidad de Calatayud	Mujeres	Extranjeros comunitarios (UE-28)	1
+202107	Julio 2021	20	Comunidad de Calatayud	Hombres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	21	Campo de Cariñena	Hombres	Españoles	2643
 202107	Julio 2021	21	Campo de Cariñena	Mujeres	Españoles	1123
 202107	Julio 2021	21	Campo de Cariñena	Mujeres	No consta	1
@@ -223,7 +213,6 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	21	Campo de Cariñena	Mujeres	Extranjeros no comunitarios	167
 202107	Julio 2021	21	Campo de Cariñena	Hombres	Extranjeros comunitarios (UE-28)	42
 202107	Julio 2021	21	Campo de Cariñena	Mujeres	Extranjeros comunitarios (UE-28)	19
-202107	Julio 2021	21	Campo de Cariñena	Mujeres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	22	Campo de Belchite	Hombres	Españoles	723
 202107	Julio 2021	22	Campo de Belchite	Mujeres	Españoles	377
 202107	Julio 2021	22	Campo de Belchite	Hombres	Extranjeros comunitarios (UE-28)	57
@@ -282,8 +271,6 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	28	Bajo Aragón	Mujeres	Extranjeros no comunitarios	186
 202107	Julio 2021	28	Bajo Aragón	Hombres	Extranjeros comunitarios (UE-28)	36
 202107	Julio 2021	28	Bajo Aragón	Mujeres	Extranjeros comunitarios (UE-28)	41
-202107	Julio 2021	28	Bajo Aragón	Hombres	Extranjeros comunitarios (UE-28)	4
-202107	Julio 2021	28	Bajo Aragón	Mujeres	Extranjeros comunitarios (UE-28)	2
 202107	Julio 2021	29	Comunidad de Teruel	Hombres	Españoles	11560
 202107	Julio 2021	29	Comunidad de Teruel	Mujeres	Españoles	10938
 202107	Julio 2021	29	Comunidad de Teruel	Hombres	No consta	4
@@ -294,8 +281,7 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	29	Comunidad de Teruel	Mujeres	Extranjeros no comunitarios	455
 202107	Julio 2021	29	Comunidad de Teruel	Hombres	Extranjeros comunitarios (UE-28)	79
 202107	Julio 2021	29	Comunidad de Teruel	Mujeres	Extranjeros comunitarios (UE-28)	51
-202107	Julio 2021	29	Comunidad de Teruel	Hombres	Extranjeros comunitarios (UE-28)	4
-202107	Julio 2021	29	Comunidad de Teruel	Mujeres	Extranjeros comunitarios (UE-28)	1
+202107	Julio 2021	29	Comunidad de Teruel	Hombres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	30	Maestrazgo	Hombres	Españoles	558
 202107	Julio 2021	30	Maestrazgo	Mujeres	Españoles	390
 202107	Julio 2021	30	Maestrazgo	Hombres	Extranjeros comunitarios (UE-28)	36
@@ -321,7 +307,7 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	32	Gúdar-Javalambre	Mujeres	Extranjeros no comunitarios	87
 202107	Julio 2021	32	Gúdar-Javalambre	Hombres	Extranjeros comunitarios (UE-28)	9
 202107	Julio 2021	32	Gúdar-Javalambre	Mujeres	Extranjeros comunitarios (UE-28)	10
-202107	Julio 2021	32	Gúdar-Javalambre	Hombres	Extranjeros comunitarios (UE-28)	3
+202107	Julio 2021	32	Gúdar-Javalambre	Hombres	Extranjeros comunitarios (UE-28)	1
 202107	Julio 2021	33	Matarraña / Matarranya	Hombres	Españoles	1630
 202107	Julio 2021	33	Matarraña / Matarranya	Mujeres	Españoles	1222
 202107	Julio 2021	33	Matarraña / Matarranya	Hombres	No consta	1
@@ -331,8 +317,8 @@ Mes (código)	Mes y año	Comarca código	Comarca nombre	Sexo	Nacionalidad	Afilia
 202107	Julio 2021	33	Matarraña / Matarranya	Mujeres	Extranjeros no comunitarios	69
 202107	Julio 2021	33	Matarraña / Matarranya	Hombres	Extranjeros comunitarios (UE-28)	24
 202107	Julio 2021	33	Matarraña / Matarranya	Mujeres	Extranjeros comunitarios (UE-28)	20
-202107	Julio 2021	33	Matarraña / Matarranya	Hombres	Extranjeros comunitarios (UE-28)	13
-202107	Julio 2021	33	Matarraña / Matarranya	Mujeres	Extranjeros comunitarios (UE-28)	4
+202107	Julio 2021	33	Matarraña / Matarranya	Hombres	Extranjeros comunitarios (UE-28)	6
+202107	Julio 2021	33	Matarraña / Matarranya	Mujeres	Extranjeros comunitarios (UE-28)	1
 202106	Junio 2021	01	La Jacetania	Hombres	Españoles	2571
 202106	Junio 2021	01	La Jacetania	Mujeres	Españoles	2396
 202106	Junio 2021	01	La Jacetania	Hombres	No consta	1
