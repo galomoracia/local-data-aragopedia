@@ -1,23 +1,31 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-   <head>
-      <meta charset="UTF-8" />
-      <title>Oracle Analytics</title>
-      <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-      <meta http-equiv="Expires" content="0" />
-      <meta http-equiv="Pragma" content="no-cache" />
-      <!-- mobile viewport -->
-      <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-      <!-- Set IE compatibility mode to most recent version (IE11) -->
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <!-- Load the resources required by login page -->
-      <script src="js/libs/require/require.js"></script>
-      <script src="js/loginhelper.js" type="text/javascript"></script>
-      <link href="/bi-security-login/css/loginhelper.css" rel="stylesheet" type="text/css"/>
-      <link href="/bi-security-login/css/libs/oj/v7.1.0/alta/oj-alta-min.css" rel="stylesheet" type="text/css"/>
-   </head>
-   <body onload="bitechLogin.setup();">
-   
-   </body>
-</html>
+Año	Provincia código	Provincia nombre	Contenedores de papel y cartón	Kg recogidos papel y cartón
+2007	22	Huesca	1503	
+2007	44	Teruel	474	
+2007	50	Zaragoza	2788	
+2009	22	Huesca	1684	5917569
+2009	44	Teruel	928	1849462
+2009	50	Zaragoza	3286	23321913
+2010	22	Huesca	2013	6119938
+2010	44	Teruel	894	1987646
+2010	50	Zaragoza	3435	22806967
+2011	22	Huesca	2081	5771696
+2011	44	Teruel	1006	1831981
+2011	50	Zaragoza	3457	20888783
+2012	22	Huesca	2153	4999303
+2012	44	Teruel	1012	1753681
+2012	50	Zaragoza	3484	18762565
+2013	22	Huesca	2265	5212157
+2013	44	Teruel	1043	1646010
+2013	50	Zaragoza	3621	17288816
+2014	22	Huesca	2434	5130302
+2014	44	Teruel	1150	1648942
+2014	50	Zaragoza	3841	15734868
+2015	22	Huesca	2563	5305141
+2015	44	Teruel	1169	1749093
+2015	50	Zaragoza	4029	15390632
+2016	22	Huesca	2677	5540749
+2016	44	Teruel	1181	1836953
+2016	50	Zaragoza	4175	15362804
+2017	22	Huesca	2737	5490793
+2017	44	Teruel	1180	1824384
+2017	50	Zaragoza	4248	15341211

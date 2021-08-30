@@ -4,9 +4,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22003	Adahuesca	22,06	19,01	2,79	0,26	0	0
 2011	22004	Agüero	0	0	0	0	0	0
 2011	22006	Aísa	0	0	0	0	0	0
-2011	22007	Albalate de Cinca	85,8151	72,8051	0	13,01	0	0
+2011	22007	Albalate de Cinca	858151	728051	0	13,01	0	0
 2011	22008	Albalatillo	0	0	0	0	0	0
-2011	22009	Albelda	8,953	4,23	4,723	0	0	0
+2011	22009	Albelda	8953	4,23	4723	0	0	0
 2011	22011	Albero Alto	0	0	0	0	0	0
 2011	22012	Albero Bajo	6,5	6,5	0	0	0	0
 2011	22013	Alberuela de Tubo	5,9	5,9	0	0	0	0
@@ -48,8 +48,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22055	Berbegal	0	0	0	0	0	0
 2011	22057	Bielsa	0	0	0	0	0	0
 2011	22058	Bierge	0	0	0	0	0	0
-2011	22059	Biescas	199,573	199,57	0,003	0	0	0
-2011	22060	Binaced	58,8028	29,64	15,4487	13,7141	0	0
+2011	22059	Biescas	199573	199,57	0,003	0	0	0
+2011	22060	Binaced	588028	29,64	154487	137141	0	0
 2011	22061	Binéfar	0	0	0	0	0	0
 2011	22062	Bisaurri	0	0	0	0	0	0
 2011	22063	Biscarrués	0	0	0	0	0	0
@@ -73,7 +73,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22085	Castelflorite	0	0	0	0	0	0
 2011	22086	Castiello de Jaca	0	0	0	0	0	0
 2011	22087	Castigaleu	0	0	0	0	0	0
-2011	22088	Castillazuelo	103,6921	78,5343	18,55	6,6078	0	0
+2011	22088	Castillazuelo	1036921	785343	18,55	66078	0	0
 2011	22089	Castillonroy	9,33	3,01	6,32	0	0	0
 2011	22090	Colungo	15,19	15,19	0	0	0	0
 2011	22094	Chalamera	1,63	0	0	0	1,63	0
@@ -88,10 +88,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22109	Fiscal	0	0	0	0	0	0
 2011	22110	Fonz	52,88	0	0	0	52,88	0
 2011	22111	Foradada del Toscar	0	0	0	0	0	0
-2011	22112	Fraga	75,9232	12,6832	16,06	14,17	14,82	18,19
+2011	22112	Fraga	759232	126832	16,06	14,17	14,82	18,19
 2011	22113	Fueva (La)	344,13	229,84	1,75	112,54	0	0
 2011	22114	Gistaín	0	0	0	0	0	0
-2011	22115	Grado (El)	17,6322	2,25	15,3822	0	0	0
+2011	22115	Grado (El)	176322	2,25	153822	0	0	0
 2011	22116	Grañén	0	0	0	0	0	0
 2011	22117	Graus	0	0	0	0	0	0
 2011	22119	Gurrea de Gállego	123,73	72,07	51,66	0	0	0
@@ -100,7 +100,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22125	Huesca	245,48	199,5	22,15	23,83	0	0
 2011	22126	Ibieca	0	0	0	0	0	0
 2011	22127	Igriés	0	0	0	0	0	0
-2011	22128	Ilche	8,6162	0	0	8,6162	0	0
+2011	22128	Ilche	86162	0	0	86162	0	0
 2011	22129	Isábena	0	0	0	0	0	0
 2011	22130	Jaca	803,55	0	0	6,62	0	796,93
 2011	22131	Jasa	0	0	0	0	0	0
@@ -109,7 +109,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22136	Lalueza	35,98	0	0	35,98	0	0
 2011	22137	Lanaja	0	0	0	0	0	0
 2011	22139	Laperdiguera	0	0	0	0	0	0
-2011	22141	Lascellas-Ponzano	18,1284	0	1,26	16,8684	0	0
+2011	22141	Lascellas-Ponzano	181284	0	1,26	168684	0	0
 2011	22142	Lascuarre	0	0	0	0	0	0
 2011	22143	Laspaúles	0	0	0	0	0	0
 2011	22144	Laspuña	0	0	0	0	0	0
@@ -123,7 +123,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22160	Naval	36,79	34,82	1,97	0	0	0
 2011	22162	Novales	0	0	0	0	0	0
 2011	22163	Nueno	0	0	0	0	0	0
-2011	22164	Olvena	4,0418	4,0418	0	0	0	0
+2011	22164	Olvena	40418	40418	0	0	0	0
 2011	22165	Ontiñena	0	0	0	0	0	0
 2011	22167	Osso de Cinca	67,82	49,46	0	1,55	16,81	0
 2011	22168	Palo	35,63	0	0	35,63	0	0
@@ -148,7 +148,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22197	Robres	0	0	0	0	0	0
 2011	22199	Sabiñánigo	12,03	12,03	0	0	0	0
 2011	22200	Sahún	0	0	0	0	0	0
-2011	22201	Salas Altas	30,853	0	30,853	0	0	0
+2011	22201	Salas Altas	30853	0	30853	0	0	0
 2011	22202	Salas Bajas	34,46	0	34,46	0	0	0
 2011	22203	Salillas	0	0	0	0	0	0
 2011	22204	Sallent de Gállego	0	0	0	0	0	0
@@ -173,7 +173,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22228	Tierz	0	0	0	0	0	0
 2011	22229	Tolva	0	0	0	0	0	0
 2011	22230	Torla-Ordesa	0	0	0	0	0	0
-2011	22232	Torralba de Aragón	162,9886	162,9886	0	0	0	0
+2011	22232	Torralba de Aragón	1629886	1629886	0	0	0	0
 2011	22233	Torre la Ribera	0	0	0	0	0	0
 2011	22234	Torrente de Cinca	0	0	0	0	0	0
 2011	22235	Torres de Alcanadre	0	0	0	0	0	0
@@ -194,26 +194,26 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	22254	Zaidín	14,27	0	0	14,27	0	0
 2011	22901	Valle de Hecho	0	0	0	0	0	0
 2011	22902	Puente la Reina de Jaca	0	0	0	0	0	0
-2011	22903	San Miguel del Cinca	362,5873	121,4	180,7673	60,42	0	0
+2011	22903	San Miguel del Cinca	3625873	121,4	1807673	60,42	0	0
 2011	22904	Sotonera (La)	0	0	0	0	0	0
 2011	22905	Lupiñén-Ortilla	103,53	0	74,5	29,03	0	0
 2011	22906	Santa María de Dulcis	5,32	2,61	2,71	0	0	0
 2011	22907	Aínsa-Sobrarbe	164,55	0	6,48	156,69	0	1,38
-2011	22908	Hoz y Costeán	334,1829	215,2029	118,4	0	0	0,58
+2011	22908	Hoz y Costeán	3341829	2152029	118,4	0	0	0,58
 2011	22909	Vencillón	0	0	0	0	0	0
 2011	44001	Ababuj	0	0	0	0	0	0
 2011	44002	Abejuela	0	0	0	0	0	0
 2011	44003	Aguatón	0	0	0	0	0	0
 2011	44004	Aguaviva	0	0	0	0	0	0
 2011	44005	Aguilar del Alfambra	0	0	0	0	0	0
-2011	44006	Alacón	294,2248	278,6809	11,314	2,01	0	2,2199
+2011	44006	Alacón	2942248	2786809	11314	2,01	0	22199
 2011	44007	Alba	0	0	0	0	0	0
-2011	44008	Albalate del Arzobispo	291,0641	268,5641	6,36	16,14	0	0
+2011	44008	Albalate del Arzobispo	2910641	2685641	6,36	16,14	0	0
 2011	44009	Albarracín	1024,41	220,26	804,15	0	0	0
 2011	44010	Albentosa	0	0	0	0	0	0
 2011	44011	Alcaine	0	0	0	0	0	0
 2011	44012	Alcalá de la Selva	1,08	0	0	0	0	1,08
-2011	44013	Alcañiz	753,685	697,4908	17,01	33,59	0	5,5942
+2011	44013	Alcañiz	753685	6974908	17,01	33,59	0	55942
 2011	44014	Alcorisa	14,83	11,83	3	0	0	0
 2011	44016	Alfambra	14,09	14,09	0	0	0	0
 2011	44017	Aliaga	347,53	82,45	0	248,61	0	16,47
@@ -226,7 +226,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44024	Anadón	0	0	0	0	0	0
 2011	44025	Andorra	27,32	27,32	0	0	0	0
 2011	44026	Arcos de las Salinas	0	0	0	0	0	0
-2011	44027	Arens de Lledó	122,2575	120,4275	1,83	0	0	0
+2011	44027	Arens de Lledó	1222575	1204275	1,83	0	0	0
 2011	44028	Argente	0	0	0	0	0	0
 2011	44029	Ariño	9,54	9,54	0	0	0	0
 2011	44031	Azaila	773,25	748,8	0	0	0	24,45
@@ -247,9 +247,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44046	Bueña	0	0	0	0	0	0
 2011	44047	Burbáguena	0	0	0	0	0	0
 2011	44048	Cabra de Mora	0	0	0	0	0	0
-2011	44049	Calaceite	305,3881	279,3481	24,89	1,15	0	0
+2011	44049	Calaceite	3053881	2793481	24,89	1,15	0	0
 2011	44050	Calamocha	0	0	0	0	0	0
-2011	44051	Calanda	348,0105	338,6194	8,0611	0	0	1,33
+2011	44051	Calanda	3480105	3386194	80611	0	0	1,33
 2011	44052	Calomarde	0	0	0	0	0	0
 2011	44053	Camañas	88,12	2,25	0	0	0	85,87
 2011	44054	Camarena de la Sierra	0	0	0	0	0	0
@@ -264,18 +264,18 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44065	Castejón de Tornos	0	0	0	0	0	0
 2011	44066	Castel de Cabra	0	0	0	0	0	0
 2011	44067	Castelnou	239,11	239,11	0	0	0	0
-2011	44068	Castelserás	31,6554	15,6854	5,33	10,64	0	0
-2011	44070	Castellar (El)	87,314	0	87,314	0	0	0
+2011	44068	Castelserás	316554	156854	5,33	10,64	0	0
+2011	44070	Castellar (El)	87314	0	87314	0	0	0
 2011	44071	Castellote	0	0	0	0	0	0
 2011	44074	Cedrillas	33,61	0	0	0	0	33,61
 2011	44075	Celadas	0	0	0	0	0	0
 2011	44076	Cella	0	0	0	0	0	0
 2011	44077	Cerollera (La)	0	0	0	0	0	0
-2011	44080	Codoñera (La)	25,6932	10,46	15,2332	0	0	0
+2011	44080	Codoñera (La)	256932	10,46	152332	0	0	0
 2011	44082	Corbalán	0	0	0	0	0	0
 2011	44084	Cortes de Aragón	0	0	0	0	0	0
 2011	44085	Cosa	0	0	0	0	0	0
-2011	44086	Cretas	51,2494	33,5794	16,87	0,8	0	0
+2011	44086	Cretas	512494	335794	16,87	0,8	0	0
 2011	44087	Crivillén	1,14	1,14	0	0	0	0
 2011	44088	Cuba (La)	0	0	0	0	0	0
 2011	44089	Cubla	0	0	0	0	0	0
@@ -296,7 +296,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44108	Fresneda (La)	29,13	26,65	2,14	0,34	0	0
 2011	44109	Frías de Albarracín	0	0	0	0	0	0
 2011	44110	Fuenferrada	0	0	0	0	0	0
-2011	44111	Fuentes Calientes	336,758	336,758	0	0	0	0
+2011	44111	Fuentes Calientes	336758	336758	0	0	0	0
 2011	44112	Fuentes Claras	0	0	0	0	0	0
 2011	44113	Fuentes de Rubielos	0	0	0	0	0	0
 2011	44114	Fuentespalda	26,58	20,99	5,59	0	0	0
@@ -307,7 +307,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44119	Griegos	0	0	0	0	0	0
 2011	44120	Guadalaviar	0	0	0	0	0	0
 2011	44121	Gúdar	78,37	0	0	0	0	78,37
-2011	44122	Híjar	619,423	608,653	0,19	9,88	0	0,7
+2011	44122	Híjar	619423	608653	0,19	9,88	0	0,7
 2011	44123	Hinojosa de Jarque	0	0	0	0	0	0
 2011	44124	Hoz de la Vieja (La)	0	0	0	0	0	0
 2011	44125	Huesa del Común	0	0	0	0	0	0
@@ -325,11 +325,11 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44138	Loscos	10,11	10,11	0	0	0	0
 2011	44141	Lledó	11,45	11,45	0	0	0	0
 2011	44142	Maicas	0	0	0	0	0	0
-2011	44143	Manzanera	1,0778	0	1,0778	0	0	0
+2011	44143	Manzanera	10778	0	10778	0	0	0
 2011	44144	Martín del Río	0	0	0	0	0	0
 2011	44145	Mas de las Matas	0	0	0	0	0	0
 2011	44146	Mata de los Olmos (La)	52,6	52,6	0	0	0	0
-2011	44147	Mazaleón	554,7235	505,6712	26,7241	15,7317	3,74	2,8565
+2011	44147	Mazaleón	5547235	5056712	267241	157317	3,74	28565
 2011	44148	Mezquita de Jarque	0	0	0	0	0	0
 2011	44149	Mirambel	0	0	0	0	0	0
 2011	44150	Miravete de la Sierra	0	0	0	0	0	0
@@ -343,7 +343,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44158	Mora de Rubielos	0	0	0	0	0	0
 2011	44159	Moscardón	0	0	0	0	0	0
 2011	44160	Mosqueruela	77,26	0	0	77,26	0	0
-2011	44161	Muniesa	65,6351	63,2	2,4351	0	0	0
+2011	44161	Muniesa	656351	63,2	24351	0	0	0
 2011	44163	Noguera de Albarracín	0	0	0	0	0	0
 2011	44164	Nogueras	0	0	0	0	0	0
 2011	44165	Nogueruelas	0	0	0	0	0	0
@@ -352,26 +352,26 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44169	Ojos Negros	146,82	146,82	0	0	0	0
 2011	44171	Olba	0	0	0	0	0	0
 2011	44172	Oliete	12,72	12,24	0	0,48	0	0
-2011	44173	Olmos (Los)	24,9432	23,2	1,7432	0	0	0
+2011	44173	Olmos (Los)	249432	23,2	17432	0	0	0
 2011	44174	Orihuela del Tremedal	0	0	0	0	0	0
 2011	44175	Orrios	156,45	156,45	0	0	0	0
 2011	44176	Palomar de Arroyos	0	0	0	0	0	0
 2011	44177	Pancrudo	29,13	29,13	0	0	0	0
 2011	44178	Parras de Castellote (Las)	0	0	0	0	0	0
-2011	44179	Peñarroya de Tastavins	225,1914	224,99	0	0	0	0,2014
+2011	44179	Peñarroya de Tastavins	2251914	224,99	0	0	0	0,2014
 2011	44180	Peracense	0	0	0	0	0	0
 2011	44181	Peralejos	135,26	0	135,26	0	0	0
 2011	44182	Perales del Alfambra	680,08	674,39	5,69	0	0	0
 2011	44183	Pitarque	0	0	0	0	0	0
 2011	44184	Plou	0	0	0	0	0	0
 2011	44185	Pobo (El)	0	0	0	0	0	0
-2011	44187	Portellada (La)	57,4229	46,6789	10,024	0,72	0	0
+2011	44187	Portellada (La)	574229	466789	10024	0,72	0	0
 2011	44189	Pozondón	0	0	0	0	0	0
 2011	44190	Pozuel del Campo	0	0	0	0	0	0
 2011	44191	Puebla de Híjar (La)	130,58	129,51	0,73	0,34	0	0
-2011	44192	Puebla de Valverde (La)	130,2605	130,2605	0	0	0	0
+2011	44192	Puebla de Valverde (La)	1302605	1302605	0	0	0	0
 2011	44193	Puertomingalvo	0	0	0	0	0	0
-2011	44194	Ráfales	113,6315	49,4015	63,58	0,65	0	0
+2011	44194	Ráfales	1136315	494015	63,58	0,65	0	0
 2011	44195	Rillo	62,47	62,47	0	0	0	0
 2011	44196	Riodeva	0	0	0	0	0	0
 2011	44197	Ródenas	0	0	0	0	0	0
@@ -381,7 +381,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44201	Rubielos de Mora	0	0	0	0	0	0
 2011	44203	Salcedillo	0	0	0	0	0	0
 2011	44204	Saldón	0	0	0	0	0	0
-2011	44205	Samper de Calanda	1022,7543	575,4419	417,76	0,2724	0	29,28
+2011	44205	Samper de Calanda	10227543	5754419	417,76	0,2724	0	29,28
 2011	44206	San Agustín	0	0	0	0	0	0
 2011	44207	San Martín del Río	36	36	0	0	0	0
 2011	44208	Santa Cruz de Nogueras	0	0	0	0	0	0
@@ -396,7 +396,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44218	Tormón	0	0	0	0	0	0
 2011	44219	Tornos	0	0	0	0	0	0
 2011	44220	Torralba de los Sisones	42,69	42,69	0	0	0	0
-2011	44221	Torrecilla de Alcañiz	245,6361	125,5261	105,3	14,81	0	0
+2011	44221	Torrecilla de Alcañiz	2456361	1255261	105,3	14,81	0	0
 2011	44222	Torrecilla del Rebollar	2,12	0	0	2,12	0	0
 2011	44223	Torre de Arcas	0	0	0	0	0	0
 2011	44224	Torre de las Arcas	0	0	0	0	0	0
@@ -415,12 +415,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	44238	Utrillas	0	0	0	0	0	0
 2011	44239	Valacloche	0	0	0	0	0	0
 2011	44240	Valbona	0	0	0	0	0	0
-2011	44241	Valdealgorfa	143,4692	135,3992	6,9	1,17	0	0
+2011	44241	Valdealgorfa	1434692	1353992	6,9	1,17	0	0
 2011	44243	Valdecuenca	0	0	0	0	0	0
 2011	44244	Valdelinares	0	0	0	0	0	0
-2011	44245	Valdeltormo	198,6583	190,847	2,64	3,4113	0	1,76
-2011	44246	Valderrobres	225,8627	175,1927	32,84	17,72	0	0,11
-2011	44247	Valjunquera	114,7462	113,3821	0	1,3641	0	0
+2011	44245	Valdeltormo	1986583	190847	2,64	34113	0	1,76
+2011	44246	Valderrobres	2258627	1751927	32,84	17,72	0	0,11
+2011	44247	Valjunquera	1147462	1133821	0	13641	0	0
 2011	44249	Vallecillo (El)	0	0	0	0	0	0
 2011	44250	Veguillas de la Sierra	0	0	0	0	0	0
 2011	44251	Villafranca del Campo	471,68	0	13,52	230,6	0	227,56
@@ -458,8 +458,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50019	Alforque	0	0	0	0	0	0
 2011	50020	Alhama de Aragón	10,53	10,53	0	0	0	0
 2011	50021	Almochuel	615,69	611,81	3,88	0	0	0
-2011	50022	Almolda (La)	197,6344	137,06	0	56,59	0	3,9844
-2011	50023	Almonacid de la Cuba	347,595	304,58	39,96	3,055	0	0
+2011	50022	Almolda (La)	1976344	137,06	0	56,59	0	39844
+2011	50023	Almonacid de la Cuba	347595	304,58	39,96	3055	0	0
 2011	50024	Almonacid de la Sierra	36,05	11,14	15,29	6,11	0	3,51
 2011	50025	Almunia de Doña Godina (La)	51,35	2,29	49,06	0	0	0
 2011	50026	Alpartir	0	0	0	0	0	0
@@ -478,7 +478,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50039	Azuara	679,13	678,05	1,08	0	0	0
 2011	50040	Badules	7,65	0	7,65	0	0	0
 2011	50041	Bagüés	0	0	0	0	0	0
-2011	50042	Balconchán	8,7655	6,0855	1,66	1,02	0	0
+2011	50042	Balconchán	87655	60855	1,66	1,02	0	0
 2011	50043	Bárboles	0	0	0	0	0	0
 2011	50044	Bardallur	2,31	2,31	0	0	0	0
 2011	50045	Belchite	2594,97	2143,72	156,98	241,04	0	53,23
@@ -490,7 +490,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50052	Bisimbre	0	0	0	0	0	0
 2011	50053	Boquiñeni	108,76	103,37	1,67	0,31	0	3,41
 2011	50054	Bordalba	0	0	0	0	0	0
-2011	50055	Borja	969,968	880,518	4,06	85,39	0	0
+2011	50055	Borja	969968	880518	4,06	85,39	0	0
 2011	50056	Botorrita	40,05	40,05	0	0	0	0
 2011	50057	Brea de Aragón	0	0	0	0	0	0
 2011	50058	Bubierca	0	0	0	0	0	0
@@ -508,8 +508,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50070	Calmarza	0	0	0	0	0	0
 2011	50071	Campillo de Aragón	0	0	0	0	0	0
 2011	50072	Carenas	0	0	0	0	0	0
-2011	50073	Cariñena	270,8929	259,5129	3,8	4,91	0	2,67
-2011	50074	Caspe	2590,7998	2142,9016	173,2073	218,016	2,94	53,7349
+2011	50073	Cariñena	2708929	2595129	3,8	4,91	0	2,67
+2011	50074	Caspe	25907998	21429016	1732073	218016	2,94	537349
 2011	50075	Castejón de Alarba	3,91	3,11	0	0,8	0	0
 2011	50076	Castejón de las Armas	0	0	0	0	0	0
 2011	50077	Castejón de Valdejasa	13,3	13,3	0	0	0	0
@@ -521,7 +521,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50083	Cinco Olivas	0	0	0	0	0	0
 2011	50084	Clarés de Ribota	0	0	0	0	0	0
 2011	50085	Codo	46,84	44,57	0	2,27	0	0
-2011	50086	Codos	76,0275	76,0275	0	0	0	0
+2011	50086	Codos	760275	760275	0	0	0	0
 2011	50087	Contamina	0	0	0	0	0	0
 2011	50088	Cosuenda	0	0	0	0	0	0
 2011	50089	Cuarte de Huerva	1,81	1,81	0	0	0	0
@@ -529,15 +529,15 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50091	Cuerlas (Las)	0	0	0	0	0	0
 2011	50092	Chiprana	63,76	59,53	4,23	0	0	0
 2011	50093	Chodes	0	0	0	0	0	0
-2011	50094	Daroca	14,3167	14,1367	0	0,18	0	0
-2011	50095	Ejea de los Caballeros	688,6228	563,0028	106,05	0	0	19,57
+2011	50094	Daroca	143167	141367	0	0,18	0	0
+2011	50095	Ejea de los Caballeros	6886228	5630028	106,05	0	0	19,57
 2011	50096	Embid de Ariza	0	0	0	0	0	0
 2011	50098	Encinacorba	21,93	21,93	0	0	0	0
-2011	50099	Épila	3731,0728	3422,0737	95,06	72,96	137,9491	3,03
+2011	50099	Épila	37310728	34220737	95,06	72,96	1379491	3,03
 2011	50100	Erla	6,91	6,91	0	0	0	0
 2011	50101	Escatrón	617,28	617,28	0	0	0	0
-2011	50102	Fabara	186,2039	108,1996	21,16	50,7243	6,12	0
-2011	50104	Farlete	1058,8723	738,0665	315,8858	4,92	0	0
+2011	50102	Fabara	1862039	1081996	21,16	507243	6,12	0
+2011	50104	Farlete	10588723	7380665	3158858	4,92	0	0
 2011	50105	Fayón	11,05	11,05	0	0	0	0
 2011	50106	Fayos (Los)	0	0	0	0	0	0
 2011	50107	Figueruelas	6,04	6,04	0	0	0	0
@@ -545,7 +545,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50109	Frago (El)	0	0	0	0	0	0
 2011	50110	Frasno (El)	39,02	7,06	1,26	0	30,7	0
 2011	50111	Fréscano	244,15	213,11	0	31,04	0	0
-2011	50113	Fuendejalón	328,4751	321,6151	4,45	2,41	0	0
+2011	50113	Fuendejalón	3284751	3216151	4,45	2,41	0	0
 2011	50114	Fuendetodos	240,91	236,32	4,59	0	0	0
 2011	50115	Fuentes de Ebro	7,08	7,08	0	0	0	0
 2011	50116	Fuentes de Jiloca	0	0	0	0	0	0
@@ -567,10 +567,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50133	Lagata	204,39	197,43	0	6,96	0	0
 2011	50134	Langa del Castillo	145,08	0	0	144,91	0	0,17
 2011	50135	Layana	0	0	0	0	0	0
-2011	50136	Lécera	2497,8263	2419,17	63,46	10,8363	0	4,36
+2011	50136	Lécera	24978263	2419,17	63,46	108363	0	4,36
 2011	50137	Leciñena	361,61	360,3	0	1,31	0	0
 2011	50138	Lechón	0	0	0	0	0	0
-2011	50139	Letux	239,7494	229,93	3,1	6,7194	0	0
+2011	50139	Letux	2397494	229,93	3,1	67194	0	0
 2011	50140	Litago	0	0	0	0	0	0
 2011	50141	Lituénigo	0	0	0	0	0	0
 2011	50142	Lobera de Onsella	0	0	0	0	0	0
@@ -582,19 +582,19 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50149	Luesma	0	0	0	0	0	0
 2011	50150	Lumpiaque	550,03	541,18	0,11	1,72	0	7,02
 2011	50151	Luna	15,29	0	0	15,29	0	0
-2011	50152	Maella	386,137	299,507	12,03	5,79	65,9	2,91
-2011	50153	Magallón	194,5006	187,9106	0	6,59	0	0
+2011	50152	Maella	386137	299507	12,03	5,79	65,9	2,91
+2011	50153	Magallón	1945006	1879106	0	6,59	0	0
 2011	50154	Mainar	0	0	0	0	0	0
 2011	50155	Malanquilla	0	0	0	0	0	0
 2011	50156	Maleján	0	0	0	0	0	0
 2011	50157	Malón	0	0	0	0	0	0
 2011	50159	Maluenda	6,11	6,11	0	0	0	0
-2011	50160	Mallén	24,764	22,784	1,98	0	0	0
+2011	50160	Mallén	24764	22784	1,98	0	0	0
 2011	50161	Manchones	0	0	0	0	0	0
 2011	50162	Mara	6,35	0	6,35	0	0	0
 2011	50163	María de Huerva	270,58	269,62	0	0	0	0,96
 2011	50164	Mediana de Aragón	152,85	152,85	0	0	0	0
-2011	50165	Mequinenza	127,9222	68,3522	21,12	27,66	10,79	0
+2011	50165	Mequinenza	1279222	683522	21,12	27,66	10,79	0
 2011	50166	Mesones de Isuela	38,87	38,87	0	0	0	0
 2011	50167	Mezalocha	0,52	0,52	0	0	0	0
 2011	50168	Mianos	0	0	0	0	0	0
@@ -611,8 +611,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50179	Moyuela	0	0	0	0	0	0
 2011	50180	Mozota	0	0	0	0	0	0
 2011	50181	Muel	200,38	200,38	0	0	0	0
-2011	50182	Muela (La)	976,0167	946,5167	10,44	6	0	13,06
-2011	50183	Munébrega	29,7266	27,4566	2,27	0	0	0
+2011	50182	Muela (La)	9760167	9465167	10,44	6	0	13,06
+2011	50183	Munébrega	297266	274566	2,27	0	0	0
 2011	50184	Murero	5,25	0	5,25	0	0	0
 2011	50185	Murillo de Gállego	0	0	0	0	0	0
 2011	50186	Navardún	0	0	0	0	0	0
@@ -635,9 +635,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50203	Pastriz	1	1	0	0	0	0
 2011	50204	Pedrola	621,13	534,95	0	86,18	0	0
 2011	50205	Pedrosas (Las)	0	0	0	0	0	0
-2011	50206	Perdiguera	457,0158	329,2358	0	114,89	0	12,89
+2011	50206	Perdiguera	4570158	3292358	0	114,89	0	12,89
 2011	50207	Piedratajada	0	0	0	0	0	0
-2011	50208	Pina de Ebro	801,5904	756,9804	4,61	40	0	0
+2011	50208	Pina de Ebro	8015904	7569804	4,61	40	0	0
 2011	50209	Pinseque	23,32	23,32	0	0	0	0
 2011	50210	Pintanos (Los)	0	0	0	0	0	0
 2011	50211	Plasencia de Jalón	636,01	636,01	0	0	0	0
@@ -647,13 +647,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50215	Pozuel de Ariza	0	0	0	0	0	0
 2011	50216	Pozuelo de Aragón	388,45	345,73	0,41	42,31	0	0
 2011	50217	Pradilla de Ebro	15,65	15,65	0	0	0	0
-2011	50218	Puebla de Albortón	1319,0893	1230,7293	87,42	0,94	0	0
+2011	50218	Puebla de Albortón	13190893	12307293	87,42	0,94	0	0
 2011	50219	Puebla de Alfindén (La)	0	0	0	0	0	0
 2011	50220	Puendeluna	0	0	0	0	0	0
 2011	50221	Purujosa	0	0	0	0	0	0
 2011	50222	Quinto	0	0	0	0	0	0
 2011	50223	Remolinos	0	0	0	0	0	0
-2011	50224	Retascón	42,9125	42,9125	0	0	0	0
+2011	50224	Retascón	429125	429125	0	0	0	0
 2011	50225	Ricla	0,45	0,45	0	0	0	0
 2011	50227	Romanos	0	0	0	0	0	0
 2011	50228	Rueda de Jalón	2470,55	2457,29	3,12	0,28	0	9,86
@@ -680,12 +680,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50249	Tabuenca	32,69	15,22	0	17,47	0	0
 2011	50250	Talamantes	396,31	186,55	0	0	0	209,76
 2011	50251	Tarazona	19,09	10,77	8,32	0	0	0
-2011	50252	Tauste	184,3956	156,75	3,8578	23,7878	0	0
+2011	50252	Tauste	1843956	156,75	38578	237878	0	0
 2011	50253	Terrer	0	0	0	0	0	0
 2011	50254	Tierga	0	0	0	0	0	0
 2011	50255	Tobed	0	0	0	0	0	0
 2011	50256	Torralba de los Frailes	0	0	0	0	0	0
-2011	50257	Torralba de Ribota	115,4479	79,97	21,01	0	14,4679	0
+2011	50257	Torralba de Ribota	1154479	79,97	21,01	0	144679	0
 2011	50258	Torralbilla	0,95	0	0	0,95	0	0
 2011	50259	Torrehermosa	0	0	0	0	0	0
 2011	50260	Torrelapaja	0	0	0	0	0	0
@@ -701,7 +701,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50270	Urriés	0	0	0	0	0	0
 2011	50271	Used	0	0	0	0	0	0
 2011	50272	Utebo	0	0	0	0	0	0
-2011	50273	Valdehorna	2,2745	0,3045	0	1,97	0	0
+2011	50273	Valdehorna	22745	0,3045	0	1,97	0	0
 2011	50274	Val de San Martín	3,11	0,2	0	2,91	0	0
 2011	50275	Valmadrid	337,99	337,69	0	0	0	0,3
 2011	50276	Valpalmas	0	0	0	0	0	0
@@ -713,7 +713,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2011	50282	Vilueña (La)	0	0	0	0	0	0
 2011	50283	Villadoz	0	0	0	0	0	0
 2011	50284	Villafeliche	0	0	0	0	0	0
-2011	50285	Villafranca de Ebro	15,2466	10,5066	0	0,12	4,13	0,49
+2011	50285	Villafranca de Ebro	152466	105066	0	0,12	4,13	0,49
 2011	50286	Villalba de Perejil	0	0	0	0	0	0
 2011	50287	Villalengua	119,37	119,37	0	0	0	0
 2011	50288	Villanueva de Gállego	68,59	67,22	0	1,37	0	0
@@ -735,9 +735,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	22003	Adahuesca	18,85	18,85	0	0	0	0
 2012	22004	Agüero	0	0	0	0	0	0
 2012	22006	Aísa	0	0	0	0	0	0
-2012	22007	Albalate de Cinca	83,784	70,2493	1,08	12,4547	0	0
+2012	22007	Albalate de Cinca	83784	702493	1,08	124547	0	0
 2012	22008	Albalatillo	0	0	0	0	0	0
-2012	22009	Albelda	9,5629	7,6629	1,9	0	0	0
+2012	22009	Albelda	95629	76629	1,9	0	0	0
 2012	22011	Albero Alto	0	0	0	0	0	0
 2012	22012	Albero Bajo	6,5	6,5	0	0	0	0
 2012	22013	Alberuela de Tubo	5,9	5,9	0	0	0	0
@@ -779,8 +779,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	22055	Berbegal	0	0	0	0	0	0
 2012	22057	Bielsa	0	0	0	0	0	0
 2012	22058	Bierge	0	0	0	0	0	0
-2012	22059	Biescas	197,424	180,464	0	16,96	0	0
-2012	22060	Binaced	35,7328	18,2	17,5328	0	0	0
+2012	22059	Biescas	197424	180464	0	16,96	0	0
+2012	22060	Binaced	357328	18,2	175328	0	0	0
 2012	22061	Binéfar	0	0	0	0	0	0
 2012	22062	Bisaurri	0	0	0	0	0	0
 2012	22063	Biscarrués	0	0	0	0	0	0
@@ -819,28 +819,28 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	22109	Fiscal	0	0	0	0	0	0
 2012	22110	Fonz	52,88	0	0	0	52,88	0
 2012	22111	Foradada del Toscar	0	0	0	0	0	0
-2012	22112	Fraga	76,0232	15,2232	45,98	0	14,82	0
+2012	22112	Fraga	760232	152232	45,98	0	14,82	0
 2012	22113	Fueva (La)	353,59	316,41	16,78	20,4	0	0
 2012	22114	Gistaín	0	0	0	0	0	0
-2012	22115	Grado (El)	17,7717	17,7717	0	0	0	0
+2012	22115	Grado (El)	177717	177717	0	0	0	0
 2012	22116	Grañén	0	0	0	0	0	0
 2012	22117	Graus	0	0	0	0	0	0
 2012	22119	Gurrea de Gállego	154,52	108,14	45,69	0,69	0	0
 2012	22122	Hoz de Jaca	0	0	0	0	0	0
 2012	22124	Huerto	33,7	30,23	3,47	0	0	0
-2012	22125	Huesca	243,9393	219,3154	24,6239	0	0	0
+2012	22125	Huesca	2439393	2193154	246239	0	0	0
 2012	22126	Ibieca	0	0	0	0	0	0
 2012	22127	Igriés	0	0	0	0	0	0
-2012	22128	Ilche	8,6162	0	8,6162	0	0	0
+2012	22128	Ilche	86162	0	86162	0	0	0
 2012	22129	Isábena	0	0	0	0	0	0
-2012	22130	Jaca	812,5585	0	0	803,55	0	9,0085
+2012	22130	Jaca	8125585	0	0	803,55	0	90085
 2012	22131	Jasa	0	0	0	0	0	0
 2012	22133	Labuerda	2,91	2,91	0	0	0	0
 2012	22135	Laluenga	30	0	23,82	6,18	0	0
 2012	22136	Lalueza	1,16	0	0,39	0,77	0	0
 2012	22137	Lanaja	0	0	0	0	0	0
 2012	22139	Laperdiguera	0	0	0	0	0	0
-2012	22141	Lascellas-Ponzano	59,9885	0	18,1284	0	0	41,8601
+2012	22141	Lascellas-Ponzano	599885	0	181284	0	0	418601
 2012	22142	Lascuarre	0	0	0	0	0	0
 2012	22143	Laspaúles	0	0	0	0	0	0
 2012	22144	Laspuña	0	0	0	0	0	0
@@ -854,7 +854,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	22160	Naval	33,57	32,6	0,97	0	0	0
 2012	22162	Novales	0	0	0	0	0	0
 2012	22163	Nueno	0	0	0	0	0	0
-2012	22164	Olvena	4,0918	3,9618	0	0,13	0	0
+2012	22164	Olvena	40918	39618	0	0,13	0	0
 2012	22165	Ontiñena	0	0	0	0	0	0
 2012	22167	Osso de Cinca	67,83	27,09	0	23,93	16,81	0
 2012	22168	Palo	35,63	35,63	0	0	0	0
@@ -879,7 +879,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	22197	Robres	0	0	0	0	0	0
 2012	22199	Sabiñánigo	12,03	12,03	0	0	0	0
 2012	22200	Sahún	0	0	0	0	0	0
-2012	22201	Salas Altas	31,263	8,54	22,723	0	0	0
+2012	22201	Salas Altas	31263	8,54	22723	0	0	0
 2012	22202	Salas Bajas	27,05	0	27,05	0	0	0
 2012	22203	Salillas	0	0	0	0	0	0
 2012	22204	Sallent de Gállego	0	0	0	0	0	0
@@ -889,7 +889,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	22208	Santa Cilia	0	0	0	0	0	0
 2012	22209	Santa Cruz de la Serós	0	0	0	0	0	0
 2012	22212	Santaliestra y San Quílez	0	0	0	0	0	0
-2012	22213	Sariñena	304,625	176,015	1,24	0	127,37	0
+2012	22213	Sariñena	304625	176015	1,24	0	127,37	0
 2012	22214	Secastilla	51,81	51,81	0	0	0	0
 2012	22215	Seira	0	0	0	0	0	0
 2012	22217	Sena	57,43	49,23	0	8,2	0	0
@@ -904,7 +904,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	22228	Tierz	0	0	0	0	0	0
 2012	22229	Tolva	0	0	0	0	0	0
 2012	22230	Torla-Ordesa	0	0	0	0	0	0
-2012	22232	Torralba de Aragón	166,1912	166,1912	0	0	0	0
+2012	22232	Torralba de Aragón	1661912	1661912	0	0	0	0
 2012	22233	Torre la Ribera	0	0	0	0	0	0
 2012	22234	Torrente de Cinca	0	0	0	0	0	0
 2012	22235	Torres de Alcanadre	0	0	0	0	0	0
@@ -925,26 +925,26 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	22254	Zaidín	14,27	0	0,34	13,93	0	0
 2012	22901	Valle de Hecho	0	0	0	0	0	0
 2012	22902	Puente la Reina de Jaca	0	0	0	0	0	0
-2012	22903	San Miguel del Cinca	271,319	231,849	32,33	7,14	0	0
-2012	22904	Sotonera (La)	1,6228	0	0	1,6228	0	0
+2012	22903	San Miguel del Cinca	271319	231849	32,33	7,14	0	0
+2012	22904	Sotonera (La)	16228	0	0	16228	0	0
 2012	22905	Lupiñén-Ortilla	117,2	74,5	29,03	0	13,67	0
 2012	22906	Santa María de Dulcis	4,76	2,61	2,15	0	0	0
 2012	22907	Aínsa-Sobrarbe	185,79	38,14	139,88	7,77	0	0
-2012	22908	Hoz y Costeán	338,0029	298,0129	34,8	5,19	0	0
+2012	22908	Hoz y Costeán	3380029	2980129	34,8	5,19	0	0
 2012	22909	Vencillón	0	0	0	0	0	0
 2012	44001	Ababuj	81,87	0	0	81,42	0	0,45
 2012	44002	Abejuela	0	0	0	0	0	0
 2012	44003	Aguatón	0	0	0	0	0	0
 2012	44004	Aguaviva	0	0	0	0	0	0
 2012	44005	Aguilar del Alfambra	0	0	0	0	0	0
-2012	44006	Alacón	290,4648	285,2509	2,734	2,2199	0	0,26
+2012	44006	Alacón	2904648	2852509	2734	22199	0	0,26
 2012	44007	Alba	0	0	0	0	0	0
 2012	44008	Albalate del Arzobispo	286,78	249,85	7,31	29,62	0	0
 2012	44009	Albarracín	1026,66	219,2	803,89	3,57	0	0
 2012	44010	Albentosa	0	0	0	0	0	0
 2012	44011	Alcaine	0	0	0	0	0	0
 2012	44012	Alcalá de la Selva	1,01	0	0	1,01	0	0
-2012	44013	Alcañiz	878,2218	669,4218	31,98	34,08	0	142,74
+2012	44013	Alcañiz	8782218	6694218	31,98	34,08	0	142,74
 2012	44014	Alcorisa	14,46	11,46	3	0	0	0
 2012	44016	Alfambra	14,15	14,15	0	0	0	0
 2012	44017	Aliaga	82,45	82,45	0	0	0	0
@@ -957,7 +957,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44024	Anadón	0	0	0	0	0	0
 2012	44025	Andorra	26,85	26,85	0	0	0	0
 2012	44026	Arcos de las Salinas	0	0	0	0	0	0
-2012	44027	Arens de Lledó	122,2575	122,2575	0	0	0	0
+2012	44027	Arens de Lledó	1222575	1222575	0	0	0	0
 2012	44028	Argente	0	0	0	0	0	0
 2012	44029	Ariño	9,49	9,49	0	0	0	0
 2012	44031	Azaila	791,26	727,11	1,68	42,43	0	20,04
@@ -978,9 +978,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44046	Bueña	0	0	0	0	0	0
 2012	44047	Burbáguena	0,91	0	0	0,91	0	0
 2012	44048	Cabra de Mora	0	0	0	0	0	0
-2012	44049	Calaceite	331,1373	294,0081	9,21	27,9192	0	0
+2012	44049	Calaceite	3311373	2940081	9,21	279192	0	0
 2012	44050	Calamocha	0	0	0	0	0	0
-2012	44051	Calanda	350,0325	340,3674	2,1111	5,014	0	2,54
+2012	44051	Calanda	3500325	3403674	21111	5014	0	2,54
 2012	44052	Calomarde	0	0	0	0	0	0
 2012	44053	Camañas	86,89	2,25	84,64	0	0	0
 2012	44054	Camarena de la Sierra	0	0	0	0	0	0
@@ -996,17 +996,17 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44066	Castel de Cabra	0	0	0	0	0	0
 2012	44067	Castelnou	239,11	239,11	0	0	0	0
 2012	44068	Castelserás	32,55	19,46	2,9	10,19	0	0
-2012	44070	Castellar (El)	87,314	87,314	0	0	0	0
+2012	44070	Castellar (El)	87314	87314	0	0	0	0
 2012	44071	Castellote	0	0	0	0	0	0
 2012	44074	Cedrillas	35,3	0	13,18	22,12	0	0
 2012	44075	Celadas	0	0	0	0	0	0
 2012	44076	Cella	0	0	0	0	0	0
 2012	44077	Cerollera (La)	0	0	0	0	0	0
-2012	44080	Codoñera (La)	30,3991	19,42	7,2532	0	0	3,7259
+2012	44080	Codoñera (La)	303991	19,42	72532	0	0	37259
 2012	44082	Corbalán	0	0	0	0	0	0
 2012	44084	Cortes de Aragón	0	0	0	0	0	0
 2012	44085	Cosa	0	0	0	0	0	0
-2012	44086	Cretas	51,4394	50,3894	1,05	0	0	0
+2012	44086	Cretas	514394	503894	1,05	0	0	0
 2012	44087	Crivillén	1,14	1,14	0	0	0	0
 2012	44088	Cuba (La)	0	0	0	0	0	0
 2012	44089	Cubla	0	0	0	0	0	0
@@ -1027,7 +1027,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44108	Fresneda (La)	29,02	28,52	0,5	0	0	0
 2012	44109	Frías de Albarracín	0	0	0	0	0	0
 2012	44110	Fuenferrada	0	0	0	0	0	0
-2012	44111	Fuentes Calientes	323,858	323,858	0	0	0	0
+2012	44111	Fuentes Calientes	323858	323858	0	0	0	0
 2012	44112	Fuentes Claras	0	0	0	0	0	0
 2012	44113	Fuentes de Rubielos	0	0	0	0	0	0
 2012	44114	Fuentespalda	26,58	24,71	1,87	0	0	0
@@ -1038,7 +1038,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44119	Griegos	0	0	0	0	0	0
 2012	44120	Guadalaviar	0	0	0	0	0	0
 2012	44121	Gúdar	65,46	0	0	65,46	0	0
-2012	44122	Híjar	561,313	548,703	9,58	3,03	0	0
+2012	44122	Híjar	561313	548703	9,58	3,03	0	0
 2012	44123	Hinojosa de Jarque	0	0	0	0	0	0
 2012	44124	Hoz de la Vieja (La)	0	0	0	0	0	0
 2012	44125	Huesa del Común	0	0	0	0	0	0
@@ -1052,15 +1052,15 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44133	Lanzuela	0	0	0	0	0	0
 2012	44135	Libros	0	0	0	0	0	0
 2012	44136	Lidón	32,29	32,29	0	0	0	0
-2012	44137	Linares de Mora	86,2207	0	86,2207	0	0	0
+2012	44137	Linares de Mora	862207	0	862207	0	0	0
 2012	44138	Loscos	10,13	10,13	0	0	0	0
-2012	44141	Lledó	16,9383	11,66	0	0	0	5,2783
+2012	44141	Lledó	169383	11,66	0	0	0	52783
 2012	44142	Maicas	0	0	0	0	0	0
 2012	44143	Manzanera	0,9523	0,8523	0,1	0	0	0
 2012	44144	Martín del Río	0	0	0	0	0	0
 2012	44145	Mas de las Matas	0	0	0	0	0	0
 2012	44146	Mata de los Olmos (La)	52,34	52,34	0	0	0	0
-2012	44147	Mazaleón	584,3397	528,128	38,0217	11,89	3,74	2,56
+2012	44147	Mazaleón	5843397	528128	380217	11,89	3,74	2,56
 2012	44148	Mezquita de Jarque	0	0	0	0	0	0
 2012	44149	Mirambel	0	0	0	0	0	0
 2012	44150	Miravete de la Sierra	0	0	0	0	0	0
@@ -1074,7 +1074,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44158	Mora de Rubielos	0	0	0	0	0	0
 2012	44159	Moscardón	0	0	0	0	0	0
 2012	44160	Mosqueruela	77,26	0	77,26	0	0	0
-2012	44161	Muniesa	65,5551	47,98	2,5951	14,98	0	0
+2012	44161	Muniesa	655551	47,98	25951	14,98	0	0
 2012	44163	Noguera de Albarracín	0	0	0	0	0	0
 2012	44164	Nogueras	0	0	0	0	0	0
 2012	44165	Nogueruelas	0	0	0	0	0	0
@@ -1083,26 +1083,26 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44169	Ojos Negros	0	0	0	0	0	0
 2012	44171	Olba	0	0	0	0	0	0
 2012	44172	Oliete	12,73	12,25	0,48	0	0	0
-2012	44173	Olmos (Los)	24,6714	22,78	1,5871	0	0	0,3043
+2012	44173	Olmos (Los)	246714	22,78	15871	0	0	0,3043
 2012	44174	Orihuela del Tremedal	0	0	0	0	0	0
 2012	44175	Orrios	155,52	155,52	0	0	0	0
 2012	44176	Palomar de Arroyos	0	0	0	0	0	0
 2012	44177	Pancrudo	29,13	29,13	0	0	0	0
 2012	44178	Parras de Castellote (Las)	0	0	0	0	0	0
-2012	44179	Peñarroya de Tastavins	225,1914	224,99	0,2014	0	0	0
+2012	44179	Peñarroya de Tastavins	2251914	224,99	0,2014	0	0	0
 2012	44180	Peracense	0	0	0	0	0	0
 2012	44181	Peralejos	135,26	135,26	0	0	0	0
 2012	44182	Perales del Alfambra	679,11	645,09	4,23	18,24	0	11,55
 2012	44183	Pitarque	0	0	0	0	0	0
 2012	44184	Plou	0	0	0	0	0	0
 2012	44185	Pobo (El)	1,24	0	0	1,24	0	0
-2012	44187	Portellada (La)	61,6777	52,0029	5,03	0	0	4,6448
+2012	44187	Portellada (La)	616777	520029	5,03	0	0	46448
 2012	44189	Pozondón	0	0	0	0	0	0
 2012	44190	Pozuel del Campo	0	0	0	0	0	0
 2012	44191	Puebla de Híjar (La)	4,59	3,52	1,07	0	0	0
-2012	44192	Puebla de Valverde (La)	130,2605	130,2605	0	0	0	0
+2012	44192	Puebla de Valverde (La)	1302605	1302605	0	0	0	0
 2012	44193	Puertomingalvo	0	0	0	0	0	0
-2012	44194	Ráfales	118,9615	108,8515	3,21	6,9	0	0
+2012	44194	Ráfales	1189615	1088515	3,21	6,9	0	0
 2012	44195	Rillo	62,58	62,58	0	0	0	0
 2012	44196	Riodeva	0	0	0	0	0	0
 2012	44197	Ródenas	0	0	0	0	0	0
@@ -1112,7 +1112,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44201	Rubielos de Mora	0	0	0	0	0	0
 2012	44203	Salcedillo	0	0	0	0	0	0
 2012	44204	Saldón	0	0	0	0	0	0
-2012	44205	Samper de Calanda	1058,0524	994,5724	27,76	9,39	0	26,33
+2012	44205	Samper de Calanda	10580524	9945724	27,76	9,39	0	26,33
 2012	44206	San Agustín	0	0	0	0	0	0
 2012	44207	San Martín del Río	35,84	35,84	0	0	0	0
 2012	44208	Santa Cruz de Nogueras	0	0	0	0	0	0
@@ -1127,7 +1127,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44218	Tormón	0	0	0	0	0	0
 2012	44219	Tornos	0	0	0	0	0	0
 2012	44220	Torralba de los Sisones	42,69	42,69	0	0	0	0
-2012	44221	Torrecilla de Alcañiz	248,6416	214,8716	33,03	0,74	0	0
+2012	44221	Torrecilla de Alcañiz	2486416	2148716	33,03	0,74	0	0
 2012	44222	Torrecilla del Rebollar	2,12	0	2,12	0	0	0
 2012	44223	Torre de Arcas	0	0	0	0	0	0
 2012	44224	Torre de las Arcas	0	0	0	0	0	0
@@ -1136,7 +1136,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44227	Torre los Negros	292,88	0	292,88	0	0	0
 2012	44228	Torremocha de Jiloca	0	0	0	0	0	0
 2012	44229	Torres de Albarracín	0	0	0	0	0	0
-2012	44230	Torrevelilla	20,7013	17,17	2,86	0	0	0,6713
+2012	44230	Torrevelilla	207013	17,17	2,86	0	0	0,6713
 2012	44231	Torrijas	0	0	0	0	0	0
 2012	44232	Torrijo del Campo	0	0	0	0	0	0
 2012	44234	Tramacastiel	0	0	0	0	0	0
@@ -1146,12 +1146,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	44238	Utrillas	0	0	0	0	0	0
 2012	44239	Valacloche	0	0	0	0	0	0
 2012	44240	Valbona	0	0	0	0	0	0
-2012	44241	Valdealgorfa	144,1892	142,0492	1,18	0,96	0	0
+2012	44241	Valdealgorfa	1441892	1420492	1,18	0,96	0	0
 2012	44243	Valdecuenca	0	0	0	0	0	0
 2012	44244	Valdelinares	0	0	0	0	0	0
-2012	44245	Valdeltormo	219,1487	195,8174	9,5613	13,77	0	0
-2012	44246	Valderrobres	225,9801	197,1227	17,74	9,5569	0	1,5605
-2012	44247	Valjunquera	131,6554	114,5854	1,33	15,74	0	0
+2012	44245	Valdeltormo	2191487	1958174	95613	13,77	0	0
+2012	44246	Valderrobres	2259801	1971227	17,74	95569	0	15605
+2012	44247	Valjunquera	1316554	1145854	1,33	15,74	0	0
 2012	44249	Vallecillo (El)	0	0	0	0	0	0
 2012	44250	Veguillas de la Sierra	0	0	0	0	0	0
 2012	44251	Villafranca del Campo	251,45	234,09	14,04	3,32	0	0
@@ -1175,7 +1175,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50005	Aguilón	10,93	10,93	0	0	0	0
 2012	50006	Ainzón	6,2	1,3	4,03	0,87	0	0
 2012	50007	Aladrén	0	0	0	0	0	0
-2012	50008	Alagón	8,1617	0	0	0,5617	0	7,6
+2012	50008	Alagón	81617	0	0	0,5617	0	7,6
 2012	50009	Alarba	4,72	1,32	3,4	0	0	0
 2012	50010	Alberite de San Juan	15,54	15,54	0	0	0	0
 2012	50011	Albeta	1,12	1,12	0	0	0	0
@@ -1189,8 +1189,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50019	Alforque	57,98	0	0	57,98	0	0
 2012	50020	Alhama de Aragón	10,53	10,53	0	0	0	0
 2012	50021	Almochuel	618	610,17	0	7,83	0	0
-2012	50022	Almolda (La)	196,3544	112,04	82,31	2,0044	0	0
-2012	50023	Almonacid de la Cuba	331,175	320,15	11,025	0	0	0
+2012	50022	Almolda (La)	1963544	112,04	82,31	20044	0	0
+2012	50023	Almonacid de la Cuba	331175	320,15	11025	0	0	0
 2012	50024	Almonacid de la Sierra	36,05	11,14	24,91	0	0	0
 2012	50025	Almunia de Doña Godina (La)	97,25	2,29	49,26	0	0	45,7
 2012	50026	Alpartir	0	0	0	0	0	0
@@ -1209,7 +1209,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50039	Azuara	677,52	677,52	0	0	0	0
 2012	50040	Badules	7,65	0	7,65	0	0	0
 2012	50041	Bagüés	0	0	0	0	0	0
-2012	50042	Balconchán	8,4755	6,5755	1,51	0	0	0,39
+2012	50042	Balconchán	84755	65755	1,51	0	0	0,39
 2012	50043	Bárboles	0	0	0	0	0	0
 2012	50044	Bardallur	2,31	2,31	0	0	0	0
 2012	50045	Belchite	2273,41	1930,36	145,03	155,19	0	42,83
@@ -1225,7 +1225,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50056	Botorrita	41,04	41,04	0	0	0	0
 2012	50057	Brea de Aragón	0	0	0	0	0	0
 2012	50058	Bubierca	0	0	0	0	0	0
-2012	50059	Bujaraloz	1888,3728	1742,06	33,04	91,89	0	21,3828
+2012	50059	Bujaraloz	18883728	1742,06	33,04	91,89	0	213828
 2012	50060	Bulbuente	0	0	0	0	0	0
 2012	50061	Bureta	1,39	1,39	0	0	0	0
 2012	50062	Burgo de Ebro (El)	0	0	0	0	0	0
@@ -1239,8 +1239,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50070	Calmarza	0	0	0	0	0	0
 2012	50071	Campillo de Aragón	0	0	0	0	0	0
 2012	50072	Carenas	0	0	0	0	0	0
-2012	50073	Cariñena	339,9673	212,2326	63,7018	64,0329	0	0
-2012	50074	Caspe	2576,0871	2179,8741	306,623	61,63	2,94	25,02
+2012	50073	Cariñena	3399673	2122326	637018	640329	0	0
+2012	50074	Caspe	25760871	21798741	306623	61,63	2,94	25,02
 2012	50075	Castejón de Alarba	3,91	3,11	0,8	0	0	0
 2012	50076	Castejón de las Armas	0	0	0	0	0	0
 2012	50077	Castejón de Valdejasa	13,24	13,24	0	0	0	0
@@ -1252,7 +1252,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50083	Cinco Olivas	0	0	0	0	0	0
 2012	50084	Clarés de Ribota	0	0	0	0	0	0
 2012	50085	Codo	47,11	43,92	0	3,19	0	0
-2012	50086	Codos	76,0275	76,0275	0	0	0	0
+2012	50086	Codos	760275	760275	0	0	0	0
 2012	50087	Contamina	0	0	0	0	0	0
 2012	50088	Cosuenda	0	0	0	0	0	0
 2012	50089	Cuarte de Huerva	1,76	1,76	0	0	0	0
@@ -1260,15 +1260,15 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50091	Cuerlas (Las)	0	0	0	0	0	0
 2012	50092	Chiprana	63,05	63,05	0	0	0	0
 2012	50093	Chodes	0	0	0	0	0	0
-2012	50094	Daroca	14,5367	14,3567	0,18	0	0	0
-2012	50095	Ejea de los Caballeros	698,64	645,0293	17,9107	35,7	0	0
+2012	50094	Daroca	145367	143567	0,18	0	0	0
+2012	50095	Ejea de los Caballeros	698,64	6450293	179107	35,7	0	0
 2012	50096	Embid de Ariza	0	0	0	0	0	0
 2012	50098	Encinacorba	21,93	20,28	1,65	0	0	0
-2012	50099	Épila	3665,379	3336,6655	66,45	120,1144	136,7291	5,42
+2012	50099	Épila	3665379	33366655	66,45	1201144	1367291	5,42
 2012	50100	Erla	6,91	6,91	0	0	0	0
 2012	50101	Escatrón	634,65	612,68	0	0	21,97	0
-2012	50102	Fabara	173,4819	97,8476	59,0043	10,03	6,12	0,48
-2012	50104	Farlete	1071,2831	894,1231	135,63	41,53	0	0
+2012	50102	Fabara	1734819	978476	590043	10,03	6,12	0,48
+2012	50104	Farlete	10712831	8941231	135,63	41,53	0	0
 2012	50105	Fayón	35,4	11,04	0	20,84	0	3,52
 2012	50106	Fayos (Los)	0	0	0	0	0	0
 2012	50107	Figueruelas	5,2	5,2	0	0	0	0
@@ -1276,12 +1276,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50109	Frago (El)	0	0	0	0	0	0
 2012	50110	Frasno (El)	39,02	7,6	0,72	0	30,7	0
 2012	50111	Fréscano	242,03	242,03	0	0	0	0
-2012	50113	Fuendejalón	302,0751	291,1451	5,78	4,7	0	0,45
+2012	50113	Fuendejalón	3020751	2911451	5,78	4,7	0	0,45
 2012	50114	Fuendetodos	236,19	236,19	0	0	0	0
 2012	50115	Fuentes de Ebro	7,08	7,08	0	0	0	0
 2012	50116	Fuentes de Jiloca	0	0	0	0	0	0
 2012	50117	Gallocanta	0	0	0	0	0	0
-2012	50118	Gallur	2,1619	1,6519	0	0	0	0,51
+2012	50118	Gallur	21619	16519	0	0	0	0,51
 2012	50119	Gelsa	44,38	0	11,21	33,17	0	0
 2012	50120	Godojos	0	0	0	0	0	0
 2012	50121	Gotor	0	0	0	0	0	0
@@ -1298,10 +1298,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50133	Lagata	237,35	200,34	4,01	33	0	0
 2012	50134	Langa del Castillo	145,08	0	0	145,08	0	0
 2012	50135	Layana	0	0	0	0	0	0
-2012	50136	Lécera	2494,3383	2446,23	24,8963	23,212	0	0
+2012	50136	Lécera	24943383	2446,23	248963	23212	0	0
 2012	50137	Leciñena	359,13	357,82	0	1,31	0	0
 2012	50138	Lechón	0	0	0	0	0	0
-2012	50139	Letux	232,8368	223,7574	9,0794	0	0	0
+2012	50139	Letux	2328368	2237574	90794	0	0	0
 2012	50140	Litago	0	0	0	0	0	0
 2012	50141	Lituénigo	0	0	0	0	0	0
 2012	50142	Lobera de Onsella	0	0	0	0	0	0
@@ -1320,12 +1320,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50156	Maleján	0	0	0	0	0	0
 2012	50157	Malón	0	0	0	0	0	0
 2012	50159	Maluenda	5,53	5,53	0	0	0	0
-2012	50160	Mallén	24,0113	22,014	0,2631	1,7342	0	0
+2012	50160	Mallén	240113	22014	0,2631	17342	0	0
 2012	50161	Manchones	0	0	0	0	0	0
 2012	50162	Mara	6,35	6,35	0	0	0	0
 2012	50163	María de Huerva	267,18	247,54	0	0	0	19,64
 2012	50164	Mediana de Aragón	152,65	152,65	0	0	0	0
-2012	50165	Mequinenza	105,9222	46,1522	34,88	14,1	10,79	0
+2012	50165	Mequinenza	1059222	461522	34,88	14,1	10,79	0
 2012	50166	Mesones de Isuela	38,93	38,93	0	0	0	0
 2012	50167	Mezalocha	0,52	0,52	0	0	0	0
 2012	50168	Mianos	0	0	0	0	0	0
@@ -1342,14 +1342,14 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50179	Moyuela	0	0	0	0	0	0
 2012	50180	Mozota	0	0	0	0	0	0
 2012	50181	Muel	152,02	152,02	0	0	0	0
-2012	50182	Muela (La)	980,3967	932,7667	2,99	20,66	0	23,98
-2012	50183	Munébrega	29,7666	29,1966	0,57	0	0	0
+2012	50182	Muela (La)	9803967	9327667	2,99	20,66	0	23,98
+2012	50183	Munébrega	297666	291966	0,57	0	0	0
 2012	50184	Murero	5,25	0	5,25	0	0	0
 2012	50185	Murillo de Gállego	0	0	0	0	0	0
 2012	50186	Navardún	0	0	0	0	0	0
 2012	50187	Nigüella	0	0	0	0	0	0
 2012	50188	Nombrevilla	0	0	0	0	0	0
-2012	50189	Nonaspe	3,965	3,46	0,505	0	0	0
+2012	50189	Nonaspe	3965	3,46	0,505	0	0	0
 2012	50190	Novallas	0	0	0	0	0	0
 2012	50191	Novillas	2,51	2,51	0	0	0	0
 2012	50192	Nuévalos	0	0	0	0	0	0
@@ -1366,7 +1366,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50203	Pastriz	0,998	0,998	0	0	0	0
 2012	50204	Pedrola	577,28	510,62	14,26	52,4	0	0
 2012	50205	Pedrosas (Las)	0	0	0	0	0	0
-2012	50206	Perdiguera	467,9858	325,9558	77,65	64,38	0	0
+2012	50206	Perdiguera	4679858	3259558	77,65	64,38	0	0
 2012	50207	Piedratajada	0	0	0	0	0	0
 2012	50208	Pina de Ebro	744,58	739,4	4,61	0,57	0	0
 2012	50209	Pinseque	0	0	0	0	0	0
@@ -1384,7 +1384,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50221	Purujosa	0	0	0	0	0	0
 2012	50222	Quinto	0	0	0	0	0	0
 2012	50223	Remolinos	0	0	0	0	0	0
-2012	50224	Retascón	42,2925	42,2925	0	0	0	0
+2012	50224	Retascón	422925	422925	0	0	0	0
 2012	50225	Ricla	0,45	0,45	0	0	0	0
 2012	50227	Romanos	0	0	0	0	0	0
 2012	50228	Rueda de Jalón	2482,29	2442,7	1,87	20,6	0	17,12
@@ -1410,13 +1410,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50248	Sos del Rey Católico	441,17	441,17	0	0	0	0
 2012	50249	Tabuenca	25,67	8,73	0	16,94	0	0
 2012	50250	Talamantes	394,24	185,08	209,16	0	0	0
-2012	50251	Tarazona	19,545	14,995	4,34	0	0	0,21
-2012	50252	Tauste	182,9456	130,29	16,2556	6,15	0	30,25
+2012	50251	Tarazona	19545	14995	4,34	0	0	0,21
+2012	50252	Tauste	1829456	130,29	162556	6,15	0	30,25
 2012	50253	Terrer	0	0	0	0	0	0
 2012	50254	Tierga	0	0	0	0	0	0
 2012	50255	Tobed	0	0	0	0	0	0
 2012	50256	Torralba de los Frailes	0	0	0	0	0	0
-2012	50257	Torralba de Ribota	120,3979	105,92	0	0	14,4779	0
+2012	50257	Torralba de Ribota	1203979	105,92	0	0	144779	0
 2012	50258	Torralbilla	0,95	0	0	0,95	0	0
 2012	50259	Torrehermosa	0	0	0	0	0	0
 2012	50260	Torrelapaja	0	0	0	0	0	0
@@ -1444,7 +1444,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50282	Vilueña (La)	0	0	0	0	0	0
 2012	50283	Villadoz	0	0	0	0	0	0
 2012	50284	Villafeliche	0	0	0	0	0	0
-2012	50285	Villafranca de Ebro	230,1266	10,6266	0,49	214,88	4,13	0
+2012	50285	Villafranca de Ebro	2301266	106266	0,49	214,88	4,13	0
 2012	50286	Villalba de Perejil	0	0	0	0	0	0
 2012	50287	Villalengua	119,65	119,65	0	0	0	0
 2012	50288	Villanueva de Gállego	68,51	67,14	1,37	0	0	0
@@ -1456,7 +1456,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2012	50294	Villarroya del Campo	0	0	0	0	0	0
 2012	50295	Vistabella	0	0	0	0	0	0
 2012	50296	Zaida (La)	0	0	0	0	0	0
-2012	50297	Zaragoza	1446,451	1189,37	0,75	110,71	143,89	1,731
+2012	50297	Zaragoza	1446451	1189,37	0,75	110,71	143,89	1731
 2012	50298	Zuera	965,08	396,19	280,61	288,28	0	0
 2012	50901	Biel	5,76	0	0	0	5,76	0
 2012	50902	Marracos	0	0	0	0	0	0
@@ -1466,9 +1466,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22003	Adahuesca	18,73	18,73	0	0	0	0
 2013	22004	Agüero	0	0	0	0	0	0
 2013	22006	Aísa	0	0	0	0	0	0
-2013	22007	Albalate de Cinca	88,3389	70,6519	13,987	3,7	0	0
+2013	22007	Albalate de Cinca	883389	706519	13987	3,7	0	0
 2013	22008	Albalatillo	0	0	0	0	0	0
-2013	22009	Albelda	11,8163	9,5763	0	2,24	0	0
+2013	22009	Albelda	118163	95763	0	2,24	0	0
 2013	22011	Albero Alto	0	0	0	0	0	0
 2013	22012	Albero Bajo	6,5	6,5	0	0	0	0
 2013	22013	Alberuela de Tubo	0	0	0	0	0	0
@@ -1500,7 +1500,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22045	Baldellou	0	0	0	0	0	0
 2013	22046	Ballobar	0,49	0	0	0	0,49	0
 2013	22047	Banastás	0	0	0	0	0	0
-2013	22048	Barbastro	67,2291	57,13	9,21	0,8891	0	0
+2013	22048	Barbastro	672291	57,13	9,21	0,8891	0	0
 2013	22049	Barbués	0	0	0	0	0	0
 2013	22050	Barbuñales	17,71	17,71	0	0	0	0
 2013	22051	Bárcabo	0	0	0	0	0	0
@@ -1510,8 +1510,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22055	Berbegal	0	0	0	0	0	0
 2013	22057	Bielsa	0	0	0	0	0	0
 2013	22058	Bierge	6,61	0	5,07	1,54	0	0
-2013	22059	Biescas	194,164	176,334	17,83	0	0	0
-2013	22060	Binaced	35,5627	30,4049	5,1578	0	0	0
+2013	22059	Biescas	194164	176334	17,83	0	0	0
+2013	22060	Binaced	355627	304049	51578	0	0	0
 2013	22061	Binéfar	0	0	0	0	0	0
 2013	22062	Bisaurri	0	0	0	0	0	0
 2013	22063	Biscarrués	0	0	0	0	0	0
@@ -1550,7 +1550,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22109	Fiscal	0	0	0	0	0	0
 2013	22110	Fonz	0	0	0	0	0	0
 2013	22111	Foradada del Toscar	0	0	0	0	0	0
-2013	22112	Fraga	72,2642	58,5442	0	0	13,72	0
+2013	22112	Fraga	722642	585442	0	0	13,72	0
 2013	22113	Fueva (La)	353,59	333,19	20,4	0	0	0
 2013	22114	Gistaín	0	0	0	0	0	0
 2013	22115	Grado (El)	2,39	2,39	0	0	0	0
@@ -1559,19 +1559,19 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22119	Gurrea de Gállego	133,16	132,47	0,69	0	0	0
 2013	22122	Hoz de Jaca	0	0	0	0	0	0
 2013	22124	Huerto	32,72	29,25	3,47	0	0	0
-2013	22125	Huesca	249,6529	54,3429	0	0	195,31	0
+2013	22125	Huesca	2496529	543429	0	0	195,31	0
 2013	22126	Ibieca	0	0	0	0	0	0
 2013	22127	Igriés	0	0	0	0	0	0
-2013	22128	Ilche	8,6162	7,7338	0,8824	0	0	0
+2013	22128	Ilche	86162	77338	0,8824	0	0	0
 2013	22129	Isábena	0,64	0	0	0,64	0	0
-2013	22130	Jaca	812,5599	0	803,55	9,0099	0	0
+2013	22130	Jaca	8125599	0	803,55	90099	0	0
 2013	22131	Jasa	0	0	0	0	0	0
 2013	22133	Labuerda	2,91	2,91	0	0	0	0
 2013	22135	Laluenga	30,03	23,82	6,21	0	0	0
 2013	22136	Lalueza	0	0	0	0	0	0
 2013	22137	Lanaja	0	0	0	0	0	0
 2013	22139	Laperdiguera	0	0	0	0	0	0
-2013	22141	Lascellas-Ponzano	59,9885	1,26	58,7285	0	0	0
+2013	22141	Lascellas-Ponzano	599885	1,26	587285	0	0	0
 2013	22142	Lascuarre	0	0	0	0	0	0
 2013	22143	Laspaúles	0	0	0	0	0	0
 2013	22144	Laspuña	0	0	0	0	0	0
@@ -1585,7 +1585,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22160	Naval	46,45	28,18	0	0	0	18,27
 2013	22162	Novales	0	0	0	0	0	0
 2013	22163	Nueno	0	0	0	0	0	0
-2013	22164	Olvena	4,0918	3,9618	0	0,13	0	0
+2013	22164	Olvena	40918	39618	0	0,13	0	0
 2013	22165	Ontiñena	0	0	0	0	0	0
 2013	22167	Osso de Cinca	50,8	49,25	1,55	0	0	0
 2013	22168	Palo	35,63	35,63	0	0	0	0
@@ -1620,7 +1620,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22208	Santa Cilia	0	0	0	0	0	0
 2013	22209	Santa Cruz de la Serós	0	0	0	0	0	0
 2013	22212	Santaliestra y San Quílez	0	0	0	0	0	0
-2013	22213	Sariñena	175,578	44,9849	1,27	0,1925	125,58	3,5506
+2013	22213	Sariñena	175578	449849	1,27	0,1925	125,58	35506
 2013	22214	Secastilla	39,72	39,72	0	0	0	0
 2013	22215	Seira	0	0	0	0	0	0
 2013	22217	Sena	57,43	57,43	0	0	0	0
@@ -1635,7 +1635,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22228	Tierz	0	0	0	0	0	0
 2013	22229	Tolva	0	0	0	0	0	0
 2013	22230	Torla-Ordesa	0	0	0	0	0	0
-2013	22232	Torralba de Aragón	164,0533	143,0733	0	20,98	0	0
+2013	22232	Torralba de Aragón	1640533	1430733	0	20,98	0	0
 2013	22233	Torre la Ribera	0	0	0	0	0	0
 2013	22234	Torrente de Cinca	0	0	0	0	0	0
 2013	22235	Torres de Alcanadre	0	0	0	0	0	0
@@ -1657,25 +1657,25 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	22901	Valle de Hecho	0	0	0	0	0	0
 2013	22902	Puente la Reina de Jaca	0	0	0	0	0	0
 2013	22903	San Miguel del Cinca	319,56	263,12	56,44	0	0	0
-2013	22904	Sotonera (La)	1,6288	0	0	1,6288	0	0
+2013	22904	Sotonera (La)	16288	0	0	16288	0	0
 2013	22905	Lupiñén-Ortilla	117,35	0	0	0	117,35	0
 2013	22906	Santa María de Dulcis	4,76	2,61	2,15	0	0	0
 2013	22907	Aínsa-Sobrarbe	185,41	181,16	4,25	0	0	0
-2013	22908	Hoz y Costeán	329,8529	325,2429	4,61	0	0	0
+2013	22908	Hoz y Costeán	3298529	3252429	4,61	0	0	0
 2013	22909	Vencillón	0	0	0	0	0	0
 2013	44001	Ababuj	82,59	0	75,01	7,58	0	0
 2013	44002	Abejuela	0	0	0	0	0	0
 2013	44003	Aguatón	0	0	0	0	0	0
 2013	44004	Aguaviva	0	0	0	0	0	0
 2013	44005	Aguilar del Alfambra	0	0	0	0	0	0
-2013	44006	Alacón	290,7248	287,6449	3,0799	0	0	0
+2013	44006	Alacón	2907248	2876449	30799	0	0	0
 2013	44007	Alba	0	0	0	0	0	0
 2013	44008	Albalate del Arzobispo	297,84	283,72	0	1,71	10,9	1,51
 2013	44009	Albarracín	1027,54	1023,09	4,45	0	0	0
 2013	44010	Albentosa	0	0	0	0	0	0
 2013	44011	Alcaine	0	0	0	0	0	0
 2013	44012	Alcalá de la Selva	0	0	0	0	0	0
-2013	44013	Alcañiz	407,4316	262,8716	7,69	136,74	0,13	0
+2013	44013	Alcañiz	4074316	2628716	7,69	136,74	0,13	0
 2013	44014	Alcorisa	14,6	14,53	0	0	0	0,07
 2013	44016	Alfambra	13,17	13,17	0	0	0	0
 2013	44017	Aliaga	82,45	82,45	0	0	0	0
@@ -1688,7 +1688,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44024	Anadón	0	0	0	0	0	0
 2013	44025	Andorra	25,77	25,77	0	0	0	0
 2013	44026	Arcos de las Salinas	0	0	0	0	0	0
-2013	44027	Arens de Lledó	120,8275	120,8275	0	0	0	0
+2013	44027	Arens de Lledó	1208275	1208275	0	0	0	0
 2013	44028	Argente	0	0	0	0	0	0
 2013	44029	Ariño	9,33	9,33	0	0	0	0
 2013	44031	Azaila	534,49	507,43	0	27,06	0	0
@@ -1709,9 +1709,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44046	Bueña	0	0	0	0	0	0
 2013	44047	Burbáguena	7,9	0	0,91	0,54	6,45	0
 2013	44048	Cabra de Mora	0	0	0	0	0	0
-2013	44049	Calaceite	373,8193	297,5681	27,9292	42,23	0	6,092
+2013	44049	Calaceite	3738193	2975681	279292	42,23	0	6092
 2013	44050	Calamocha	29,46	0	0	0	29,46	0
-2013	44051	Calanda	336,7027	325,2885	6,18	1,2142	0	4,02
+2013	44051	Calanda	3367027	3252885	6,18	12142	0	4,02
 2013	44052	Calomarde	0	0	0	0	0	0
 2013	44053	Camañas	2,25	2,25	0	0	0	0
 2013	44054	Camarena de la Sierra	0	0	0	0	0	0
@@ -1727,17 +1727,17 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44066	Castel de Cabra	0	0	0	0	0	0
 2013	44067	Castelnou	0	0	0	0	0	0
 2013	44068	Castelserás	32,32	29,82	2,5	0	0	0
-2013	44070	Castellar (El)	131,034	87,314	0	0	0	43,72
+2013	44070	Castellar (El)	131034	87314	0	0	0	43,72
 2013	44071	Castellote	0	0	0	0	0	0
 2013	44074	Cedrillas	0	0	0	0	0	0
 2013	44075	Celadas	0	0	0	0	0	0
 2013	44076	Cella	0	0	0	0	0	0
 2013	44077	Cerollera (La)	0	0	0	0	0	0
-2013	44080	Codoñera (La)	29,358	25,12	3,748	0	0	0,49
+2013	44080	Codoñera (La)	29358	25,12	3748	0	0	0,49
 2013	44082	Corbalán	0	0	0	0	0	0
 2013	44084	Cortes de Aragón	0	0	0	0	0	0
 2013	44085	Cosa	0	0	0	0	0	0
-2013	44086	Cretas	61,2294	51,0694	0,8	9,36	0	0
+2013	44086	Cretas	612294	510694	0,8	9,36	0	0
 2013	44087	Crivillén	1,14	1,14	0	0	0	0
 2013	44088	Cuba (La)	0	0	0	0	0	0
 2013	44089	Cubla	0	0	0	0	0	0
@@ -1755,10 +1755,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44105	Fórnoles	14,48	13,78	0	0,7	0	0
 2013	44106	Fortanete	12,41	12,41	0	0	0	0
 2013	44107	Foz-Calanda	31,4	30,43	0	0	0	0,97
-2013	44108	Fresneda (La)	27,7979	25,71	0	1,46	0	0,6279
+2013	44108	Fresneda (La)	277979	25,71	0	1,46	0	0,6279
 2013	44109	Frías de Albarracín	0	0	0	0	0	0
 2013	44110	Fuenferrada	0	0	0	0	0	0
-2013	44111	Fuentes Calientes	323,088	227,798	0	0	95,29	0
+2013	44111	Fuentes Calientes	323088	227798	0	0	95,29	0
 2013	44112	Fuentes Claras	0	0	0	0	0	0
 2013	44113	Fuentes de Rubielos	0	0	0	0	0	0
 2013	44114	Fuentespalda	26,58	26,58	0	0	0	0
@@ -1769,7 +1769,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44119	Griegos	0	0	0	0	0	0
 2013	44120	Guadalaviar	0	0	0	0	0	0
 2013	44121	Gúdar	0	0	0	0	0	0
-2013	44122	Híjar	554,363	552,133	1,13	1,1	0	0
+2013	44122	Híjar	554363	552133	1,13	1,1	0	0
 2013	44123	Hinojosa de Jarque	0	0	0	0	0	0
 2013	44124	Hoz de la Vieja (La)	0	0	0	0	0	0
 2013	44125	Huesa del Común	0	0	0	0	0	0
@@ -1782,8 +1782,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44132	Lagueruela	0	0	0	0	0	0
 2013	44133	Lanzuela	0	0	0	0	0	0
 2013	44135	Libros	0	0	0	0	0	0
-2013	44136	Lidón	41,3019	32,17	9,1319	0	0	0
-2013	44137	Linares de Mora	86,2207	35,44	50,7807	0	0	0
+2013	44136	Lidón	413019	32,17	91319	0	0	0
+2013	44137	Linares de Mora	862207	35,44	507807	0	0	0
 2013	44138	Loscos	0	0	0	0	0	0
 2013	44141	Lledó	16,1	11,64	1,7	2,76	0	0
 2013	44142	Maicas	0	0	0	0	0	0
@@ -1791,7 +1791,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44144	Martín del Río	0	0	0	0	0	0
 2013	44145	Mas de las Matas	0	0	0	0	0	0
 2013	44146	Mata de los Olmos (La)	52,68	52,2	0	0,48	0	0
-2013	44147	Mazaleón	586,9701	522,1121	32,9506	22,35	0	9,5574
+2013	44147	Mazaleón	5869701	5221121	329506	22,35	0	95574
 2013	44148	Mezquita de Jarque	0	0	0	0	0	0
 2013	44149	Mirambel	0	0	0	0	0	0
 2013	44150	Miravete de la Sierra	0	0	0	0	0	0
@@ -1805,7 +1805,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44158	Mora de Rubielos	0	0	0	0	0	0
 2013	44159	Moscardón	0	0	0	0	0	0
 2013	44160	Mosqueruela	6,77	6,77	0	0	0	0
-2013	44161	Muniesa	65,3751	65,3751	0	0	0	0
+2013	44161	Muniesa	653751	653751	0	0	0	0
 2013	44163	Noguera de Albarracín	0	0	0	0	0	0
 2013	44164	Nogueras	0	0	0	0	0	0
 2013	44165	Nogueruelas	0	0	0	0	0	0
@@ -1814,26 +1814,26 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44169	Ojos Negros	0	0	0	0	0	0
 2013	44171	Olba	0	0	0	0	0	0
 2013	44172	Oliete	12,58	12,58	0	0	0	0
-2013	44173	Olmos (Los)	24,3871	24,1171	0,27	0	0	0
+2013	44173	Olmos (Los)	243871	241171	0,27	0	0	0
 2013	44174	Orihuela del Tremedal	0	0	0	0	0	0
 2013	44175	Orrios	114,15	114,15	0	0	0	0
 2013	44176	Palomar de Arroyos	0	0	0	0	0	0
 2013	44177	Pancrudo	28,96	28,96	0	0	0	0
 2013	44178	Parras de Castellote (Las)	0	0	0	0	0	0
-2013	44179	Peñarroya de Tastavins	223,0514	222,8214	0	0	0	0,23
+2013	44179	Peñarroya de Tastavins	2230514	2228214	0	0	0	0,23
 2013	44180	Peracense	0	0	0	0	0	0
 2013	44181	Peralejos	135,26	135,26	0	0	0	0
 2013	44182	Perales del Alfambra	686,4	294,59	18,24	9,36	364,21	0
 2013	44183	Pitarque	0	0	0	0	0	0
 2013	44184	Plou	0	0	0	0	0	0
 2013	44185	Pobo (El)	52,14	0	1,24	0	0	50,9
-2013	44187	Portellada (La)	62,7041	56,0441	5,3	0,68	0	0,68
+2013	44187	Portellada (La)	627041	560441	5,3	0,68	0	0,68
 2013	44189	Pozondón	0	0	0	0	0	0
 2013	44190	Pozuel del Campo	0	0	0	0	0	0
 2013	44191	Puebla de Híjar (La)	1,07	0,73	0,34	0	0	0
-2013	44192	Puebla de Valverde (La)	130,2605	130,2605	0	0	0	0
+2013	44192	Puebla de Valverde (La)	1302605	1302605	0	0	0	0
 2013	44193	Puertomingalvo	0	0	0	0	0	0
-2013	44194	Ráfales	118,1115	111,2115	6,9	0	0	0
+2013	44194	Ráfales	1181115	1112115	6,9	0	0	0
 2013	44195	Rillo	62,52	61,06	0	0	1,46	0
 2013	44196	Riodeva	0	0	0	0	0	0
 2013	44197	Ródenas	0	0	0	0	0	0
@@ -1843,9 +1843,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44201	Rubielos de Mora	0	0	0	0	0	0
 2013	44203	Salcedillo	0	0	0	0	0	0
 2013	44204	Saldón	0	0	0	0	0	0
-2013	44205	Samper de Calanda	1063,3347	899,4847	36,54	125,34	0	1,97
+2013	44205	Samper de Calanda	10633347	8994847	36,54	125,34	0	1,97
 2013	44206	San Agustín	0	0	0	0	0	0
-2013	44207	San Martín del Río	35,7051	27,4651	0	8,24	0	0
+2013	44207	San Martín del Río	357051	274651	0	8,24	0	0
 2013	44208	Santa Cruz de Nogueras	0	0	0	0	0	0
 2013	44209	Santa Eulalia	0	0	0	0	0	0
 2013	44210	Sarrión	0	0	0	0	0	0
@@ -1858,7 +1858,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44218	Tormón	0	0	0	0	0	0
 2013	44219	Tornos	0	0	0	0	0	0
 2013	44220	Torralba de los Sisones	41,98	41,98	0	0	0	0
-2013	44221	Torrecilla de Alcañiz	245,9716	233,8516	11,96	0,16	0	0
+2013	44221	Torrecilla de Alcañiz	2459716	2338516	11,96	0,16	0	0
 2013	44222	Torrecilla del Rebollar	2,12	2,12	0	0	0	0
 2013	44223	Torre de Arcas	0	0	0	0	0	0
 2013	44224	Torre de las Arcas	0	0	0	0	0	0
@@ -1877,12 +1877,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	44238	Utrillas	0	0	0	0	0	0
 2013	44239	Valacloche	0	0	0	0	0	0
 2013	44240	Valbona	0	0	0	0	0	0
-2013	44241	Valdealgorfa	148,097	144,427	2,14	1,53	0	0
+2013	44241	Valdealgorfa	148097	144427	2,14	1,53	0	0
 2013	44243	Valdecuenca	0	0	0	0	0	0
 2013	44244	Valdelinares	0	0	0	0	0	0
-2013	44245	Valdeltormo	221,1594	195,1121	16,59	4,92	0	4,5373
-2013	44246	Valderrobres	230,1486	188,1327	30,19	10,7969	0,32	0,709
-2013	44247	Valjunquera	138,2452	113,7054	14,7698	5,92	0	3,85
+2013	44245	Valdeltormo	2211594	1951121	16,59	4,92	0	45373
+2013	44246	Valderrobres	2301486	1881327	30,19	107969	0,32	0,709
+2013	44247	Valjunquera	1382452	1137054	147698	5,92	0	3,85
 2013	44249	Vallecillo (El)	0	0	0	0	0	0
 2013	44250	Veguillas de la Sierra	0	0	0	0	0	0
 2013	44251	Villafranca del Campo	251,45	246	5,45	0	0	0
@@ -1904,7 +1904,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50003	Agón	1,18	0,23	0	0	0,95	0
 2013	50004	Aguarón	0	0	0	0	0	0
 2013	50005	Aguilón	10,93	10,93	0	0	0	0
-2013	50006	Ainzón	10,3389	0	4,03	4,7989	1,51	0
+2013	50006	Ainzón	103389	0	4,03	47989	1,51	0
 2013	50007	Aladrén	0	0	0	0	0	0
 2013	50008	Alagón	19,2	0	4,02	0	0	15,18
 2013	50009	Alarba	4,72	4,72	0	0	0	0
@@ -1920,8 +1920,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50019	Alforque	57,58	0	12,57	45,01	0	0
 2013	50020	Alhama de Aragón	10,53	10,53	0	0	0	0
 2013	50021	Almochuel	515,98	425,07	3,13	87,78	0	0
-2013	50022	Almolda (La)	179,7444	176,8	2,0044	0	0,94	0
-2013	50023	Almonacid de la Cuba	321,315	256,265	0	47,5	17,55	0
+2013	50022	Almolda (La)	1797444	176,8	20044	0	0,94	0
+2013	50023	Almonacid de la Cuba	321315	256265	0	47,5	17,55	0
 2013	50024	Almonacid de la Sierra	33,14	29,93	1,61	1,6	0	0
 2013	50025	Almunia de Doña Godina (La)	106,28	51,03	0	55,25	0	0
 2013	50026	Alpartir	0	0	0	0	0	0
@@ -1940,10 +1940,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50039	Azuara	657,06	636,62	0	1,81	18,63	0
 2013	50040	Badules	7,65	7,65	0	0	0	0
 2013	50041	Bagüés	0	0	0	0	0	0
-2013	50042	Balconchán	7,6955	6,4255	1,27	0	0	0
+2013	50042	Balconchán	76955	64255	1,27	0	0	0
 2013	50043	Bárboles	0	0	0	0	0	0
 2013	50044	Bardallur	2,31	1,13	0	0	1,18	0
-2013	50045	Belchite	2089,6194	1631,63	55,87	316,7894	52,94	32,39
+2013	50045	Belchite	20896194	1631,63	55,87	3167894	52,94	32,39
 2013	50046	Belmonte de Gracián	0	0	0	0	0	0
 2013	50047	Berdejo	470,55	0	0	0	470,55	0
 2013	50048	Berrueco	0	0	0	0	0	0
@@ -1970,8 +1970,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50070	Calmarza	0	0	0	0	0	0
 2013	50071	Campillo de Aragón	0	0	0	0	0	0
 2013	50072	Carenas	0	0	0	0	0	0
-2013	50073	Cariñena	354,3605	273,1544	68,43	12,7761	0	0
-2013	50074	Caspe	2449,6914	1843,6141	101,6873	64,96	426,48	12,95
+2013	50073	Cariñena	3543605	2731544	68,43	127761	0	0
+2013	50074	Caspe	24496914	18436141	1016873	64,96	426,48	12,95
 2013	50075	Castejón de Alarba	3,73	2,93	0,8	0	0	0
 2013	50076	Castejón de las Armas	0	0	0	0	0	0
 2013	50077	Castejón de Valdejasa	13,05	0	0	0	13,05	0
@@ -1982,8 +1982,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50082	Cimballa	0	0	0	0	0	0
 2013	50083	Cinco Olivas	0	0	0	0	0	0
 2013	50084	Clarés de Ribota	0	0	0	0	0	0
-2013	50085	Codo	51,0808	27,56	0	21,2408	2,28	0
-2013	50086	Codos	75,8475	75,8475	0	0	0	0
+2013	50085	Codo	510808	27,56	0	212408	2,28	0
+2013	50086	Codos	758475	758475	0	0	0	0
 2013	50087	Contamina	0	0	0	0	0	0
 2013	50088	Cosuenda	0	0	0	0	0	0
 2013	50089	Cuarte de Huerva	1,76	0	0	0	1,76	0
@@ -1991,15 +1991,15 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50091	Cuerlas (Las)	0	0	0	0	0	0
 2013	50092	Chiprana	56,33	32,54	0	0	23,79	0
 2013	50093	Chodes	0	0	0	0	0	0
-2013	50094	Daroca	14,5267	14,3467	0,18	0	0	0
-2013	50095	Ejea de los Caballeros	699,028	343,0373	33,4507	5,82	316,72	0
+2013	50094	Daroca	145267	143467	0,18	0	0	0
+2013	50095	Ejea de los Caballeros	699028	3430373	334507	5,82	316,72	0
 2013	50096	Embid de Ariza	0	0	0	0	0	0
 2013	50098	Encinacorba	14,12	14,12	0	0	0	0
-2013	50099	Épila	3530,6308	1939,2414	27,27	19,73	1505,3794	39,01
+2013	50099	Épila	35306308	19392414	27,27	19,73	15053794	39,01
 2013	50100	Erla	6,91	6,91	0	0	0	0
 2013	50101	Escatrón	629,24	549,13	0	0	80,11	0
-2013	50102	Fabara	169,0631	82,5088	41,1843	9,53	20,27	15,57
-2013	50104	Farlete	1069,124	1055,994	13,13	0	0	0
+2013	50102	Fabara	1690631	825088	411843	9,53	20,27	15,57
+2013	50104	Farlete	1069124	1055994	13,13	0	0	0
 2013	50105	Fayón	35,43	11,07	20,84	0	0	3,52
 2013	50106	Fayos (Los)	0	0	0	0	0	0
 2013	50107	Figueruelas	5,2	0	0	0	5,2	0
@@ -2007,7 +2007,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50109	Frago (El)	0	0	0	0	0	0
 2013	50110	Frasno (El)	39,02	8,32	0	0	30,7	0
 2013	50111	Fréscano	240,86	240,86	0	0	0	0
-2013	50113	Fuendejalón	286,7383	68,12	0,99	18,8183	198,81	0
+2013	50113	Fuendejalón	2867383	68,12	0,99	188183	198,81	0
 2013	50114	Fuendetodos	198,45	197,28	0	0	1,17	0
 2013	50115	Fuentes de Ebro	7	7	0	0	0	0
 2013	50116	Fuentes de Jiloca	0	0	0	0	0	0
@@ -2029,10 +2029,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50133	Lagata	237,67	166,93	30,01	20,72	20,01	0
 2013	50134	Langa del Castillo	145,56	0	145,52	0,04	0	0
 2013	50135	Layana	0	0	0	0	0	0
-2013	50136	Lécera	2212,9783	2084,6163	12,092	90,47	25,8	0
+2013	50136	Lécera	22129783	20846163	12092	90,47	25,8	0
 2013	50137	Leciñena	358,62	357,53	1,09	0	0	0
 2013	50138	Lechón	0	0	0	0	0	0
-2013	50139	Letux	236,5645	76,1745	1,11	4	155,28	0
+2013	50139	Letux	2365645	761745	1,11	4	155,28	0
 2013	50140	Litago	0	0	0	0	0	0
 2013	50141	Lituénigo	0	0	0	0	0	0
 2013	50142	Lobera de Onsella	0	0	0	0	0	0
@@ -2051,7 +2051,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50156	Maleján	0	0	0	0	0	0
 2013	50157	Malón	0	0	0	0	0	0
 2013	50159	Maluenda	5,53	5,53	0	0	0	0
-2013	50160	Mallén	25,4713	22,2771	1,7342	0	0	1,46
+2013	50160	Mallén	254713	222771	17342	0	0	1,46
 2013	50161	Manchones	0	0	0	0	0	0
 2013	50162	Mara	6,35	6,35	0	0	0	0
 2013	50163	María de Huerva	256,01	5,07	6,41	0	244,53	0
@@ -2073,14 +2073,14 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50179	Moyuela	0	0	0	0	0	0
 2013	50180	Mozota	0	0	0	0	0	0
 2013	50181	Muel	151,78	150,02	0	0	1,76	0
-2013	50182	Muela (La)	1052,9767	364,1467	19,22	0	669,61	0
-2013	50183	Munébrega	29,7666	29,7666	0	0	0	0
+2013	50182	Muela (La)	10529767	3641467	19,22	0	669,61	0
+2013	50183	Munébrega	297666	297666	0	0	0	0
 2013	50184	Murero	5,25	5,25	0	0	0	0
 2013	50185	Murillo de Gállego	0	0	0	0	0	0
 2013	50186	Navardún	0	0	0	0	0	0
 2013	50187	Nigüella	0	0	0	0	0	0
 2013	50188	Nombrevilla	0	0	0	0	0	0
-2013	50189	Nonaspe	4,805	4,805	0	0	0	0
+2013	50189	Nonaspe	4805	4805	0	0	0	0
 2013	50190	Novallas	0	0	0	0	0	0
 2013	50191	Novillas	2,4	2,4	0	0	0	0
 2013	50192	Nuévalos	0	0	0	0	0	0
@@ -2097,7 +2097,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50203	Pastriz	0,99	0,99	0	0	0	0
 2013	50204	Pedrola	562,58	56,21	29,45	0	476,92	0
 2013	50205	Pedrosas (Las)	0	0	0	0	0	0
-2013	50206	Perdiguera	466,7718	402,2318	64,38	0,16	0	0
+2013	50206	Perdiguera	4667718	4022318	64,38	0,16	0	0
 2013	50207	Piedratajada	0	0	0	0	0	0
 2013	50208	Pina de Ebro	492,46	121,08	0	0,57	370,81	0
 2013	50209	Pinseque	0	0	0	0	0	0
@@ -2109,13 +2109,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50215	Pozuel de Ariza	0	0	0	0	0	0
 2013	50216	Pozuelo de Aragón	386,04	143,05	0,15	0	242,84	0
 2013	50217	Pradilla de Ebro	15,65	0	0	0	15,65	0
-2013	50218	Puebla de Albortón	1287,601	1284,3	2,31	0,991	0	0
+2013	50218	Puebla de Albortón	1287601	1284,3	2,31	0,991	0	0
 2013	50219	Puebla de Alfindén (La)	0	0	0	0	0	0
 2013	50220	Puendeluna	0	0	0	0	0	0
 2013	50221	Purujosa	307,09	0	0	0	0	307,09
 2013	50222	Quinto	25,34	0	0	25,34	0	0
 2013	50223	Remolinos	0	0	0	0	0	0
-2013	50224	Retascón	42,2925	42,2925	0	0	0	0
+2013	50224	Retascón	422925	422925	0	0	0	0
 2013	50225	Ricla	0,45	0,45	0	0	0	0
 2013	50227	Romanos	0	0	0	0	0	0
 2013	50228	Rueda de Jalón	2351,61	1647,9	2,9	53,49	646,45	0,87
@@ -2125,12 +2125,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50232	Salvatierra de Esca	0	0	0	0	0	0
 2013	50233	Samper del Salz	198,49	161,29	5,67	1,03	30,5	0
 2013	50234	San Martín de la Virgen de Moncayo	0	0	0	0	0	0
-2013	50235	San Mateo de Gállego	50,595	9,115	0,49	0	0	40,99
+2013	50235	San Mateo de Gállego	50595	9115	0,49	0	0	40,99
 2013	50236	Santa Cruz de Grío	0	0	0	0	0	0
 2013	50237	Santa Cruz de Moncayo	0	0	0	0	0	0
 2013	50238	Santa Eulalia de Gállego	0	0	0	0	0	0
 2013	50239	Santed	0	0	0	0	0	0
-2013	50240	Sástago	761,136	658,366	32,43	22,05	46,98	1,31
+2013	50240	Sástago	761136	658366	32,43	22,05	46,98	1,31
 2013	50241	Saviñán	0	0	0	0	0	0
 2013	50242	Sediles	0	0	0	0	0	0
 2013	50243	Sestrica	0	0	0	0	0	0
@@ -2141,13 +2141,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50248	Sos del Rey Católico	391,43	270,98	0	0	120,45	0
 2013	50249	Tabuenca	25,96	0	0	0	25,96	0
 2013	50250	Talamantes	393,6	184,44	209,16	0	0	0
-2013	50251	Tarazona	24,1718	9,36	1,89	5,1218	7,8	0
-2013	50252	Tauste	164,6166	3,7278	6,15	0	153,31	1,4288
+2013	50251	Tarazona	241718	9,36	1,89	51218	7,8	0
+2013	50252	Tauste	1646166	37278	6,15	0	153,31	14288
 2013	50253	Terrer	0	0	0	0	0	0
 2013	50254	Tierga	0	0	0	0	0	0
 2013	50255	Tobed	0	0	0	0	0	0
 2013	50256	Torralba de los Frailes	0	0	0	0	0	0
-2013	50257	Torralba de Ribota	119,8779	0	0	0	119,8779	0
+2013	50257	Torralba de Ribota	1198779	0	0	0	1198779	0
 2013	50258	Torralbilla	0,95	0	0,95	0	0	0
 2013	50259	Torrehermosa	0	0	0	0	0	0
 2013	50260	Torrelapaja	0	0	0	0	0	0
@@ -2175,7 +2175,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50282	Vilueña (La)	0	0	0	0	0	0
 2013	50283	Villadoz	0	0	0	0	0	0
 2013	50284	Villafeliche	0	0	0	0	0	0
-2013	50285	Villafranca de Ebro	230,8766	11,1166	215,38	0	4,13	0,25
+2013	50285	Villafranca de Ebro	2308766	111166	215,38	0	4,13	0,25
 2013	50286	Villalba de Perejil	0	0	0	0	0	0
 2013	50287	Villalengua	118,25	82,34	0	0	35,67	0,24
 2013	50288	Villanueva de Gállego	66,53	66,53	0	0	0	0
@@ -2187,7 +2187,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2013	50294	Villarroya del Campo	0	0	0	0	0	0
 2013	50295	Vistabella	0	0	0	0	0	0
 2013	50296	Zaida (La)	0	0	0	0	0	0
-2013	50297	Zaragoza	1447,1674	939,73	32,1764	4,561	459,2	11,5
+2013	50297	Zaragoza	14471674	939,73	321764	4561	459,2	11,5
 2013	50298	Zuera	901,8	334,18	172,4	93,13	226,98	75,11
 2013	50901	Biel	5,76	0	0	0	5,76	0
 2013	50902	Marracos	0	0	0	0	0	0
@@ -2231,7 +2231,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	22045	Baldellou	0	0	0	0	0	0
 2014	22046	Ballobar	0,49	0	0	0	0,49	0
 2014	22047	Banastás	0	0	0	0	0	0
-2014	22048	Barbastro	69,2791	62,32	0,8891	6,07	0	0
+2014	22048	Barbastro	692791	62,32	0,8891	6,07	0	0
 2014	22049	Barbués	0	0	0	0	0	0
 2014	22050	Barbuñales	27,9	17,56	0	0	0	10,34
 2014	22051	Bárcabo	0	0	0	0	0	0
@@ -2241,8 +2241,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	22055	Berbegal	0	0	0	0	0	0
 2014	22057	Bielsa	0	0	0	0	0	0
 2014	22058	Bierge	7,04	0	6,53	0,08	0	0,43
-2014	22059	Biescas	177,512	159,604	17,01	0	0	0,898
-2014	22060	Binaced	35,2964	35,2964	0	0	0	0
+2014	22059	Biescas	177512	159604	17,01	0	0	0,898
+2014	22060	Binaced	352964	352964	0	0	0	0
 2014	22061	Binéfar	0	0	0	0	0	0
 2014	22062	Bisaurri	0	0	0	0	0	0
 2014	22063	Biscarrués	0	0	0	0	0	0
@@ -2290,12 +2290,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	22119	Gurrea de Gállego	132,81	132,81	0	0	0	0
 2014	22122	Hoz de Jaca	0	0	0	0	0	0
 2014	22124	Huerto	35,87	32,97	2,9	0	0	0
-2014	22125	Huesca	248,0169	53,8169	0	0	193,1	1,1
+2014	22125	Huesca	2480169	538169	0	0	193,1	1,1
 2014	22126	Ibieca	0	0	0	0	0	0
 2014	22127	Igriés	0	0	0	0	0	0
-2014	22128	Ilche	8,076	8,076	0	0	0	0
+2014	22128	Ilche	8076	8076	0	0	0	0
 2014	22129	Isábena	0,8	0	0	0,63	0	0,17
-2014	22130	Jaca	510,6299	506,69	3,2699	0	0	0,67
+2014	22130	Jaca	5106299	506,69	32699	0	0	0,67
 2014	22131	Jasa	0	0	0	0	0	0
 2014	22133	Labuerda	2,91	2,91	0	0	0	0
 2014	22135	Laluenga	22,81	16,59	0	6,22	0	0
@@ -2351,7 +2351,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	22208	Santa Cilia	0	0	0	0	0	0
 2014	22209	Santa Cruz de la Serós	0	0	0	0	0	0
 2014	22212	Santaliestra y San Quílez	0	0	0	0	0	0
-2014	22213	Sariñena	54,9281	47,4175	0	3,96	0	3,5506
+2014	22213	Sariñena	549281	474175	0	3,96	0	35506
 2014	22214	Secastilla	5,82	5,82	0	0	0	0
 2014	22215	Seira	0	0	0	0	0	0
 2014	22217	Sena	57	42,41	0	14,59	0	0
@@ -2366,7 +2366,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	22228	Tierz	0	0	0	0	0	0
 2014	22229	Tolva	0	0	0	0	0	0
 2014	22230	Torla-Ordesa	0	0	0	0	0	0
-2014	22232	Torralba de Aragón	163,9633	163,9633	0	0	0	0
+2014	22232	Torralba de Aragón	1639633	1639633	0	0	0	0
 2014	22233	Torre la Ribera	0	0	0	0	0	0
 2014	22234	Torrente de Cinca	0	0	0	0	0	0
 2014	22235	Torres de Alcanadre	2,19	0	0	0	0	2,19
@@ -2392,21 +2392,21 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	22905	Lupiñén-Ortilla	42,87	0	0	0	42,87	0
 2014	22906	Santa María de Dulcis	0	0	0	0	0	0
 2014	22907	Aínsa-Sobrarbe	181,93	181,7	0,23	0	0	0
-2014	22908	Hoz y Costeán	328,383	320,053	4,55	0	0	3,78
+2014	22908	Hoz y Costeán	328383	320053	4,55	0	0	3,78
 2014	22909	Vencillón	0	0	0	0	0	0
 2014	44001	Ababuj	86,72	66,13	12,66	4,3	0	3,63
 2014	44002	Abejuela	0	0	0	0	0	0
 2014	44003	Aguatón	0	0	0	0	0	0
 2014	44004	Aguaviva	0	0	0	0	0	0
 2014	44005	Aguilar del Alfambra	0	0	0	0	0	0
-2014	44006	Alacón	155,6735	152,6499	0,98	0	0	2,0436
+2014	44006	Alacón	1556735	1526499	0,98	0	0	20436
 2014	44007	Alba	0	0	0	0	0	0
 2014	44008	Albalate del Arzobispo	295,11	250,18	4,71	21,72	11,2	7,3
 2014	44009	Albarracín	1037,36	1000,3	10,08	26,98	0	0
 2014	44010	Albentosa	0	0	0	0	0	0
 2014	44011	Alcaine	1,98	0	0	1,98	0	0
 2014	44012	Alcalá de la Selva	0	0	0	0	0	0
-2014	44013	Alcañiz	398,308	244,82	139,54	3,92	0	10,028
+2014	44013	Alcañiz	398308	244,82	139,54	3,92	0	10028
 2014	44014	Alcorisa	19,62	14,91	0	0	0	4,71
 2014	44016	Alfambra	0	0	0	0	0	0
 2014	44017	Aliaga	78,4	78,4	0	0	0	0
@@ -2419,7 +2419,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44024	Anadón	0	0	0	0	0	0
 2014	44025	Andorra	28,94	26,24	0	2,7	0	0
 2014	44026	Arcos de las Salinas	0	0	0	0	0	0
-2014	44027	Arens de Lledó	121,7175	121,7175	0	0	0	0
+2014	44027	Arens de Lledó	1217175	1217175	0	0	0	0
 2014	44028	Argente	0	0	0	0	0	0
 2014	44029	Ariño	10,56	10,56	0	0	0	0
 2014	44031	Azaila	331,92	319,75	12,17	0	0	0
@@ -2440,9 +2440,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44046	Bueña	0	0	0	0	0	0
 2014	44047	Burbáguena	7,88	0,87	0,56	0	6,45	0
 2014	44048	Cabra de Mora	0	0	0	0	0	0
-2014	44049	Calaceite	425,8429	294,1092	62,4537	12,78	0	56,5
+2014	44049	Calaceite	4258429	2941092	624537	12,78	0	56,5
 2014	44050	Calamocha	53,6	0	0	24,57	29,03	0
-2014	44051	Calanda	342,9593	312,1693	9,68	0,84	0	20,27
+2014	44051	Calanda	3429593	3121693	9,68	0,84	0	20,27
 2014	44052	Calomarde	0	0	0	0	0	0
 2014	44053	Camañas	2,27	2,27	0	0	0	0
 2014	44054	Camarena de la Sierra	0	0	0	0	0	0
@@ -2458,7 +2458,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44066	Castel de Cabra	0	0	0	0	0	0
 2014	44067	Castelnou	0	0	0	0	0	0
 2014	44068	Castelserás	36,21	31,5	0	2,47	0	2,24
-2014	44070	Castellar (El)	130,084	86,364	0	43,72	0	0
+2014	44070	Castellar (El)	130084	86364	0	43,72	0	0
 2014	44071	Castellote	0	0	0	0	0	0
 2014	44074	Cedrillas	0	0	0	0	0	0
 2014	44075	Celadas	0	0	0	0	0	0
@@ -2486,10 +2486,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44105	Fórnoles	12,66	11,96	0,7	0	0	0
 2014	44106	Fortanete	12,17	12,17	0	0	0	0
 2014	44107	Foz-Calanda	31,44	31	0,3	0	0	0,14
-2014	44108	Fresneda (La)	29,3815	25,06	0,48	3,8415	0	0
+2014	44108	Fresneda (La)	293815	25,06	0,48	38415	0	0
 2014	44109	Frías de Albarracín	0	0	0	0	0	0
 2014	44110	Fuenferrada	0	0	0	0	0	0
-2014	44111	Fuentes Calientes	305,268	226,828	0	1,21	77,23	0
+2014	44111	Fuentes Calientes	305268	226828	0	1,21	77,23	0
 2014	44112	Fuentes Claras	0	0	0	0	0	0
 2014	44113	Fuentes de Rubielos	0	0	0	0	0	0
 2014	44114	Fuentespalda	26,96	26,76	0	0	0	0,2
@@ -2500,7 +2500,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44119	Griegos	0	0	0	0	0	0
 2014	44120	Guadalaviar	0	0	0	0	0	0
 2014	44121	Gúdar	0	0	0	0	0	0
-2014	44122	Híjar	551,2681	531,7081	1,1	12,15	0	6,31
+2014	44122	Híjar	5512681	5317081	1,1	12,15	0	6,31
 2014	44123	Hinojosa de Jarque	0	0	0	0	0	0
 2014	44124	Hoz de la Vieja (La)	0	0	0	0	0	0
 2014	44125	Huesa del Común	0	0	0	0	0	0
@@ -2513,16 +2513,16 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44132	Lagueruela	0	0	0	0	0	0
 2014	44133	Lanzuela	0	0	0	0	0	0
 2014	44135	Libros	0	0	0	0	0	0
-2014	44136	Lidón	41,3419	32,21	9,1319	0	0	0
-2014	44137	Linares de Mora	86,1544	35,36	50,7944	0	0	0
+2014	44136	Lidón	413419	32,21	91319	0	0	0
+2014	44137	Linares de Mora	861544	35,36	507944	0	0	0
 2014	44138	Loscos	0,68	0	0	0	0	0,68
 2014	44141	Lledó	14,19	9,73	4,46	0	0	0
 2014	44142	Maicas	0	0	0	0	0	0
 2014	44143	Manzanera	0	0	0	0	0	0
 2014	44144	Martín del Río	0	0	0	0	0	0
 2014	44145	Mas de las Matas	16,87	0	7,23	9,64	0	0
-2014	44146	Mata de los Olmos (La)	55,6535	52,69	0	0	0	2,9635
-2014	44147	Mazaleón	586,8261	545,9161	18,98	16,37	0	5,56
+2014	44146	Mata de los Olmos (La)	556535	52,69	0	0	0	29635
+2014	44147	Mazaleón	5868261	5459161	18,98	16,37	0	5,56
 2014	44148	Mezquita de Jarque	0	0	0	0	0	0
 2014	44149	Mirambel	0	0	0	0	0	0
 2014	44150	Miravete de la Sierra	0	0	0	0	0	0
@@ -2545,7 +2545,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44169	Ojos Negros	0	0	0	0	0	0
 2014	44171	Olba	0	0	0	0	0	0
 2014	44172	Oliete	9,52	9,52	0	0	0	0
-2014	44173	Olmos (Los)	30,6757	26,7611	0,71	0	0	3,2046
+2014	44173	Olmos (Los)	306757	267611	0,71	0	0	32046
 2014	44174	Orihuela del Tremedal	0	0	0	0	0	0
 2014	44175	Orrios	0	0	0	0	0	0
 2014	44176	Palomar de Arroyos	0	0	0	0	0	0
@@ -2562,9 +2562,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44189	Pozondón	0	0	0	0	0	0
 2014	44190	Pozuel del Campo	0	0	0	0	0	0
 2014	44191	Puebla de Híjar (La)	1,41	1,41	0	0	0	0
-2014	44192	Puebla de Valverde (La)	130,2605	130,2605	0	0	0	0
+2014	44192	Puebla de Valverde (La)	1302605	1302605	0	0	0	0
 2014	44193	Puertomingalvo	0	0	0	0	0	0
-2014	44194	Ráfales	120,9018	110,1185	5,99	4,7933	0	0
+2014	44194	Ráfales	1209018	1101185	5,99	47933	0	0
 2014	44195	Rillo	7,29	7,29	0	0	0	0
 2014	44196	Riodeva	0	0	0	0	0	0
 2014	44197	Ródenas	0	0	0	0	0	0
@@ -2574,7 +2574,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44201	Rubielos de Mora	0	0	0	0	0	0
 2014	44203	Salcedillo	0	0	0	0	0	0
 2014	44204	Saldón	0	0	0	0	0	0
-2014	44205	Samper de Calanda	1077,7919	912,2419	9,74	154,59	0	1,22
+2014	44205	Samper de Calanda	10777919	9122419	9,74	154,59	0	1,22
 2014	44206	San Agustín	0	0	0	0	0	0
 2014	44207	San Martín del Río	35,75	35,21	0,54	0	0	0
 2014	44208	Santa Cruz de Nogueras	0	0	0	0	0	0
@@ -2589,7 +2589,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44218	Tormón	0	0	0	0	0	0
 2014	44219	Tornos	0	0	0	0	0	0
 2014	44220	Torralba de los Sisones	41,71	41,71	0	0	0	0
-2014	44221	Torrecilla de Alcañiz	250,1795	238,7195	0,16	10,66	0	0,64
+2014	44221	Torrecilla de Alcañiz	2501795	2387195	0,16	10,66	0	0,64
 2014	44222	Torrecilla del Rebollar	2,12	2,12	0	0	0	0
 2014	44223	Torre de Arcas	0	0	0	0	0	0
 2014	44224	Torre de las Arcas	0	0	0	0	0	0
@@ -2603,7 +2603,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44232	Torrijo del Campo	0	0	0	0	0	0
 2014	44234	Tramacastiel	0	0	0	0	0	0
 2014	44235	Tramacastilla	0	0	0	0	0	0
-2014	44236	Tronchón	138,6514	0	0	0	138,6514	0
+2014	44236	Tronchón	1386514	0	0	0	1386514	0
 2014	44237	Urrea de Gaén	0	0	0	0	0	0
 2014	44238	Utrillas	0	0	0	0	0	0
 2014	44239	Valacloche	0	0	0	0	0	0
@@ -2612,8 +2612,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	44243	Valdecuenca	0	0	0	0	0	0
 2014	44244	Valdelinares	0	0	0	0	0	0
 2014	44245	Valdeltormo	214,01	194,22	14,91	4,49	0	0,39
-2014	44246	Valderrobres	260,5318	197,9181	23,2321	38,4635	0,32	0,5981
-2014	44247	Valjunquera	142,0754	116,2654	25,81	0	0	0
+2014	44246	Valderrobres	2605318	1979181	232321	384635	0,32	0,5981
+2014	44247	Valjunquera	1420754	1162654	25,81	0	0	0
 2014	44249	Vallecillo (El)	0	0	0	0	0	0
 2014	44250	Veguillas de la Sierra	0	0	0	0	0	0
 2014	44251	Villafranca del Campo	290,36	290,36	0	0	0	0
@@ -2637,7 +2637,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50005	Aguilón	11,13	10,93	0	0	0	0,2
 2014	50006	Ainzón	9,58	4,03	4,8	0	0,75	0
 2014	50007	Aladrén	0	0	0	0	0	0
-2014	50008	Alagón	19,202	8,802	10,4	0	0	0
+2014	50008	Alagón	19202	8802	10,4	0	0	0
 2014	50009	Alarba	4,72	4,72	0	0	0	0
 2014	50010	Alberite de San Juan	10,97	0	0	0	10,97	0
 2014	50011	Albeta	1,12	0	0	0	1,12	0
@@ -2646,8 +2646,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50014	Alcalá de Moncayo	0	0	0	0	0	0
 2014	50015	Alconchel de Ariza	0	0	0	0	0	0
 2014	50016	Aldehuela de Liestos	0	0	0	0	0	0
-2014	50017	Alfajarín	1525,3415	362,47	50,57	49,94	1058	4,3615
-2014	50018	Alfamén	559,4601	389,6801	19,59	0	141,29	8,9
+2014	50017	Alfajarín	15253415	362,47	50,57	49,94	1058	43615
+2014	50018	Alfamén	5594601	3896801	19,59	0	141,29	8,9
 2014	50019	Alforque	57,84	0	57,84	0	0	0
 2014	50020	Alhama de Aragón	10,53	10,53	0	0	0	0
 2014	50021	Almochuel	351,56	351,28	0	0,28	0	0
@@ -2674,7 +2674,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50042	Balconchán	6,68	6,43	0,25	0	0	0
 2014	50043	Bárboles	0	0	0	0	0	0
 2014	50044	Bardallur	1,07	1,07	0	0	0	0
-2014	50045	Belchite	1900,3165	1244,35	157,54	335,9	85,05	77,4765
+2014	50045	Belchite	19003165	1244,35	157,54	335,9	85,05	774765
 2014	50046	Belmonte de Gracián	0	0	0	0	0	0
 2014	50047	Berdejo	470,55	0	0	0	470,55	0
 2014	50048	Berrueco	0	0	0	0	0	0
@@ -2702,7 +2702,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50071	Campillo de Aragón	0	0	0	0	0	0
 2014	50072	Carenas	0	0	0	0	0	0
 2014	50073	Cariñena	366,61	277,24	69,54	13,25	0	6,58
-2014	50074	Caspe	2189,7944	1556,7144	48,76	54,98	358,9	170,44
+2014	50074	Caspe	21897944	15567144	48,76	54,98	358,9	170,44
 2014	50075	Castejón de Alarba	3,73	3,73	0	0	0	0
 2014	50076	Castejón de las Armas	0	0	0	0	0	0
 2014	50077	Castejón de Valdejasa	13,25	0	0	0	13,25	0
@@ -2722,23 +2722,23 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50091	Cuerlas (Las)	0	0	0	0	0	0
 2014	50092	Chiprana	36,69	16,95	0	0	19,74	0
 2014	50093	Chodes	0	0	0	0	0	0
-2014	50094	Daroca	13,3667	0,5	0,49	12,3767	0	0
-2014	50095	Ejea de los Caballeros	508,3336	339,9036	1,03	13,37	154,03	0
+2014	50094	Daroca	133667	0,5	0,49	123767	0	0
+2014	50095	Ejea de los Caballeros	5083336	3399036	1,03	13,37	154,03	0
 2014	50096	Embid de Ariza	0	0	0	0	0	0
 2014	50098	Encinacorba	14,14	14,14	0	0	0	0
-2014	50099	Épila	3296,4764	1812,8707	3,56	88,4	1382,9557	8,69
+2014	50099	Épila	32964764	18128707	3,56	88,4	13829557	8,69
 2014	50100	Erla	6,74	6,74	0	0	0	0
-2014	50101	Escatrón	620,4358	537,72	2,6058	0	80,11	0
-2014	50102	Fabara	179,2231	138,7976	3,59	2,36	0	34,4755
-2014	50104	Farlete	1215,4846	1066,2546	38,31	110,92	0	0
-2014	50105	Fayón	48,632	11,14	9,412	0	0	28,08
+2014	50101	Escatrón	6204358	537,72	26058	0	80,11	0
+2014	50102	Fabara	1792231	1387976	3,59	2,36	0	344755
+2014	50104	Farlete	12154846	10662546	38,31	110,92	0	0
+2014	50105	Fayón	48632	11,14	9412	0	0	28,08
 2014	50106	Fayos (Los)	0	0	0	0	0	0
 2014	50107	Figueruelas	5,76	0	0	0	5,76	0
 2014	50108	Fombuena	214,88	214,36	0	0	0	0,52
 2014	50109	Frago (El)	0	0	0	0	0	0
 2014	50110	Frasno (El)	38,91	8,21	0	0	30,7	0
 2014	50111	Fréscano	22,19	22,19	0	0	0	0
-2014	50113	Fuendejalón	269,8657	48,15	17,9257	2,32	196,79	4,68
+2014	50113	Fuendejalón	2698657	48,15	179257	2,32	196,79	4,68
 2014	50114	Fuendetodos	273,36	195,63	0	0	77,73	0
 2014	50115	Fuentes de Ebro	7	7	0	0	0	0
 2014	50116	Fuentes de Jiloca	0	0	0	0	0	0
@@ -2760,7 +2760,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50133	Lagata	218,09	210	3,86	4,23	0	0
 2014	50134	Langa del Castillo	42,19	0	0	42,19	0	0
 2014	50135	Layana	0	0	0	0	0	0
-2014	50136	Lécera	2119,7278	1924,69	0	82,59	40,87	71,5778
+2014	50136	Lécera	21197278	1924,69	0	82,59	40,87	715778
 2014	50137	Leciñena	369,44	356,19	0	0,3	0	12,95
 2014	50138	Lechón	0	0	0	0	0	0
 2014	50139	Letux	67,99	52,59	4	0,47	8,4	2,53
@@ -2782,7 +2782,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50156	Maleján	0	0	0	0	0	0
 2014	50157	Malón	0	0	0	0	0	0
 2014	50159	Maluenda	5,33	5,33	0	0	0	0
-2014	50160	Mallén	25,8263	24,0163	0	0	0	1,81
+2014	50160	Mallén	258263	240163	0	0	0	1,81
 2014	50161	Manchones	0	0	0	0	0	0
 2014	50162	Mara	0	0	0	0	0	0
 2014	50163	María de Huerva	244,06	8,99	0	0	235,07	0
@@ -2804,7 +2804,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50179	Moyuela	0	0	0	0	0	0
 2014	50180	Mozota	0	0	0	0	0	0
 2014	50181	Muel	150,93	149,17	0	0	1,76	0
-2014	50182	Muela (La)	914,0667	375,4867	0	0	538,58	0
+2014	50182	Muela (La)	9140667	3754867	0	0	538,58	0
 2014	50183	Munébrega	27,5	26,94	0	0,56	0	0
 2014	50184	Murero	5,25	5,25	0	0	0	0
 2014	50185	Murillo de Gállego	0	0	0	0	0	0
@@ -2844,10 +2844,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50219	Puebla de Alfindén (La)	0	0	0	0	0	0
 2014	50220	Puendeluna	0	0	0	0	0	0
 2014	50221	Purujosa	307,09	0	307,09	0	0	0
-2014	50222	Quinto	39,2001	0	39,2001	0	0	0
+2014	50222	Quinto	392001	0	392001	0	0	0
 2014	50223	Remolinos	0	0	0	0	0	0
 2014	50224	Retascón	0	0	0	0	0	0
-2014	50225	Ricla	16,0307	0,49	0	15,5407	0	0
+2014	50225	Ricla	160307	0,49	0	155407	0	0
 2014	50227	Romanos	0	0	0	0	0	0
 2014	50228	Rueda de Jalón	1614,1	934,52	31,33	0	642,06	6,19
 2014	50229	Ruesca	0	0	0	0	0	0
@@ -2861,7 +2861,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50237	Santa Cruz de Moncayo	0	0	0	0	0	0
 2014	50238	Santa Eulalia de Gállego	0	0	0	0	0	0
 2014	50239	Santed	0	0	0	0	0	0
-2014	50240	Sástago	694,226	513,506	12,15	34,89	46,98	86,7
+2014	50240	Sástago	694226	513506	12,15	34,89	46,98	86,7
 2014	50241	Saviñán	0	0	0	0	0	0
 2014	50242	Sediles	0	0	0	0	0	0
 2014	50243	Sestrica	0	0	0	0	0	0
@@ -2872,8 +2872,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50248	Sos del Rey Católico	259,02	141,52	0	0	117,5	0
 2014	50249	Tabuenca	14,59	0	0	0	8,47	6,12
 2014	50250	Talamantes	0	0	0	0	0	0
-2014	50251	Tarazona	24,3598	9,36	2,75	4,2398	8,01	0
-2014	50252	Tauste	97,9908	11,9242	0,6866	0	84,89	0,49
+2014	50251	Tarazona	243598	9,36	2,75	42398	8,01	0
+2014	50252	Tauste	979908	119242	0,6866	0	84,89	0,49
 2014	50253	Terrer	0	0	0	0	0	0
 2014	50254	Tierga	0	0	0	0	0	0
 2014	50255	Tobed	0	0	0	0	0	0
@@ -2906,7 +2906,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50282	Vilueña (La)	0,404	0	0	0,404	0	0
 2014	50283	Villadoz	0	0	0	0	0	0
 2014	50284	Villafeliche	0	0	0	0	0	0
-2014	50285	Villafranca de Ebro	17,134	11,14	0,484	0,97	4,13	0,41
+2014	50285	Villafranca de Ebro	17134	11,14	0,484	0,97	4,13	0,41
 2014	50286	Villalba de Perejil	0	0	0	0	0	0
 2014	50287	Villalengua	80,85	80,61	0	0	0	0,24
 2014	50288	Villanueva de Gállego	66,54	66,54	0	0	0	0
@@ -2918,7 +2918,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2014	50294	Villarroya del Campo	0	0	0	0	0	0
 2014	50295	Vistabella	0	0	0	0	0	0
 2014	50296	Zaida (La)	0	0	0	0	0	0
-2014	50297	Zaragoza	1568,0145	1097,965	3,917	0,19	455,84	10,1025
+2014	50297	Zaragoza	15680145	1097965	3917	0,19	455,84	101025
 2014	50298	Zuera	1033,08	560,57	27,53	0	226,98	218
 2014	50901	Biel	5,76	0	0	0	5,76	0
 2014	50902	Marracos	0	0	0	0	0	0
@@ -2953,7 +2953,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	22035	Arén	0	0	0	0	0	0
 2015	22036	Argavieso	0	0	0	0	0	0
 2015	22037	Arguis	0	0	0	0	0	0
-2015	22039	Ayerbe	3,0301	0	3,0301	0	0	0
+2015	22039	Ayerbe	30301	0	30301	0	0	0
 2015	22040	Azanuy-Alins	0	0	0	0	0	0
 2015	22041	Azara	0	0	0	0	0	0
 2015	22042	Azlor	0	0	0	0	0	0
@@ -2962,7 +2962,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	22045	Baldellou	0	0	0	0	0	0
 2015	22046	Ballobar	0	0	0	0	0	0
 2015	22047	Banastás	0	0	0	0	0	0
-2015	22048	Barbastro	69,1537	65,56	3,5937	0	0	0
+2015	22048	Barbastro	691537	65,56	35937	0	0	0
 2015	22049	Barbués	0	0	0	0	0	0
 2015	22050	Barbuñales	27,9	17,56	0	10,34	0	0
 2015	22051	Bárcabo	0	0	0	0	0	0
@@ -2972,8 +2972,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	22055	Berbegal	0	0	0	0	0	0
 2015	22057	Bielsa	0	0	0	0	0	0
 2015	22058	Bierge	7,68	6,53	0,08	1,07	0	0
-2015	22059	Biescas	216,722	195,814	1,588	15,79	0	3,53
-2015	22060	Binaced	28,2678	27,1378	0	1,13	0	0
+2015	22059	Biescas	216722	195814	1588	15,79	0	3,53
+2015	22060	Binaced	282678	271378	0	1,13	0	0
 2015	22061	Binéfar	0	0	0	0	0	0
 2015	22062	Bisaurri	0	0	0	0	0	0
 2015	22063	Biscarrués	0	0	0	0	0	0
@@ -3001,7 +3001,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	22089	Castillonroy	8,96	8,96	0	0	0	0
 2015	22090	Colungo	14,19	14,19	0	0	0	0
 2015	22094	Chalamera	0	0	0	0	0	0
-2015	22095	Chía	10,7494	7,1506	0,627	2,9718	0	0
+2015	22095	Chía	107494	71506	0,627	29718	0	0
 2015	22096	Chimillas	0	0	0	0	0	0
 2015	22099	Esplús	0	0	0	0	0	0
 2015	22102	Estada	0	0	0	0	0	0
@@ -3021,10 +3021,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	22119	Gurrea de Gállego	132,81	132,81	0	0	0	0
 2015	22122	Hoz de Jaca	0	0	0	0	0	0
 2015	22124	Huerto	35,73	32,83	2,9	0	0	0
-2015	22125	Huesca	254,7769	53,2369	0,58	1,4	191,27	8,29
+2015	22125	Huesca	2547769	532369	0,58	1,4	191,27	8,29
 2015	22126	Ibieca	0	0	0	0	0	0
 2015	22127	Igriés	0	0	0	0	0	0
-2015	22128	Ilche	8,076	8,076	0	0	0	0
+2015	22128	Ilche	8076	8076	0	0	0	0
 2015	22129	Isábena	300,13	0	0,63	0,17	0	299,33
 2015	22130	Jaca	10,56	9,69	0,27	0,6	0	0
 2015	22131	Jasa	0	0	0	0	0	0
@@ -3072,17 +3072,17 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	22197	Robres	0	0	0	0	0	0
 2015	22199	Sabiñánigo	12,01	12,01	0	0	0	0
 2015	22200	Sahún	0	0	0	0	0	0
-2015	22201	Salas Altas	12,0184	7,89	0	0	0	4,1284
+2015	22201	Salas Altas	120184	7,89	0	0	0	41284
 2015	22202	Salas Bajas	0	0	0	0	0	0
 2015	22203	Salillas	0	0	0	0	0	0
 2015	22204	Sallent de Gállego	0	0	0	0	0	0
-2015	22205	San Esteban de Litera	100,6836	28,7236	0	33,49	0	38,47
+2015	22205	San Esteban de Litera	1006836	287236	0	33,49	0	38,47
 2015	22206	Sangarrén	0	0	0	0	0	0
 2015	22207	San Juan de Plan	0	0	0	0	0	0
 2015	22208	Santa Cilia	0	0	0	0	0	0
 2015	22209	Santa Cruz de la Serós	0	0	0	0	0	0
 2015	22212	Santaliestra y San Quílez	0	0	0	0	0	0
-2015	22213	Sariñena	62,1975	49,0975	2,43	3,44	0	7,23
+2015	22213	Sariñena	621975	490975	2,43	3,44	0	7,23
 2015	22214	Secastilla	3,52	3,52	0	0	0	0
 2015	22215	Seira	0	0	0	0	0	0
 2015	22217	Sena	57,01	57,01	0	0	0	0
@@ -3097,10 +3097,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	22228	Tierz	0	0	0	0	0	0
 2015	22229	Tolva	0	0	0	0	0	0
 2015	22230	Torla-Ordesa	0	0	0	0	0	0
-2015	22232	Torralba de Aragón	113,5415	113,5415	0	0	0	0
+2015	22232	Torralba de Aragón	1135415	1135415	0	0	0	0
 2015	22233	Torre la Ribera	0	0	0	0	0	0
 2015	22234	Torrente de Cinca	0	0	0	0	0	0
-2015	22235	Torres de Alcanadre	1,7801	0	1,2901	0,49	0	0
+2015	22235	Torres de Alcanadre	17801	0	12901	0,49	0	0
 2015	22236	Torres de Barbués	0	0	0	0	0	0
 2015	22239	Tramaced	0	0	0	0	0	0
 2015	22242	Valfarta	7,25	7,25	0	0	0	0
@@ -3119,25 +3119,25 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	22901	Valle de Hecho	0	0	0	0	0	0
 2015	22902	Puente la Reina de Jaca	0	0	0	0	0	0
 2015	22903	San Miguel del Cinca	286,36	271,47	14,89	0	0	0
-2015	22904	Sotonera (La)	1,5947	1,55	0	0	0	0,0447
+2015	22904	Sotonera (La)	15947	1,55	0	0	0	0,0447
 2015	22905	Lupiñén-Ortilla	36,19	0	0	0	36,19	0
 2015	22906	Santa María de Dulcis	0	0	0	0	0	0
 2015	22907	Aínsa-Sobrarbe	144,36	140,2	0	4,16	0	0
-2015	22908	Hoz y Costeán	361,8182	311,183	4,55	3,78	0	42,3052
+2015	22908	Hoz y Costeán	3618182	311183	4,55	3,78	0	423052
 2015	22909	Vencillón	0	0	0	0	0	0
 2015	44001	Ababuj	86,87	78,94	6,98	0,95	0	0
 2015	44002	Abejuela	0	0	0	0	0	0
 2015	44003	Aguatón	0	0	0	0	0	0
 2015	44004	Aguaviva	0	0	0	0	0	0
 2015	44005	Aguilar del Alfambra	0	0	0	0	0	0
-2015	44006	Alacón	155,8435	153,7999	0	0	0	2,0436
+2015	44006	Alacón	1558435	1537999	0	0	0	20436
 2015	44007	Alba	0	0	0	0	0	0
-2015	44008	Albalate del Arzobispo	293,003	271,63	4,05	4,76	10,63	1,933
+2015	44008	Albalate del Arzobispo	293003	271,63	4,05	4,76	10,63	1933
 2015	44009	Albarracín	1562,13	1554,16	7,97	0	0	0
 2015	44010	Albentosa	0	0	0	0	0	0
 2015	44011	Alcaine	1,96	0	1,96	0	0	0
 2015	44012	Alcalá de la Selva	0	0	0	0	0	0
-2015	44013	Alcañiz	426,5833	272,46	3,34	83,36	0	67,4233
+2015	44013	Alcañiz	4265833	272,46	3,34	83,36	0	674233
 2015	44014	Alcorisa	21,24	14,91	0	0	0	6,33
 2015	44016	Alfambra	0	0	0	0	0	0
 2015	44017	Aliaga	78,4	78,4	0	0	0	0
@@ -3150,7 +3150,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44024	Anadón	0	0	0	0	0	0
 2015	44025	Andorra	29,25	26,55	2,7	0	0	0
 2015	44026	Arcos de las Salinas	0	0	0	0	0	0
-2015	44027	Arens de Lledó	121,7175	121,7175	0	0	0	0
+2015	44027	Arens de Lledó	1217175	1217175	0	0	0	0
 2015	44028	Argente	0	0	0	0	0	0
 2015	44029	Ariño	10,32	10,32	0	0	0	0
 2015	44031	Azaila	275,05	270,15	0	0	0	4,9
@@ -3171,9 +3171,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44046	Bueña	0	0	0	0	0	0
 2015	44047	Burbáguena	7,88	0,87	0,56	0	6,45	0
 2015	44048	Cabra de Mora	0	0	0	0	0	0
-2015	44049	Calaceite	474,6364	324,426	46,31	58,0604	0	45,84
+2015	44049	Calaceite	4746364	324426	46,31	580604	0	45,84
 2015	44050	Calamocha	53,6	0	0	24,57	29,03	0
-2015	44051	Calanda	423,9855	304,6293	15,85	1,56	0	101,9462
+2015	44051	Calanda	4239855	3046293	15,85	1,56	0	1019462
 2015	44052	Calomarde	0	0	0	0	0	0
 2015	44053	Camañas	2,27	2,27	0	0	0	0
 2015	44054	Camarena de la Sierra	0	0	0	0	0	0
@@ -3188,14 +3188,14 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44065	Castejón de Tornos	0	0	0	0	0	0
 2015	44066	Castel de Cabra	0	0	0	0	0	0
 2015	44067	Castelnou	0	0	0	0	0	0
-2015	44068	Castelserás	37,4997	31,5	4,57	0	0	1,4297
+2015	44068	Castelserás	374997	31,5	4,57	0	0	14297
 2015	44070	Castellar (El)	92,94	92,94	0	0	0	0
 2015	44071	Castellote	0	0	0	0	0	0
 2015	44074	Cedrillas	0	0	0	0	0	0
 2015	44075	Celadas	0	0	0	0	0	0
 2015	44076	Cella	0	0	0	0	0	0
 2015	44077	Cerollera (La)	0	0	0	0	0	0
-2015	44080	Codoñera (La)	30,5074	24,7	3,75	0	0	2,0574
+2015	44080	Codoñera (La)	305074	24,7	3,75	0	0	20574
 2015	44082	Corbalán	0	0	0	0	0	0
 2015	44084	Cortes de Aragón	0	0	0	0	0	0
 2015	44085	Cosa	0	0	0	0	0	0
@@ -3217,21 +3217,21 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44105	Fórnoles	12,66	11,96	0,7	0	0	0
 2015	44106	Fortanete	12,17	12,17	0	0	0	0
 2015	44107	Foz-Calanda	34,69	29,7	0	0,6	0	4,39
-2015	44108	Fresneda (La)	33,4006	25,35	4,3215	0	0	3,7291
+2015	44108	Fresneda (La)	334006	25,35	43215	0	0	37291
 2015	44109	Frías de Albarracín	0	0	0	0	0	0
 2015	44110	Fuenferrada	0	0	0	0	0	0
-2015	44111	Fuentes Calientes	315,968	86,828	0	0	228,45	0,69
+2015	44111	Fuentes Calientes	315968	86828	0	0	228,45	0,69
 2015	44112	Fuentes Claras	0	0	0	0	0	0
 2015	44113	Fuentes de Rubielos	0	0	0	0	0	0
 2015	44114	Fuentespalda	26,96	26,76	0	0	0	0,2
 2015	44115	Galve	76,09	76,09	0	0	0	0
 2015	44116	Gargallo	0	0	0	0	0	0
 2015	44117	Gea de Albarracín	0	0	0	0	0	0
-2015	44118	Ginebrosa (La)	15,0028	0	4,575	7,975	0	2,4528
+2015	44118	Ginebrosa (La)	150028	0	4575	7975	0	24528
 2015	44119	Griegos	0	0	0	0	0	0
 2015	44120	Guadalaviar	0	0	0	0	0	0
 2015	44121	Gúdar	0	0	0	0	0	0
-2015	44122	Híjar	581,1481	506,4	9,12	22,76	0	42,8681
+2015	44122	Híjar	5811481	506,4	9,12	22,76	0	428681
 2015	44123	Hinojosa de Jarque	0	0	0	0	0	0
 2015	44124	Hoz de la Vieja (La)	0	0	0	0	0	0
 2015	44125	Huesa del Común	0	0	0	0	0	0
@@ -3244,16 +3244,16 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44132	Lagueruela	0	0	0	0	0	0
 2015	44133	Lanzuela	0	0	0	0	0	0
 2015	44135	Libros	0	0	0	0	0	0
-2015	44136	Lidón	84,5319	43,19	0	0	41,3419	0
-2015	44137	Linares de Mora	394,3979	86,7544	0	305,2235	0	2,42
+2015	44136	Lidón	845319	43,19	0	0	413419	0
+2015	44137	Linares de Mora	3943979	867544	0	3052235	0	2,42
 2015	44138	Loscos	0,68	0	0	0	0	0,68
 2015	44141	Lledó	14,23	14,23	0	0	0	0
 2015	44142	Maicas	0	0	0	0	0	0
 2015	44143	Manzanera	0	0	0	0	0	0
 2015	44144	Martín del Río	0	0	0	0	0	0
-2015	44145	Mas de las Matas	20,6064	0	9,39	9,33	0	1,8864
-2015	44146	Mata de los Olmos (La)	55,7035	52,26	0	0,48	0	2,9635
-2015	44147	Mazaleón	625,788	536,7761	35,1	0,2	0	53,7119
+2015	44145	Mas de las Matas	206064	0	9,39	9,33	0	18864
+2015	44146	Mata de los Olmos (La)	557035	52,26	0	0,48	0	29635
+2015	44147	Mazaleón	625788	5367761	35,1	0,2	0	537119
 2015	44148	Mezquita de Jarque	0	0	0	0	0	0
 2015	44149	Mirambel	0	0	0	0	0	0
 2015	44150	Miravete de la Sierra	0	0	0	0	0	0
@@ -3266,7 +3266,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44157	Monterde de Albarracín	0	0	0	0	0	0
 2015	44158	Mora de Rubielos	0	0	0	0	0	0
 2015	44159	Moscardón	0	0	0	0	0	0
-2015	44160	Mosqueruela	220,209	6,77	0	0	0	213,439
+2015	44160	Mosqueruela	220209	6,77	0	0	0	213439
 2015	44161	Muniesa	66,14	64,84	0	0	0	1,3
 2015	44163	Noguera de Albarracín	0	0	0	0	0	0
 2015	44164	Nogueras	0	0	0	0	0	0
@@ -3276,7 +3276,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44169	Ojos Negros	0	0	0	0	0	0
 2015	44171	Olba	0	0	0	0	0	0
 2015	44172	Oliete	9,79	9,79	0	0	0	0
-2015	44173	Olmos (Los)	30,6757	27,0311	0,44	0	0	3,2046
+2015	44173	Olmos (Los)	306757	270311	0,44	0	0	32046
 2015	44174	Orihuela del Tremedal	0	0	0	0	0	0
 2015	44175	Orrios	0	0	0	0	0	0
 2015	44176	Palomar de Arroyos	0	0	0	0	0	0
@@ -3289,13 +3289,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44183	Pitarque	0	0	0	0	0	0
 2015	44184	Plou	0	0	0	0	0	0
 2015	44185	Pobo (El)	52,14	52,14	0	0	0	0
-2015	44187	Portellada (La)	57,1611	56,123	0,02	0	0	1,0181
+2015	44187	Portellada (La)	571611	56123	0,02	0	0	10181
 2015	44189	Pozondón	0	0	0	0	0	0
 2015	44190	Pozuel del Campo	0	0	0	0	0	0
-2015	44191	Puebla de Híjar (La)	20,8245	1,0945	0	0	19,73	0
-2015	44192	Puebla de Valverde (La)	127,6405	127,6405	0	0	0	0
+2015	44191	Puebla de Híjar (La)	208245	10945	0	0	19,73	0
+2015	44192	Puebla de Valverde (La)	1276405	1276405	0	0	0	0
 2015	44193	Puertomingalvo	0	0	0	0	0	0
-2015	44194	Ráfales	129,5447	117,0473	0	4,7933	0	7,7041
+2015	44194	Ráfales	1295447	1170473	0	47933	0	77041
 2015	44195	Rillo	7,29	3,2	0	0	4,09	0
 2015	44196	Riodeva	0	0	0	0	0	0
 2015	44197	Ródenas	0	0	0	0	0	0
@@ -3320,7 +3320,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44218	Tormón	0	0	0	0	0	0
 2015	44219	Tornos	0	0	0	0	0	0
 2015	44220	Torralba de los Sisones	41,65	41,65	0	0	0	0
-2015	44221	Torrecilla de Alcañiz	257,3929	238,3795	11,25	0,02	0	7,7434
+2015	44221	Torrecilla de Alcañiz	2573929	2383795	11,25	0,02	0	77434
 2015	44222	Torrecilla del Rebollar	2,12	2,12	0	0	0	0
 2015	44223	Torre de Arcas	0	0	0	0	0	0
 2015	44224	Torre de las Arcas	0	0	0	0	0	0
@@ -3329,22 +3329,22 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	44227	Torre los Negros	366,32	148,68	0	0	0	217,64
 2015	44228	Torremocha de Jiloca	0	0	0	0	0	0
 2015	44229	Torres de Albarracín	0	0	0	0	0	0
-2015	44230	Torrevelilla	22,4473	20,51	0,66	0	0	1,2773
+2015	44230	Torrevelilla	224473	20,51	0,66	0	0	12773
 2015	44231	Torrijas	0	0	0	0	0	0
 2015	44232	Torrijo del Campo	0	0	0	0	0	0
 2015	44234	Tramacastiel	0	0	0	0	0	0
 2015	44235	Tramacastilla	0	0	0	0	0	0
 2015	44236	Tronchón	0	0	0	0	0	0
-2015	44237	Urrea de Gaén	16,996	0	0	3,45	0	13,546
+2015	44237	Urrea de Gaén	16996	0	0	3,45	0	13546
 2015	44238	Utrillas	0	0	0	0	0	0
 2015	44239	Valacloche	0	0	0	0	0	0
 2015	44240	Valbona	0	0	0	0	0	0
 2015	44241	Valdealgorfa	154,86	133,57	3,26	0,7	0	17,33
 2015	44243	Valdecuenca	0	0	0	0	0	0
 2015	44244	Valdelinares	0	0	0	0	0	0
-2015	44245	Valdeltormo	229,5334	201,6	13,17	0,39	0	14,3734
-2015	44246	Valderrobres	360,2838	211,7048	42,159	4,61	0,32	101,49
-2015	44247	Valjunquera	145,8279	117,3247	22	0	0	6,5032
+2015	44245	Valdeltormo	2295334	201,6	13,17	0,39	0	143734
+2015	44246	Valderrobres	3602838	2117048	42159	4,61	0,32	101,49
+2015	44247	Valjunquera	1458279	1173247	22	0	0	65032
 2015	44249	Vallecillo (El)	0	0	0	0	0	0
 2015	44250	Veguillas de la Sierra	0	0	0	0	0	0
 2015	44251	Villafranca del Campo	366,6	366,6	0	0	0	0
@@ -3368,7 +3368,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50005	Aguilón	11,14	10,94	0	0	0	0,2
 2015	50006	Ainzón	9,83	4,03	4,8	0	1	0
 2015	50007	Aladrén	0	0	0	0	0	0
-2015	50008	Alagón	19,6023	9,2123	10,39	0	0	0
+2015	50008	Alagón	196023	92123	10,39	0	0	0
 2015	50009	Alarba	3,4	3,4	0	0	0	0
 2015	50010	Alberite de San Juan	10,97	0	0	0	10,97	0
 2015	50011	Albeta	1,76	0	0	0	1,76	0
@@ -3380,7 +3380,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50017	Alfajarín	1526,64	358,95	50,44	58,95	1058	0,3
 2015	50018	Alfamén	589,52	373,1	19,59	0	196,83	0
 2015	50019	Alforque	58,04	57,46	0,58	0	0	0
-2015	50020	Alhama de Aragón	11,5407	10,53	0	1,0107	0	0
+2015	50020	Alhama de Aragón	115407	10,53	0	10107	0	0
 2015	50021	Almochuel	27,4	27,12	0,28	0	0	0
 2015	50022	Almolda (La)	183,33	170,9	0	0	0	12,43
 2015	50023	Almonacid de la Cuba	246,21	238,7	2,21	0,83	3,49	0,98
@@ -3405,7 +3405,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50042	Balconchán	9,91	6,95	0	0	0	2,96
 2015	50043	Bárboles	0	0	0	0	0	0
 2015	50044	Bardallur	1,07	1,07	0	0	0	0
-2015	50045	Belchite	1912,3437	1315,37	43,02	248,3837	85,05	220,52
+2015	50045	Belchite	19123437	1315,37	43,02	2483837	85,05	220,52
 2015	50046	Belmonte de Gracián	0	0	0	0	0	0
 2015	50047	Berdejo	470,53	0	0	0	470,53	0
 2015	50048	Berrueco	0	0	0	0	0	0
@@ -3427,13 +3427,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50065	Cabolafuente	0	0	0	0	0	0
 2015	50066	Cadrete	0	0	0	0	0	0
 2015	50067	Calatayud	0	0	0	0	0	0
-2015	50068	Calatorao	235,9841	98,4	4,08	8,54	114,73	10,2341
+2015	50068	Calatorao	2359841	98,4	4,08	8,54	114,73	102341
 2015	50069	Calcena	0	0	0	0	0	0
 2015	50070	Calmarza	0	0	0	0	0	0
 2015	50071	Campillo de Aragón	0	0	0	0	0	0
 2015	50072	Carenas	0	0	0	0	0	0
 2015	50073	Cariñena	373,45	340,54	23,87	1,65	0	7,39
-2015	50074	Caspe	1699,5016	1437,9403	45,28	60,51	127,15	28,6213
+2015	50074	Caspe	16995016	14379403	45,28	60,51	127,15	286213
 2015	50075	Castejón de Alarba	0,8	0,8	0	0	0	0
 2015	50076	Castejón de las Armas	0	0	0	0	0	0
 2015	50077	Castejón de Valdejasa	13,25	0	0	0	13,25	0
@@ -3454,22 +3454,22 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50092	Chiprana	19,75	0	0	0	19,75	0
 2015	50093	Chodes	0	0	0	0	0	0
 2015	50094	Daroca	2,05	0,5	0,95	0	0	0,6
-2015	50095	Ejea de los Caballeros	333,6636	166,2636	8,23	5,14	154,03	0
+2015	50095	Ejea de los Caballeros	3336636	1662636	8,23	5,14	154,03	0
 2015	50096	Embid de Ariza	0	0	0	0	0	0
 2015	50098	Encinacorba	14,14	14,14	0	0	0	0
-2015	50099	Épila	2386,6362	1377,44	19,9	29,57	951,8449	7,8813
+2015	50099	Épila	23866362	1377,44	19,9	29,57	9518449	78813
 2015	50100	Erla	6,74	6,74	0	0	0	0
 2015	50101	Escatrón	866,1	522,09	2,66	4,97	80,11	256,27
-2015	50102	Fabara	163,4186	140,17	5,88	5,02	0	12,3486
+2015	50102	Fabara	1634186	140,17	5,88	5,02	0	123486
 2015	50104	Farlete	1154,7	987,86	86,92	32,64	0	47,28
 2015	50105	Fayón	48,29	16,84	28,07	2,9	0	0,48
 2015	50106	Fayos (Los)	0	0	0	0	0	0
 2015	50107	Figueruelas	5,76	0	0	0	5,76	0
 2015	50108	Fombuena	213,62	213,62	0	0	0	0
 2015	50109	Frago (El)	0	0	0	0	0	0
-2015	50110	Frasno (El)	57,042	7,64	0	0,7005	34,4615	14,24
+2015	50110	Frasno (El)	57042	7,64	0	0,7005	344615	14,24
 2015	50111	Fréscano	2,33	2,33	0	0	0	0
-2015	50113	Fuendejalón	289,1238	50,4	22,7838	18,93	197,01	0
+2015	50113	Fuendejalón	2891238	50,4	227838	18,93	197,01	0
 2015	50114	Fuendetodos	270,99	194,11	0	0	76,88	0
 2015	50115	Fuentes de Ebro	7	7	0	0	0	0
 2015	50116	Fuentes de Jiloca	0	0	0	0	0	0
@@ -3491,7 +3491,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50133	Lagata	216,52	209,94	2,19	4,16	0	0,23
 2015	50134	Langa del Castillo	52,97	41,06	0	11,91	0	0
 2015	50135	Layana	0	0	0	0	0	0
-2015	50136	Lécera	2087,3851	1813,27	91	40,3651	83,83	58,92
+2015	50136	Lécera	20873851	1813,27	91	403651	83,83	58,92
 2015	50137	Leciñena	368,83	351,97	0,96	14,77	0	1,13
 2015	50138	Lechón	0	0	0	0	0	0
 2015	50139	Letux	69,96	56,63	1,39	1,61	8,4	1,93
@@ -3528,7 +3528,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50172	Monreal de Ariza	0	0	0	0	0	0
 2015	50173	Monterde	0	0	0	0	0	0
 2015	50174	Montón	0	0	0	0	0	0
-2015	50175	Morata de Jalón	31,931	4,72	0	0	0	27,211
+2015	50175	Morata de Jalón	31931	4,72	0	0	0	27211
 2015	50176	Morata de Jiloca	0	0	0	0	0	0
 2015	50177	Morés	0	0	0	0	0	0
 2015	50178	Moros	0	0	0	0	0	0
@@ -3559,9 +3559,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50203	Pastriz	0,99	0,99	0	0	0	0
 2015	50204	Pedrola	514,55	85,5	0	0	429,05	0
 2015	50205	Pedrosas (Las)	0	0	0	0	0	0
-2015	50206	Perdiguera	463,288	459,588	0,16	0	0	3,54
+2015	50206	Perdiguera	463288	459588	0,16	0	0	3,54
 2015	50207	Piedratajada	0	0	0	0	0	0
-2015	50208	Pina de Ebro	471,0188	94,64	0	0	373,14	3,2388
+2015	50208	Pina de Ebro	4710188	94,64	0	0	373,14	32388
 2015	50209	Pinseque	0	0	0	0	0	0
 2015	50210	Pintanos (Los)	0	0	0	0	0	0
 2015	50211	Plasencia de Jalón	637,45	0	0	0	636,59	0,86
@@ -3575,12 +3575,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50219	Puebla de Alfindén (La)	0	0	0	0	0	0
 2015	50220	Puendeluna	0	0	0	0	0	0
 2015	50221	Purujosa	0	0	0	0	0	0
-2015	50222	Quinto	39,2001	25,34	13,8601	0	0	0
+2015	50222	Quinto	392001	25,34	138601	0	0	0
 2015	50223	Remolinos	0	0	0	0	0	0
 2015	50224	Retascón	0	0	0	0	0	0
-2015	50225	Ricla	120,685	0,49	0	120,195	0	0
+2015	50225	Ricla	120685	0,49	0	120195	0	0
 2015	50227	Romanos	0	0	0	0	0	0
-2015	50228	Rueda de Jalón	1588,0878	902,39	11,49	27,23	638,42	8,5578
+2015	50228	Rueda de Jalón	15880878	902,39	11,49	27,23	638,42	85578
 2015	50229	Ruesca	0	0	0	0	0	0
 2015	50230	Sádaba	68,91	16,7	1,73	7,3	0	43,18
 2015	50231	Salillas de Jalón	0	0	0	0	0	0
@@ -3604,7 +3604,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50249	Tabuenca	14,59	0	6,12	0	8,47	0
 2015	50250	Talamantes	0	0	0	0	0	0
 2015	50251	Tarazona	26,1	10,08	5,22	0	8,01	2,79
-2015	50252	Tauste	183,2297	11,9697	0	1,05	106,84	63,37
+2015	50252	Tauste	1832297	119697	0	1,05	106,84	63,37
 2015	50253	Terrer	0	0	0	0	0	0
 2015	50254	Tierga	0	0	0	0	0	0
 2015	50255	Tobed	0	0	0	0	0	0
@@ -3637,7 +3637,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50282	Vilueña (La)	0	0	0	0	0	0
 2015	50283	Villadoz	0	0	0	0	0	0
 2015	50284	Villafeliche	0	0	0	0	0	0
-2015	50285	Villafranca de Ebro	17,169	11,569	1,06	0,41	4,13	0
+2015	50285	Villafranca de Ebro	17169	11569	1,06	0,41	4,13	0
 2015	50286	Villalba de Perejil	0	0	0	0	0	0
 2015	50287	Villalengua	0	0	0	0	0	0
 2015	50288	Villanueva de Gállego	274,59	66,49	0	0	0	208,1
@@ -3649,7 +3649,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2015	50294	Villarroya del Campo	0	0	0	0	0	0
 2015	50295	Vistabella	0	0	0	0	0	0
 2015	50296	Zaida (La)	0	0	0	0	0	0
-2015	50297	Zaragoza	3436,999	2199,627	8,1509	1,5586	809,03	418,6325
+2015	50297	Zaragoza	3436999	2199627	81509	15586	809,03	4186325
 2015	50298	Zuera	1774,29	968,68	122,26	6,15	453,96	223,24
 2015	50901	Biel	0	0	0	0	0	0
 2015	50902	Marracos	0	0	0	0	0	0
@@ -3693,7 +3693,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	22045	Baldellou	0	0	0	0	0	0
 2016	22046	Ballobar	0	0	0	0	0	0
 2016	22047	Banastás	0	0	0	0	0	0
-2016	22048	Barbastro	103,0437	62,3937	7,43	33,22	0	0
+2016	22048	Barbastro	1030437	623937	7,43	33,22	0	0
 2016	22049	Barbués	0	0	0	0	0	0
 2016	22050	Barbuñales	27,7	17,56	10,14	0	0	0
 2016	22051	Bárcabo	0	0	0	0	0	0
@@ -3702,8 +3702,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	22054	Benasque	0	0	0	0	0	0
 2016	22055	Berbegal	0	0	0	0	0	0
 2016	22057	Bielsa	254,37	0	254,37	0	0	0
-2016	22058	Bierge	6,1355	5,07	1,0655	0	0	0
-2016	22059	Biescas	184,282	163,034	17,378	3,87	0	0
+2016	22058	Bierge	61355	5,07	10655	0	0	0
+2016	22059	Biescas	184282	163034	17378	3,87	0	0
 2016	22060	Binaced	24,57	17,96	0	6,61	0	0
 2016	22061	Binéfar	0	0	0	0	0	0
 2016	22062	Bisaurri	0	0	0	0	0	0
@@ -3728,11 +3728,11 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	22085	Castelflorite	0	0	0	0	0	0
 2016	22086	Castiello de Jaca	0	0	0	0	0	0
 2016	22087	Castigaleu	0	0	0	0	0	0
-2016	22088	Castillazuelo	102,4586	55,49	44,35	2,6186	0	0
+2016	22088	Castillazuelo	1024586	55,49	44,35	26186	0	0
 2016	22089	Castillonroy	0	0	0	0	0	0
 2016	22090	Colungo	14	14	0	0	0	0
 2016	22094	Chalamera	0	0	0	0	0	0
-2016	22095	Chía	10,7678	6,6518	2,666	1,45	0	0
+2016	22095	Chía	107678	66518	2666	1,45	0	0
 2016	22096	Chimillas	0	0	0	0	0	0
 2016	22099	Esplús	0	0	0	0	0	0
 2016	22102	Estada	0	0	0	0	0	0
@@ -3752,10 +3752,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	22119	Gurrea de Gállego	133,53	133,53	0	0	0	0
 2016	22122	Hoz de Jaca	0	0	0	0	0	0
 2016	22124	Huerto	35,77	35,77	0	0	0	0
-2016	22125	Huesca	256,5595	55,4365	9,39	0,033	191,7	0
+2016	22125	Huesca	2565595	554365	9,39	0,033	191,7	0
 2016	22126	Ibieca	0	0	0	0	0	0
 2016	22127	Igriés	0	0	0	0	0	0
-2016	22128	Ilche	12,926	8,316	0	4,61	0	0
+2016	22128	Ilche	12926	8316	0	4,61	0	0
 2016	22129	Isábena	211,44	203,47	1,72	6,25	0	0
 2016	22130	Jaca	11,49	9,96	0,6	0,93	0	0
 2016	22131	Jasa	0	0	0	0	0	0
@@ -3807,13 +3807,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	22202	Salas Bajas	0	0	0	0	0	0
 2016	22203	Salillas	0	0	0	0	0	0
 2016	22204	Sallent de Gállego	0	0	0	0	0	0
-2016	22205	San Esteban de Litera	171,2467	29,3267	2,06	139,86	0	0
+2016	22205	San Esteban de Litera	1712467	293267	2,06	139,86	0	0
 2016	22206	Sangarrén	0	0	0	0	0	0
 2016	22207	San Juan de Plan	0	0	0	0	0	0
 2016	22208	Santa Cilia	0	0	0	0	0	0
 2016	22209	Santa Cruz de la Serós	0	0	0	0	0	0
 2016	22212	Santaliestra y San Quílez	0	0	0	0	0	0
-2016	22213	Sariñena	83,0475	47,0475	4,65	7,86	23,49	0
+2016	22213	Sariñena	830475	470475	4,65	7,86	23,49	0
 2016	22214	Secastilla	3,52	3,52	0	0	0	0
 2016	22215	Seira	0	0	0	0	0	0
 2016	22217	Sena	56,39	56,39	0	0	0	0
@@ -3828,10 +3828,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	22228	Tierz	0	0	0	0	0	0
 2016	22229	Tolva	0	0	0	0	0	0
 2016	22230	Torla-Ordesa	0	0	0	0	0	0
-2016	22232	Torralba de Aragón	127,2129	113,7153	0	13,4976	0	0
+2016	22232	Torralba de Aragón	1272129	1137153	0	134976	0	0
 2016	22233	Torre la Ribera	0,5909	0	0	0,5909	0	0
 2016	22234	Torrente de Cinca	0	0	0	0	0	0
-2016	22235	Torres de Alcanadre	3,919	0,77	1,08	2,069	0	0
+2016	22235	Torres de Alcanadre	3919	0,77	1,08	2069	0	0
 2016	22236	Torres de Barbués	0	0	0	0	0	0
 2016	22239	Tramaced	0	0	0	0	0	0
 2016	22242	Valfarta	7,29	7,29	0	0	0	0
@@ -3854,7 +3854,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	22905	Lupiñén-Ortilla	36,2	0	0	0	36,2	0
 2016	22906	Santa María de Dulcis	0	0	0	0	0	0
 2016	22907	Aínsa-Sobrarbe	580,39	97,38	332,88	150,13	0	0
-2016	22908	Hoz y Costeán	375,683	326,243	3,27	46,17	0	0
+2016	22908	Hoz y Costeán	375683	326243	3,27	46,17	0	0
 2016	22909	Vencillón	0	0	0	0	0	0
 2016	44001	Ababuj	90,71	86,31	0	4,4	0	0
 2016	44002	Abejuela	0	0	0	0	0	0
@@ -3863,12 +3863,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44005	Aguilar del Alfambra	0	0	0	0	0	0
 2016	44006	Alacón	153,3	152,63	0	0,67	0	0
 2016	44007	Alba	0	0	0	0	0	0
-2016	44008	Albalate del Arzobispo	294,623	245,94	8,763	29,3	10,62	0
+2016	44008	Albalate del Arzobispo	294623	245,94	8763	29,3	10,62	0
 2016	44009	Albarracín	2014,65	1561,45	453,15	0,05	0	0
 2016	44010	Albentosa	0	0	0	0	0	0
 2016	44011	Alcaine	1,96	1,96	0	0	0	0
 2016	44012	Alcalá de la Selva	0	0	0	0	0	0
-2016	44013	Alcañiz	465,9412	278,8312	177,2	3,78	6,13	0
+2016	44013	Alcañiz	4659412	2788312	177,2	3,78	6,13	0
 2016	44014	Alcorisa	32,29	7,53	17,54	0	7,22	0
 2016	44016	Alfambra	0	0	0	0	0	0
 2016	44017	Aliaga	78,42	78,42	0	0	0	0
@@ -3890,7 +3890,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44034	Bañón	50,53	50,53	0	0	0	0
 2016	44035	Barrachina	18,68	0	0	0	18,68	0
 2016	44036	Bea	0	0	0	0	0	0
-2016	44037	Beceite	8,1793	8,1793	0	0	0	0
+2016	44037	Beceite	81793	81793	0	0	0	0
 2016	44038	Belmonte de San José	180,69	21,18	146,62	12,89	0	0
 2016	44039	Bello	0	0	0	0	0	0
 2016	44040	Berge	18,42	0	17,78	0,64	0	0
@@ -3902,8 +3902,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44046	Bueña	383,79	0	0	383,79	0	0
 2016	44047	Burbáguena	2,95	1,43	0	0	1,52	0
 2016	44048	Cabra de Mora	0	0	0	0	0	0
-2016	44049	Calaceite	514,0272	351,91	81,06	81,0572	0	0
-2016	44050	Calamocha	65,7235	0	24,75	0,6335	40,34	0
+2016	44049	Calaceite	5140272	351,91	81,06	810572	0	0
+2016	44050	Calamocha	657235	0	24,75	0,6335	40,34	0
 2016	44051	Calanda	398,4	45,06	63,74	1,73	287,87	0
 2016	44052	Calomarde	0	0	0	0	0	0
 2016	44053	Camañas	2,27	2,27	0	0	0	0
@@ -3962,7 +3962,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44119	Griegos	0	0	0	0	0	0
 2016	44120	Guadalaviar	0	0	0	0	0	0
 2016	44121	Gúdar	0	0	0	0	0	0
-2016	44122	Híjar	794,8981	513,93	256,5081	20,64	3,82	0
+2016	44122	Híjar	7948981	513,93	2565081	20,64	3,82	0
 2016	44123	Hinojosa de Jarque	0	0	0	0	0	0
 2016	44124	Hoz de la Vieja (La)	0	0	0	0	0	0
 2016	44125	Huesa del Común	0	0	0	0	0	0
@@ -3976,15 +3976,15 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44133	Lanzuela	0	0	0	0	0	0
 2016	44135	Libros	0	0	0	0	0	0
 2016	44136	Lidón	164,26	43,19	79,34	0	41,73	0
-2016	44137	Linares de Mora	325,0124	314,5924	10,42	0	0	0
+2016	44137	Linares de Mora	3250124	3145924	10,42	0	0	0
 2016	44138	Loscos	0,68	0,68	0	0	0	0
 2016	44141	Lledó	21,08	14,73	0	6,35	0	0
 2016	44142	Maicas	0	0	0	0	0	0
 2016	44143	Manzanera	0	0	0	0	0	0
 2016	44144	Martín del Río	0	0	0	0	0	0
-2016	44145	Mas de las Matas	20,613	6,68	13,843	0,09	0	0
+2016	44145	Mas de las Matas	20613	6,68	13843	0,09	0	0
 2016	44146	Mata de los Olmos (La)	54,78	52,05	2,73	0	0	0
-2016	44147	Mazaleón	619,3258	540,0158	71,97	7,34	0	0
+2016	44147	Mazaleón	6193258	5400158	71,97	7,34	0	0
 2016	44148	Mezquita de Jarque	0	0	0	0	0	0
 2016	44149	Mirambel	0	0	0	0	0	0
 2016	44150	Miravete de la Sierra	202,43	0	202,43	0	0	0
@@ -3997,7 +3997,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44157	Monterde de Albarracín	0	0	0	0	0	0
 2016	44158	Mora de Rubielos	0	0	0	0	0	0
 2016	44159	Moscardón	0	0	0	0	0	0
-2016	44160	Mosqueruela	280,3525	77,2965	192,486	10,57	0	0
+2016	44160	Mosqueruela	2803525	772965	192486	10,57	0	0
 2016	44161	Muniesa	65,65	65,65	0	0	0	0
 2016	44163	Noguera de Albarracín	0	0	0	0	0	0
 2016	44164	Nogueras	0	0	0	0	0	0
@@ -4013,7 +4013,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44176	Palomar de Arroyos	0	0	0	0	0	0
 2016	44177	Pancrudo	0	0	0	0	0	0
 2016	44178	Parras de Castellote (Las)	1,92	0	1,92	0	0	0
-2016	44179	Peñarroya de Tastavins	227,5215	223,0215	4,5	0	0	0
+2016	44179	Peñarroya de Tastavins	2275215	2230215	4,5	0	0	0
 2016	44180	Peracense	0	0	0	0	0	0
 2016	44181	Peralejos	172,85	172,85	0	0	0	0
 2016	44182	Perales del Alfambra	573,57	184,89	0	0	388,68	0
@@ -4023,10 +4023,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44187	Portellada (La)	62,23	56,33	3,78	2,12	0	0
 2016	44189	Pozondón	0	0	0	0	0	0
 2016	44190	Pozuel del Campo	2,03	0	0	2,03	0	0
-2016	44191	Puebla de Híjar (La)	1,1073	1,1073	0	0	0	0
+2016	44191	Puebla de Híjar (La)	11073	11073	0	0	0	0
 2016	44192	Puebla de Valverde (La)	124,17	124,17	0	0	0	0
 2016	44193	Puertomingalvo	0	0	0	0	0	0
-2016	44194	Ráfales	161,779	110,8	32,88	18,099	0	0
+2016	44194	Ráfales	161779	110,8	32,88	18099	0	0
 2016	44195	Rillo	7,29	3,2	0	0	4,09	0
 2016	44196	Riodeva	0	0	0	0	0	0
 2016	44197	Ródenas	0	0	0	0	0	0
@@ -4051,7 +4051,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44218	Tormón	0	0	0	0	0	0
 2016	44219	Tornos	0	0	0	0	0	0
 2016	44220	Torralba de los Sisones	342,64	41,85	294,32	6,47	0	0
-2016	44221	Torrecilla de Alcañiz	310,3095	234,9295	74,26	1,12	0	0
+2016	44221	Torrecilla de Alcañiz	3103095	2349295	74,26	1,12	0	0
 2016	44222	Torrecilla del Rebollar	2,23	2,23	0	0	0	0
 2016	44223	Torre de Arcas	0	0	0	0	0	0
 2016	44224	Torre de las Arcas	0	0	0	0	0	0
@@ -4074,7 +4074,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	44243	Valdecuenca	0	0	0	0	0	0
 2016	44244	Valdelinares	0	0	0	0	0	0
 2016	44245	Valdeltormo	230,46	209,84	19,88	0,74	0	0
-2016	44246	Valderrobres	329,8495	214,4895	115,04	0	0,32	0
+2016	44246	Valderrobres	3298495	2144895	115,04	0	0,32	0
 2016	44247	Valjunquera	132,53	126,19	4,94	1,4	0	0
 2016	44249	Vallecillo (El)	0	0	0	0	0	0
 2016	44250	Veguillas de la Sierra	0	0	0	0	0	0
@@ -4115,8 +4115,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50021	Almochuel	27,52	24,21	3,31	0	0	0
 2016	50022	Almolda (La)	183,52	171,09	12,43	0	0	0
 2016	50023	Almonacid de la Cuba	284,38	235,07	1,14	3,12	45,05	0
-2016	50024	Almonacid de la Sierra	185,136	27,71	2,23	155,196	0	0
-2016	50025	Almunia de Doña Godina (La)	204,8845	1,54	12,7045	0	190,64	0
+2016	50024	Almonacid de la Sierra	185136	27,71	2,23	155196	0	0
+2016	50025	Almunia de Doña Godina (La)	2048845	1,54	127045	0	190,64	0
 2016	50026	Alpartir	1,15	0	0	1,15	0	0
 2016	50027	Ambel	7,7	0	0	0	7,7	0
 2016	50028	Anento	0	0	0	0	0	0
@@ -4136,7 +4136,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50042	Balconchán	0	0	0	0	0	0
 2016	50043	Bárboles	0	0	0	0	0	0
 2016	50044	Bardallur	1,07	1,07	0	0	0	0
-2016	50045	Belchite	1889,5676	1335,9676	336,43	96,88	120,29	0
+2016	50045	Belchite	18895676	13359676	336,43	96,88	120,29	0
 2016	50046	Belmonte de Gracián	0	0	0	0	0	0
 2016	50047	Berdejo	470,53	0	0	0	470,53	0
 2016	50048	Berrueco	0	0	0	0	0	0
@@ -4157,7 +4157,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50064	Cabañas de Ebro	0	0	0	0	0	0
 2016	50065	Cabolafuente	0	0	0	0	0	0
 2016	50066	Cadrete	0	0	0	0	0	0
-2016	50067	Calatayud	53,4594	0	53,4594	0	0	0
+2016	50067	Calatayud	534594	0	534594	0	0	0
 2016	50068	Calatorao	213,95	104,66	10,23	9,08	89,98	0
 2016	50069	Calcena	0	0	0	0	0	0
 2016	50070	Calmarza	0	0	0	0	0	0
@@ -4188,7 +4188,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50095	Ejea de los Caballeros	357,24	162,71	9,67	31,16	153,7	0
 2016	50096	Embid de Ariza	0	0	0	0	0	0
 2016	50098	Encinacorba	14,14	14,14	0	0	0	0
-2016	50099	Épila	2450,0124	1413,32	38,9108	154,7067	843,0749	0
+2016	50099	Épila	24500124	1413,32	389108	1547067	8430749	0
 2016	50100	Erla	6,74	6,74	0	0	0	0
 2016	50101	Escatrón	955,75	527	348,7	0	80,05	0
 2016	50102	Fabara	163,79	143,57	18,02	2,2	0	0
@@ -4198,7 +4198,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50107	Figueruelas	5,79	0	0	0	5,79	0
 2016	50108	Fombuena	214,25	213,97	0,28	0	0	0
 2016	50109	Frago (El)	0	0	0	0	0	0
-2016	50110	Frasno (El)	55,7505	7,64	14,7705	0,17	33,17	0
+2016	50110	Frasno (El)	557505	7,64	147705	0,17	33,17	0
 2016	50111	Fréscano	2,33	2,33	0	0	0	0
 2016	50113	Fuendejalón	277,43	65,7	10,11	13,21	188,41	0
 2016	50114	Fuendetodos	271,47	194,59	0	0	76,88	0
@@ -4244,7 +4244,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50156	Maleján	0	0	0	0	0	0
 2016	50157	Malón	0	0	0	0	0	0
 2016	50159	Maluenda	5,95	5,33	0,62	0	0	0
-2016	50160	Mallén	28,61	15,513	13,097	0	0	0
+2016	50160	Mallén	28,61	15513	13097	0	0	0
 2016	50161	Manchones	3,7	0	0	3,7	0	0
 2016	50162	Mara	8,25	0	1,97	6,28	0	0
 2016	50163	María de Huerva	230,14	2,26	0	0	227,88	0
@@ -4256,7 +4256,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50169	Miedes de Aragón	63,73	43,17	8,38	12,18	0	0
 2016	50170	Monegrillo	724,8	634,84	89,96	0	0	0
 2016	50171	Moneva	113,13	98,16	14,16	0,81	0	0
-2016	50172	Monreal de Ariza	20,2258	0	20,2258	0	0	0
+2016	50172	Monreal de Ariza	202258	0	202258	0	0	0
 2016	50173	Monterde	0	0	0	0	0	0
 2016	50174	Montón	0	0	0	0	0	0
 2016	50175	Morata de Jalón	27,54	0	27,54	0	0	0
@@ -4290,9 +4290,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50203	Pastriz	0,99	0,99	0	0	0	0
 2016	50204	Pedrola	506,76	85,52	0	0	421,24	0
 2016	50205	Pedrosas (Las)	0	0	0	0	0	0
-2016	50206	Perdiguera	464,954	461,414	3,54	0	0	0
+2016	50206	Perdiguera	464954	461414	3,54	0	0	0
 2016	50207	Piedratajada	0	0	0	0	0	0
-2016	50208	Pina de Ebro	425,2025	47,99	2,7825	1,49	372,94	0
+2016	50208	Pina de Ebro	4252025	47,99	27825	1,49	372,94	0
 2016	50209	Pinseque	0	0	0	0	0	0
 2016	50210	Pintanos (Los)	0	0	0	0	0	0
 2016	50211	Plasencia de Jalón	636,2	0	0	0	636,2	0
@@ -4302,23 +4302,23 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50215	Pozuel de Ariza	0	0	0	0	0	0
 2016	50216	Pozuelo de Aragón	319,93	56,5	12,38	9,43	241,62	0
 2016	50217	Pradilla de Ebro	0	0	0	0	0	0
-2016	50218	Puebla de Albortón	1180,8052	1168,98	5,67	6,1552	0	0
+2016	50218	Puebla de Albortón	11808052	1168,98	5,67	61552	0	0
 2016	50219	Puebla de Alfindén (La)	0	0	0	0	0	0
 2016	50220	Puendeluna	0	0	0	0	0	0
 2016	50221	Purujosa	0	0	0	0	0	0
 2016	50222	Quinto	48,29	38,71	9,58	0	0	0
 2016	50223	Remolinos	0	0	0	0	0	0
 2016	50224	Retascón	0	0	0	0	0	0
-2016	50225	Ricla	133,8283	1,67	125,0183	7,14	0	0
+2016	50225	Ricla	1338283	1,67	1250183	7,14	0	0
 2016	50227	Romanos	0	0	0	0	0	0
-2016	50228	Rueda de Jalón	1477,6223	917,8	23,3023	24,75	511,77	0
+2016	50228	Rueda de Jalón	14776223	917,8	233023	24,75	511,77	0
 2016	50229	Ruesca	0	0	0	0	0	0
 2016	50230	Sádaba	70,53	20,04	50,49	0	0	0
 2016	50231	Salillas de Jalón	0	0	0	0	0	0
 2016	50232	Salvatierra de Esca	0	0	0	0	0	0
 2016	50233	Samper del Salz	206,03	187,53	11,45	7,05	0	0
 2016	50234	San Martín de la Virgen de Moncayo	0	0	0	0	0	0
-2016	50235	San Mateo de Gállego	50,4575	43,65	1,07	5,7375	0	0
+2016	50235	San Mateo de Gállego	504575	43,65	1,07	57375	0	0
 2016	50236	Santa Cruz de Grío	0	0	0	0	0	0
 2016	50237	Santa Cruz de Moncayo	0	0	0	0	0	0
 2016	50238	Santa Eulalia de Gállego	0	0	0	0	0	0
@@ -4334,7 +4334,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50248	Sos del Rey Católico	279,43	123,62	3,79	31,16	120,86	0
 2016	50249	Tabuenca	37,86	0	15,32	14,07	8,47	0
 2016	50250	Talamantes	0	0	0	0	0	0
-2016	50251	Tarazona	25,5132	10,99	4,73	1,7732	8,02	0
+2016	50251	Tarazona	255132	10,99	4,73	17732	8,02	0
 2016	50252	Tauste	160,77	7,3	52,35	12,42	88,7	0
 2016	50253	Terrer	0	0	0	0	0	0
 2016	50254	Tierga	0	0	0	0	0	0
@@ -4368,7 +4368,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50282	Vilueña (La)	0	0	0	0	0	0
 2016	50283	Villadoz	0	0	0	0	0	0
 2016	50284	Villafeliche	2,26	0	0	2,26	0	0
-2016	50285	Villafranca de Ebro	17,365	12,865	0,37	0	4,13	0
+2016	50285	Villafranca de Ebro	17365	12865	0,37	0	4,13	0
 2016	50286	Villalba de Perejil	0	0	0	0	0	0
 2016	50287	Villalengua	2,64	0	2,64	0	0	0
 2016	50288	Villanueva de Gállego	277,36	81,17	196,19	0	0	0
@@ -4380,8 +4380,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2016	50294	Villarroya del Campo	0	0	0	0	0	0
 2016	50295	Vistabella	0	0	0	0	0	0
 2016	50296	Zaida (La)	0	0	0	0	0	0
-2016	50297	Zaragoza	2039,8716	1245,8518	263,6758	50,104	480,24	0
-2016	50298	Zuera	691,788	440,18	7,33	15,758	228,52	0
+2016	50297	Zaragoza	20398716	12458518	2636758	50104	480,24	0
+2016	50298	Zuera	691788	440,18	7,33	15758	228,52	0
 2016	50901	Biel	0	0	0	0	0	0
 2016	50902	Marracos	0	0	0	0	0	0
 2016	50903	Villamayor de Gállego	1,24	0	0	1,24	0	0
@@ -4390,7 +4390,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	22003	Adahuesca	22,98	0	20,79	2,19	0	0
 2017	22004	Agüero	0	0	0	0	0	0
 2017	22006	Aísa	0	0	0	0	0	0
-2017	22007	Albalate de Cinca	93,0269	71,62	4,8267	16,5802	0	0
+2017	22007	Albalate de Cinca	930269	71,62	48267	165802	0	0
 2017	22008	Albalatillo	0,32	0	0	0,32	0	0
 2017	22009	Albelda	14,56	9,43	1,4	3,73	0	0
 2017	22011	Albero Alto	0	0	0	0	0	0
@@ -4424,7 +4424,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	22045	Baldellou	0	0	0	0	0	0
 2017	22046	Ballobar	0	0	0	0	0	0
 2017	22047	Banastás	0	0	0	0	0	0
-2017	22048	Barbastro	103,2752	69,9852	33,29	0	0	0
+2017	22048	Barbastro	1032752	699852	33,29	0	0	0
 2017	22049	Barbués	0	0	0	0	0	0
 2017	22050	Barbuñales	27,8	27,8	0	0	0	0
 2017	22051	Bárcabo	0,43	0	0	0,43	0	0
@@ -4433,9 +4433,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	22054	Benasque	94,33	0	0	94,33	0	0
 2017	22055	Berbegal	0	0	0	0	0	0
 2017	22057	Bielsa	342,89	213,91	0	128,98	0	0
-2017	22058	Bierge	9,7355	9,7355	0	0	0	0
-2017	22059	Biescas	203,364	198,344	5,02	0	0	0
-2017	22060	Binaced	23,8062	0,6062	0	23,2	0	0
+2017	22058	Bierge	97355	97355	0	0	0	0
+2017	22059	Biescas	203364	198344	5,02	0	0	0
+2017	22060	Binaced	238062	0,6062	0	23,2	0	0
 2017	22061	Binéfar	0	0	0	0	0	0
 2017	22062	Bisaurri	0	0	0	0	0	0
 2017	22063	Biscarrués	0	0	0	0	0	0
@@ -4463,7 +4463,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	22089	Castillonroy	9,74	9,74	0	0	0	0
 2017	22090	Colungo	13,85	13,65	0	0,2	0	0
 2017	22094	Chalamera	0	0	0	0	0	0
-2017	22095	Chía	10,209	6,3772	2,0119	1,8199	0	0
+2017	22095	Chía	10209	63772	20119	18199	0	0
 2017	22096	Chimillas	0	0	0	0	0	0
 2017	22099	Esplús	0	0	0	0	0	0
 2017	22102	Estada	0	0	0	0	0	0
@@ -4483,11 +4483,11 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	22119	Gurrea de Gállego	132,66	132,66	0	0	0	0
 2017	22122	Hoz de Jaca	0	0	0	0	0	0
 2017	22124	Huerto	138,43	34	0	0,67	103,76	0
-2017	22125	Huesca	259,5119	57,3555	8,2064	0	193,95	0
+2017	22125	Huesca	2595119	573555	82064	0	193,95	0
 2017	22126	Ibieca	0	0	0	0	0	0
 2017	22127	Igriés	0	0	0	0	0	0
-2017	22128	Ilche	12,926	8,316	4,61	0	0	0
-2017	22129	Isábena	2,056	0,73	1,146	0,18	0	0
+2017	22128	Ilche	12926	8316	4,61	0	0	0
+2017	22129	Isábena	2056	0,73	1146	0,18	0	0
 2017	22130	Jaca	21,82	10,15	1,91	9,76	0	0
 2017	22131	Jasa	0	0	0	0	0	0
 2017	22133	Labuerda	0,41	0	0	0,41	0	0
@@ -4538,13 +4538,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	22202	Salas Bajas	0	0	0	0	0	0
 2017	22203	Salillas	119,26	0	0	119,26	0	0
 2017	22204	Sallent de Gállego	0	0	0	0	0	0
-2017	22205	San Esteban de Litera	85,5567	47,1067	0	38,45	0	0
+2017	22205	San Esteban de Litera	855567	471067	0	38,45	0	0
 2017	22206	Sangarrén	0	0	0	0	0	0
 2017	22207	San Juan de Plan	0	0	0	0	0	0
 2017	22208	Santa Cilia	0	0	0	0	0	0
 2017	22209	Santa Cruz de la Serós	0	0	0	0	0	0
 2017	22212	Santaliestra y San Quílez	0	0	0	0	0	0
-2017	22213	Sariñena	86,0444	24,4444	9	0,36	52,24	0
+2017	22213	Sariñena	860444	244444	9	0,36	52,24	0
 2017	22214	Secastilla	3,52	3,52	0	0	0	0
 2017	22215	Seira	0	0	0	0	0	0
 2017	22217	Sena	72,98	57,16	0	15,82	0	0
@@ -4559,10 +4559,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	22228	Tierz	0	0	0	0	0	0
 2017	22229	Tolva	0	0	0	0	0	0
 2017	22230	Torla-Ordesa	0	0	0	0	0	0
-2017	22232	Torralba de Aragón	135,1418	114,1853	13,4965	7,46	0	0
+2017	22232	Torralba de Aragón	1351418	1141853	134965	7,46	0	0
 2017	22233	Torre la Ribera	0,5909	0	0,5909	0	0	0
 2017	22234	Torrente de Cinca	0	0	0	0	0	0
-2017	22235	Torres de Alcanadre	3,625	1,5325	2,0925	0	0	0
+2017	22235	Torres de Alcanadre	3625	15325	20925	0	0	0
 2017	22236	Torres de Barbués	0	0	0	0	0	0
 2017	22239	Tramaced	0	0	0	0	0	0
 2017	22242	Valfarta	7,55	7,55	0	0	0	0
@@ -4599,7 +4599,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44010	Albentosa	0	0	0	0	0	0
 2017	44011	Alcaine	1,96	1,96	0	0	0	0
 2017	44012	Alcalá de la Selva	0	0	0	0	0	0
-2017	44013	Alcañiz	553,4589	333,6742	121,9347	91,7	6,15	0
+2017	44013	Alcañiz	5534589	3336742	1219347	91,7	6,15	0
 2017	44014	Alcorisa	36,63	13,07	17,23	0,02	6,31	0
 2017	44016	Alfambra	0	0	0	0	0	0
 2017	44017	Aliaga	78,36	78,36	0	0	0	0
@@ -4621,7 +4621,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44034	Bañón	51,49	50,53	0	0,96	0	0
 2017	44035	Barrachina	19,01	0	0	0	19,01	0
 2017	44036	Bea	0	0	0	0	0	0
-2017	44037	Beceite	8,1793	8,1793	0	0	0	0
+2017	44037	Beceite	81793	81793	0	0	0	0
 2017	44038	Belmonte de San José	186,68	15,86	165,55	5,27	0	0
 2017	44039	Bello	0	0	0	0	0	0
 2017	44040	Berge	18,65	0	18,01	0,64	0	0
@@ -4633,8 +4633,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44046	Bueña	0	0	0	0	0	0
 2017	44047	Burbáguena	2,92	1,43	0	0	1,49	0
 2017	44048	Cabra de Mora	0	0	0	0	0	0
-2017	44049	Calaceite	560,1721	373,69	111,29	75,1921	0	0
-2017	44050	Calamocha	69,2531	24,79	1,0031	2,84	40,62	0
+2017	44049	Calaceite	5601721	373,69	111,29	751921	0	0
+2017	44050	Calamocha	692531	24,79	10031	2,84	40,62	0
 2017	44051	Calanda	400,17	52,63	57,14	1,1	289,3	0
 2017	44052	Calomarde	0	0	0	0	0	0
 2017	44053	Camañas	2,27	2,27	0	0	0	0
@@ -4661,7 +4661,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44082	Corbalán	0	0	0	0	0	0
 2017	44084	Cortes de Aragón	0	0	0	0	0	0
 2017	44085	Cosa	0	0	0	0	0	0
-2017	44086	Cretas	140,1993	60,26	26,47	53,4693	0	0
+2017	44086	Cretas	1401993	60,26	26,47	534693	0	0
 2017	44087	Crivillén	1,14	1,14	0	0	0	0
 2017	44088	Cuba (La)	0	0	0	0	0	0
 2017	44089	Cubla	0	0	0	0	0	0
@@ -4685,7 +4685,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44111	Fuentes Calientes	299,16	67,53	0,69	0	230,94	0
 2017	44112	Fuentes Claras	0	0	0	0	0	0
 2017	44113	Fuentes de Rubielos	0	0	0	0	0	0
-2017	44114	Fuentespalda	26,7348	9,87	10,18	6,6848	0	0
+2017	44114	Fuentespalda	267348	9,87	10,18	66848	0	0
 2017	44115	Galve	0	0	0	0	0	0
 2017	44116	Gargallo	0	0	0	0	0	0
 2017	44117	Gea de Albarracín	0	0	0	0	0	0
@@ -4707,7 +4707,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44133	Lanzuela	0	0	0	0	0	0
 2017	44135	Libros	0	0	0	0	0	0
 2017	44136	Lidón	41,73	0	0	0	41,73	0
-2017	44137	Linares de Mora	269,9724	269,9724	0	0	0	0
+2017	44137	Linares de Mora	2699724	2699724	0	0	0	0
 2017	44138	Loscos	0,68	0,68	0	0	0	0
 2017	44141	Lledó	21,08	14,73	6,35	0	0	0
 2017	44142	Maicas	0	0	0	0	0	0
@@ -4728,7 +4728,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44157	Monterde de Albarracín	0	0	0	0	0	0
 2017	44158	Mora de Rubielos	0	0	0	0	0	0
 2017	44159	Moscardón	0	0	0	0	0	0
-2017	44160	Mosqueruela	334,2925	334,2925	0	0	0	0
+2017	44160	Mosqueruela	3342925	3342925	0	0	0	0
 2017	44161	Muniesa	67,07	67,07	0	0	0	0
 2017	44163	Noguera de Albarracín	0	0	0	0	0	0
 2017	44164	Nogueras	0	0	0	0	0	0
@@ -4744,7 +4744,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44176	Palomar de Arroyos	0	0	0	0	0	0
 2017	44177	Pancrudo	0	0	0	0	0	0
 2017	44178	Parras de Castellote (Las)	1,92	0	1,92	0	0	0
-2017	44179	Peñarroya de Tastavins	227,5215	223,0215	4,5	0	0	0
+2017	44179	Peñarroya de Tastavins	2275215	2230215	4,5	0	0	0
 2017	44180	Peracense	0	0	0	0	0	0
 2017	44181	Peralejos	172,85	172,85	0	0	0	0
 2017	44182	Perales del Alfambra	573,18	184,41	0	0	388,77	0
@@ -4757,7 +4757,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44191	Puebla de Híjar (La)	1,07	1,07	0	0	0	0
 2017	44192	Puebla de Valverde (La)	124,18	124,18	0	0	0	0
 2017	44193	Puertomingalvo	0	0	0	0	0	0
-2017	44194	Ráfales	114,199	100,85	13,349	0	0	0
+2017	44194	Ráfales	114199	100,85	13349	0	0	0
 2017	44195	Rillo	7,29	3,2	0	0	4,09	0
 2017	44196	Riodeva	0	0	0	0	0	0
 2017	44197	Ródenas	0	0	0	0	0	0
@@ -4782,7 +4782,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44218	Tormón	0	0	0	0	0	0
 2017	44219	Tornos	0	0	0	0	0	0
 2017	44220	Torralba de los Sisones	440,41	328,37	7,24	104,8	0	0
-2017	44221	Torrecilla de Alcañiz	309,5395	247,9795	55,5	6,06	0	0
+2017	44221	Torrecilla de Alcañiz	3095395	2479795	55,5	6,06	0	0
 2017	44222	Torrecilla del Rebollar	2,23	2,23	0	0	0	0
 2017	44223	Torre de Arcas	0	0	0	0	0	0
 2017	44224	Torre de las Arcas	0	0	0	0	0	0
@@ -4791,7 +4791,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44227	Torre los Negros	382,47	382,47	0	0	0	0
 2017	44228	Torremocha de Jiloca	599,93	599,93	0	0	0	0
 2017	44229	Torres de Albarracín	0	0	0	0	0	0
-2017	44230	Torrevelilla	72,609	20,67	14,85	37,089	0	0
+2017	44230	Torrevelilla	72609	20,67	14,85	37089	0	0
 2017	44231	Torrijas	0	0	0	0	0	0
 2017	44232	Torrijo del Campo	0	0	0	0	0	0
 2017	44234	Tramacastiel	0	0	0	0	0	0
@@ -4805,7 +4805,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44243	Valdecuenca	0	0	0	0	0	0
 2017	44244	Valdelinares	0	0	0	0	0	0
 2017	44245	Valdeltormo	229,11	209,02	17,48	2,61	0	0
-2017	44246	Valderrobres	364,4308	248,11	73,28	42,7208	0,32	0
+2017	44246	Valderrobres	3644308	248,11	73,28	427208	0,32	0
 2017	44247	Valjunquera	141,53	134,34	6,18	1,01	0	0
 2017	44249	Vallecillo (El)	0	0	0	0	0	0
 2017	44250	Veguillas de la Sierra	0	0	0	0	0	0
@@ -4818,7 +4818,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	44261	Villarquemado	8,18	0	0	8,18	0	0
 2017	44262	Villarroya de los Pinares	0	0	0	0	0	0
 2017	44263	Villastar	2,36	0	0,95	1,41	0	0
-2017	44264	Villel	1,5274	0,2274	0	1,3	0	0
+2017	44264	Villel	15274	0,2274	0	1,3	0	0
 2017	44265	Vinaceite	62,9	62,9	0	0	0	0
 2017	44266	Visiedo	46,67	42,05	0	0	4,62	0
 2017	44267	Vivel del Río Martín	10,58	0	1,02	9,56	0	0
@@ -4829,8 +4829,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50004	Aguarón	0	0	0	0	0	0
 2017	50005	Aguilón	11,14	11,14	0	0	0	0
 2017	50006	Ainzón	9,84	8,83	0	0	1,01	0
-2017	50007	Aladrén	13,8081	0	0	13,8081	0	0
-2017	50008	Alagón	14,992	14,992	0	0	0	0
+2017	50007	Aladrén	138081	0	0	138081	0	0
+2017	50008	Alagón	14992	14992	0	0	0	0
 2017	50009	Alarba	4,61	3,32	1,29	0	0	0
 2017	50010	Alberite de San Juan	10,67	0	0	0	10,67	0
 2017	50011	Albeta	1,76	0	0	0	1,76	0
@@ -4846,8 +4846,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50021	Almochuel	27,52	24,4	0	3,12	0	0
 2017	50022	Almolda (La)	181,58	181,58	0	0	0	0
 2017	50023	Almonacid de la Cuba	328,32	229,02	0	29,27	70,03	0
-2017	50024	Almonacid de la Sierra	391,1998	30,49	296,8998	63,81	0	0
-2017	50025	Almunia de Doña Godina (La)	263,1405	4,41	10,0645	22,696	225,97	0
+2017	50024	Almonacid de la Sierra	3911998	30,49	2968998	63,81	0	0
+2017	50025	Almunia de Doña Godina (La)	2631405	4,41	100645	22696	225,97	0
 2017	50026	Alpartir	2,53	0	1,15	1,38	0	0
 2017	50027	Ambel	7,75	0	0	0	7,75	0
 2017	50028	Anento	0	0	0	0	0	0
@@ -4861,7 +4861,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50036	Asín	0	0	0	0	0	0
 2017	50037	Atea	7,23	4,88	0,56	1,79	0	0
 2017	50038	Ateca	0	0	0	0	0	0
-2017	50039	Azuara	658,225	445,81	3,77	208,645	0	0
+2017	50039	Azuara	658225	445,81	3,77	208645	0	0
 2017	50040	Badules	0,32	0,32	0	0	0	0
 2017	50041	Bagüés	0	0	0	0	0	0
 2017	50042	Balconchán	6,98	0	6,71	0,27	0	0
@@ -4888,14 +4888,14 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50064	Cabañas de Ebro	0,28	0	0	0,28	0	0
 2017	50065	Cabolafuente	0	0	0	0	0	0
 2017	50066	Cadrete	0	0	0	0	0	0
-2017	50067	Calatayud	55,2594	50,6194	2,79	1,85	0	0
+2017	50067	Calatayud	552594	506194	2,79	1,85	0	0
 2017	50068	Calatorao	387,87	138,57	9,29	181,3	58,71	0
 2017	50069	Calcena	0	0	0	0	0	0
 2017	50070	Calmarza	0	0	0	0	0	0
 2017	50071	Campillo de Aragón	0	0	0	0	0	0
 2017	50072	Carenas	0	0	0	0	0	0
 2017	50073	Cariñena	383,87	365,02	1,42	17,43	0	0
-2017	50074	Caspe	2127,0242	1674,3743	223,939	96,3009	132,41	0
+2017	50074	Caspe	21270242	16743743	223939	963009	132,41	0
 2017	50075	Castejón de Alarba	0,8	0,8	0	0	0	0
 2017	50076	Castejón de las Armas	0	0	0	0	0	0
 2017	50077	Castejón de Valdejasa	0	0	0	0	0	0
@@ -4919,7 +4919,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50095	Ejea de los Caballeros	384,19	169,96	32,66	34,66	146,91	0
 2017	50096	Embid de Ariza	0	0	0	0	0	0
 2017	50098	Encinacorba	14,18	14,18	0	0	0	0
-2017	50099	Épila	2499,1175	1550,24	167,1275	60,54	721,21	0
+2017	50099	Épila	24991175	1550,24	1671275	60,54	721,21	0
 2017	50100	Erla	6,74	6,74	0	0	0	0
 2017	50101	Escatrón	949,23	639,36	236,43	34,42	39,02	0
 2017	50102	Fabara	161,53	152,6	5,34	3,59	0	0
@@ -4929,9 +4929,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50107	Figueruelas	5,79	0	0	0	5,79	0
 2017	50108	Fombuena	190,34	189,61	0,28	0,45	0	0
 2017	50109	Frago (El)	0	0	0	0	0	0
-2017	50110	Frasno (El)	58,9105	7,64	14,9405	0	36,33	0
+2017	50110	Frasno (El)	589105	7,64	149405	0	36,33	0
 2017	50111	Fréscano	2,33	2,33	0	0	0	0
-2017	50113	Fuendejalón	280,235	75,83	13,21	2,596	188,599	0
+2017	50113	Fuendejalón	280235	75,83	13,21	2596	188599	0
 2017	50114	Fuendetodos	273,58	195,55	0	1,16	76,87	0
 2017	50115	Fuentes de Ebro	1,65	0	1,65	0	0	0
 2017	50116	Fuentes de Jiloca	2,29	0	0	2,29	0	0
@@ -4966,11 +4966,11 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50147	Luceni	18,05	0	0	0	18,05	0
 2017	50148	Luesia	0	0	0	0	0	0
 2017	50149	Luesma	0	0	0	0	0	0
-2017	50150	Lumpiaque	452,4255	35,06	4,67	7,2155	405,48	0
+2017	50150	Lumpiaque	4524255	35,06	4,67	72155	405,48	0
 2017	50151	Luna	15,47	15,47	0	0	0	0
 2017	50152	Maella	168,94	151,63	14,67	2,64	0	0
 2017	50153	Magallón	52,52	31,98	1,08	0	19,46	0
-2017	50154	Mainar	14,6112	0	0	0	14,6112	0
+2017	50154	Mainar	146112	0	0	0	146112	0
 2017	50155	Malanquilla	0	0	0	0	0	0
 2017	50156	Maleján	0	0	0	0	0	0
 2017	50157	Malón	0	0	0	0	0	0
@@ -4987,10 +4987,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50169	Miedes de Aragón	60,76	49,3	11,46	0	0	0
 2017	50170	Monegrillo	824,45	671,28	0	153,17	0	0
 2017	50171	Moneva	121,63	98,07	14,85	8,71	0	0
-2017	50172	Monreal de Ariza	22,7781	4,7986	15,4295	2,55	0	0
+2017	50172	Monreal de Ariza	227781	47986	154295	2,55	0	0
 2017	50173	Monterde	0	0	0	0	0	0
 2017	50174	Montón	6,01	0	0	6,01	0	0
-2017	50175	Morata de Jalón	39,9898	0	27,2	12,7898	0	0
+2017	50175	Morata de Jalón	399898	0	27,2	127898	0	0
 2017	50176	Morata de Jiloca	0	0	0	0	0	0
 2017	50177	Morés	0	0	0	0	0	0
 2017	50178	Moros	0	0	0	0	0	0
@@ -5018,7 +5018,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50200	Paniza	0	0	0	0	0	0
 2017	50201	Paracuellos de Jiloca	28	4,75	15,14	8,11	0	0
 2017	50202	Paracuellos de la Ribera	0	0	0	0	0	0
-2017	50203	Pastriz	1,24	1,195	0	0,045	0	0
+2017	50203	Pastriz	1,24	1195	0	0,045	0	0
 2017	50204	Pedrola	365,38	85,46	0	0	279,92	0
 2017	50205	Pedrosas (Las)	0	0	0	0	0	0
 2017	50206	Perdiguera	424,29	424,13	0,16	0	0	0
@@ -5040,16 +5040,16 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50222	Quinto	35,08	35,08	0	0	0	0
 2017	50223	Remolinos	0	0	0	0	0	0
 2017	50224	Retascón	0	0	0	0	0	0
-2017	50225	Ricla	199,6429	1,5118	130,5401	67,591	0	0
+2017	50225	Ricla	1996429	15118	1305401	67591	0	0
 2017	50227	Romanos	0	0	0	0	0	0
-2017	50228	Rueda de Jalón	1473,2502	920,03	38,46	6,2002	508,56	0
+2017	50228	Rueda de Jalón	14732502	920,03	38,46	62002	508,56	0
 2017	50229	Ruesca	0	0	0	0	0	0
 2017	50230	Sádaba	101,32	20,04	37,8	31,4	12,08	0
 2017	50231	Salillas de Jalón	0	0	0	0	0	0
 2017	50232	Salvatierra de Esca	0	0	0	0	0	0
 2017	50233	Samper del Salz	205,26	197,15	2	6,11	0	0
 2017	50234	San Martín de la Virgen de Moncayo	0	0	0	0	0	0
-2017	50235	San Mateo de Gállego	78,1075	49,89	0,06	28,1575	0	0
+2017	50235	San Mateo de Gállego	781075	49,89	0,06	281575	0	0
 2017	50236	Santa Cruz de Grío	0	0	0	0	0	0
 2017	50237	Santa Cruz de Moncayo	0	0	0	0	0	0
 2017	50238	Santa Eulalia de Gállego	0	0	0	0	0	0
@@ -5065,8 +5065,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50248	Sos del Rey Católico	208,33	16,3	0	0	192,03	0
 2017	50249	Tabuenca	32,8	6,07	9,14	9,12	8,47	0
 2017	50250	Talamantes	0	0	0	0	0	0
-2017	50251	Tarazona	27,8904	16,9858	1,8346	1,04	8,03	0
-2017	50252	Tauste	154,0156	21,6556	49,04	15,44	67,88	0
+2017	50251	Tarazona	278904	169858	18346	1,04	8,03	0
+2017	50252	Tauste	1540156	216556	49,04	15,44	67,88	0
 2017	50253	Terrer	0	0	0	0	0	0
 2017	50254	Tierga	0	0	0	0	0	0
 2017	50255	Tobed	0	0	0	0	0	0
@@ -5099,7 +5099,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50282	Vilueña (La)	0	0	0	0	0	0
 2017	50283	Villadoz	0	0	0	0	0	0
 2017	50284	Villafeliche	7,4	0	2,26	5,14	0	0
-2017	50285	Villafranca de Ebro	17,384	13,254	0	0	4,13	0
+2017	50285	Villafranca de Ebro	17384	13254	0	0	4,13	0
 2017	50286	Villalba de Perejil	0	0	0	0	0	0
 2017	50287	Villalengua	2,64	0	2,64	0	0	0
 2017	50288	Villanueva de Gállego	273,86	176,49	96,94	0,43	0	0
@@ -5111,7 +5111,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2017	50294	Villarroya del Campo	0	0	0	0	0	0
 2017	50295	Vistabella	0	0	0	0	0	0
 2017	50296	Zaida (La)	0	0	0	0	0	0
-2017	50297	Zaragoza	2325,4892	1248,5004	264,5248	7,514	804,95	0
+2017	50297	Zaragoza	23254892	12485004	2645248	7514	804,95	0
 2017	50298	Zuera	745,68	430,04	61,03	25,88	228,73	0
 2017	50901	Biel	0	0	0	0	0	0
 2017	50902	Marracos	0	0	0	0	0	0
@@ -5121,7 +5121,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	22003	Adahuesca	22,98	20,79	2,19	0	0	0
 2018	22004	Agüero	0	0	0	0	0	0
 2018	22006	Aísa	0	0	0	0	0	0
-2018	22007	Albalate de Cinca	96,7164	66,68	12,5	0	17,5364	0
+2018	22007	Albalate de Cinca	967164	66,68	12,5	0	175364	0
 2018	22008	Albalatillo	0,32	0	0,32	0	0	0
 2018	22009	Albelda	15,19	9,43	3,91	1,85	0	0
 2018	22011	Albero Alto	0	0	0	0	0	0
@@ -5155,7 +5155,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	22045	Baldellou	0	0	0	0	0	0
 2018	22046	Ballobar	0	0	0	0	0	0
 2018	22047	Banastás	0	0	0	0	0	0
-2018	22048	Barbastro	109,354	100,364	0,58	8,41	0	0
+2018	22048	Barbastro	109354	100364	0,58	8,41	0	0
 2018	22049	Barbués	0	0	0	0	0	0
 2018	22050	Barbuñales	25,78	25,78	0	0	0	0
 2018	22051	Bárcabo	0,43	0	0	0,43	0	0
@@ -5165,8 +5165,8 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	22055	Berbegal	0	0	0	0	0	0
 2018	22057	Bielsa	250,63	176,32	73,3	1,01	0	0
 2018	22058	Bierge	6,14	6,14	0	0	0	0
-2018	22059	Biescas	255,644	251,984	0,2	0	3,46	0
-2018	22060	Binaced	6,6462	0,6062	0	6,04	0	0
+2018	22059	Biescas	255644	251984	0,2	0	3,46	0
+2018	22060	Binaced	66462	0,6062	0	6,04	0	0
 2018	22061	Binéfar	0	0	0	0	0	0
 2018	22062	Bisaurri	0	0	0	0	0	0
 2018	22063	Biscarrués	6,75	0	0	6,75	0	0
@@ -5214,11 +5214,11 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	22119	Gurrea de Gállego	132,66	132,66	0	0	0	0
 2018	22122	Hoz de Jaca	0	0	0	0	0	0
 2018	22124	Huerto	176,7	25,1	6,91	40,93	103,76	0
-2018	22125	Huesca	256,0537	61,752	0	0,3517	193,95	0
+2018	22125	Huesca	2560537	61752	0	0,3517	193,95	0
 2018	22126	Ibieca	0	0	0	0	0	0
 2018	22127	Igriés	0	0	0	0	0	0
-2018	22128	Ilche	23,474	12,906	0	10,568	0	0
-2018	22129	Isábena	2,086	1,796	0,2	0,09	0	0
+2018	22128	Ilche	23474	12906	0	10568	0	0
+2018	22129	Isábena	2086	1796	0,2	0,09	0	0
 2018	22130	Jaca	29,86	10,47	11,22	8,17	0	0
 2018	22131	Jasa	0	0	0	0	0	0
 2018	22133	Labuerda	0,42	0	0,42	0	0	0
@@ -5230,7 +5230,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	22142	Lascuarre	0	0	0	0	0	0
 2018	22143	Laspaúles	0	0	0	0	0	0
 2018	22144	Laspuña	0	0	0	0	0	0
-2018	22149	Loarre	116,2438	82,25	2,62	31,3738	0	0
+2018	22149	Loarre	1162438	82,25	2,62	313738	0	0
 2018	22150	Loporzano	0	0	0	0	0	0
 2018	22151	Loscorrales	0	0	0	0	0	0
 2018	22155	Monesma y Cajigar	0	0	0	0	0	0
@@ -5275,7 +5275,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	22208	Santa Cilia	0	0	0	0	0	0
 2018	22209	Santa Cruz de la Serós	0	0	0	0	0	0
 2018	22212	Santaliestra y San Quílez	0	0	0	0	0	0
-2018	22213	Sariñena	87,3576	22,3232	0,0144	0,41	64,61	0
+2018	22213	Sariñena	873576	223232	0,0144	0,41	64,61	0
 2018	22214	Secastilla	3,52	3,52	0	0	0	0
 2018	22215	Seira	0	0	0	0	0	0
 2018	22217	Sena	72,93	57,16	15,77	0	0	0
@@ -5284,13 +5284,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	22221	Sesué	0	0	0	0	0	0
 2018	22222	Siétamo	0	0	0	0	0	0
 2018	22223	Sopeira	0	0	0	0	0	0
-2018	22225	Tamarite de Litera	9,866	9,806	0,06	0	0	0
+2018	22225	Tamarite de Litera	9866	9806	0,06	0	0	0
 2018	22226	Tardienta	8,02	8,02	0	0	0	0
 2018	22227	Tella-Sin	0	0	0	0	0	0
 2018	22228	Tierz	0	0	0	0	0	0
 2018	22229	Tolva	0	0	0	0	0	0
 2018	22230	Torla-Ordesa	0	0	0	0	0	0
-2018	22232	Torralba de Aragón	136,2553	126,2453	7,46	2,55	0	0
+2018	22232	Torralba de Aragón	1362553	1262453	7,46	2,55	0	0
 2018	22233	Torre la Ribera	0,6166	0,6066	0,01	0	0	0
 2018	22234	Torrente de Cinca	0	0	0	0	0	0
 2018	22235	Torres de Alcanadre	3,5	1,63	1,87	0	0	0
@@ -5329,11 +5329,11 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44009	Albarracín	1447,14	1439,72	0	7,42	0	0
 2018	44010	Albentosa	0	0	0	0	0	0
 2018	44011	Alcaine	1,96	1,96	0	0	0	0
-2018	44012	Alcalá de la Selva	86,9285	0	0	86,9285	0	0
-2018	44013	Alcañiz	568,2642	437,6542	17,94	102,54	10,13	0
-2018	44014	Alcorisa	45,3909	24,12	1,79	11,5509	7,93	0
+2018	44012	Alcalá de la Selva	869285	0	0	869285	0	0
+2018	44013	Alcañiz	5682642	4376542	17,94	102,54	10,13	0
+2018	44014	Alcorisa	453909	24,12	1,79	115509	7,93	0
 2018	44016	Alfambra	0	0	0	0	0	0
-2018	44017	Aliaga	467,0095	78,36	0	388,6495	0	0
+2018	44017	Aliaga	4670095	78,36	0	3886495	0	0
 2018	44018	Almohaja	0	0	0	0	0	0
 2018	44019	Alobras	0	0	0	0	0	0
 2018	44020	Alpeñés	0	0	0	0	0	0
@@ -5352,7 +5352,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44034	Bañón	33,81	33,01	0,8	0	0	0
 2018	44035	Barrachina	19,01	0	0	0	19,01	0
 2018	44036	Bea	0	0	0	0	0	0
-2018	44037	Beceite	10,8293	8,1793	0	2,65	0	0
+2018	44037	Beceite	108293	81793	0	2,65	0	0
 2018	44038	Belmonte de San José	186,7	181,46	2,33	2,91	0	0
 2018	44039	Bello	0	0	0	0	0	0
 2018	44040	Berge	20	18,01	0	1,99	0	0
@@ -5365,7 +5365,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44047	Burbáguena	2,92	2,43	0	0	0,49	0
 2018	44048	Cabra de Mora	0	0	0	0	0	0
 2018	44049	Calaceite	564,66	408,71	139,99	15,96	0	0
-2018	44050	Calamocha	87,0121	32,55	3,5931	15,059	35,81	0
+2018	44050	Calamocha	870121	32,55	35931	15059	35,81	0
 2018	44051	Calanda	422,06	62,79	0	29,73	329,54	0
 2018	44052	Calomarde	0	0	0	0	0	0
 2018	44053	Camañas	15,14	2,27	0	12,87	0	0
@@ -5384,7 +5384,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44068	Castelserás	52,06	43,07	0,81	8,18	0	0
 2018	44070	Castellar (El)	54,9	0	0	54,9	0	0
 2018	44071	Castellote	818,69	818,11	0,58	0	0	0
-2018	44074	Cedrillas	77,2192	1,3	0	75,9192	0	0
+2018	44074	Cedrillas	772192	1,3	0	759192	0	0
 2018	44075	Celadas	0	0	0	0	0	0
 2018	44076	Cella	0	0	0	0	0	0
 2018	44077	Cerollera (La)	0	0	0	0	0	0
@@ -5392,7 +5392,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44082	Corbalán	0	0	0	0	0	0
 2018	44084	Cortes de Aragón	0	0	0	0	0	0
 2018	44085	Cosa	0	0	0	0	0	0
-2018	44086	Cretas	144,284	75,55	62,874	5,86	0	0
+2018	44086	Cretas	144284	75,55	62874	5,86	0	0
 2018	44087	Crivillén	1,14	1,14	0	0	0	0
 2018	44088	Cuba (La)	0	0	0	0	0	0
 2018	44089	Cubla	0	0	0	0	0	0
@@ -5408,15 +5408,15 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44102	Fonfría	0	0	0	0	0	0
 2018	44103	Formiche Alto	0	0	0	0	0	0
 2018	44105	Fórnoles	47,17	46,97	0,2	0	0	0
-2018	44106	Fortanete	226,4029	5,46	0	220,9429	0	0
+2018	44106	Fortanete	2264029	5,46	0	2209429	0	0
 2018	44107	Foz-Calanda	34,77	1,68	0	0	33,09	0
-2018	44108	Fresneda (La)	34,8721	30,46	0,63	3,7821	0	0
+2018	44108	Fresneda (La)	348721	30,46	0,63	37821	0	0
 2018	44109	Frías de Albarracín	0	0	0	0	0	0
 2018	44110	Fuenferrada	39,55	0	8,46	31,09	0	0
 2018	44111	Fuentes Calientes	299,07	68,13	0	0	230,94	0
 2018	44112	Fuentes Claras	0	0	0	0	0	0
 2018	44113	Fuentes de Rubielos	0	0	0	0	0	0
-2018	44114	Fuentespalda	31,2879	20,37	6,6831	4,2348	0	0
+2018	44114	Fuentespalda	312879	20,37	66831	42348	0	0
 2018	44115	Galve	0	0	0	0	0	0
 2018	44116	Gargallo	0	0	0	0	0	0
 2018	44117	Gea de Albarracín	0	0	0	0	0	0
@@ -5455,7 +5455,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44153	Monreal del Campo	40,38	1,6	0,8	37,98	0	0
 2018	44154	Monroyo	5,53	0	0	5,53	0	0
 2018	44155	Montalbán	0	0	0	0	0	0
-2018	44156	Monteagudo del Castillo	90,5717	2,18	0	88,3917	0	0
+2018	44156	Monteagudo del Castillo	905717	2,18	0	883917	0	0
 2018	44157	Monterde de Albarracín	0	0	0	0	0	0
 2018	44158	Mora de Rubielos	7,84	0	0	7,84	0	0
 2018	44159	Moscardón	0	0	0	0	0	0
@@ -5475,20 +5475,20 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44176	Palomar de Arroyos	0	0	0	0	0	0
 2018	44177	Pancrudo	0	0	0	0	0	0
 2018	44178	Parras de Castellote (Las)	1,92	1,92	0	0	0	0
-2018	44179	Peñarroya de Tastavins	227,5215	227,5215	0	0	0	0
+2018	44179	Peñarroya de Tastavins	2275215	2275215	0	0	0	0
 2018	44180	Peracense	0	0	0	0	0	0
 2018	44181	Peralejos	229,69	172,85	0	56,84	0	0
 2018	44182	Perales del Alfambra	632,71	184,39	0	0	448,32	0
 2018	44183	Pitarque	32,53	0	0	32,53	0	0
 2018	44184	Plou	0	0	0	0	0	0
-2018	44185	Pobo (El)	272,3647	125,5	0	146,8647	0	0
-2018	44187	Portellada (La)	67,4536	56,78	1,77	8,9036	0	0
+2018	44185	Pobo (El)	2723647	125,5	0	1468647	0	0
+2018	44187	Portellada (La)	674536	56,78	1,77	89036	0	0
 2018	44189	Pozondón	0	0	0	0	0	0
 2018	44190	Pozuel del Campo	7,39	3,98	0	3,41	0	0
 2018	44191	Puebla de Híjar (La)	18,16	1,07	0	0	17,09	0
-2018	44192	Puebla de Valverde (La)	538,6949	124,03	0	414,6649	0	0
+2018	44192	Puebla de Valverde (La)	5386949	124,03	0	4146649	0	0
 2018	44193	Puertomingalvo	0	0	0	0	0	0
-2018	44194	Ráfales	119,5012	111,58	1,809	6,1122	0	0
+2018	44194	Ráfales	1195012	111,58	1809	61122	0	0
 2018	44195	Rillo	7,28	3,19	0	0	4,09	0
 2018	44196	Riodeva	0	0	0	0	0	0
 2018	44197	Ródenas	0	0	0	0	0	0
@@ -5503,7 +5503,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44207	San Martín del Río	34,46	34,46	0	0	0	0
 2018	44208	Santa Cruz de Nogueras	0	0	0	0	0	0
 2018	44209	Santa Eulalia	0	0	0	0	0	0
-2018	44210	Sarrión	66,2873	0	0	66,2873	0	0
+2018	44210	Sarrión	662873	0	0	662873	0	0
 2018	44211	Segura de los Baños	0	0	0	0	0	0
 2018	44212	Seno	0	0	0	0	0	0
 2018	44213	Singra	16,83	16,83	0	0	0	0
@@ -5513,7 +5513,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44218	Tormón	0	0	0	0	0	0
 2018	44219	Tornos	0	0	0	0	0	0
 2018	44220	Torralba de los Sisones	433,73	309,36	74,7	49,67	0	0
-2018	44221	Torrecilla de Alcañiz	303,2048	298,2312	1,12	3,7936	0,06	0
+2018	44221	Torrecilla de Alcañiz	3032048	2982312	1,12	37936	0,06	0
 2018	44222	Torrecilla del Rebollar	2,23	2,23	0	0	0	0
 2018	44223	Torre de Arcas	0	0	0	0	0	0
 2018	44224	Torre de las Arcas	0	0	0	0	0	0
@@ -5522,7 +5522,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44227	Torre los Negros	483,54	461,54	0	22	0	0
 2018	44228	Torremocha de Jiloca	350,52	350,52	0	0	0	0
 2018	44229	Torres de Albarracín	0	0	0	0	0	0
-2018	44230	Torrevelilla	71,089	33,83	1,7	35,559	0	0
+2018	44230	Torrevelilla	71089	33,83	1,7	35559	0	0
 2018	44231	Torrijas	0	0	0	0	0	0
 2018	44232	Torrijo del Campo	0	0	0	0	0	0
 2018	44234	Tramacastiel	0	0	0	0	0	0
@@ -5536,7 +5536,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44243	Valdecuenca	202,74	202,74	0	0	0	0
 2018	44244	Valdelinares	165,62	0	0	165,62	0	0
 2018	44245	Valdeltormo	226,12	222,4	2,19	1,53	0	0
-2018	44246	Valderrobres	345,7028	301,66	35,9	7,8228	0,32	0
+2018	44246	Valderrobres	3457028	301,66	35,9	78228	0,32	0
 2018	44247	Valjunquera	148,01	137,69	0,93	9,39	0	0
 2018	44249	Vallecillo (El)	0	0	0	0	0	0
 2018	44250	Veguillas de la Sierra	0	0	0	0	0	0
@@ -5547,9 +5547,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	44258	Villar del Salz	0	0	0	0	0	0
 2018	44260	Villarluengo	0	0	0	0	0	0
 2018	44261	Villarquemado	8,18	0	8,18	0	0	0
-2018	44262	Villarroya de los Pinares	170,1399	0	0	170,1399	0	0
+2018	44262	Villarroya de los Pinares	1701399	0	0	1701399	0	0
 2018	44263	Villastar	3,42	1,41	1,13	0,88	0	0
-2018	44264	Villel	1,2999	0	1,2999	0	0	0
+2018	44264	Villel	12999	0	12999	0	0	0
 2018	44265	Vinaceite	62,9	62,9	0	0	0	0
 2018	44266	Visiedo	46,85	41,63	0	0,6	4,62	0
 2018	44267	Vivel del Río Martín	10,58	0	1,02	9,56	0	0
@@ -5559,9 +5559,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50003	Agón	0,94	0	0	0	0,94	0
 2018	50004	Aguarón	13,05	0	0	13,05	0	0
 2018	50005	Aguilón	11,14	11,14	0	0	0	0
-2018	50006	Ainzón	12,0915	8,9515	0	2,13	1,01	0
+2018	50006	Ainzón	120915	89515	0	2,13	1,01	0
 2018	50007	Aladrén	13,63	0	13,63	0	0	0
-2018	50008	Alagón	14,7301	14,7301	0	0	0	0
+2018	50008	Alagón	14730054	14730054	0	0	0	0
 2018	50009	Alarba	4,61	4,61	0	0	0	0
 2018	50010	Alberite de San Juan	10,67	0	0	0	10,67	0
 2018	50011	Albeta	1,76	0	0	0	1,76	0
@@ -5578,7 +5578,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50022	Almolda (La)	181,76	181,76	0	0	0	0
 2018	50023	Almonacid de la Cuba	285,69	228,99	0	30,28	26,42	0
 2018	50024	Almonacid de la Sierra	417,24	30,89	352,74	33,61	0	0
-2018	50025	Almunia de Doña Godina (La)	280,262	11,408	6,825	36,049	225,98	0
+2018	50025	Almunia de Doña Godina (La)	280262	11408	6825	36049	225,98	0
 2018	50026	Alpartir	15,61	0	2,53	13,08	0	0
 2018	50027	Ambel	7,75	0	0	0	7,75	0
 2018	50028	Anento	0	0	0	0	0	0
@@ -5619,14 +5619,14 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50064	Cabañas de Ebro	0,28	0	0,28	0	0	0
 2018	50065	Cabolafuente	0	0	0	0	0	0
 2018	50066	Cadrete	0	0	0	0	0	0
-2018	50067	Calatayud	12,1741	7,4094	1,72	3,0447	0	0
+2018	50067	Calatayud	121741	74094	1,72	30447	0	0
 2018	50068	Calatorao	387,79	145,57	2,14	4,51	235,57	0
 2018	50069	Calcena	0	0	0	0	0	0
 2018	50070	Calmarza	0	0	0	0	0	0
 2018	50071	Campillo de Aragón	0	0	0	0	0	0
 2018	50072	Carenas	0	0	0	0	0	0
 2018	50073	Cariñena	464,55	364,85	2,57	97,13	0	0
-2018	50074	Caspe	1849,2519	1628,1759	78,25	5,071	137,755	0
+2018	50074	Caspe	18492519	16281759	78,25	5071	137755	0
 2018	50075	Castejón de Alarba	0,8	0,8	0	0	0	0
 2018	50076	Castejón de las Armas	0	0	0	0	0	0
 2018	50077	Castejón de Valdejasa	0	0	0	0	0	0
@@ -5646,11 +5646,11 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50091	Cuerlas (Las)	0	0	0	0	0	0
 2018	50092	Chiprana	19,76	0	0	0	19,76	0
 2018	50093	Chodes	0	0	0	0	0	0
-2018	50094	Daroca	7,4744	0	2,05	5,4244	0	0
+2018	50094	Daroca	74744	0	2,05	54244	0	0
 2018	50095	Ejea de los Caballeros	433,88	169,39	56,67	44,29	163,53	0
 2018	50096	Embid de Ariza	0	0	0	0	0	0
 2018	50098	Encinacorba	14,18	14,18	0	0	0	0
-2018	50099	Épila	2496,7493	1546,82	190,57	39,6393	719,72	0
+2018	50099	Épila	24967493	1546,82	190,57	396393	719,72	0
 2018	50100	Erla	6,74	6,74	0	0	0	0
 2018	50101	Escatrón	980,89	868,06	0	34,42	78,41	0
 2018	50102	Fabara	132,77	129,65	2,52	0,6	0	0
@@ -5660,9 +5660,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50107	Figueruelas	5,79	0	0	0	5,79	0
 2018	50108	Fombuena	190,35	189,9	0,45	0	0	0
 2018	50109	Frago (El)	0	0	0	0	0	0
-2018	50110	Frasno (El)	64,4805	22,5305	0	6,3	35,65	0
+2018	50110	Frasno (El)	644805	225305	0	6,3	35,65	0
 2018	50111	Fréscano	2,33	2,33	0	0	0	0
-2018	50113	Fuendejalón	360,867	78,42	2,83	29,837	249,78	0
+2018	50113	Fuendejalón	360867	78,42	2,83	29837	249,78	0
 2018	50114	Fuendetodos	273,62	195,56	0	1,22	76,84	0
 2018	50115	Fuentes de Ebro	1,65	0	1,65	0	0	0
 2018	50116	Fuentes de Jiloca	2,29	0	2,29	0	0	0
@@ -5680,9 +5680,9 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50129	Jaraba	0	0	0	0	0	0
 2018	50130	Jarque de Moncayo	0	0	0	0	0	0
 2018	50131	Jaulín	10,1	9,77	0	0	0,33	0
-2018	50132	Joyosa (La)	1,4444	1,4444	0	0	0	0
+2018	50132	Joyosa (La)	14444	14444	0	0	0	0
 2018	50133	Lagata	226,09	217,84	0,71	7,54	0	0
-2018	50134	Langa del Castillo	137,852	134,55	2,96	0,342	0	0
+2018	50134	Langa del Castillo	137852	134,55	2,96	0,342	0	0
 2018	50135	Layana	0	0	0	0	0	0
 2018	50136	Lécera	2280,38	2087,88	10,4	54,95	127,15	0
 2018	50137	Leciñena	112,73	109,76	2,97	0	0	0
@@ -5701,12 +5701,12 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50151	Luna	15,13	15,13	0	0	0	0
 2018	50152	Maella	149,13	137,31	3,4	8,42	0	0
 2018	50153	Magallón	52,5	33,04	0	0	19,46	0
-2018	50154	Mainar	14,6092	0	0	0	14,6092	0
+2018	50154	Mainar	146092	0	0	0	146092	0
 2018	50155	Malanquilla	0	0	0	0	0	0
 2018	50156	Maleján	0	0	0	0	0	0
 2018	50157	Malón	0	0	0	0	0	0
 2018	50159	Maluenda	11,19	1,73	0	9,46	0	0
-2018	50160	Mallén	28,0431	27,52	0,4	0,1231	0	0
+2018	50160	Mallén	280431	27,52	0,4	0,1231	0	0
 2018	50161	Manchones	7,09	0	4,43	2,66	0	0
 2018	50162	Mara	8,25	8,25	0	0	0	0
 2018	50163	María de Huerva	232,34	2,26	0	0	230,08	0
@@ -5721,7 +5721,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50172	Monreal de Ariza	22,79	20,23	0	2,56	0	0
 2018	50173	Monterde	0	0	0	0	0	0
 2018	50174	Montón	8,56	0	6,01	2,55	0	0
-2018	50175	Morata de Jalón	36,7098	25,54	0,36	10,8098	0	0
+2018	50175	Morata de Jalón	367098	25,54	0,36	108098	0	0
 2018	50176	Morata de Jiloca	0	0	0	0	0	0
 2018	50177	Morés	0	0	0	0	0	0
 2018	50178	Moros	44,25	0	0	44,25	0	0
@@ -5730,7 +5730,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50181	Muel	161,81	160,05	0	0	1,76	0
 2018	50182	Muela (La)	666,36	291,17	7,8	0	367,39	0
 2018	50183	Munébrega	31,65	21,03	0,52	10,1	0	0
-2018	50184	Murero	29,052	5,18	13,35	10,522	0	0
+2018	50184	Murero	29052	5,18	13,35	10522	0	0
 2018	50185	Murillo de Gállego	0	0	0	0	0	0
 2018	50186	Navardún	0	0	0	0	0	0
 2018	50187	Nigüella	1,9	1,9	0	0	0	0
@@ -5748,13 +5748,13 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50199	Osera de Ebro	0	0	0	0	0	0
 2018	50200	Paniza	0	0	0	0	0	0
 2018	50201	Paracuellos de Jiloca	36,93	20,61	6,42	9,9	0	0
-2018	50202	Paracuellos de la Ribera	7,3537	0	0	7,3537	0	0
+2018	50202	Paracuellos de la Ribera	73537	0	0	73537	0	0
 2018	50203	Pastriz	1,27	1,27	0	0	0	0
 2018	50204	Pedrola	365,25	85,46	0	0	279,79	0
 2018	50205	Pedrosas (Las)	0	0	0	0	0	0
 2018	50206	Perdiguera	425	423,93	0,16	0,91	0	0
 2018	50207	Piedratajada	0	0	0	0	0	0
-2018	50208	Pina de Ebro	429,42	45,995	0,685	9,49	373,25	0
+2018	50208	Pina de Ebro	429,42	45995	0,685	9,49	373,25	0
 2018	50209	Pinseque	0	0	0	0	0	0
 2018	50210	Pintanos (Los)	0	0	0	0	0	0
 2018	50211	Plasencia de Jalón	638,57	0	0	0	638,57	0
@@ -5768,25 +5768,25 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50219	Puebla de Alfindén (La)	0	0	0	0	0	0
 2018	50220	Puendeluna	0	0	0	0	0	0
 2018	50221	Purujosa	0	0	0	0	0	0
-2018	50222	Quinto	81,5965	25,5	0	56,0965	0	0
+2018	50222	Quinto	815965	25,5	0	560965	0	0
 2018	50223	Remolinos	0	0	0	0	0	0
 2018	50224	Retascón	0	0	0	0	0	0
-2018	50225	Ricla	201,2337	126,7719	9,669	64,7928	0	0
+2018	50225	Ricla	2012337	1267719	9669	647928	0	0
 2018	50227	Romanos	0	0	0	0	0	0
-2018	50228	Rueda de Jalón	1449,1502	945,19	14,0002	7,04	482,92	0
+2018	50228	Rueda de Jalón	14491502	945,19	140002	7,04	482,92	0
 2018	50229	Ruesca	0	0	0	0	0	0
 2018	50230	Sádaba	361,07	63,24	26,03	259,72	12,08	0
 2018	50231	Salillas de Jalón	0	0	0	0	0	0
 2018	50232	Salvatierra de Esca	0	0	0	0	0	0
-2018	50233	Samper del Salz	207,5136	197,39	6,91	3,2136	0	0
+2018	50233	Samper del Salz	2075136	197,39	6,91	32136	0	0
 2018	50234	San Martín de la Virgen de Moncayo	0	0	0	0	0	0
-2018	50235	San Mateo de Gállego	76,9475	44,2275	15,14	17,58	0	0
+2018	50235	San Mateo de Gállego	769475	442275	15,14	17,58	0	0
 2018	50236	Santa Cruz de Grío	0	0	0	0	0	0
 2018	50237	Santa Cruz de Moncayo	0	0	0	0	0	0
 2018	50238	Santa Eulalia de Gállego	0	0	0	0	0	0
 2018	50239	Santed	0	0	0	0	0	0
 2018	50240	Sástago	459,61	406,79	0	5,37	47,45	0
-2018	50241	Saviñán	16,1306	0,26	0	15,8706	0	0
+2018	50241	Saviñán	161306	0,26	0	158706	0	0
 2018	50242	Sediles	0	0	0	0	0	0
 2018	50243	Sestrica	0	0	0	0	0	0
 2018	50244	Sierra de Luna	36,65	0	0	36,65	0	0
@@ -5794,10 +5794,10 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50246	Sisamón	0	0	0	0	0	0
 2018	50247	Sobradiel	0	0	0	0	0	0
 2018	50248	Sos del Rey Católico	275,05	16,3	0	66,72	192,03	0
-2018	50249	Tabuenca	34,4403	15,22	9,12	1,6303	8,47	0
+2018	50249	Tabuenca	344403	15,22	9,12	16303	8,47	0
 2018	50250	Talamantes	0	0	0	0	0	0
-2018	50251	Tarazona	29,2977	17,5508	2,5469	0	9,2	0
-2018	50252	Tauste	152,7024	69,5524	0	15,44	67,71	0
+2018	50251	Tarazona	292977	175508	25469	0	9,2	0
+2018	50252	Tauste	1527024	695524	0	15,44	67,71	0
 2018	50253	Terrer	0	0	0	0	0	0
 2018	50254	Tierga	0	0	0	0	0	0
 2018	50255	Tobed	0	0	0	0	0	0
@@ -5830,7 +5830,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50282	Vilueña (La)	0	0	0	0	0	0
 2018	50283	Villadoz	0	0	0	0	0	0
 2018	50284	Villafeliche	9,85	0	2,74	7,11	0	0
-2018	50285	Villafranca de Ebro	20,284	16,154	0	0	4,13	0
+2018	50285	Villafranca de Ebro	20284	16154	0	0	4,13	0
 2018	50286	Villalba de Perejil	0	0	0	0	0	0
 2018	50287	Villalengua	2,64	2,64	0	0	0	0
 2018	50288	Villanueva de Gállego	274,03	0	0	0,17	273,86	0
@@ -5842,7 +5842,7 @@ Año	Municipio código	Municipio nombre	Superficie total agricultura ecológica	
 2018	50294	Villarroya del Campo	0	0	0	0	0	0
 2018	50295	Vistabella	0	0	0	0	0	0
 2018	50296	Zaida (La)	0	0	0	0	0	0
-2018	50297	Zaragoza	2353,5851	1080,2218	43,3688	18,1245	1211,87	0
+2018	50297	Zaragoza	23535851	10802218	433688	181245	1211,87	0
 2018	50298	Zuera	771,12	409,14	57,34	48,56	256,08	0
 2018	50901	Biel	0	0	0	0	0	0
 2018	50902	Marracos	0	0	0	0	0	0
