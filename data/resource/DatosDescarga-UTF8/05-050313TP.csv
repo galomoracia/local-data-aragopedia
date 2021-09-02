@@ -1,4 +1,26 @@
 Mes y año	Mes (código)	Mes nombre	Año	Sexo	Provincia código	Provincia nombre	Número de contratos	Sector código	Sector descripción
+Agosto 2021	202108	Agosto	2021	Hombres	22	Huesca	4	1	Agricultura, ganadería y pesca
+Agosto 2021	202108	Agosto	2021	Mujeres	22	Huesca	1	1	Agricultura, ganadería y pesca
+Agosto 2021	202108	Agosto	2021	Hombres	22	Huesca	2	2	Industria y energía
+Agosto 2021	202108	Agosto	2021	Mujeres	22	Huesca	3	2	Industria y energía
+Agosto 2021	202108	Agosto	2021	Hombres	22	Huesca	3	3	Construcción
+Agosto 2021	202108	Agosto	2021	Hombres	22	Huesca	19	4	Servicios
+Agosto 2021	202108	Agosto	2021	Mujeres	22	Huesca	45	4	Servicios
+Agosto 2021	202108	Agosto	2021	Hombres	44	Teruel	4	1	Agricultura, ganadería y pesca
+Agosto 2021	202108	Agosto	2021	Hombres	44	Teruel	4	2	Industria y energía
+Agosto 2021	202108	Agosto	2021	Mujeres	44	Teruel	2	2	Industria y energía
+Agosto 2021	202108	Agosto	2021	Hombres	44	Teruel	2	3	Construcción
+Agosto 2021	202108	Agosto	2021	Mujeres	44	Teruel	1	3	Construcción
+Agosto 2021	202108	Agosto	2021	Hombres	44	Teruel	7	4	Servicios
+Agosto 2021	202108	Agosto	2021	Mujeres	44	Teruel	18	4	Servicios
+Agosto 2021	202108	Agosto	2021	Hombres	50	Zaragoza	3	1	Agricultura, ganadería y pesca
+Agosto 2021	202108	Agosto	2021	Mujeres	50	Zaragoza	2	1	Agricultura, ganadería y pesca
+Agosto 2021	202108	Agosto	2021	Hombres	50	Zaragoza	42	2	Industria y energía
+Agosto 2021	202108	Agosto	2021	Mujeres	50	Zaragoza	22	2	Industria y energía
+Agosto 2021	202108	Agosto	2021	Hombres	50	Zaragoza	9	3	Construcción
+Agosto 2021	202108	Agosto	2021	Mujeres	50	Zaragoza	2	3	Construcción
+Agosto 2021	202108	Agosto	2021	Hombres	50	Zaragoza	125	4	Servicios
+Agosto 2021	202108	Agosto	2021	Mujeres	50	Zaragoza	173	4	Servicios
 Julio 2021	202107	Julio	2021	Hombres	22	Huesca	3	1	Agricultura, ganadería y pesca
 Julio 2021	202107	Julio	2021	Mujeres	22	Huesca	3	1	Agricultura, ganadería y pesca
 Julio 2021	202107	Julio	2021	Hombres	22	Huesca	13	2	Industria y energía
