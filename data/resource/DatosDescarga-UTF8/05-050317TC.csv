@@ -1,4 +1,235 @@
 Mes y año	Mes (código)	Mes nombre	Año	Sexo	Temporalidad	Comarca código	Comarca nombre	CIF	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	01	La Jacetania	A través de una ETT	0	2	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	01	La Jacetania	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	01	La Jacetania	A través de una ETT	1	4	55	13,75
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	01	La Jacetania	Otros	0	80	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	01	La Jacetania	Otros	1	118	5202	44,08474576271186440677966101694915254237
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	01	La Jacetania	Otros	0	85	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	01	La Jacetania	Otros	1	163	5294	32,47852760736196319018404907975460122699
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	02	Alto Gállego	A través de una ETT	0	6	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	02	Alto Gállego	A través de una ETT	1	16	1072	67
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	02	Alto Gállego	A través de una ETT	0	3	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	02	Alto Gállego	A través de una ETT	1	12	914	76,16666666666666666666666666666666666667
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	02	Alto Gállego	Otros	0	78	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	02	Alto Gállego	Otros	1	105	4236	40,34285714285714285714285714285714285714
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	02	Alto Gállego	Otros	0	41	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	02	Alto Gállego	Otros	1	71	2215	31,19718309859154929577464788732394366197
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	03	Sobrarbe	Otros	0	34	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	03	Sobrarbe	Otros	1	119	2943	24,7310924369747899159663865546218487395
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	03	Sobrarbe	Otros	0	33	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	03	Sobrarbe	Otros	1	95	3552	37,38947368421052631578947368421052631579
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	04	La Ribagorza	A través de una ETT	1	5	151	30,2
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	04	La Ribagorza	A través de una ETT	1	3	102	34
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	04	La Ribagorza	Otros	0	63	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	04	La Ribagorza	Otros	1	75	3965	52,86666666666666666666666666666666666667
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	04	La Ribagorza	Otros	0	61	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	04	La Ribagorza	Otros	1	61	2079	34,08196721311475409836065573770491803279
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	05	Cinco Villas	A través de una ETT	0	14	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	05	Cinco Villas	A través de una ETT	1	37	422	11,40540540540540540540540540540540540541
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	05	Cinco Villas	A través de una ETT	0	5	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	05	Cinco Villas	A través de una ETT	1	5	46	9,2
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	05	Cinco Villas	Otros	0	167	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	05	Cinco Villas	Otros	1	125	12448	99,584
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	05	Cinco Villas	Otros	0	106	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	05	Cinco Villas	Otros	1	144	4568	31,72222222222222222222222222222222222222
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	06	Hoya de Huesca / Plana de Uesca	A través de una ETT	0	50	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	06	Hoya de Huesca / Plana de Uesca	A través de una ETT	1	34	472	13,88235294117647058823529411764705882353
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	06	Hoya de Huesca / Plana de Uesca	A través de una ETT	0	49	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	06	Hoya de Huesca / Plana de Uesca	A través de una ETT	1	20	240	12
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	06	Hoya de Huesca / Plana de Uesca	Otros	0	307	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	06	Hoya de Huesca / Plana de Uesca	Otros	1	652	43148	66,17791411042944785276073619631901840491
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	06	Hoya de Huesca / Plana de Uesca	Otros	0	200	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	06	Hoya de Huesca / Plana de Uesca	Otros	1	726	25202	34,71349862258953168044077134986225895317
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	07	Somontano de Barbastro	A través de una ETT	0	14	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	07	Somontano de Barbastro	A través de una ETT	1	71	778	10,95774647887323943661971830985915492958
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	07	Somontano de Barbastro	A través de una ETT	0	4	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	07	Somontano de Barbastro	A través de una ETT	1	23	246	10,69565217391304347826086956521739130435
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	07	Somontano de Barbastro	Otros	0	91	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	07	Somontano de Barbastro	Otros	1	176	13111	74,49431818181818181818181818181818181818
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	07	Somontano de Barbastro	Otros	0	55	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	07	Somontano de Barbastro	Otros	1	171	8324	48,67836257309941520467836257309941520468
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	08	Cinca Medio	A través de una ETT	0	121	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	08	Cinca Medio	A través de una ETT	1	13	208	16
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	08	Cinca Medio	A través de una ETT	0	23	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	08	Cinca Medio	A través de una ETT	1	1	34	34
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	08	Cinca Medio	Otros	0	249	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	08	Cinca Medio	Otros	1	181	9606	53,07182320441988950276243093922651933702
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	08	Cinca Medio	Otros	0	51	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	08	Cinca Medio	Otros	1	187	4111	21,98395721925133689839572192513368983957
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	09	La Litera / La Llitera	A través de una ETT	0	13	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	09	La Litera / La Llitera	A través de una ETT	1	45	2810	62,44444444444444444444444444444444444444
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	09	La Litera / La Llitera	A través de una ETT	0	2	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	09	La Litera / La Llitera	A través de una ETT	1	13	524	40,30769230769230769230769230769230769231
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	09	La Litera / La Llitera	Otros	0	197	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	09	La Litera / La Llitera	Otros	1	234	23108	98,75213675213675213675213675213675213675
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	09	La Litera / La Llitera	Otros	0	61	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	09	La Litera / La Llitera	Otros	1	126	8889	70,54761904761904761904761904761904761905
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	10	Los Monegros	A través de una ETT	0	5	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	10	Los Monegros	A través de una ETT	1	3	40	13,33333333333333333333333333333333333333
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	10	Los Monegros	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	10	Los Monegros	A través de una ETT	1	2	84	42
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	10	Los Monegros	Otros	0	201	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	10	Los Monegros	Otros	1	55	4131	75,10909090909090909090909090909090909091
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	10	Los Monegros	Otros	0	30	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	10	Los Monegros	Otros	1	54	2158	39,96296296296296296296296296296296296296
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	11	Bajo Cinca / Baix Cinca	A través de una ETT	0	317	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	11	Bajo Cinca / Baix Cinca	A través de una ETT	1	206	2610	12,66990291262135922330097087378640776699
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	11	Bajo Cinca / Baix Cinca	A través de una ETT	0	69	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	11	Bajo Cinca / Baix Cinca	A través de una ETT	1	418	5331	12,75358851674641148325358851674641148325
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	11	Bajo Cinca / Baix Cinca	Otros	0	320	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	11	Bajo Cinca / Baix Cinca	Otros	1	155	10200	65,80645161290322580645161290322580645161
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	11	Bajo Cinca / Baix Cinca	Otros	0	211	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	11	Bajo Cinca / Baix Cinca	Otros	1	83	6429	77,45783132530120481927710843373493975904
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	12	Tarazona y el Moncayo	A través de una ETT	1	112	2292	20,46428571428571428571428571428571428571
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	12	Tarazona y el Moncayo	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	12	Tarazona y el Moncayo	A través de una ETT	1	108	1221	11,30555555555555555555555555555555555556
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	12	Tarazona y el Moncayo	Otros	0	39	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	12	Tarazona y el Moncayo	Otros	1	68	3066	45,08823529411764705882352941176470588235
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	12	Tarazona y el Moncayo	Otros	0	26	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	12	Tarazona y el Moncayo	Otros	1	80	3979	49,7375
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	13	Campo de Borja	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	13	Campo de Borja	A través de una ETT	1	36	271	7,52777777777777777777777777777777777778
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	13	Campo de Borja	A través de una ETT	0	2	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	13	Campo de Borja	A través de una ETT	1	37	464	12,54054054054054054054054054054054054054
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	13	Campo de Borja	Otros	0	89	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	13	Campo de Borja	Otros	1	66	7285	110,378787878787878787878787878787878788
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	13	Campo de Borja	Otros	0	66	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	13	Campo de Borja	Otros	1	50	1555	31,1
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	14	Aranda	A través de una ETT	0	12	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	14	Aranda	Otros	0	8	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	14	Aranda	Otros	1	11	1605	145,909090909090909090909090909090909091
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	14	Aranda	Otros	0	10	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	14	Aranda	Otros	1	10	463	46,3
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	15	Ribera Alta del Ebro	A través de una ETT	0	146	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	15	Ribera Alta del Ebro	A través de una ETT	1	338	3212	9,50295857988165680473372781065088757396
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	15	Ribera Alta del Ebro	A través de una ETT	0	104	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	15	Ribera Alta del Ebro	A través de una ETT	1	107	441	4,12149532710280373831775700934579439252
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	15	Ribera Alta del Ebro	Otros	0	160	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	15	Ribera Alta del Ebro	Otros	1	214	51186	239,186915887850467289719626168224299065
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	15	Ribera Alta del Ebro	Otros	0	118	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	15	Ribera Alta del Ebro	Otros	1	122	9378	76,86885245901639344262295081967213114754
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	16	Valdejalón	A través de una ETT	0	124	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	16	Valdejalón	A través de una ETT	1	401	3690	9,20199501246882793017456359102244389027
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	16	Valdejalón	A través de una ETT	0	49	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	16	Valdejalón	A través de una ETT	1	150	1562	10,41333333333333333333333333333333333333
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	16	Valdejalón	Otros	0	1228	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	16	Valdejalón	Otros	1	300	13227	44,09
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	16	Valdejalón	Otros	0	453	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	16	Valdejalón	Otros	1	145	7178	49,50344827586206896551724137931034482759
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	17	Central	A través de una ETT	0	1104	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	17	Central	A través de una ETT	1	3886	66500	17,11271230056613484302624806999485331961
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	17	Central	A través de una ETT	0	435	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	17	Central	A través de una ETT	1	2370	35458	14,96118143459915611814345991561181434599
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	17	Central	Otros	0	1952	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	17	Central	Otros	1	4243	239367	56,41456516615602168277162385104878623615
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	17	Central	Otros	0	1816	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	17	Central	Otros	1	5132	249514	48,61925175370226032735775526110678098207
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	18	Ribera Baja del Ebro	A través de una ETT	0	24	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	18	Ribera Baja del Ebro	A través de una ETT	1	42	403	9,5952380952380952380952380952380952381
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	18	Ribera Baja del Ebro	A través de una ETT	0	15	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	18	Ribera Baja del Ebro	A través de una ETT	1	80	554	6,925
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	18	Ribera Baja del Ebro	Otros	0	51	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	18	Ribera Baja del Ebro	Otros	1	137	3837	28,00729927007299270072992700729927007299
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	18	Ribera Baja del Ebro	Otros	0	20	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	18	Ribera Baja del Ebro	Otros	1	156	4911	31,48076923076923076923076923076923076923
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	19	Bajo Aragón-Caspe / Baix Aragó-Casp	A través de una ETT	0	32	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	19	Bajo Aragón-Caspe / Baix Aragó-Casp	A través de una ETT	1	12	30	2,5
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	19	Bajo Aragón-Caspe / Baix Aragó-Casp	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	19	Bajo Aragón-Caspe / Baix Aragó-Casp	A través de una ETT	1	3	7	2,33333333333333333333333333333333333333
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros	0	85	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros	1	174	7680	44,13793103448275862068965517241379310345
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros	0	51	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros	1	49	1338	27,30612244897959183673469387755102040816
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	20	Comunidad de Calatayud	A través de una ETT	0	5	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	20	Comunidad de Calatayud	A través de una ETT	1	192	768	4
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	20	Comunidad de Calatayud	A través de una ETT	0	7	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	20	Comunidad de Calatayud	A través de una ETT	1	89	391	4,39325842696629213483146067415730337079
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	20	Comunidad de Calatayud	Otros	0	597	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	20	Comunidad de Calatayud	Otros	1	185	6423	34,71891891891891891891891891891891891892
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	20	Comunidad de Calatayud	Otros	0	294	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	20	Comunidad de Calatayud	Otros	1	148	5665	38,27702702702702702702702702702702702703
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	21	Campo de Cariñena	A través de una ETT	0	92	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	21	Campo de Cariñena	A través de una ETT	1	27	232	8,59259259259259259259259259259259259259
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	21	Campo de Cariñena	A través de una ETT	0	57	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	21	Campo de Cariñena	A través de una ETT	1	8	52	6,5
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	21	Campo de Cariñena	Otros	0	154	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	21	Campo de Cariñena	Otros	1	155	7423	47,89032258064516129032258064516129032258
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	21	Campo de Cariñena	Otros	0	136	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	21	Campo de Cariñena	Otros	1	73	2844	38,95890410958904109589041095890410958904
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	22	Campo de Belchite	Otros	0	15	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	22	Campo de Belchite	Otros	1	19	717	37,73684210526315789473684210526315789474
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	22	Campo de Belchite	Otros	0	6	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	22	Campo de Belchite	Otros	1	28	1123	40,10714285714285714285714285714285714286
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	23	Bajo Martín	Otros	0	34	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	23	Bajo Martín	Otros	1	57	4897	85,91228070175438596491228070175438596491
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	23	Bajo Martín	Otros	0	31	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	23	Bajo Martín	Otros	1	41	1676	40,87804878048780487804878048780487804878
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	24	Campo de Daroca	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	24	Campo de Daroca	A través de una ETT	1	5	68	13,6
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	24	Campo de Daroca	A través de una ETT	1	3	12	4
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	24	Campo de Daroca	Otros	0	13	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	24	Campo de Daroca	Otros	1	29	1557	53,68965517241379310344827586206896551724
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	24	Campo de Daroca	Otros	0	10	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	24	Campo de Daroca	Otros	1	19	1013	53,31578947368421052631578947368421052632
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	25	Jiloca	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	25	Jiloca	A través de una ETT	1	24	709	29,54166666666666666666666666666666666667
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	25	Jiloca	A través de una ETT	1	11	358	32,54545454545454545454545454545454545455
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	25	Jiloca	Otros	0	48	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	25	Jiloca	Otros	1	30	3745	124,833333333333333333333333333333333333
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	25	Jiloca	Otros	0	17	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	25	Jiloca	Otros	1	28	2107	75,25
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	26	Cuencas Mineras	A través de una ETT	0	3	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	26	Cuencas Mineras	A través de una ETT	1	20	388	19,4
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	26	Cuencas Mineras	A través de una ETT	0	7	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	26	Cuencas Mineras	A través de una ETT	1	32	564	17,625
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	26	Cuencas Mineras	Otros	0	12	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	26	Cuencas Mineras	Otros	1	42	1782	42,42857142857142857142857142857142857143
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	26	Cuencas Mineras	Otros	0	15	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	26	Cuencas Mineras	Otros	1	33	3648	110,545454545454545454545454545454545455
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	27	Andorra-Sierra de Arcos	A través de una ETT	0	7	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	27	Andorra-Sierra de Arcos	A través de una ETT	1	8	85	10,625
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	27	Andorra-Sierra de Arcos	A través de una ETT	0	6	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	27	Andorra-Sierra de Arcos	A través de una ETT	1	4	84	21
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	27	Andorra-Sierra de Arcos	Otros	0	25	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	27	Andorra-Sierra de Arcos	Otros	1	24	1183	49,29166666666666666666666666666666666667
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	27	Andorra-Sierra de Arcos	Otros	0	20	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	27	Andorra-Sierra de Arcos	Otros	1	51	1512	29,64705882352941176470588235294117647059
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	28	Bajo Aragón	A través de una ETT	0	5	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	28	Bajo Aragón	A través de una ETT	1	61	449	7,36065573770491803278688524590163934426
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	28	Bajo Aragón	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	28	Bajo Aragón	A través de una ETT	1	7	42	6
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	28	Bajo Aragón	Otros	0	165	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	28	Bajo Aragón	Otros	1	226	9022	39,92035398230088495575221238938053097345
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	28	Bajo Aragón	Otros	0	120	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	28	Bajo Aragón	Otros	1	153	7408	48,41830065359477124183006535947712418301
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	29	Comunidad de Teruel	A través de una ETT	0	22	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	29	Comunidad de Teruel	A través de una ETT	1	205	1948	9,50243902439024390243902439024390243902
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	29	Comunidad de Teruel	A través de una ETT	0	5	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	29	Comunidad de Teruel	A través de una ETT	1	80	414	5,175
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	29	Comunidad de Teruel	Otros	0	137	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	29	Comunidad de Teruel	Otros	1	230	18125	78,80434782608695652173913043478260869565
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	29	Comunidad de Teruel	Otros	0	145	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	29	Comunidad de Teruel	Otros	1	315	19179	60,88571428571428571428571428571428571429
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	30	Maestrazgo	Otros	0	5	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	30	Maestrazgo	Otros	1	5	259	51,8
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	30	Maestrazgo	Otros	0	6	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	30	Maestrazgo	Otros	1	16	551	34,4375
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	31	Sierra de Albarracín	A través de una ETT	1	1	11	11
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	31	Sierra de Albarracín	Otros	0	5	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	31	Sierra de Albarracín	Otros	1	45	1097	24,37777777777777777777777777777777777778
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	31	Sierra de Albarracín	Otros	0	16	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	31	Sierra de Albarracín	Otros	1	29	1041	35,89655172413793103448275862068965517241
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	32	Gúdar-Javalambre	A través de una ETT	1	23	146	6,34782608695652173913043478260869565217
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	32	Gúdar-Javalambre	A través de una ETT	0	1	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	32	Gúdar-Javalambre	A través de una ETT	1	2	43	21,5
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	32	Gúdar-Javalambre	Otros	0	15	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	32	Gúdar-Javalambre	Otros	1	85	3819	44,92941176470588235294117647058823529412
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	32	Gúdar-Javalambre	Otros	0	16	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	32	Gúdar-Javalambre	Otros	1	93	3775	40,59139784946236559139784946236559139785
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	33	Matarraña / Matarranya	Otros	0	48	0	0
+Agosto 2021	202108	Agosto	2021	Hombres	Temporal	33	Matarraña / Matarranya	Otros	1	30	1423	47,43333333333333333333333333333333333333
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	33	Matarraña / Matarranya	Otros	0	39	0	0
+Agosto 2021	202108	Agosto	2021	Mujeres	Temporal	33	Matarraña / Matarranya	Otros	1	24	1027	42,79166666666666666666666666666666666667
 Julio 2021	202107	Julio	2021	Hombres	Temporal	01	La Jacetania	A través de una ETT	0	13	0	0
 Julio 2021	202107	Julio	2021	Mujeres	Temporal	01	La Jacetania	A través de una ETT	0	6	0	0
 Julio 2021	202107	Julio	2021	Mujeres	Temporal	01	La Jacetania	A través de una ETT	1	4	89	22,25

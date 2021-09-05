@@ -1,4 +1,135 @@
 Año	Mes (código)	Mes y año	Mes nombre	Comarca código	Comarca nombre	Temporalidad	Sexo	Número de contratos
+2021	202108	Agosto 2021	Agosto	01	La Jacetania	Indefinido	Hombres	17
+2021	202108	Agosto 2021	Agosto	01	La Jacetania	Indefinido	Mujeres	20
+2021	202108	Agosto 2021	Agosto	01	La Jacetania	Temporal	Hombres	200
+2021	202108	Agosto 2021	Agosto	01	La Jacetania	Temporal	Mujeres	253
+2021	202108	Agosto 2021	Agosto	02	Alto Gállego	Indefinido	Hombres	18
+2021	202108	Agosto 2021	Agosto	02	Alto Gállego	Indefinido	Mujeres	13
+2021	202108	Agosto 2021	Agosto	02	Alto Gállego	Temporal	Hombres	205
+2021	202108	Agosto 2021	Agosto	02	Alto Gállego	Temporal	Mujeres	127
+2021	202108	Agosto 2021	Agosto	03	Sobrarbe	Indefinido	Hombres	10
+2021	202108	Agosto 2021	Agosto	03	Sobrarbe	Indefinido	Mujeres	10
+2021	202108	Agosto 2021	Agosto	03	Sobrarbe	Temporal	Hombres	153
+2021	202108	Agosto 2021	Agosto	03	Sobrarbe	Temporal	Mujeres	128
+2021	202108	Agosto 2021	Agosto	04	La Ribagorza	Indefinido	Hombres	8
+2021	202108	Agosto 2021	Agosto	04	La Ribagorza	Indefinido	Mujeres	9
+2021	202108	Agosto 2021	Agosto	04	La Ribagorza	Temporal	Hombres	143
+2021	202108	Agosto 2021	Agosto	04	La Ribagorza	Temporal	Mujeres	125
+2021	202108	Agosto 2021	Agosto	05	Cinco Villas	Indefinido	Hombres	45
+2021	202108	Agosto 2021	Agosto	05	Cinco Villas	Indefinido	Mujeres	29
+2021	202108	Agosto 2021	Agosto	05	Cinco Villas	Temporal	Hombres	343
+2021	202108	Agosto 2021	Agosto	05	Cinco Villas	Temporal	Mujeres	260
+2021	202108	Agosto 2021	Agosto	06	Hoya de Huesca / Plana de Uesca	Indefinido	Hombres	74
+2021	202108	Agosto 2021	Agosto	06	Hoya de Huesca / Plana de Uesca	Indefinido	Mujeres	54
+2021	202108	Agosto 2021	Agosto	06	Hoya de Huesca / Plana de Uesca	Temporal	Hombres	1043
+2021	202108	Agosto 2021	Agosto	06	Hoya de Huesca / Plana de Uesca	Temporal	Mujeres	995
+2021	202108	Agosto 2021	Agosto	07	Somontano de Barbastro	Indefinido	Hombres	27
+2021	202108	Agosto 2021	Agosto	07	Somontano de Barbastro	Indefinido	Mujeres	21
+2021	202108	Agosto 2021	Agosto	07	Somontano de Barbastro	Temporal	Hombres	352
+2021	202108	Agosto 2021	Agosto	07	Somontano de Barbastro	Temporal	Mujeres	253
+2021	202108	Agosto 2021	Agosto	08	Cinca Medio	Indefinido	Hombres	43
+2021	202108	Agosto 2021	Agosto	08	Cinca Medio	Indefinido	Mujeres	13
+2021	202108	Agosto 2021	Agosto	08	Cinca Medio	Temporal	Hombres	564
+2021	202108	Agosto 2021	Agosto	08	Cinca Medio	Temporal	Mujeres	262
+2021	202108	Agosto 2021	Agosto	09	La Litera / La Llitera	Indefinido	Hombres	79
+2021	202108	Agosto 2021	Agosto	09	La Litera / La Llitera	Indefinido	Mujeres	17
+2021	202108	Agosto 2021	Agosto	09	La Litera / La Llitera	Temporal	Hombres	489
+2021	202108	Agosto 2021	Agosto	09	La Litera / La Llitera	Temporal	Mujeres	202
+2021	202108	Agosto 2021	Agosto	10	Los Monegros	Indefinido	Hombres	25
+2021	202108	Agosto 2021	Agosto	10	Los Monegros	Indefinido	Mujeres	10
+2021	202108	Agosto 2021	Agosto	10	Los Monegros	Temporal	Hombres	264
+2021	202108	Agosto 2021	Agosto	10	Los Monegros	Temporal	Mujeres	87
+2021	202108	Agosto 2021	Agosto	11	Bajo Cinca / Baix Cinca	Indefinido	Hombres	48
+2021	202108	Agosto 2021	Agosto	11	Bajo Cinca / Baix Cinca	Indefinido	Mujeres	38
+2021	202108	Agosto 2021	Agosto	11	Bajo Cinca / Baix Cinca	Temporal	Hombres	998
+2021	202108	Agosto 2021	Agosto	11	Bajo Cinca / Baix Cinca	Temporal	Mujeres	781
+2021	202108	Agosto 2021	Agosto	12	Tarazona y el Moncayo	Indefinido	Hombres	11
+2021	202108	Agosto 2021	Agosto	12	Tarazona y el Moncayo	Indefinido	Mujeres	5
+2021	202108	Agosto 2021	Agosto	12	Tarazona y el Moncayo	Temporal	Hombres	219
+2021	202108	Agosto 2021	Agosto	12	Tarazona y el Moncayo	Temporal	Mujeres	215
+2021	202108	Agosto 2021	Agosto	13	Campo de Borja	Indefinido	Hombres	10
+2021	202108	Agosto 2021	Agosto	13	Campo de Borja	Indefinido	Mujeres	4
+2021	202108	Agosto 2021	Agosto	13	Campo de Borja	Temporal	Hombres	192
+2021	202108	Agosto 2021	Agosto	13	Campo de Borja	Temporal	Mujeres	155
+2021	202108	Agosto 2021	Agosto	14	Aranda	Indefinido	Mujeres	1
+2021	202108	Agosto 2021	Agosto	14	Aranda	Temporal	Hombres	31
+2021	202108	Agosto 2021	Agosto	14	Aranda	Temporal	Mujeres	20
+2021	202108	Agosto 2021	Agosto	15	Ribera Alta del Ebro	Indefinido	Hombres	39
+2021	202108	Agosto 2021	Agosto	15	Ribera Alta del Ebro	Indefinido	Mujeres	32
+2021	202108	Agosto 2021	Agosto	15	Ribera Alta del Ebro	Temporal	Hombres	858
+2021	202108	Agosto 2021	Agosto	15	Ribera Alta del Ebro	Temporal	Mujeres	451
+2021	202108	Agosto 2021	Agosto	16	Valdejalón	Indefinido	Hombres	98
+2021	202108	Agosto 2021	Agosto	16	Valdejalón	Indefinido	Mujeres	64
+2021	202108	Agosto 2021	Agosto	16	Valdejalón	Temporal	Hombres	2053
+2021	202108	Agosto 2021	Agosto	16	Valdejalón	Temporal	Mujeres	797
+2021	202108	Agosto 2021	Agosto	17	Central	Indefinido	Hombres	1067
+2021	202108	Agosto 2021	Agosto	17	Central	Indefinido	Mujeres	781
+2021	202108	Agosto 2021	Agosto	17	Central	Temporal	Hombres	11185
+2021	202108	Agosto 2021	Agosto	17	Central	Temporal	Mujeres	9753
+2021	202108	Agosto 2021	Agosto	18	Ribera Baja del Ebro	Indefinido	Hombres	10
+2021	202108	Agosto 2021	Agosto	18	Ribera Baja del Ebro	Indefinido	Mujeres	1
+2021	202108	Agosto 2021	Agosto	18	Ribera Baja del Ebro	Temporal	Hombres	254
+2021	202108	Agosto 2021	Agosto	18	Ribera Baja del Ebro	Temporal	Mujeres	271
+2021	202108	Agosto 2021	Agosto	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Hombres	12
+2021	202108	Agosto 2021	Agosto	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Mujeres	10
+2021	202108	Agosto 2021	Agosto	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Hombres	303
+2021	202108	Agosto 2021	Agosto	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Mujeres	104
+2021	202108	Agosto 2021	Agosto	20	Comunidad de Calatayud	Indefinido	Hombres	33
+2021	202108	Agosto 2021	Agosto	20	Comunidad de Calatayud	Indefinido	Mujeres	30
+2021	202108	Agosto 2021	Agosto	20	Comunidad de Calatayud	Temporal	Hombres	979
+2021	202108	Agosto 2021	Agosto	20	Comunidad de Calatayud	Temporal	Mujeres	538
+2021	202108	Agosto 2021	Agosto	21	Campo de Cariñena	Indefinido	Hombres	6
+2021	202108	Agosto 2021	Agosto	21	Campo de Cariñena	Indefinido	Mujeres	6
+2021	202108	Agosto 2021	Agosto	21	Campo de Cariñena	Temporal	Hombres	428
+2021	202108	Agosto 2021	Agosto	21	Campo de Cariñena	Temporal	Mujeres	274
+2021	202108	Agosto 2021	Agosto	22	Campo de Belchite	Indefinido	Hombres	5
+2021	202108	Agosto 2021	Agosto	22	Campo de Belchite	Indefinido	Mujeres	3
+2021	202108	Agosto 2021	Agosto	22	Campo de Belchite	Temporal	Hombres	34
+2021	202108	Agosto 2021	Agosto	22	Campo de Belchite	Temporal	Mujeres	34
+2021	202108	Agosto 2021	Agosto	23	Bajo Martín	Indefinido	Hombres	22
+2021	202108	Agosto 2021	Agosto	23	Bajo Martín	Indefinido	Mujeres	4
+2021	202108	Agosto 2021	Agosto	23	Bajo Martín	Temporal	Hombres	91
+2021	202108	Agosto 2021	Agosto	23	Bajo Martín	Temporal	Mujeres	72
+2021	202108	Agosto 2021	Agosto	24	Campo de Daroca	Indefinido	Hombres	5
+2021	202108	Agosto 2021	Agosto	24	Campo de Daroca	Indefinido	Mujeres	2
+2021	202108	Agosto 2021	Agosto	24	Campo de Daroca	Temporal	Hombres	48
+2021	202108	Agosto 2021	Agosto	24	Campo de Daroca	Temporal	Mujeres	32
+2021	202108	Agosto 2021	Agosto	25	Jiloca	Indefinido	Hombres	6
+2021	202108	Agosto 2021	Agosto	25	Jiloca	Indefinido	Mujeres	5
+2021	202108	Agosto 2021	Agosto	25	Jiloca	Temporal	Hombres	103
+2021	202108	Agosto 2021	Agosto	25	Jiloca	Temporal	Mujeres	56
+2021	202108	Agosto 2021	Agosto	26	Cuencas Mineras	Indefinido	Hombres	7
+2021	202108	Agosto 2021	Agosto	26	Cuencas Mineras	Indefinido	Mujeres	3
+2021	202108	Agosto 2021	Agosto	26	Cuencas Mineras	Temporal	Hombres	77
+2021	202108	Agosto 2021	Agosto	26	Cuencas Mineras	Temporal	Mujeres	87
+2021	202108	Agosto 2021	Agosto	27	Andorra-Sierra de Arcos	Indefinido	Hombres	3
+2021	202108	Agosto 2021	Agosto	27	Andorra-Sierra de Arcos	Indefinido	Mujeres	5
+2021	202108	Agosto 2021	Agosto	27	Andorra-Sierra de Arcos	Temporal	Hombres	64
+2021	202108	Agosto 2021	Agosto	27	Andorra-Sierra de Arcos	Temporal	Mujeres	81
+2021	202108	Agosto 2021	Agosto	28	Bajo Aragón	Indefinido	Hombres	29
+2021	202108	Agosto 2021	Agosto	28	Bajo Aragón	Indefinido	Mujeres	19
+2021	202108	Agosto 2021	Agosto	28	Bajo Aragón	Temporal	Hombres	457
+2021	202108	Agosto 2021	Agosto	28	Bajo Aragón	Temporal	Mujeres	281
+2021	202108	Agosto 2021	Agosto	29	Comunidad de Teruel	Indefinido	Hombres	58
+2021	202108	Agosto 2021	Agosto	29	Comunidad de Teruel	Indefinido	Mujeres	32
+2021	202108	Agosto 2021	Agosto	29	Comunidad de Teruel	Temporal	Hombres	594
+2021	202108	Agosto 2021	Agosto	29	Comunidad de Teruel	Temporal	Mujeres	545
+2021	202108	Agosto 2021	Agosto	30	Maestrazgo	Indefinido	Hombres	2
+2021	202108	Agosto 2021	Agosto	30	Maestrazgo	Indefinido	Mujeres	4
+2021	202108	Agosto 2021	Agosto	30	Maestrazgo	Temporal	Hombres	10
+2021	202108	Agosto 2021	Agosto	30	Maestrazgo	Temporal	Mujeres	22
+2021	202108	Agosto 2021	Agosto	31	Sierra de Albarracín	Indefinido	Hombres	4
+2021	202108	Agosto 2021	Agosto	31	Sierra de Albarracín	Indefinido	Mujeres	10
+2021	202108	Agosto 2021	Agosto	31	Sierra de Albarracín	Temporal	Hombres	51
+2021	202108	Agosto 2021	Agosto	31	Sierra de Albarracín	Temporal	Mujeres	45
+2021	202108	Agosto 2021	Agosto	32	Gúdar-Javalambre	Indefinido	Hombres	8
+2021	202108	Agosto 2021	Agosto	32	Gúdar-Javalambre	Indefinido	Mujeres	10
+2021	202108	Agosto 2021	Agosto	32	Gúdar-Javalambre	Temporal	Hombres	123
+2021	202108	Agosto 2021	Agosto	32	Gúdar-Javalambre	Temporal	Mujeres	112
+2021	202108	Agosto 2021	Agosto	33	Matarraña / Matarranya	Indefinido	Hombres	9
+2021	202108	Agosto 2021	Agosto	33	Matarraña / Matarranya	Indefinido	Mujeres	7
+2021	202108	Agosto 2021	Agosto	33	Matarraña / Matarranya	Temporal	Hombres	78
+2021	202108	Agosto 2021	Agosto	33	Matarraña / Matarranya	Temporal	Mujeres	63
 2021	202107	Julio 2021	Julio	01	La Jacetania	Indefinido	Hombres	22
 2021	202107	Julio 2021	Julio	01	La Jacetania	Indefinido	Mujeres	36
 2021	202107	Julio 2021	Julio	01	La Jacetania	Temporal	Hombres	370

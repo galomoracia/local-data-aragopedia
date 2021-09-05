@@ -1,4 +1,136 @@
 Mes nombre	Año	Mes y año	Mes (código)	Comarca código	Comarca nombre	Sexo	Temporalidad	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos
+Agosto	2021	Agosto 2021	202108	01	La Jacetania	Hombres	Temporal	0	82	0	0
+Agosto	2021	Agosto 2021	202108	01	La Jacetania	Hombres	Temporal	1	118	5202	44,08474576271186440677966101694915254237
+Agosto	2021	Agosto 2021	202108	01	La Jacetania	Mujeres	Temporal	0	86	0	0
+Agosto	2021	Agosto 2021	202108	01	La Jacetania	Mujeres	Temporal	1	167	5349	32,02994011976047904191616766467065868263
+Agosto	2021	Agosto 2021	202108	02	Alto Gállego	Hombres	Temporal	0	84	0	0
+Agosto	2021	Agosto 2021	202108	02	Alto Gállego	Hombres	Temporal	1	121	5308	43,86776859504132231404958677685950413223
+Agosto	2021	Agosto 2021	202108	02	Alto Gállego	Mujeres	Temporal	0	44	0	0
+Agosto	2021	Agosto 2021	202108	02	Alto Gállego	Mujeres	Temporal	1	83	3129	37,69879518072289156626506024096385542169
+Agosto	2021	Agosto 2021	202108	03	Sobrarbe	Hombres	Temporal	0	34	0	0
+Agosto	2021	Agosto 2021	202108	03	Sobrarbe	Hombres	Temporal	1	119	2943	24,7310924369747899159663865546218487395
+Agosto	2021	Agosto 2021	202108	03	Sobrarbe	Mujeres	Temporal	0	33	0	0
+Agosto	2021	Agosto 2021	202108	03	Sobrarbe	Mujeres	Temporal	1	95	3552	37,38947368421052631578947368421052631579
+Agosto	2021	Agosto 2021	202108	04	La Ribagorza	Hombres	Temporal	0	63	0	0
+Agosto	2021	Agosto 2021	202108	04	La Ribagorza	Hombres	Temporal	1	80	4116	51,45
+Agosto	2021	Agosto 2021	202108	04	La Ribagorza	Mujeres	Temporal	0	61	0	0
+Agosto	2021	Agosto 2021	202108	04	La Ribagorza	Mujeres	Temporal	1	64	2181	34,078125
+Agosto	2021	Agosto 2021	202108	05	Cinco Villas	Hombres	Temporal	0	181	0	0
+Agosto	2021	Agosto 2021	202108	05	Cinco Villas	Hombres	Temporal	1	162	12870	79,44444444444444444444444444444444444444
+Agosto	2021	Agosto 2021	202108	05	Cinco Villas	Mujeres	Temporal	0	111	0	0
+Agosto	2021	Agosto 2021	202108	05	Cinco Villas	Mujeres	Temporal	1	149	4614	30,96644295302013422818791946308724832215
+Agosto	2021	Agosto 2021	202108	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	0	357	0	0
+Agosto	2021	Agosto 2021	202108	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	1	686	43620	63,58600583090379008746355685131195335277
+Agosto	2021	Agosto 2021	202108	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	0	249	0	0
+Agosto	2021	Agosto 2021	202108	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	1	746	25442	34,10455764075067024128686327077747989276
+Agosto	2021	Agosto 2021	202108	07	Somontano de Barbastro	Hombres	Temporal	0	105	0	0
+Agosto	2021	Agosto 2021	202108	07	Somontano de Barbastro	Hombres	Temporal	1	247	13889	56,23076923076923076923076923076923076923
+Agosto	2021	Agosto 2021	202108	07	Somontano de Barbastro	Mujeres	Temporal	0	59	0	0
+Agosto	2021	Agosto 2021	202108	07	Somontano de Barbastro	Mujeres	Temporal	1	194	8570	44,17525773195876288659793814432989690722
+Agosto	2021	Agosto 2021	202108	08	Cinca Medio	Hombres	Temporal	0	370	0	0
+Agosto	2021	Agosto 2021	202108	08	Cinca Medio	Hombres	Temporal	1	194	9814	50,58762886597938144329896907216494845361
+Agosto	2021	Agosto 2021	202108	08	Cinca Medio	Mujeres	Temporal	0	74	0	0
+Agosto	2021	Agosto 2021	202108	08	Cinca Medio	Mujeres	Temporal	1	188	4145	22,04787234042553191489361702127659574468
+Agosto	2021	Agosto 2021	202108	09	La Litera / La Llitera	Hombres	Temporal	0	210	0	0
+Agosto	2021	Agosto 2021	202108	09	La Litera / La Llitera	Hombres	Temporal	1	279	25918	92,89605734767025089605734767025089605735
+Agosto	2021	Agosto 2021	202108	09	La Litera / La Llitera	Mujeres	Temporal	0	63	0	0
+Agosto	2021	Agosto 2021	202108	09	La Litera / La Llitera	Mujeres	Temporal	1	139	9413	67,71942446043165467625899280575539568345
+Agosto	2021	Agosto 2021	202108	10	Los Monegros	Hombres	Temporal	0	206	0	0
+Agosto	2021	Agosto 2021	202108	10	Los Monegros	Hombres	Temporal	1	58	4171	71,91379310344827586206896551724137931034
+Agosto	2021	Agosto 2021	202108	10	Los Monegros	Mujeres	Temporal	0	31	0	0
+Agosto	2021	Agosto 2021	202108	10	Los Monegros	Mujeres	Temporal	1	56	2242	40,03571428571428571428571428571428571429
+Agosto	2021	Agosto 2021	202108	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	0	637	0	0
+Agosto	2021	Agosto 2021	202108	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	1	361	12810	35,4847645429362880886426592797783933518
+Agosto	2021	Agosto 2021	202108	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	0	280	0	0
+Agosto	2021	Agosto 2021	202108	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	1	501	11760	23,47305389221556886227544910179640718563
+Agosto	2021	Agosto 2021	202108	12	Tarazona y el Moncayo	Hombres	Temporal	0	39	0	0
+Agosto	2021	Agosto 2021	202108	12	Tarazona y el Moncayo	Hombres	Temporal	1	180	5358	29,76666666666666666666666666666666666667
+Agosto	2021	Agosto 2021	202108	12	Tarazona y el Moncayo	Mujeres	Temporal	0	27	0	0
+Agosto	2021	Agosto 2021	202108	12	Tarazona y el Moncayo	Mujeres	Temporal	1	188	5200	27,65957446808510638297872340425531914894
+Agosto	2021	Agosto 2021	202108	13	Campo de Borja	Hombres	Temporal	0	90	0	0
+Agosto	2021	Agosto 2021	202108	13	Campo de Borja	Hombres	Temporal	1	102	7556	74,07843137254901960784313725490196078431
+Agosto	2021	Agosto 2021	202108	13	Campo de Borja	Mujeres	Temporal	0	68	0	0
+Agosto	2021	Agosto 2021	202108	13	Campo de Borja	Mujeres	Temporal	1	87	2019	23,20689655172413793103448275862068965517
+Agosto	2021	Agosto 2021	202108	14	Aranda	Hombres	Temporal	0	20	0	0
+Agosto	2021	Agosto 2021	202108	14	Aranda	Hombres	Temporal	1	11	1605	145,909090909090909090909090909090909091
+Agosto	2021	Agosto 2021	202108	14	Aranda	Mujeres	Temporal	0	10	0	0
+Agosto	2021	Agosto 2021	202108	14	Aranda	Mujeres	Temporal	1	10	463	46,3
+Agosto	2021	Agosto 2021	202108	15	Ribera Alta del Ebro	Hombres	Temporal	0	306	0	0
+Agosto	2021	Agosto 2021	202108	15	Ribera Alta del Ebro	Hombres	Temporal	1	552	54398	98,54710144927536231884057971014492753623
+Agosto	2021	Agosto 2021	202108	15	Ribera Alta del Ebro	Mujeres	Temporal	0	222	0	0
+Agosto	2021	Agosto 2021	202108	15	Ribera Alta del Ebro	Mujeres	Temporal	1	229	9819	42,87772925764192139737991266375545851528
+Agosto	2021	Agosto 2021	202108	16	Valdejalón	Hombres	Temporal	0	1352	0	0
+Agosto	2021	Agosto 2021	202108	16	Valdejalón	Hombres	Temporal	1	701	16917	24,13266761768901569186875891583452211127
+Agosto	2021	Agosto 2021	202108	16	Valdejalón	Mujeres	Temporal	0	502	0	0
+Agosto	2021	Agosto 2021	202108	16	Valdejalón	Mujeres	Temporal	1	295	8740	29,62711864406779661016949152542372881356
+Agosto	2021	Agosto 2021	202108	17	Central	Hombres	Temporal	0	3056	0	0
+Agosto	2021	Agosto 2021	202108	17	Central	Hombres	Temporal	1	8129	305867	37,62664534383072948702177389592815844507
+Agosto	2021	Agosto 2021	202108	17	Central	Mujeres	Temporal	0	2251	0	0
+Agosto	2021	Agosto 2021	202108	17	Central	Mujeres	Temporal	1	7502	284972	37,98613703012529992002132764596107704612
+Agosto	2021	Agosto 2021	202108	18	Ribera Baja del Ebro	Hombres	Temporal	0	75	0	0
+Agosto	2021	Agosto 2021	202108	18	Ribera Baja del Ebro	Hombres	Temporal	1	179	4240	23,68715083798882681564245810055865921788
+Agosto	2021	Agosto 2021	202108	18	Ribera Baja del Ebro	Mujeres	Temporal	0	35	0	0
+Agosto	2021	Agosto 2021	202108	18	Ribera Baja del Ebro	Mujeres	Temporal	1	236	5465	23,15677966101694915254237288135593220339
+Agosto	2021	Agosto 2021	202108	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	0	117	0	0
+Agosto	2021	Agosto 2021	202108	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	1	186	7710	41,4516129032258064516129032258064516129
+Agosto	2021	Agosto 2021	202108	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	0	52	0	0
+Agosto	2021	Agosto 2021	202108	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	1	52	1345	25,86538461538461538461538461538461538462
+Agosto	2021	Agosto 2021	202108	20	Comunidad de Calatayud	Hombres	Temporal	0	602	0	0
+Agosto	2021	Agosto 2021	202108	20	Comunidad de Calatayud	Hombres	Temporal	1	377	7191	19,07427055702917771883289124668435013263
+Agosto	2021	Agosto 2021	202108	20	Comunidad de Calatayud	Mujeres	Temporal	0	301	0	0
+Agosto	2021	Agosto 2021	202108	20	Comunidad de Calatayud	Mujeres	Temporal	1	237	6056	25,55274261603375527426160337552742616034
+Agosto	2021	Agosto 2021	202108	21	Campo de Cariñena	Hombres	Temporal	0	246	0	0
+Agosto	2021	Agosto 2021	202108	21	Campo de Cariñena	Hombres	Temporal	1	182	7655	42,06043956043956043956043956043956043956
+Agosto	2021	Agosto 2021	202108	21	Campo de Cariñena	Mujeres	Temporal	0	193	0	0
+Agosto	2021	Agosto 2021	202108	21	Campo de Cariñena	Mujeres	Temporal	1	81	2896	35,75308641975308641975308641975308641975
+Agosto	2021	Agosto 2021	202108	22	Campo de Belchite	Hombres	Temporal	0	15	0	0
+Agosto	2021	Agosto 2021	202108	22	Campo de Belchite	Hombres	Temporal	1	19	717	37,73684210526315789473684210526315789474
+Agosto	2021	Agosto 2021	202108	22	Campo de Belchite	Mujeres	Temporal	0	6	0	0
+Agosto	2021	Agosto 2021	202108	22	Campo de Belchite	Mujeres	Temporal	1	28	1123	40,10714285714285714285714285714285714286
+Agosto	2021	Agosto 2021	202108	23	Bajo Martín	Hombres	Temporal	0	34	0	0
+Agosto	2021	Agosto 2021	202108	23	Bajo Martín	Hombres	Temporal	1	57	4897	85,91228070175438596491228070175438596491
+Agosto	2021	Agosto 2021	202108	23	Bajo Martín	Mujeres	Temporal	0	31	0	0
+Agosto	2021	Agosto 2021	202108	23	Bajo Martín	Mujeres	Temporal	1	41	1676	40,87804878048780487804878048780487804878
+Agosto	2021	Agosto 2021	202108	24	Campo de Daroca	Hombres	Temporal	0	14	0	0
+Agosto	2021	Agosto 2021	202108	24	Campo de Daroca	Hombres	Temporal	1	34	1625	47,79411764705882352941176470588235294118
+Agosto	2021	Agosto 2021	202108	24	Campo de Daroca	Mujeres	Temporal	0	10	0	0
+Agosto	2021	Agosto 2021	202108	24	Campo de Daroca	Mujeres	Temporal	1	22	1025	46,59090909090909090909090909090909090909
+Agosto	2021	Agosto 2021	202108	25	Jiloca	Hombres	Temporal	0	49	0	0
+Agosto	2021	Agosto 2021	202108	25	Jiloca	Hombres	Temporal	1	54	4454	82,48148148148148148148148148148148148148
+Agosto	2021	Agosto 2021	202108	25	Jiloca	Mujeres	Temporal	0	17	0	0
+Agosto	2021	Agosto 2021	202108	25	Jiloca	Mujeres	Temporal	1	39	2465	63,20512820512820512820512820512820512821
+Agosto	2021	Agosto 2021	202108	26	Cuencas Mineras	Hombres	Temporal	0	15	0	0
+Agosto	2021	Agosto 2021	202108	26	Cuencas Mineras	Hombres	Temporal	1	62	2170	35
+Agosto	2021	Agosto 2021	202108	26	Cuencas Mineras	Mujeres	Temporal	0	22	0	0
+Agosto	2021	Agosto 2021	202108	26	Cuencas Mineras	Mujeres	Temporal	1	65	4212	64,8
+Agosto	2021	Agosto 2021	202108	27	Andorra-Sierra de Arcos	Hombres	Temporal	0	32	0	0
+Agosto	2021	Agosto 2021	202108	27	Andorra-Sierra de Arcos	Hombres	Temporal	1	32	1268	39,625
+Agosto	2021	Agosto 2021	202108	27	Andorra-Sierra de Arcos	Mujeres	Temporal	0	26	0	0
+Agosto	2021	Agosto 2021	202108	27	Andorra-Sierra de Arcos	Mujeres	Temporal	1	55	1596	29,01818181818181818181818181818181818182
+Agosto	2021	Agosto 2021	202108	28	Bajo Aragón	Hombres	Temporal	0	170	0	0
+Agosto	2021	Agosto 2021	202108	28	Bajo Aragón	Hombres	Temporal	1	287	9471	33
+Agosto	2021	Agosto 2021	202108	28	Bajo Aragón	Mujeres	Temporal	0	121	0	0
+Agosto	2021	Agosto 2021	202108	28	Bajo Aragón	Mujeres	Temporal	1	160	7450	46,5625
+Agosto	2021	Agosto 2021	202108	29	Comunidad de Teruel	Hombres	Temporal	0	159	0	0
+Agosto	2021	Agosto 2021	202108	29	Comunidad de Teruel	Hombres	Temporal	1	435	20073	46,14482758620689655172413793103448275862
+Agosto	2021	Agosto 2021	202108	29	Comunidad de Teruel	Mujeres	Temporal	0	150	0	0
+Agosto	2021	Agosto 2021	202108	29	Comunidad de Teruel	Mujeres	Temporal	1	395	19593	49,6025316455696202531645569620253164557
+Agosto	2021	Agosto 2021	202108	30	Maestrazgo	Hombres	Temporal	0	5	0	0
+Agosto	2021	Agosto 2021	202108	30	Maestrazgo	Hombres	Temporal	1	5	259	51,8
+Agosto	2021	Agosto 2021	202108	30	Maestrazgo	Mujeres	Temporal	0	6	0	0
+Agosto	2021	Agosto 2021	202108	30	Maestrazgo	Mujeres	Temporal	1	16	551	34,4375
+Agosto	2021	Agosto 2021	202108	31	Sierra de Albarracín	Hombres	Temporal	0	5	0	0
+Agosto	2021	Agosto 2021	202108	31	Sierra de Albarracín	Hombres	Temporal	1	46	1108	24,08695652173913043478260869565217391304
+Agosto	2021	Agosto 2021	202108	31	Sierra de Albarracín	Mujeres	Temporal	0	16	0	0
+Agosto	2021	Agosto 2021	202108	31	Sierra de Albarracín	Mujeres	Temporal	1	29	1041	35,89655172413793103448275862068965517241
+Agosto	2021	Agosto 2021	202108	32	Gúdar-Javalambre	Hombres	Temporal	0	15	0	0
+Agosto	2021	Agosto 2021	202108	32	Gúdar-Javalambre	Hombres	Temporal	1	108	3965	36,71296296296296296296296296296296296296
+Agosto	2021	Agosto 2021	202108	32	Gúdar-Javalambre	Mujeres	Temporal	0	17	0	0
+Agosto	2021	Agosto 2021	202108	32	Gúdar-Javalambre	Mujeres	Temporal	1	95	3818	40,18947368421052631578947368421052631579
+Agosto	2021	Agosto 2021	202108	33	Matarraña / Matarranya	Hombres	Temporal	0	48	0	0
+Agosto	2021	Agosto 2021	202108	33	Matarraña / Matarranya	Hombres	Temporal	1	30	1423	47,43333333333333333333333333333333333333
+Agosto	2021	Agosto 2021	202108	33	Matarraña / Matarranya	Mujeres	Temporal	0	39	0	0
+Agosto	2021	Agosto 2021	202108	33	Matarraña / Matarranya	Mujeres	Temporal	1	24	1027	42,79166666666666666666666666666666666667
 Julio	2021	Julio 2021	202107	01	La Jacetania	Hombres	Temporal	0	172	0	0
 Julio	2021	Julio 2021	202107	01	La Jacetania	Hombres	Temporal	1	198	12278	62,01010101010101010101010101010101010101
 Julio	2021	Julio 2021	202107	01	La Jacetania	Mujeres	Temporal	0	172	0	0

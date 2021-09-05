@@ -1,4 +1,52 @@
 Mes y año	Mes (código)	Mes nombre	Año	Provincia código	Provincia nombre	Sector código	Sector descripción	Sexo	Temporalidad	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos
+Agosto 2021	202108	Agosto	2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	Temporal	0	1234	0	0
+Agosto 2021	202108	Agosto	2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	Temporal	1	303	12625	41,66666666666666666666666666666666666667
+Agosto 2021	202108	Agosto	2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	Temporal	0	179	0	0
+Agosto 2021	202108	Agosto	2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	Temporal	1	57	2213	38,82456140350877192982456140350877192982
+Agosto 2021	202108	Agosto	2021	22	Huesca	2	Industria y energía	Hombres	Temporal	0	185	0	0
+Agosto 2021	202108	Agosto	2021	22	Huesca	2	Industria y energía	Hombres	Temporal	1	334	36068	107,988023952095808383233532934131736527
+Agosto 2021	202108	Agosto	2021	22	Huesca	2	Industria y energía	Mujeres	Temporal	0	63	0	0
+Agosto 2021	202108	Agosto	2021	22	Huesca	2	Industria y energía	Mujeres	Temporal	1	265	13917	52,51698113207547169811320754716981132075
+Agosto 2021	202108	Agosto	2021	22	Huesca	3	Construcción	Hombres	Temporal	0	137	0	0
+Agosto 2021	202108	Agosto	2021	22	Huesca	3	Construcción	Hombres	Temporal	1	71	8514	119,915492957746478873239436619718309859
+Agosto 2021	202108	Agosto	2021	22	Huesca	3	Construcción	Mujeres	Temporal	0	7	0	0
+Agosto 2021	202108	Agosto	2021	22	Huesca	3	Construcción	Mujeres	Temporal	1	9	1090	121,111111111111111111111111111111111111
+Agosto 2021	202108	Agosto	2021	22	Huesca	4	Servicios	Hombres	Temporal	0	566	0	0
+Agosto 2021	202108	Agosto	2021	22	Huesca	4	Servicios	Hombres	Temporal	1	1450	69643	48,02965517241379310344827586206896551724
+Agosto 2021	202108	Agosto	2021	22	Huesca	4	Servicios	Mujeres	Temporal	0	708	0	0
+Agosto 2021	202108	Agosto	2021	22	Huesca	4	Servicios	Mujeres	Temporal	1	1634	57002	34,884944920440636474908200734394124847
+Agosto 2021	202108	Agosto	2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	Temporal	0	92	0	0
+Agosto 2021	202108	Agosto	2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	Temporal	1	29	2412	83,17241379310344827586206896551724137931
+Agosto 2021	202108	Agosto	2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	Temporal	0	28	0	0
+Agosto 2021	202108	Agosto	2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	Temporal	1	9	1438	159,777777777777777777777777777777777778
+Agosto 2021	202108	Agosto	2021	44	Teruel	2	Industria y energía	Hombres	Temporal	0	109	0	0
+Agosto 2021	202108	Agosto	2021	44	Teruel	2	Industria y energía	Hombres	Temporal	1	337	14822	43,98219584569732937685459940652818991098
+Agosto 2021	202108	Agosto	2021	44	Teruel	2	Industria y energía	Mujeres	Temporal	0	28	0	0
+Agosto 2021	202108	Agosto	2021	44	Teruel	2	Industria y energía	Mujeres	Temporal	1	133	4952	37,23308270676691729323308270676691729323
+Agosto 2021	202108	Agosto	2021	44	Teruel	3	Construcción	Hombres	Temporal	0	119	0	0
+Agosto 2021	202108	Agosto	2021	44	Teruel	3	Construcción	Hombres	Temporal	1	28	2684	95,85714285714285714285714285714285714286
+Agosto 2021	202108	Agosto	2021	44	Teruel	3	Construcción	Mujeres	Temporal	0	2	0	0
+Agosto 2021	202108	Agosto	2021	44	Teruel	3	Construcción	Mujeres	Temporal	1	6	638	106,333333333333333333333333333333333333
+Agosto 2021	202108	Agosto	2021	44	Teruel	4	Servicios	Hombres	Temporal	0	212	0	0
+Agosto 2021	202108	Agosto	2021	44	Teruel	4	Servicios	Hombres	Temporal	1	722	29170	40,40166204986149584487534626038781163435
+Agosto 2021	202108	Agosto	2021	44	Teruel	4	Servicios	Mujeres	Temporal	0	387	0	0
+Agosto 2021	202108	Agosto	2021	44	Teruel	4	Servicios	Mujeres	Temporal	1	771	36401	47,21271076523994811932555123216601815824
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	Temporal	0	2505	0	0
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	Temporal	1	1178	43771	37,15704584040747028862478777589134125637
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	Temporal	0	832	0	0
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	Temporal	1	313	12758	40,76038338658146964856230031948881789137
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	2	Industria y energía	Hombres	Temporal	0	949	0	0
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	2	Industria y energía	Hombres	Temporal	1	3414	144843	42,42618629173989455184534270650263620387
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	2	Industria y energía	Mujeres	Temporal	0	530	0	0
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	2	Industria y energía	Mujeres	Temporal	1	2490	47377	19,02690763052208835341365461847389558233
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	3	Construcción	Hombres	Temporal	0	599	0	0
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	3	Construcción	Hombres	Temporal	1	229	23102	100,88209606986899563318777292576419214
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	3	Construcción	Mujeres	Temporal	0	23	0	0
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	3	Construcción	Mujeres	Temporal	1	31	3277	105,709677419354838709677419354838709677
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	4	Servicios	Hombres	Temporal	0	2086	0	0
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	4	Servicios	Hombres	Temporal	1	6098	222934	36,55854378484749098064939324368645457527
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	4	Servicios	Mujeres	Temporal	0	2426	0	0
+Agosto 2021	202108	Agosto	2021	50	Zaragoza	4	Servicios	Mujeres	Temporal	1	6550	271886	41,50931297709923664122137404580152671756
 Julio 2021	202107	Julio	2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	Temporal	0	1329	0	0
 Julio 2021	202107	Julio	2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	Temporal	1	327	17944	54,87461773700305810397553516819571865443
 Julio 2021	202107	Julio	2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	Temporal	0	244	0	0

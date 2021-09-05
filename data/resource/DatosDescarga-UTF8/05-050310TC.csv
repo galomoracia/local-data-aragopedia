@@ -1,4 +1,398 @@
 Año	Mes (código)	Mes nombre	Mes y año	Sexo	Comarca código	Comarca nombre	Temporalidad	Modalidad	Grupo de tipo de contrato	Número de contratos
+2021	202108	Agosto	Agosto 2021	Hombres	01	La Jacetania	Indefinido	Indefinido	Indef. Fomento	6
+2021	202108	Agosto	Agosto 2021	Hombres	01	La Jacetania	Indefinido	Indefinido	Indef. Ordinario	11
+2021	202108	Agosto	Agosto 2021	Mujeres	01	La Jacetania	Indefinido	Indefinido	Indef. Fomento	4
+2021	202108	Agosto	Agosto 2021	Mujeres	01	La Jacetania	Indefinido	Indefinido	Indef. Ordinario	16
+2021	202108	Agosto	Agosto 2021	Hombres	01	La Jacetania	Temporal	Obra o servicio	Obra o servicio	94
+2021	202108	Agosto	Agosto 2021	Mujeres	01	La Jacetania	Temporal	Obra o servicio	Obra o servicio	99
+2021	202108	Agosto	Agosto 2021	Hombres	01	La Jacetania	Temporal	Eventual por circunstancias de la producción	Eventual producción	101
+2021	202108	Agosto	Agosto 2021	Mujeres	01	La Jacetania	Temporal	Eventual por circunstancias de la producción	Eventual producción	124
+2021	202108	Agosto	Agosto 2021	Hombres	01	La Jacetania	Temporal	Interinidad	Interinidad	4
+2021	202108	Agosto	Agosto 2021	Mujeres	01	La Jacetania	Temporal	Interinidad	Interinidad	30
+2021	202108	Agosto	Agosto 2021	Hombres	01	La Jacetania	Temporal	Discapacitados	Temp. Minusv	1
+2021	202108	Agosto	Agosto 2021	Hombres	02	Alto Gállego	Indefinido	Indefinido	Indef. Fomento	8
+2021	202108	Agosto	Agosto 2021	Hombres	02	Alto Gállego	Indefinido	Indefinido	Indef. Ordinario	10
+2021	202108	Agosto	Agosto 2021	Mujeres	02	Alto Gállego	Indefinido	Indefinido	Indef. Fomento	7
+2021	202108	Agosto	Agosto 2021	Mujeres	02	Alto Gállego	Indefinido	Indefinido	Indef. Ordinario	6
+2021	202108	Agosto	Agosto 2021	Hombres	02	Alto Gállego	Temporal	Obra o servicio	Obra o servicio	83
+2021	202108	Agosto	Agosto 2021	Mujeres	02	Alto Gállego	Temporal	Obra o servicio	Obra o servicio	46
+2021	202108	Agosto	Agosto 2021	Hombres	02	Alto Gállego	Temporal	Eventual por circunstancias de la producción	Eventual producción	118
+2021	202108	Agosto	Agosto 2021	Mujeres	02	Alto Gállego	Temporal	Eventual por circunstancias de la producción	Eventual producción	75
+2021	202108	Agosto	Agosto 2021	Hombres	02	Alto Gállego	Temporal	Interinidad	Interinidad	2
+2021	202108	Agosto	Agosto 2021	Mujeres	02	Alto Gállego	Temporal	Interinidad	Interinidad	6
+2021	202108	Agosto	Agosto 2021	Hombres	02	Alto Gállego	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202108	Agosto	Agosto 2021	Hombres	02	Alto Gállego	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Hombres	03	Sobrarbe	Indefinido	Indefinido	Indef. Fomento	5
+2021	202108	Agosto	Agosto 2021	Hombres	03	Sobrarbe	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202108	Agosto	Agosto 2021	Mujeres	03	Sobrarbe	Indefinido	Indefinido	Indef. Fomento	4
+2021	202108	Agosto	Agosto 2021	Mujeres	03	Sobrarbe	Indefinido	Indefinido	Indef. Ordinario	6
+2021	202108	Agosto	Agosto 2021	Hombres	03	Sobrarbe	Temporal	Obra o servicio	Obra o servicio	53
+2021	202108	Agosto	Agosto 2021	Mujeres	03	Sobrarbe	Temporal	Obra o servicio	Obra o servicio	32
+2021	202108	Agosto	Agosto 2021	Hombres	03	Sobrarbe	Temporal	Eventual por circunstancias de la producción	Eventual producción	99
+2021	202108	Agosto	Agosto 2021	Mujeres	03	Sobrarbe	Temporal	Eventual por circunstancias de la producción	Eventual producción	90
+2021	202108	Agosto	Agosto 2021	Hombres	03	Sobrarbe	Temporal	Interinidad	Interinidad	1
+2021	202108	Agosto	Agosto 2021	Mujeres	03	Sobrarbe	Temporal	Interinidad	Interinidad	6
+2021	202108	Agosto	Agosto 2021	Hombres	04	La Ribagorza	Indefinido	Indefinido	Indef. Fomento	3
+2021	202108	Agosto	Agosto 2021	Hombres	04	La Ribagorza	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202108	Agosto	Agosto 2021	Mujeres	04	La Ribagorza	Indefinido	Indefinido	Indef. Fomento	4
+2021	202108	Agosto	Agosto 2021	Mujeres	04	La Ribagorza	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202108	Agosto	Agosto 2021	Hombres	04	La Ribagorza	Temporal	Obra o servicio	Obra o servicio	65
+2021	202108	Agosto	Agosto 2021	Mujeres	04	La Ribagorza	Temporal	Obra o servicio	Obra o servicio	57
+2021	202108	Agosto	Agosto 2021	Hombres	04	La Ribagorza	Temporal	Eventual por circunstancias de la producción	Eventual producción	71
+2021	202108	Agosto	Agosto 2021	Mujeres	04	La Ribagorza	Temporal	Eventual por circunstancias de la producción	Eventual producción	59
+2021	202108	Agosto	Agosto 2021	Hombres	04	La Ribagorza	Temporal	Interinidad	Interinidad	7
+2021	202108	Agosto	Agosto 2021	Mujeres	04	La Ribagorza	Temporal	Interinidad	Interinidad	9
+2021	202108	Agosto	Agosto 2021	Hombres	05	Cinco Villas	Indefinido	Indefinido	Indef. Fomento	33
+2021	202108	Agosto	Agosto 2021	Hombres	05	Cinco Villas	Indefinido	Indefinido	Indef. Ordinario	12
+2021	202108	Agosto	Agosto 2021	Mujeres	05	Cinco Villas	Indefinido	Indefinido	Indef. Fomento	20
+2021	202108	Agosto	Agosto 2021	Mujeres	05	Cinco Villas	Indefinido	Indefinido	Indef. Ordinario	9
+2021	202108	Agosto	Agosto 2021	Hombres	05	Cinco Villas	Temporal	Obra o servicio	Obra o servicio	184
+2021	202108	Agosto	Agosto 2021	Mujeres	05	Cinco Villas	Temporal	Obra o servicio	Obra o servicio	95
+2021	202108	Agosto	Agosto 2021	Hombres	05	Cinco Villas	Temporal	Eventual por circunstancias de la producción	Eventual producción	148
+2021	202108	Agosto	Agosto 2021	Mujeres	05	Cinco Villas	Temporal	Eventual por circunstancias de la producción	Eventual producción	130
+2021	202108	Agosto	Agosto 2021	Hombres	05	Cinco Villas	Temporal	Interinidad	Interinidad	6
+2021	202108	Agosto	Agosto 2021	Mujeres	05	Cinco Villas	Temporal	Interinidad	Interinidad	35
+2021	202108	Agosto	Agosto 2021	Hombres	05	Cinco Villas	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202108	Agosto	Agosto 2021	Hombres	05	Cinco Villas	Temporal	Ligados a la jubilación	Relevo	1
+2021	202108	Agosto	Agosto 2021	Hombres	05	Cinco Villas	Temporal	Ligados a la formación	Prácticas	2
+2021	202108	Agosto	Agosto 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Indefinido	Indef. Fomento	30
+2021	202108	Agosto	Agosto 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Indefinido	Indef. Ordinario	44
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Indefinido	Indef. Fomento	23
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Indefinido	Indef. Ordinario	30
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Discapacitados	Minusválidos	1
+2021	202108	Agosto	Agosto 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Obra o servicio	Obra o servicio	429
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Obra o servicio	Obra o servicio	233
+2021	202108	Agosto	Agosto 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Eventual por circunstancias de la producción	Eventual producción	545
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Eventual por circunstancias de la producción	Eventual producción	645
+2021	202108	Agosto	Agosto 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Interinidad	Interinidad	48
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Interinidad	Interinidad	109
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Discapacitados	Temp. Minusv	1
+2021	202108	Agosto	Agosto 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la jubilación	Jubilación parcial	5
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la jubilación	Relevo	1
+2021	202108	Agosto	Agosto 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la formación	Prácticas	3
+2021	202108	Agosto	Agosto 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Otros	Otros	15
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Otros	Otros	1
+2021	202108	Agosto	Agosto 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Otros	Temp. Inserción	2
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Indefinido	Indefinido	Indef. Fomento	16
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Indefinido	Indefinido	Indef. Ordinario	11
+2021	202108	Agosto	Agosto 2021	Mujeres	07	Somontano de Barbastro	Indefinido	Indefinido	Indef. Fomento	10
+2021	202108	Agosto	Agosto 2021	Mujeres	07	Somontano de Barbastro	Indefinido	Indefinido	Indef. Ordinario	11
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Temporal	Obra o servicio	Obra o servicio	109
+2021	202108	Agosto	Agosto 2021	Mujeres	07	Somontano de Barbastro	Temporal	Obra o servicio	Obra o servicio	49
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Temporal	Eventual por circunstancias de la producción	Eventual producción	232
+2021	202108	Agosto	Agosto 2021	Mujeres	07	Somontano de Barbastro	Temporal	Eventual por circunstancias de la producción	Eventual producción	181
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Temporal	Interinidad	Interinidad	5
+2021	202108	Agosto	Agosto 2021	Mujeres	07	Somontano de Barbastro	Temporal	Interinidad	Interinidad	21
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Temporal	Discapacitados	Temp. Minusv	1
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Temporal	Ligados a la jubilación	Jubilación parcial	3
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Temporal	Ligados a la jubilación	Relevo	1
+2021	202108	Agosto	Agosto 2021	Mujeres	07	Somontano de Barbastro	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202108	Agosto	Agosto 2021	Mujeres	07	Somontano de Barbastro	Temporal	Ligados a la jubilación	Relevo	1
+2021	202108	Agosto	Agosto 2021	Hombres	07	Somontano de Barbastro	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Hombres	08	Cinca Medio	Indefinido	Indefinido	Indef. Fomento	27
+2021	202108	Agosto	Agosto 2021	Hombres	08	Cinca Medio	Indefinido	Indefinido	Indef. Ordinario	16
+2021	202108	Agosto	Agosto 2021	Mujeres	08	Cinca Medio	Indefinido	Indefinido	Indef. Fomento	7
+2021	202108	Agosto	Agosto 2021	Mujeres	08	Cinca Medio	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202108	Agosto	Agosto 2021	Mujeres	08	Cinca Medio	Indefinido	Discapacitados	Minusválidos	1
+2021	202108	Agosto	Agosto 2021	Hombres	08	Cinca Medio	Temporal	Obra o servicio	Obra o servicio	368
+2021	202108	Agosto	Agosto 2021	Mujeres	08	Cinca Medio	Temporal	Obra o servicio	Obra o servicio	57
+2021	202108	Agosto	Agosto 2021	Hombres	08	Cinca Medio	Temporal	Eventual por circunstancias de la producción	Eventual producción	184
+2021	202108	Agosto	Agosto 2021	Mujeres	08	Cinca Medio	Temporal	Eventual por circunstancias de la producción	Eventual producción	182
+2021	202108	Agosto	Agosto 2021	Hombres	08	Cinca Medio	Temporal	Interinidad	Interinidad	10
+2021	202108	Agosto	Agosto 2021	Mujeres	08	Cinca Medio	Temporal	Interinidad	Interinidad	22
+2021	202108	Agosto	Agosto 2021	Hombres	08	Cinca Medio	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202108	Agosto	Agosto 2021	Hombres	08	Cinca Medio	Temporal	Ligados a la jubilación	Relevo	1
+2021	202108	Agosto	Agosto 2021	Mujeres	08	Cinca Medio	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Hombres	09	La Litera / La Llitera	Indefinido	Indefinido	Indef. Fomento	60
+2021	202108	Agosto	Agosto 2021	Hombres	09	La Litera / La Llitera	Indefinido	Indefinido	Indef. Ordinario	19
+2021	202108	Agosto	Agosto 2021	Mujeres	09	La Litera / La Llitera	Indefinido	Indefinido	Indef. Fomento	13
+2021	202108	Agosto	Agosto 2021	Mujeres	09	La Litera / La Llitera	Indefinido	Indefinido	Indef. Ordinario	4
+2021	202108	Agosto	Agosto 2021	Hombres	09	La Litera / La Llitera	Temporal	Obra o servicio	Obra o servicio	210
+2021	202108	Agosto	Agosto 2021	Mujeres	09	La Litera / La Llitera	Temporal	Obra o servicio	Obra o servicio	55
+2021	202108	Agosto	Agosto 2021	Hombres	09	La Litera / La Llitera	Temporal	Eventual por circunstancias de la producción	Eventual producción	271
+2021	202108	Agosto	Agosto 2021	Mujeres	09	La Litera / La Llitera	Temporal	Eventual por circunstancias de la producción	Eventual producción	118
+2021	202108	Agosto	Agosto 2021	Hombres	09	La Litera / La Llitera	Temporal	Interinidad	Interinidad	8
+2021	202108	Agosto	Agosto 2021	Mujeres	09	La Litera / La Llitera	Temporal	Interinidad	Interinidad	29
+2021	202108	Agosto	Agosto 2021	Hombres	10	Los Monegros	Indefinido	Indefinido	Indef. Fomento	13
+2021	202108	Agosto	Agosto 2021	Hombres	10	Los Monegros	Indefinido	Indefinido	Indef. Ordinario	12
+2021	202108	Agosto	Agosto 2021	Mujeres	10	Los Monegros	Indefinido	Indefinido	Indef. Fomento	5
+2021	202108	Agosto	Agosto 2021	Mujeres	10	Los Monegros	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202108	Agosto	Agosto 2021	Hombres	10	Los Monegros	Temporal	Obra o servicio	Obra o servicio	212
+2021	202108	Agosto	Agosto 2021	Mujeres	10	Los Monegros	Temporal	Obra o servicio	Obra o servicio	32
+2021	202108	Agosto	Agosto 2021	Hombres	10	Los Monegros	Temporal	Eventual por circunstancias de la producción	Eventual producción	48
+2021	202108	Agosto	Agosto 2021	Mujeres	10	Los Monegros	Temporal	Eventual por circunstancias de la producción	Eventual producción	26
+2021	202108	Agosto	Agosto 2021	Hombres	10	Los Monegros	Temporal	Interinidad	Interinidad	3
+2021	202108	Agosto	Agosto 2021	Mujeres	10	Los Monegros	Temporal	Interinidad	Interinidad	29
+2021	202108	Agosto	Agosto 2021	Hombres	10	Los Monegros	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Hombres	11	Bajo Cinca / Baix Cinca	Indefinido	Indefinido	Indef. Fomento	30
+2021	202108	Agosto	Agosto 2021	Hombres	11	Bajo Cinca / Baix Cinca	Indefinido	Indefinido	Indef. Ordinario	18
+2021	202108	Agosto	Agosto 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Indefinido	Indefinido	Indef. Fomento	23
+2021	202108	Agosto	Agosto 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Indefinido	Indefinido	Indef. Ordinario	15
+2021	202108	Agosto	Agosto 2021	Hombres	11	Bajo Cinca / Baix Cinca	Temporal	Obra o servicio	Obra o servicio	679
+2021	202108	Agosto	Agosto 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Temporal	Obra o servicio	Obra o servicio	281
+2021	202108	Agosto	Agosto 2021	Hombres	11	Bajo Cinca / Baix Cinca	Temporal	Eventual por circunstancias de la producción	Eventual producción	315
+2021	202108	Agosto	Agosto 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Temporal	Eventual por circunstancias de la producción	Eventual producción	483
+2021	202108	Agosto	Agosto 2021	Hombres	11	Bajo Cinca / Baix Cinca	Temporal	Interinidad	Interinidad	3
+2021	202108	Agosto	Agosto 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Temporal	Interinidad	Interinidad	14
+2021	202108	Agosto	Agosto 2021	Hombres	11	Bajo Cinca / Baix Cinca	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Temporal	Ligados a la formación	Prácticas	3
+2021	202108	Agosto	Agosto 2021	Hombres	12	Tarazona y el Moncayo	Indefinido	Indefinido	Indef. Fomento	8
+2021	202108	Agosto	Agosto 2021	Hombres	12	Tarazona y el Moncayo	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202108	Agosto	Agosto 2021	Mujeres	12	Tarazona y el Moncayo	Indefinido	Indefinido	Indef. Fomento	1
+2021	202108	Agosto	Agosto 2021	Mujeres	12	Tarazona y el Moncayo	Indefinido	Indefinido	Indef. Ordinario	4
+2021	202108	Agosto	Agosto 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Obra o servicio	Obra o servicio	42
+2021	202108	Agosto	Agosto 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Obra o servicio	Obra o servicio	20
+2021	202108	Agosto	Agosto 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Eventual por circunstancias de la producción	Eventual producción	173
+2021	202108	Agosto	Agosto 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Eventual por circunstancias de la producción	Eventual producción	180
+2021	202108	Agosto	Agosto 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Interinidad	Interinidad	3
+2021	202108	Agosto	Agosto 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Interinidad	Interinidad	14
+2021	202108	Agosto	Agosto 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202108	Agosto	Agosto 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202108	Agosto	Agosto 2021	Hombres	13	Campo de Borja	Indefinido	Indefinido	Indef. Fomento	7
+2021	202108	Agosto	Agosto 2021	Hombres	13	Campo de Borja	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202108	Agosto	Agosto 2021	Mujeres	13	Campo de Borja	Indefinido	Indefinido	Indef. Fomento	2
+2021	202108	Agosto	Agosto 2021	Mujeres	13	Campo de Borja	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Hombres	13	Campo de Borja	Temporal	Obra o servicio	Obra o servicio	77
+2021	202108	Agosto	Agosto 2021	Mujeres	13	Campo de Borja	Temporal	Obra o servicio	Obra o servicio	47
+2021	202108	Agosto	Agosto 2021	Hombres	13	Campo de Borja	Temporal	Eventual por circunstancias de la producción	Eventual producción	89
+2021	202108	Agosto	Agosto 2021	Mujeres	13	Campo de Borja	Temporal	Eventual por circunstancias de la producción	Eventual producción	71
+2021	202108	Agosto	Agosto 2021	Hombres	13	Campo de Borja	Temporal	Interinidad	Interinidad	22
+2021	202108	Agosto	Agosto 2021	Mujeres	13	Campo de Borja	Temporal	Interinidad	Interinidad	37
+2021	202108	Agosto	Agosto 2021	Hombres	13	Campo de Borja	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202108	Agosto	Agosto 2021	Hombres	13	Campo de Borja	Temporal	Ligados a la jubilación	Relevo	2
+2021	202108	Agosto	Agosto 2021	Mujeres	14	Aranda	Indefinido	Indefinido	Indef. Fomento	1
+2021	202108	Agosto	Agosto 2021	Hombres	14	Aranda	Temporal	Obra o servicio	Obra o servicio	24
+2021	202108	Agosto	Agosto 2021	Mujeres	14	Aranda	Temporal	Obra o servicio	Obra o servicio	9
+2021	202108	Agosto	Agosto 2021	Hombres	14	Aranda	Temporal	Eventual por circunstancias de la producción	Eventual producción	7
+2021	202108	Agosto	Agosto 2021	Mujeres	14	Aranda	Temporal	Eventual por circunstancias de la producción	Eventual producción	8
+2021	202108	Agosto	Agosto 2021	Mujeres	14	Aranda	Temporal	Interinidad	Interinidad	3
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Indefinido	Indefinido	Indef. Fomento	18
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Indefinido	Indefinido	Indef. Ordinario	21
+2021	202108	Agosto	Agosto 2021	Mujeres	15	Ribera Alta del Ebro	Indefinido	Indefinido	Indef. Fomento	8
+2021	202108	Agosto	Agosto 2021	Mujeres	15	Ribera Alta del Ebro	Indefinido	Indefinido	Indef. Ordinario	24
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Obra o servicio	Obra o servicio	307
+2021	202108	Agosto	Agosto 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Obra o servicio	Obra o servicio	205
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Eventual por circunstancias de la producción	Eventual producción	478
+2021	202108	Agosto	Agosto 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Eventual por circunstancias de la producción	Eventual producción	191
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Interinidad	Interinidad	14
+2021	202108	Agosto	Agosto 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Interinidad	Interinidad	47
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Ligados a la jubilación	Jubilación parcial	27
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Ligados a la jubilación	Relevo	30
+2021	202108	Agosto	Agosto 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Ligados a la jubilación	Jubilación parcial	3
+2021	202108	Agosto	Agosto 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Ligados a la jubilación	Relevo	5
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Ligados a la formación	Formación	1
+2021	202108	Agosto	Agosto 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Hombres	16	Valdejalón	Indefinido	Indefinido	Indef. Fomento	22
+2021	202108	Agosto	Agosto 2021	Hombres	16	Valdejalón	Indefinido	Indefinido	Indef. Ordinario	76
+2021	202108	Agosto	Agosto 2021	Mujeres	16	Valdejalón	Indefinido	Indefinido	Indef. Fomento	12
+2021	202108	Agosto	Agosto 2021	Mujeres	16	Valdejalón	Indefinido	Indefinido	Indef. Ordinario	52
+2021	202108	Agosto	Agosto 2021	Hombres	16	Valdejalón	Temporal	Obra o servicio	Obra o servicio	1386
+2021	202108	Agosto	Agosto 2021	Mujeres	16	Valdejalón	Temporal	Obra o servicio	Obra o servicio	507
+2021	202108	Agosto	Agosto 2021	Hombres	16	Valdejalón	Temporal	Eventual por circunstancias de la producción	Eventual producción	642
+2021	202108	Agosto	Agosto 2021	Mujeres	16	Valdejalón	Temporal	Eventual por circunstancias de la producción	Eventual producción	270
+2021	202108	Agosto	Agosto 2021	Hombres	16	Valdejalón	Temporal	Interinidad	Interinidad	15
+2021	202108	Agosto	Agosto 2021	Mujeres	16	Valdejalón	Temporal	Interinidad	Interinidad	16
+2021	202108	Agosto	Agosto 2021	Hombres	16	Valdejalón	Temporal	Discapacitados	Temp. Minusv	9
+2021	202108	Agosto	Agosto 2021	Mujeres	16	Valdejalón	Temporal	Discapacitados	Temp. Minusv	1
+2021	202108	Agosto	Agosto 2021	Hombres	16	Valdejalón	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Mujeres	16	Valdejalón	Temporal	Ligados a la formación	Formación	1
+2021	202108	Agosto	Agosto 2021	Mujeres	16	Valdejalón	Temporal	Ligados a la formación	Prácticas	2
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Indefinido	Indefinido	Indef. Fomento	413
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Indefinido	Indefinido	Indef. Ordinario	651
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Indefinido	Indefinido	Indef. Fomento	347
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Indefinido	Indefinido	Indef. Ordinario	431
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Indefinido	Discapacitados	Minusválidos	3
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Indefinido	Discapacitados	Minusválidos	3
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Obra o servicio	Obra o servicio	3582
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Obra o servicio	Obra o servicio	2090
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Eventual por circunstancias de la producción	Eventual producción	6986
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Eventual por circunstancias de la producción	Eventual producción	6340
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Interinidad	Interinidad	507
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Interinidad	Interinidad	1249
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Discapacitados	Temp. Minusv	11
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Discapacitados	Temp. Minusv	10
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Ligados a la jubilación	Jubilación parcial	24
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Ligados a la jubilación	Relevo	7
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Ligados a la jubilación	Jubilación parcial	15
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Ligados a la jubilación	Relevo	12
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Ligados a la formación	Formación	15
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Ligados a la formación	Prácticas	30
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Ligados a la formación	Formación	2
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Ligados a la formación	Prácticas	33
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Otros	Otros	19
+2021	202108	Agosto	Agosto 2021	Hombres	17	Central	Temporal	Otros	Temp. Inserción	4
+2021	202108	Agosto	Agosto 2021	Mujeres	17	Central	Temporal	Otros	Temp. Inserción	2
+2021	202108	Agosto	Agosto 2021	Hombres	18	Ribera Baja del Ebro	Indefinido	Indefinido	Indef. Fomento	3
+2021	202108	Agosto	Agosto 2021	Hombres	18	Ribera Baja del Ebro	Indefinido	Indefinido	Indef. Ordinario	7
+2021	202108	Agosto	Agosto 2021	Mujeres	18	Ribera Baja del Ebro	Indefinido	Indefinido	Indef. Ordinario	1
+2021	202108	Agosto	Agosto 2021	Hombres	18	Ribera Baja del Ebro	Temporal	Obra o servicio	Obra o servicio	91
+2021	202108	Agosto	Agosto 2021	Mujeres	18	Ribera Baja del Ebro	Temporal	Obra o servicio	Obra o servicio	77
+2021	202108	Agosto	Agosto 2021	Hombres	18	Ribera Baja del Ebro	Temporal	Eventual por circunstancias de la producción	Eventual producción	159
+2021	202108	Agosto	Agosto 2021	Mujeres	18	Ribera Baja del Ebro	Temporal	Eventual por circunstancias de la producción	Eventual producción	178
+2021	202108	Agosto	Agosto 2021	Hombres	18	Ribera Baja del Ebro	Temporal	Interinidad	Interinidad	4
+2021	202108	Agosto	Agosto 2021	Mujeres	18	Ribera Baja del Ebro	Temporal	Interinidad	Interinidad	16
+2021	202108	Agosto	Agosto 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Indefinido	Indef. Fomento	6
+2021	202108	Agosto	Agosto 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Indefinido	Indef. Ordinario	6
+2021	202108	Agosto	Agosto 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Indefinido	Indef. Fomento	4
+2021	202108	Agosto	Agosto 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Indefinido	Indef. Ordinario	6
+2021	202108	Agosto	Agosto 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Obra o servicio	Obra o servicio	144
+2021	202108	Agosto	Agosto 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Obra o servicio	Obra o servicio	55
+2021	202108	Agosto	Agosto 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Eventual por circunstancias de la producción	Eventual producción	155
+2021	202108	Agosto	Agosto 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Eventual por circunstancias de la producción	Eventual producción	37
+2021	202108	Agosto	Agosto 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Interinidad	Interinidad	2
+2021	202108	Agosto	Agosto 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Interinidad	Interinidad	12
+2021	202108	Agosto	Agosto 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Otros	Otros	2
+2021	202108	Agosto	Agosto 2021	Hombres	20	Comunidad de Calatayud	Indefinido	Indefinido	Indef. Fomento	10
+2021	202108	Agosto	Agosto 2021	Hombres	20	Comunidad de Calatayud	Indefinido	Indefinido	Indef. Ordinario	23
+2021	202108	Agosto	Agosto 2021	Mujeres	20	Comunidad de Calatayud	Indefinido	Indefinido	Indef. Fomento	12
+2021	202108	Agosto	Agosto 2021	Mujeres	20	Comunidad de Calatayud	Indefinido	Indefinido	Indef. Ordinario	18
+2021	202108	Agosto	Agosto 2021	Hombres	20	Comunidad de Calatayud	Temporal	Obra o servicio	Obra o servicio	632
+2021	202108	Agosto	Agosto 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Obra o servicio	Obra o servicio	307
+2021	202108	Agosto	Agosto 2021	Hombres	20	Comunidad de Calatayud	Temporal	Eventual por circunstancias de la producción	Eventual producción	332
+2021	202108	Agosto	Agosto 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Eventual por circunstancias de la producción	Eventual producción	214
+2021	202108	Agosto	Agosto 2021	Hombres	20	Comunidad de Calatayud	Temporal	Interinidad	Interinidad	13
+2021	202108	Agosto	Agosto 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Interinidad	Interinidad	17
+2021	202108	Agosto	Agosto 2021	Hombres	20	Comunidad de Calatayud	Temporal	Ligados a la formación	Prácticas	2
+2021	202108	Agosto	Agosto 2021	Hombres	21	Campo de Cariñena	Indefinido	Indefinido	Indef. Fomento	4
+2021	202108	Agosto	Agosto 2021	Hombres	21	Campo de Cariñena	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Mujeres	21	Campo de Cariñena	Indefinido	Indefinido	Indef. Fomento	4
+2021	202108	Agosto	Agosto 2021	Mujeres	21	Campo de Cariñena	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Hombres	21	Campo de Cariñena	Temporal	Obra o servicio	Obra o servicio	246
+2021	202108	Agosto	Agosto 2021	Mujeres	21	Campo de Cariñena	Temporal	Obra o servicio	Obra o servicio	194
+2021	202108	Agosto	Agosto 2021	Hombres	21	Campo de Cariñena	Temporal	Eventual por circunstancias de la producción	Eventual producción	178
+2021	202108	Agosto	Agosto 2021	Mujeres	21	Campo de Cariñena	Temporal	Eventual por circunstancias de la producción	Eventual producción	77
+2021	202108	Agosto	Agosto 2021	Hombres	21	Campo de Cariñena	Temporal	Interinidad	Interinidad	1
+2021	202108	Agosto	Agosto 2021	Mujeres	21	Campo de Cariñena	Temporal	Interinidad	Interinidad	3
+2021	202108	Agosto	Agosto 2021	Hombres	21	Campo de Cariñena	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202108	Agosto	Agosto 2021	Hombres	21	Campo de Cariñena	Temporal	Ligados a la formación	Prácticas	1
+2021	202108	Agosto	Agosto 2021	Hombres	22	Campo de Belchite	Indefinido	Indefinido	Indef. Fomento	3
+2021	202108	Agosto	Agosto 2021	Hombres	22	Campo de Belchite	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Mujeres	22	Campo de Belchite	Indefinido	Indefinido	Indef. Fomento	1
+2021	202108	Agosto	Agosto 2021	Mujeres	22	Campo de Belchite	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Hombres	22	Campo de Belchite	Temporal	Obra o servicio	Obra o servicio	15
+2021	202108	Agosto	Agosto 2021	Mujeres	22	Campo de Belchite	Temporal	Obra o servicio	Obra o servicio	7
+2021	202108	Agosto	Agosto 2021	Hombres	22	Campo de Belchite	Temporal	Eventual por circunstancias de la producción	Eventual producción	18
+2021	202108	Agosto	Agosto 2021	Mujeres	22	Campo de Belchite	Temporal	Eventual por circunstancias de la producción	Eventual producción	21
+2021	202108	Agosto	Agosto 2021	Hombres	22	Campo de Belchite	Temporal	Interinidad	Interinidad	1
+2021	202108	Agosto	Agosto 2021	Mujeres	22	Campo de Belchite	Temporal	Interinidad	Interinidad	6
+2021	202108	Agosto	Agosto 2021	Hombres	23	Bajo Martín	Indefinido	Indefinido	Indef. Fomento	10
+2021	202108	Agosto	Agosto 2021	Hombres	23	Bajo Martín	Indefinido	Indefinido	Indef. Ordinario	12
+2021	202108	Agosto	Agosto 2021	Mujeres	23	Bajo Martín	Indefinido	Indefinido	Indef. Fomento	2
+2021	202108	Agosto	Agosto 2021	Mujeres	23	Bajo Martín	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Hombres	23	Bajo Martín	Temporal	Obra o servicio	Obra o servicio	36
+2021	202108	Agosto	Agosto 2021	Mujeres	23	Bajo Martín	Temporal	Obra o servicio	Obra o servicio	28
+2021	202108	Agosto	Agosto 2021	Hombres	23	Bajo Martín	Temporal	Eventual por circunstancias de la producción	Eventual producción	54
+2021	202108	Agosto	Agosto 2021	Mujeres	23	Bajo Martín	Temporal	Eventual por circunstancias de la producción	Eventual producción	37
+2021	202108	Agosto	Agosto 2021	Mujeres	23	Bajo Martín	Temporal	Interinidad	Interinidad	6
+2021	202108	Agosto	Agosto 2021	Hombres	23	Bajo Martín	Temporal	Ligados a la formación	Formación	1
+2021	202108	Agosto	Agosto 2021	Mujeres	23	Bajo Martín	Temporal	Ligados a la formación	Formación	1
+2021	202108	Agosto	Agosto 2021	Hombres	24	Campo de Daroca	Indefinido	Indefinido	Indef. Fomento	3
+2021	202108	Agosto	Agosto 2021	Hombres	24	Campo de Daroca	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Mujeres	24	Campo de Daroca	Indefinido	Indefinido	Indef. Fomento	2
+2021	202108	Agosto	Agosto 2021	Hombres	24	Campo de Daroca	Temporal	Obra o servicio	Obra o servicio	16
+2021	202108	Agosto	Agosto 2021	Mujeres	24	Campo de Daroca	Temporal	Obra o servicio	Obra o servicio	8
+2021	202108	Agosto	Agosto 2021	Hombres	24	Campo de Daroca	Temporal	Eventual por circunstancias de la producción	Eventual producción	32
+2021	202108	Agosto	Agosto 2021	Mujeres	24	Campo de Daroca	Temporal	Eventual por circunstancias de la producción	Eventual producción	21
+2021	202108	Agosto	Agosto 2021	Mujeres	24	Campo de Daroca	Temporal	Interinidad	Interinidad	3
+2021	202108	Agosto	Agosto 2021	Hombres	25	Jiloca	Indefinido	Indefinido	Indef. Fomento	4
+2021	202108	Agosto	Agosto 2021	Hombres	25	Jiloca	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Mujeres	25	Jiloca	Indefinido	Indefinido	Indef. Fomento	2
+2021	202108	Agosto	Agosto 2021	Mujeres	25	Jiloca	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202108	Agosto	Agosto 2021	Hombres	25	Jiloca	Temporal	Obra o servicio	Obra o servicio	53
+2021	202108	Agosto	Agosto 2021	Mujeres	25	Jiloca	Temporal	Obra o servicio	Obra o servicio	9
+2021	202108	Agosto	Agosto 2021	Hombres	25	Jiloca	Temporal	Eventual por circunstancias de la producción	Eventual producción	47
+2021	202108	Agosto	Agosto 2021	Mujeres	25	Jiloca	Temporal	Eventual por circunstancias de la producción	Eventual producción	35
+2021	202108	Agosto	Agosto 2021	Hombres	25	Jiloca	Temporal	Interinidad	Interinidad	2
+2021	202108	Agosto	Agosto 2021	Mujeres	25	Jiloca	Temporal	Interinidad	Interinidad	12
+2021	202108	Agosto	Agosto 2021	Hombres	25	Jiloca	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202108	Agosto	Agosto 2021	Hombres	26	Cuencas Mineras	Indefinido	Indefinido	Indef. Ordinario	7
+2021	202108	Agosto	Agosto 2021	Mujeres	26	Cuencas Mineras	Indefinido	Indefinido	Indef. Fomento	1
+2021	202108	Agosto	Agosto 2021	Mujeres	26	Cuencas Mineras	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202108	Agosto	Agosto 2021	Hombres	26	Cuencas Mineras	Temporal	Obra o servicio	Obra o servicio	14
+2021	202108	Agosto	Agosto 2021	Mujeres	26	Cuencas Mineras	Temporal	Obra o servicio	Obra o servicio	10
+2021	202108	Agosto	Agosto 2021	Hombres	26	Cuencas Mineras	Temporal	Eventual por circunstancias de la producción	Eventual producción	59
+2021	202108	Agosto	Agosto 2021	Mujeres	26	Cuencas Mineras	Temporal	Eventual por circunstancias de la producción	Eventual producción	58
+2021	202108	Agosto	Agosto 2021	Hombres	26	Cuencas Mineras	Temporal	Interinidad	Interinidad	4
+2021	202108	Agosto	Agosto 2021	Mujeres	26	Cuencas Mineras	Temporal	Interinidad	Interinidad	18
+2021	202108	Agosto	Agosto 2021	Mujeres	26	Cuencas Mineras	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202108	Agosto	Agosto 2021	Hombres	27	Andorra-Sierra de Arcos	Indefinido	Indefinido	Indef. Fomento	2
+2021	202108	Agosto	Agosto 2021	Hombres	27	Andorra-Sierra de Arcos	Indefinido	Indefinido	Indef. Ordinario	1
+2021	202108	Agosto	Agosto 2021	Mujeres	27	Andorra-Sierra de Arcos	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202108	Agosto	Agosto 2021	Hombres	27	Andorra-Sierra de Arcos	Temporal	Obra o servicio	Obra o servicio	26
+2021	202108	Agosto	Agosto 2021	Mujeres	27	Andorra-Sierra de Arcos	Temporal	Obra o servicio	Obra o servicio	16
+2021	202108	Agosto	Agosto 2021	Hombres	27	Andorra-Sierra de Arcos	Temporal	Eventual por circunstancias de la producción	Eventual producción	29
+2021	202108	Agosto	Agosto 2021	Mujeres	27	Andorra-Sierra de Arcos	Temporal	Eventual por circunstancias de la producción	Eventual producción	44
+2021	202108	Agosto	Agosto 2021	Hombres	27	Andorra-Sierra de Arcos	Temporal	Interinidad	Interinidad	9
+2021	202108	Agosto	Agosto 2021	Mujeres	27	Andorra-Sierra de Arcos	Temporal	Interinidad	Interinidad	21
+2021	202108	Agosto	Agosto 2021	Hombres	28	Bajo Aragón	Indefinido	Indefinido	Indef. Fomento	13
+2021	202108	Agosto	Agosto 2021	Hombres	28	Bajo Aragón	Indefinido	Indefinido	Indef. Ordinario	15
+2021	202108	Agosto	Agosto 2021	Mujeres	28	Bajo Aragón	Indefinido	Indefinido	Indef. Fomento	8
+2021	202108	Agosto	Agosto 2021	Mujeres	28	Bajo Aragón	Indefinido	Indefinido	Indef. Ordinario	11
+2021	202108	Agosto	Agosto 2021	Hombres	28	Bajo Aragón	Indefinido	Discapacitados	Minusválidos	1
+2021	202108	Agosto	Agosto 2021	Hombres	28	Bajo Aragón	Temporal	Obra o servicio	Obra o servicio	174
+2021	202108	Agosto	Agosto 2021	Mujeres	28	Bajo Aragón	Temporal	Obra o servicio	Obra o servicio	126
+2021	202108	Agosto	Agosto 2021	Hombres	28	Bajo Aragón	Temporal	Eventual por circunstancias de la producción	Eventual producción	276
+2021	202108	Agosto	Agosto 2021	Mujeres	28	Bajo Aragón	Temporal	Eventual por circunstancias de la producción	Eventual producción	126
+2021	202108	Agosto	Agosto 2021	Hombres	28	Bajo Aragón	Temporal	Interinidad	Interinidad	5
+2021	202108	Agosto	Agosto 2021	Mujeres	28	Bajo Aragón	Temporal	Interinidad	Interinidad	26
+2021	202108	Agosto	Agosto 2021	Hombres	28	Bajo Aragón	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202108	Agosto	Agosto 2021	Mujeres	28	Bajo Aragón	Temporal	Ligados a la formación	Formación	1
+2021	202108	Agosto	Agosto 2021	Mujeres	28	Bajo Aragón	Temporal	Ligados a la formación	Prácticas	2
+2021	202108	Agosto	Agosto 2021	Hombres	29	Comunidad de Teruel	Indefinido	Indefinido	Indef. Fomento	29
+2021	202108	Agosto	Agosto 2021	Hombres	29	Comunidad de Teruel	Indefinido	Indefinido	Indef. Ordinario	29
+2021	202108	Agosto	Agosto 2021	Mujeres	29	Comunidad de Teruel	Indefinido	Indefinido	Indef. Fomento	19
+2021	202108	Agosto	Agosto 2021	Mujeres	29	Comunidad de Teruel	Indefinido	Indefinido	Indef. Ordinario	13
+2021	202108	Agosto	Agosto 2021	Hombres	29	Comunidad de Teruel	Temporal	Obra o servicio	Obra o servicio	147
+2021	202108	Agosto	Agosto 2021	Mujeres	29	Comunidad de Teruel	Temporal	Obra o servicio	Obra o servicio	75
+2021	202108	Agosto	Agosto 2021	Hombres	29	Comunidad de Teruel	Temporal	Eventual por circunstancias de la producción	Eventual producción	410
+2021	202108	Agosto	Agosto 2021	Mujeres	29	Comunidad de Teruel	Temporal	Eventual por circunstancias de la producción	Eventual producción	360
+2021	202108	Agosto	Agosto 2021	Hombres	29	Comunidad de Teruel	Temporal	Interinidad	Interinidad	28
+2021	202108	Agosto	Agosto 2021	Mujeres	29	Comunidad de Teruel	Temporal	Interinidad	Interinidad	105
+2021	202108	Agosto	Agosto 2021	Hombres	29	Comunidad de Teruel	Temporal	Ligados a la jubilación	Jubilación parcial	3
+2021	202108	Agosto	Agosto 2021	Hombres	29	Comunidad de Teruel	Temporal	Ligados a la jubilación	Relevo	2
+2021	202108	Agosto	Agosto 2021	Mujeres	29	Comunidad de Teruel	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202108	Agosto	Agosto 2021	Mujeres	29	Comunidad de Teruel	Temporal	Ligados a la jubilación	Relevo	3
+2021	202108	Agosto	Agosto 2021	Hombres	29	Comunidad de Teruel	Temporal	Ligados a la formación	Prácticas	4
+2021	202108	Agosto	Agosto 2021	Hombres	30	Maestrazgo	Indefinido	Indefinido	Indef. Fomento	1
+2021	202108	Agosto	Agosto 2021	Hombres	30	Maestrazgo	Indefinido	Indefinido	Indef. Ordinario	1
+2021	202108	Agosto	Agosto 2021	Mujeres	30	Maestrazgo	Indefinido	Indefinido	Indef. Fomento	1
+2021	202108	Agosto	Agosto 2021	Mujeres	30	Maestrazgo	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202108	Agosto	Agosto 2021	Hombres	30	Maestrazgo	Temporal	Obra o servicio	Obra o servicio	5
+2021	202108	Agosto	Agosto 2021	Mujeres	30	Maestrazgo	Temporal	Obra o servicio	Obra o servicio	9
+2021	202108	Agosto	Agosto 2021	Hombres	30	Maestrazgo	Temporal	Eventual por circunstancias de la producción	Eventual producción	4
+2021	202108	Agosto	Agosto 2021	Mujeres	30	Maestrazgo	Temporal	Eventual por circunstancias de la producción	Eventual producción	9
+2021	202108	Agosto	Agosto 2021	Hombres	30	Maestrazgo	Temporal	Interinidad	Interinidad	1
+2021	202108	Agosto	Agosto 2021	Mujeres	30	Maestrazgo	Temporal	Interinidad	Interinidad	4
+2021	202108	Agosto	Agosto 2021	Hombres	31	Sierra de Albarracín	Indefinido	Indefinido	Indef. Fomento	3
+2021	202108	Agosto	Agosto 2021	Hombres	31	Sierra de Albarracín	Indefinido	Indefinido	Indef. Ordinario	1
+2021	202108	Agosto	Agosto 2021	Mujeres	31	Sierra de Albarracín	Indefinido	Indefinido	Indef. Fomento	6
+2021	202108	Agosto	Agosto 2021	Mujeres	31	Sierra de Albarracín	Indefinido	Indefinido	Indef. Ordinario	4
+2021	202108	Agosto	Agosto 2021	Hombres	31	Sierra de Albarracín	Temporal	Obra o servicio	Obra o servicio	7
+2021	202108	Agosto	Agosto 2021	Mujeres	31	Sierra de Albarracín	Temporal	Obra o servicio	Obra o servicio	12
+2021	202108	Agosto	Agosto 2021	Hombres	31	Sierra de Albarracín	Temporal	Eventual por circunstancias de la producción	Eventual producción	44
+2021	202108	Agosto	Agosto 2021	Mujeres	31	Sierra de Albarracín	Temporal	Eventual por circunstancias de la producción	Eventual producción	26
+2021	202108	Agosto	Agosto 2021	Mujeres	31	Sierra de Albarracín	Temporal	Interinidad	Interinidad	7
+2021	202108	Agosto	Agosto 2021	Hombres	32	Gúdar-Javalambre	Indefinido	Indefinido	Indef. Fomento	3
+2021	202108	Agosto	Agosto 2021	Hombres	32	Gúdar-Javalambre	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202108	Agosto	Agosto 2021	Mujeres	32	Gúdar-Javalambre	Indefinido	Indefinido	Indef. Fomento	7
+2021	202108	Agosto	Agosto 2021	Mujeres	32	Gúdar-Javalambre	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202108	Agosto	Agosto 2021	Hombres	32	Gúdar-Javalambre	Temporal	Obra o servicio	Obra o servicio	33
+2021	202108	Agosto	Agosto 2021	Mujeres	32	Gúdar-Javalambre	Temporal	Obra o servicio	Obra o servicio	24
+2021	202108	Agosto	Agosto 2021	Hombres	32	Gúdar-Javalambre	Temporal	Eventual por circunstancias de la producción	Eventual producción	89
+2021	202108	Agosto	Agosto 2021	Mujeres	32	Gúdar-Javalambre	Temporal	Eventual por circunstancias de la producción	Eventual producción	82
+2021	202108	Agosto	Agosto 2021	Mujeres	32	Gúdar-Javalambre	Temporal	Interinidad	Interinidad	6
+2021	202108	Agosto	Agosto 2021	Hombres	32	Gúdar-Javalambre	Temporal	Discapacitados	Temp. Minusv	1
+2021	202108	Agosto	Agosto 2021	Hombres	33	Matarraña / Matarranya	Indefinido	Indefinido	Indef. Fomento	1
+2021	202108	Agosto	Agosto 2021	Hombres	33	Matarraña / Matarranya	Indefinido	Indefinido	Indef. Ordinario	8
+2021	202108	Agosto	Agosto 2021	Mujeres	33	Matarraña / Matarranya	Indefinido	Indefinido	Indef. Fomento	2
+2021	202108	Agosto	Agosto 2021	Mujeres	33	Matarraña / Matarranya	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202108	Agosto	Agosto 2021	Hombres	33	Matarraña / Matarranya	Temporal	Obra o servicio	Obra o servicio	49
+2021	202108	Agosto	Agosto 2021	Mujeres	33	Matarraña / Matarranya	Temporal	Obra o servicio	Obra o servicio	35
+2021	202108	Agosto	Agosto 2021	Hombres	33	Matarraña / Matarranya	Temporal	Eventual por circunstancias de la producción	Eventual producción	26
+2021	202108	Agosto	Agosto 2021	Mujeres	33	Matarraña / Matarranya	Temporal	Eventual por circunstancias de la producción	Eventual producción	22
+2021	202108	Agosto	Agosto 2021	Hombres	33	Matarraña / Matarranya	Temporal	Interinidad	Interinidad	3
+2021	202108	Agosto	Agosto 2021	Mujeres	33	Matarraña / Matarranya	Temporal	Interinidad	Interinidad	6
 2021	202107	Julio	Julio 2021	Hombres	01	La Jacetania	Indefinido	Indefinido	Indef. Fomento	9
 2021	202107	Julio	Julio 2021	Hombres	01	La Jacetania	Indefinido	Indefinido	Indef. Ordinario	13
 2021	202107	Julio	Julio 2021	Mujeres	01	La Jacetania	Indefinido	Indefinido	Indef. Fomento	5
