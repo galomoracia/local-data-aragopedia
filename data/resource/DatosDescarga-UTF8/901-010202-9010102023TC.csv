@@ -1,4 +1,70 @@
 Comarca código	Comarca nombre	Año	Sistema de cultivo	Total (A+B+C1+C2+D)	(A) FRUTALES. Total	Manzano	Peral	Membrillero	Albaricoquero	Cerezo y Guindo	Melocotonero	Ciruelo	Higuera	Palmera datilera	Azufaifo y otros	Almendro	Nogal	Avellano	Nectarina	Otros frutales	(B) VIÑEDO. Total	Viñedo de uva de mesa	Viñedo de uva de vino	Viñedo de uva para pasas	(C1) OLIVAR. Total	Olivar de aceituna de mesa y para aceite	(C2) OTROS CULTIVOS LEÑOSOS. Total	(D) VIVEROS. Total
+01	La Jacetania	2020	Regadío	7	4	0	0	0	0	0	0	0	0	0	0	1	2	0	0	1	0	0	0	0	0	0	3	0
+01	La Jacetania	2020	Secano	237	66	1	0	0	0	0	0	0	0	0	0	60	0	0	0	5	11	0	11	0	2	2	158	0
+02	Alto Gállego	2020	Regadío	18	18	18	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+02	Alto Gállego	2020	Secano	32	2	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	30	0
+03	Sobrarbe	2020	Regadío	5	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	3	0
+03	Sobrarbe	2020	Secano	533	180	0	0	0	0	0	0	0	0	0	0	179	1	0	0	0	29	0	28	1	242	242	78	0
+04	La Ribagorza	2020	Regadío	42	15	2	0	0	0	0	0	0	0	0	0	13	0	0	0	0	2	0	2	0	1	1	21	0
+04	La Ribagorza	2020	Secano	1896	479	0	0	0	0	1	0	0	0	0	0	470	5	0	0	3	213	0	213	0	678	678	522	0
+05	Cinco Villas	2020	Regadío	2264	1718	32	11	0	0	2	1	0	0	0	0	1621	17	0	0	34	50	0	50	0	453	453	34	0
+05	Cinco Villas	2020	Secano	1566	1080	0	0	0	0	0	0	0	0	0	0	1038	0	0	0	42	161	0	157	4	164	164	156	4
+06	Hoya de Huesca / Plana de Uesca	2020	Regadío	1935	1294	50	16	0	0	39	5	1	0	0	0	1079	65	0	8	31	51	1	50	0	537	537	41	0
+06	Hoya de Huesca / Plana de Uesca	2020	Secano	6922	5376	0	0	0	0	18	0	0	0	0	0	5354	0	1	0	3	397	0	396	1	938	938	205	0
+07	Somontano de Barbastro	2020	Regadío	2187	390	1	43	0	0	26	3	8	0	0	0	219	34	0	11	45	1469	3	1466	0	276	276	38	0
+07	Somontano de Barbastro	2020	Secano	8993	3281	0	0	0	0	0	0	0	0	0	0	3165	1	0	0	115	2517	1	2516	0	3069	3069	122	0
+08	Cinca Medio	2020	Regadío	3876	3383	102	238	0	52	108	946	5	43	0	0	1311	33	0	438	107	59	4	55	0	378	378	17	0
+08	Cinca Medio	2020	Secano	594	258	0	0	0	0	0	0	0	0	0	0	258	0	0	0	0	16	0	16	0	306	306	13	0
+09	La Litera / La Llitera	2020	Regadío	2638	2289	139	214	2	23	15	415	14	14	0	0	1021	145	0	218	69	90	0	90	0	204	204	21	0
+09	La Litera / La Llitera	2020	Secano	2231	827	0	0	0	0	0	0	0	0	0	0	747	0	0	0	80	17	0	17	0	1312	1312	75	0
+10	Los Monegros	2020	Regadío	2147	1795	117	35	1	17	0	134	1	0	0	0	1343	1	0	57	89	13	0	13	0	253	253	67	0
+10	Los Monegros	2020	Secano	1895	834	0	0	0	0	0	0	0	0	0	0	814	0	0	0	20	176	0	176	0	450	450	433	0
+11	Bajo Cinca / Baix Cinca	2020	Regadío	16655	15435	81	567	12	881	993	4600	99	41	0	0	2138	335	0	4813	875	348	43	305	0	787	787	23	0
+11	Bajo Cinca / Baix Cinca	2020	Secano	3549	2706	10	0	0	82	141	54	4	0	0	0	1675	2	0	72	666	26	16	10	0	770	770	42	0
+12	Tarazona y el Moncayo	2020	Regadío	806	352	3	3	0	1	16	0	0	0	0	0	321	6	0	0	2	110	0	110	0	313	313	18	0
+12	Tarazona y el Moncayo	2020	Secano	796	558	0	0	0	0	1	0	0	0	0	0	554	0	0	0	3	99	0	99	0	95	95	43	0
+13	Campo de Borja	2020	Regadío	5179	1407	0	4	0	0	0	4	0	0	0	0	1385	11	0	0	3	2663	0	2663	0	1068	1068	29	0
+13	Campo de Borja	2020	Secano	8492	4544	0	0	0	0	0	0	0	0	0	0	4530	0	0	0	14	3482	0	3481	1	341	341	118	0
+14	Aranda	2020	Regadío	221	157	2	0	0	0	96	4	7	0	0	0	48	0	0	0	0	0	0	0	0	45	45	6	0
+14	Aranda	2020	Secano	2787	2366	0	0	0	0	307	0	2	0	0	0	2053	0	0	0	4	158	0	158	0	217	217	38	0
+15	Ribera Alta del Ebro	2020	Regadío	1024	486	61	94	0	8	2	4	1	0	0	0	190	17	0	12	97	4	0	4	0	471	471	36	0
+15	Ribera Alta del Ebro	2020	Secano	155	34	0	0	0	0	0	0	0	0	0	0	33	0	0	0	1	7	0	7	0	30	30	84	0
+16	Valdejalón	2020	Regadío	9323	8215	1264	513	0	465	2063	1627	139	57	0	0	1410	53	0	603	21	494	4	490	0	511	511	28	0
+16	Valdejalón	2020	Secano	6210	3890	31	2	0	46	444	88	2	3	0	0	3227	0	0	28	19	1017	0	1017	0	1198	1198	73	0
+17	Central	2020	Regadío	1869	1257	2	81	0	158	10	25	39	0	0	0	909	5	0	0	28	37	4	32	1	529	529	25	0
+17	Central	2020	Secano	1073	374	0	0	0	0	0	2	0	0	0	0	294	0	0	76	2	93	1	91	1	157	157	446	0
+18	Ribera Baja del Ebro	2020	Regadío	2476	1140	13	60	0	61	65	209	36	1	0	0	529	4	0	141	21	20	20	0	0	1293	1293	9	0
+18	Ribera Baja del Ebro	2020	Secano	211	45	0	0	0	0	0	2	0	0	0	0	38	0	0	0	5	3	0	3	0	103	103	56	0
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	2020	Regadío	7789	6301	7	54	0	494	722	1313	158	19	0	0	2728	15	0	779	12	115	44	71	0	1330	1330	9	0
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	2020	Secano	7918	4529	0	0	0	17	164	152	19	0	0	0	4083	5	0	86	3	364	2	361	1	2948	2948	56	1
+20	Comunidad de Calatayud	2020	Regadío	4140	3237	510	632	0	43	1029	338	321	0	0	0	359	3	0	0	2	520	0	519	1	205	205	64	0
+20	Comunidad de Calatayud	2020	Secano	14836	10508	28	20	0	12	2035	51	97	0	0	0	8258	1	0	0	6	3526	0	3526	0	429	429	275	0
+21	Campo de Cariñena	2020	Regadío	5534	1135	105	64	0	59	258	301	49	0	0	0	202	5	0	81	11	4177	9	4166	2	190	190	16	0
+21	Campo de Cariñena	2020	Secano	11640	1578	2	0	0	0	61	11	0	0	0	0	1442	44	0	0	18	9418	36	9381	1	306	306	328	0
+22	Campo de Belchite	2020	Regadío	1925	596	4	17	0	0	2	0	3	0	0	0	549	13	0	0	8	90	0	90	0	1207	1207	21	0
+22	Campo de Belchite	2020	Secano	2117	1659	0	0	0	0	1	0	0	0	0	0	1594	9	0	0	55	226	0	226	0	87	87	138	0
+23	Bajo Martín	2020	Regadío	935	338	0	1	0	11	7	104	1	4	0	0	204	1	0	0	5	15	0	15	0	581	581	1	0
+23	Bajo Martín	2020	Secano	2984	1492	0	0	0	9	11	3	0	0	0	0	1453	0	0	0	16	176	0	176	0	1313	1313	3	0
+24	Campo de Daroca	2020	Regadío	77	62	0	0	0	0	15	0	0	0	0	0	44	3	0	0	0	6	0	6	0	0	0	7	0
+24	Campo de Daroca	2020	Secano	3353	2126	0	0	0	0	136	0	3	0	0	0	1965	4	0	0	18	774	0	774	0	11	11	430	0
+25	Jiloca	2020	Regadío	86	34	1	0	0	0	6	0	0	0	0	0	10	17	0	0	0	1	0	1	0	0	0	51	0
+25	Jiloca	2020	Secano	1579	687	0	0	0	0	20	0	0	0	0	0	602	33	0	0	32	389	2	387	0	0	0	503	0
+26	Cuencas Mineras	2020	Regadío	30	13	0	0	0	0	0	0	0	0	0	0	2	11	0	0	0	7	0	7	0	2	2	8	0
+26	Cuencas Mineras	2020	Secano	1339	780	0	0	0	0	0	0	0	0	0	0	757	5	0	0	18	185	3	182	0	95	95	279	0
+27	Andorra-Sierra de Arcos	2020	Regadío	104	34	0	0	0	0	8	0	0	0	0	0	17	3	0	0	6	0	0	0	0	70	70	0	0
+27	Andorra-Sierra de Arcos	2020	Secano	2838	692	0	0	0	0	8	0	0	0	0	0	658	2	0	0	24	144	0	144	0	1914	1914	88	0
+28	Bajo Aragón	2020	Regadío	4104	2846	10	4	0	126	6	1309	20	1	0	0	1302	34	0	7	27	8	0	8	0	1222	1222	28	0
+28	Bajo Aragón	2020	Secano	17263	7800	4	0	0	4	0	48	1	0	0	0	7699	5	0	0	39	188	2	186	0	9148	9148	127	0
+29	Comunidad de Teruel	2020	Regadío	196	139	88	0	0	0	0	0	1	0	0	0	47	3	0	0	0	1	0	1	0	0	0	56	0
+29	Comunidad de Teruel	2020	Secano	1513	525	0	0	0	0	1	0	0	0	0	0	485	12	0	0	27	14	0	14	0	0	0	974	0
+30	Maestrazgo	2020	Regadío	146	58	0	0	0	0	0	6	0	0	0	0	49	3	0	0	0	0	0	0	0	88	88	0	0
+30	Maestrazgo	2020	Secano	1050	325	1	0	0	0	0	4	0	0	0	0	319	1	0	0	0	46	0	46	0	387	387	292	0
+31	Sierra de Albarracín	2020	Regadío	3	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0
+31	Sierra de Albarracín	2020	Secano	61	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	59	0
+32	Gúdar-Javalambre	2020	Regadío	813	115	0	0	0	0	87	0	0	0	0	0	23	0	0	0	5	1	0	1	0	0	0	697	0
+32	Gúdar-Javalambre	2020	Secano	4054	271	0	0	0	0	13	0	0	0	0	0	247	5	0	0	6	0	0	0	0	0	0	3783	0
+33	Matarraña / Matarranya	2020	Regadío	533	286	0	0	0	10	24	118	3	0	0	0	120	3	7	0	1	10	0	10	0	235	235	2	0
+33	Matarraña / Matarranya	2020	Secano	19248	8525	3	0	0	0	18	35	1	0	0	0	8415	17	35	0	1	573	0	573	0	9911	9911	239	0
 01	La Jacetania	2019	Regadío	3	3	0	0	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	0	0	0	0
 01	La Jacetania	2019	Secano	209	64	2	0	0	0	0	0	0	0	0	0	62	0	0	0	0	12	0	12	0	0	0	133	0
 02	Alto Gállego	2019	Regadío	19	19	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
