@@ -1,4 +1,136 @@
 Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
+01	La Jacetania	Externa	Hombres	2020	341
+01	La Jacetania	Externa	Mujeres	2020	340
+01	La Jacetania	Interna	Hombres	2020	48
+01	La Jacetania	Interna	Mujeres	2020	58
+02	Alto Gállego	Externa	Hombres	2020	226
+02	Alto Gállego	Externa	Mujeres	2020	201
+02	Alto Gállego	Interna	Hombres	2020	31
+02	Alto Gállego	Interna	Mujeres	2020	31
+03	Sobrarbe	Externa	Hombres	2020	123
+03	Sobrarbe	Externa	Mujeres	2020	139
+03	Sobrarbe	Interna	Hombres	2020	30
+03	Sobrarbe	Interna	Mujeres	2020	52
+04	La Ribagorza	Externa	Hombres	2020	225
+04	La Ribagorza	Externa	Mujeres	2020	229
+04	La Ribagorza	Interna	Hombres	2020	64
+04	La Ribagorza	Interna	Mujeres	2020	61
+05	Cinco Villas	Externa	Hombres	2020	350
+05	Cinco Villas	Externa	Mujeres	2020	335
+05	Cinco Villas	Interna	Hombres	2020	82
+05	Cinco Villas	Interna	Mujeres	2020	56
+06	Hoya de Huesca / Plana de Uesca	Externa	Hombres	2020	917
+06	Hoya de Huesca / Plana de Uesca	Externa	Mujeres	2020	964
+06	Hoya de Huesca / Plana de Uesca	Interna	Hombres	2020	498
+06	Hoya de Huesca / Plana de Uesca	Interna	Mujeres	2020	463
+07	Somontano de Barbastro	Externa	Hombres	2020	274
+07	Somontano de Barbastro	Externa	Mujeres	2020	284
+07	Somontano de Barbastro	Interna	Hombres	2020	93
+07	Somontano de Barbastro	Interna	Mujeres	2020	109
+08	Cinca Medio	Externa	Hombres	2020	358
+08	Cinca Medio	Externa	Mujeres	2020	303
+08	Cinca Medio	Interna	Hombres	2020	54
+08	Cinca Medio	Interna	Mujeres	2020	60
+09	La Litera / La Llitera	Externa	Hombres	2020	362
+09	La Litera / La Llitera	Externa	Mujeres	2020	258
+09	La Litera / La Llitera	Interna	Hombres	2020	83
+09	La Litera / La Llitera	Interna	Mujeres	2020	59
+10	Los Monegros	Externa	Hombres	2020	270
+10	Los Monegros	Externa	Mujeres	2020	287
+10	Los Monegros	Interna	Hombres	2020	54
+10	Los Monegros	Interna	Mujeres	2020	39
+11	Bajo Cinca / Baix Cinca	Externa	Hombres	2020	610
+11	Bajo Cinca / Baix Cinca	Externa	Mujeres	2020	476
+11	Bajo Cinca / Baix Cinca	Interna	Hombres	2020	49
+11	Bajo Cinca / Baix Cinca	Interna	Mujeres	2020	47
+12	Tarazona y el Moncayo	Externa	Hombres	2020	176
+12	Tarazona y el Moncayo	Externa	Mujeres	2020	184
+12	Tarazona y el Moncayo	Interna	Hombres	2020	62
+12	Tarazona y el Moncayo	Interna	Mujeres	2020	50
+13	Campo de Borja	Externa	Hombres	2020	175
+13	Campo de Borja	Externa	Mujeres	2020	159
+13	Campo de Borja	Interna	Hombres	2020	62
+13	Campo de Borja	Interna	Mujeres	2020	50
+14	Aranda	Externa	Hombres	2020	80
+14	Aranda	Externa	Mujeres	2020	62
+14	Aranda	Interna	Hombres	2020	7
+14	Aranda	Interna	Mujeres	2020	8
+15	Ribera Alta del Ebro	Externa	Hombres	2020	550
+15	Ribera Alta del Ebro	Externa	Mujeres	2020	480
+15	Ribera Alta del Ebro	Interna	Hombres	2020	67
+15	Ribera Alta del Ebro	Interna	Mujeres	2020	67
+16	Valdejalón	Externa	Hombres	2020	716
+16	Valdejalón	Externa	Mujeres	2020	588
+16	Valdejalón	Interna	Hombres	2020	133
+16	Valdejalón	Interna	Mujeres	2020	108
+17	Central	Externa	Hombres	2020	10690
+17	Central	Externa	Mujeres	2020	9966
+17	Central	Interna	Hombres	2020	2511
+17	Central	Interna	Mujeres	2020	2429
+18	Ribera Baja del Ebro	Externa	Hombres	2020	125
+18	Ribera Baja del Ebro	Externa	Mujeres	2020	132
+18	Ribera Baja del Ebro	Interna	Hombres	2020	3
+18	Ribera Baja del Ebro	Interna	Mujeres	2020	13
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Hombres	2020	419
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Mujeres	2020	250
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Hombres	2020	31
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Mujeres	2020	11
+20	Comunidad de Calatayud	Externa	Hombres	2020	810
+20	Comunidad de Calatayud	Externa	Mujeres	2020	549
+20	Comunidad de Calatayud	Interna	Hombres	2020	178
+20	Comunidad de Calatayud	Interna	Mujeres	2020	172
+21	Campo de Cariñena	Externa	Hombres	2020	200
+21	Campo de Cariñena	Externa	Mujeres	2020	147
+21	Campo de Cariñena	Interna	Hombres	2020	40
+21	Campo de Cariñena	Interna	Mujeres	2020	36
+22	Campo de Belchite	Externa	Hombres	2020	81
+22	Campo de Belchite	Externa	Mujeres	2020	73
+22	Campo de Belchite	Interna	Hombres	2020	7
+22	Campo de Belchite	Interna	Mujeres	2020	5
+23	Bajo Martín	Externa	Hombres	2020	96
+23	Bajo Martín	Externa	Mujeres	2020	81
+23	Bajo Martín	Interna	Hombres	2020	6
+23	Bajo Martín	Interna	Mujeres	2020	3
+24	Campo de Daroca	Externa	Hombres	2020	136
+24	Campo de Daroca	Externa	Mujeres	2020	88
+24	Campo de Daroca	Interna	Hombres	2020	24
+24	Campo de Daroca	Interna	Mujeres	2020	14
+25	Jiloca	Externa	Hombres	2020	217
+25	Jiloca	Externa	Mujeres	2020	167
+25	Jiloca	Interna	Hombres	2020	64
+25	Jiloca	Interna	Mujeres	2020	60
+26	Cuencas Mineras	Externa	Hombres	2020	151
+26	Cuencas Mineras	Externa	Mujeres	2020	125
+26	Cuencas Mineras	Interna	Hombres	2020	20
+26	Cuencas Mineras	Interna	Mujeres	2020	19
+27	Andorra-Sierra de Arcos	Externa	Hombres	2020	153
+27	Andorra-Sierra de Arcos	Externa	Mujeres	2020	146
+27	Andorra-Sierra de Arcos	Interna	Hombres	2020	10
+27	Andorra-Sierra de Arcos	Interna	Mujeres	2020	13
+28	Bajo Aragón	Externa	Hombres	2020	433
+28	Bajo Aragón	Externa	Mujeres	2020	453
+28	Bajo Aragón	Interna	Hombres	2020	77
+28	Bajo Aragón	Interna	Mujeres	2020	59
+29	Comunidad de Teruel	Externa	Hombres	2020	629
+29	Comunidad de Teruel	Externa	Mujeres	2020	647
+29	Comunidad de Teruel	Interna	Hombres	2020	211
+29	Comunidad de Teruel	Interna	Mujeres	2020	189
+30	Maestrazgo	Externa	Hombres	2020	49
+30	Maestrazgo	Externa	Mujeres	2020	58
+30	Maestrazgo	Interna	Hombres	2020	16
+30	Maestrazgo	Interna	Mujeres	2020	9
+31	Sierra de Albarracín	Externa	Hombres	2020	94
+31	Sierra de Albarracín	Externa	Mujeres	2020	98
+31	Sierra de Albarracín	Interna	Hombres	2020	21
+31	Sierra de Albarracín	Interna	Mujeres	2020	10
+32	Gúdar-Javalambre	Externa	Hombres	2020	173
+32	Gúdar-Javalambre	Externa	Mujeres	2020	166
+32	Gúdar-Javalambre	Interna	Hombres	2020	33
+32	Gúdar-Javalambre	Interna	Mujeres	2020	32
+33	Matarraña / Matarranya	Externa	Hombres	2020	124
+33	Matarraña / Matarranya	Externa	Mujeres	2020	112
+33	Matarraña / Matarranya	Interna	Hombres	2020	45
+33	Matarraña / Matarranya	Interna	Mujeres	2020	32
 01	La Jacetania	Externa	Hombres	2019	402
 01	La Jacetania	Externa	Mujeres	2019	321
 01	La Jacetania	Interna	Hombres	2019	63

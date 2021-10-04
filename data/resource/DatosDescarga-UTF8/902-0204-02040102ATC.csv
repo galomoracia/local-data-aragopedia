@@ -1,4 +1,493 @@
 Comarca código	Comarca nombre	Tipo variación	Nacionalidad Continente codigo	Nacionalidad Continente	Sexo	Año	Variaciones
+01	La Jacetania	Externa	1	Europa	Hombres	2020	355
+01	La Jacetania	Externa	1	Europa	Mujeres	2020	244
+01	La Jacetania	Externa	2	África	Hombres	2020	4
+01	La Jacetania	Externa	2	África	Mujeres	2020	7
+01	La Jacetania	Externa	3	América	Hombres	2020	48
+01	La Jacetania	Externa	3	América	Mujeres	2020	55
+01	La Jacetania	Externa	4	Asia	Hombres	2020	4
+01	La Jacetania	Externa	4	Asia	Mujeres	2020	2
+01	La Jacetania	Externa	5	Otros continentes	Hombres	2020	1
+01	La Jacetania	Interna	1	Europa	Hombres	2020	263
+01	La Jacetania	Interna	1	Europa	Mujeres	2020	272
+01	La Jacetania	Interna	2	África	Hombres	2020	2
+01	La Jacetania	Interna	2	África	Mujeres	2020	1
+01	La Jacetania	Interna	3	América	Hombres	2020	15
+01	La Jacetania	Interna	3	América	Mujeres	2020	17
+01	La Jacetania	Interna	4	Asia	Hombres	2020	4
+01	La Jacetania	Interna	4	Asia	Mujeres	2020	2
+02	Alto Gállego	Externa	1	Europa	Hombres	2020	208
+02	Alto Gállego	Externa	1	Europa	Mujeres	2020	158
+02	Alto Gállego	Externa	2	África	Hombres	2020	22
+02	Alto Gállego	Externa	2	África	Mujeres	2020	14
+02	Alto Gállego	Externa	3	América	Hombres	2020	38
+02	Alto Gállego	Externa	3	América	Mujeres	2020	30
+02	Alto Gállego	Externa	4	Asia	Hombres	2020	15
+02	Alto Gállego	Externa	4	Asia	Mujeres	2020	2
+02	Alto Gállego	Interna	1	Europa	Hombres	2020	205
+02	Alto Gállego	Interna	1	Europa	Mujeres	2020	185
+02	Alto Gállego	Interna	2	África	Hombres	2020	6
+02	Alto Gállego	Interna	2	África	Mujeres	2020	5
+02	Alto Gállego	Interna	3	América	Hombres	2020	25
+02	Alto Gállego	Interna	3	América	Mujeres	2020	18
+02	Alto Gállego	Interna	4	Asia	Hombres	2020	1
+02	Alto Gállego	Interna	4	Asia	Mujeres	2020	2
+03	Sobrarbe	Externa	1	Europa	Hombres	2020	149
+03	Sobrarbe	Externa	1	Europa	Mujeres	2020	112
+03	Sobrarbe	Externa	2	África	Hombres	2020	8
+03	Sobrarbe	Externa	2	África	Mujeres	2020	2
+03	Sobrarbe	Externa	3	América	Hombres	2020	19
+03	Sobrarbe	Externa	3	América	Mujeres	2020	23
+03	Sobrarbe	Externa	4	Asia	Hombres	2020	1
+03	Sobrarbe	Interna	1	Europa	Hombres	2020	114
+03	Sobrarbe	Interna	1	Europa	Mujeres	2020	132
+03	Sobrarbe	Interna	2	África	Hombres	2020	1
+03	Sobrarbe	Interna	2	África	Mujeres	2020	1
+03	Sobrarbe	Interna	3	América	Hombres	2020	3
+03	Sobrarbe	Interna	3	América	Mujeres	2020	16
+03	Sobrarbe	Interna	4	Asia	Hombres	2020	1
+04	La Ribagorza	Externa	1	Europa	Hombres	2020	228
+04	La Ribagorza	Externa	1	Europa	Mujeres	2020	205
+04	La Ribagorza	Externa	2	África	Hombres	2020	11
+04	La Ribagorza	Externa	3	América	Hombres	2020	33
+04	La Ribagorza	Externa	3	América	Mujeres	2020	46
+04	La Ribagorza	Externa	4	Asia	Hombres	2020	6
+04	La Ribagorza	Interna	1	Europa	Hombres	2020	169
+04	La Ribagorza	Interna	1	Europa	Mujeres	2020	201
+04	La Ribagorza	Interna	2	África	Hombres	2020	6
+04	La Ribagorza	Interna	2	África	Mujeres	2020	2
+04	La Ribagorza	Interna	3	América	Hombres	2020	10
+04	La Ribagorza	Interna	3	América	Mujeres	2020	20
+04	La Ribagorza	Interna	4	Asia	Hombres	2020	2
+04	La Ribagorza	Interna	4	Asia	Mujeres	2020	1
+05	Cinco Villas	Externa	1	Europa	Hombres	2020	180
+05	Cinco Villas	Externa	1	Europa	Mujeres	2020	172
+05	Cinco Villas	Externa	2	África	Hombres	2020	141
+05	Cinco Villas	Externa	2	África	Mujeres	2020	54
+05	Cinco Villas	Externa	3	América	Hombres	2020	42
+05	Cinco Villas	Externa	3	América	Mujeres	2020	60
+05	Cinco Villas	Externa	4	Asia	Hombres	2020	7
+05	Cinco Villas	Externa	4	Asia	Mujeres	2020	2
+05	Cinco Villas	Interna	1	Europa	Hombres	2020	262
+05	Cinco Villas	Interna	1	Europa	Mujeres	2020	231
+05	Cinco Villas	Interna	2	África	Hombres	2020	39
+05	Cinco Villas	Interna	2	África	Mujeres	2020	13
+05	Cinco Villas	Interna	3	América	Hombres	2020	11
+05	Cinco Villas	Interna	3	América	Mujeres	2020	21
+05	Cinco Villas	Interna	4	Asia	Hombres	2020	3
+05	Cinco Villas	Interna	4	Asia	Mujeres	2020	2
+06	Hoya de Huesca / Plana de Uesca	Externa	1	Europa	Hombres	2020	420
+06	Hoya de Huesca / Plana de Uesca	Externa	1	Europa	Mujeres	2020	375
+06	Hoya de Huesca / Plana de Uesca	Externa	2	África	Hombres	2020	142
+06	Hoya de Huesca / Plana de Uesca	Externa	2	África	Mujeres	2020	60
+06	Hoya de Huesca / Plana de Uesca	Externa	3	América	Hombres	2020	196
+06	Hoya de Huesca / Plana de Uesca	Externa	3	América	Mujeres	2020	246
+06	Hoya de Huesca / Plana de Uesca	Externa	4	Asia	Hombres	2020	27
+06	Hoya de Huesca / Plana de Uesca	Externa	4	Asia	Mujeres	2020	19
+06	Hoya de Huesca / Plana de Uesca	Externa	5	Otros continentes	Mujeres	2020	2
+06	Hoya de Huesca / Plana de Uesca	Interna	1	Europa	Hombres	2020	814
+06	Hoya de Huesca / Plana de Uesca	Interna	1	Europa	Mujeres	2020	728
+06	Hoya de Huesca / Plana de Uesca	Interna	2	África	Hombres	2020	50
+06	Hoya de Huesca / Plana de Uesca	Interna	2	África	Mujeres	2020	23
+06	Hoya de Huesca / Plana de Uesca	Interna	3	América	Hombres	2020	79
+06	Hoya de Huesca / Plana de Uesca	Interna	3	América	Mujeres	2020	115
+06	Hoya de Huesca / Plana de Uesca	Interna	4	Asia	Hombres	2020	12
+06	Hoya de Huesca / Plana de Uesca	Interna	4	Asia	Mujeres	2020	4
+07	Somontano de Barbastro	Externa	1	Europa	Hombres	2020	181
+07	Somontano de Barbastro	Externa	1	Europa	Mujeres	2020	165
+07	Somontano de Barbastro	Externa	2	África	Hombres	2020	41
+07	Somontano de Barbastro	Externa	2	África	Mujeres	2020	25
+07	Somontano de Barbastro	Externa	3	América	Hombres	2020	53
+07	Somontano de Barbastro	Externa	3	América	Mujeres	2020	61
+07	Somontano de Barbastro	Externa	4	Asia	Hombres	2020	3
+07	Somontano de Barbastro	Externa	4	Asia	Mujeres	2020	1
+07	Somontano de Barbastro	Externa	5	Otros continentes	Hombres	2020	1
+07	Somontano de Barbastro	Interna	1	Europa	Hombres	2020	217
+07	Somontano de Barbastro	Interna	1	Europa	Mujeres	2020	225
+07	Somontano de Barbastro	Interna	2	África	Hombres	2020	23
+07	Somontano de Barbastro	Interna	2	África	Mujeres	2020	8
+07	Somontano de Barbastro	Interna	3	América	Hombres	2020	14
+07	Somontano de Barbastro	Interna	3	América	Mujeres	2020	40
+07	Somontano de Barbastro	Interna	4	Asia	Hombres	2020	4
+07	Somontano de Barbastro	Interna	4	Asia	Mujeres	2020	3
+08	Cinca Medio	Externa	1	Europa	Hombres	2020	182
+08	Cinca Medio	Externa	1	Europa	Mujeres	2020	140
+08	Cinca Medio	Externa	2	África	Hombres	2020	131
+08	Cinca Medio	Externa	2	África	Mujeres	2020	39
+08	Cinca Medio	Externa	3	América	Hombres	2020	41
+08	Cinca Medio	Externa	3	América	Mujeres	2020	67
+08	Cinca Medio	Externa	4	Asia	Hombres	2020	9
+08	Cinca Medio	Externa	4	Asia	Mujeres	2020	6
+08	Cinca Medio	Interna	1	Europa	Hombres	2020	150
+08	Cinca Medio	Interna	1	Europa	Mujeres	2020	154
+08	Cinca Medio	Interna	2	África	Hombres	2020	27
+08	Cinca Medio	Interna	2	África	Mujeres	2020	6
+08	Cinca Medio	Interna	3	América	Hombres	2020	15
+08	Cinca Medio	Interna	3	América	Mujeres	2020	30
+08	Cinca Medio	Interna	4	Asia	Hombres	2020	6
+08	Cinca Medio	Interna	4	Asia	Mujeres	2020	7
+09	La Litera / La Llitera	Externa	1	Europa	Hombres	2020	229
+09	La Litera / La Llitera	Externa	1	Europa	Mujeres	2020	173
+09	La Litera / La Llitera	Externa	2	África	Hombres	2020	205
+09	La Litera / La Llitera	Externa	2	África	Mujeres	2020	26
+09	La Litera / La Llitera	Externa	3	América	Hombres	2020	53
+09	La Litera / La Llitera	Externa	3	América	Mujeres	2020	75
+09	La Litera / La Llitera	Externa	4	Asia	Hombres	2020	9
+09	La Litera / La Llitera	Externa	4	Asia	Mujeres	2020	1
+09	La Litera / La Llitera	Interna	1	Europa	Hombres	2020	140
+09	La Litera / La Llitera	Interna	1	Europa	Mujeres	2020	118
+09	La Litera / La Llitera	Interna	2	África	Hombres	2020	29
+09	La Litera / La Llitera	Interna	2	África	Mujeres	2020	14
+09	La Litera / La Llitera	Interna	3	América	Hombres	2020	15
+09	La Litera / La Llitera	Interna	3	América	Mujeres	2020	17
+09	La Litera / La Llitera	Interna	4	Asia	Hombres	2020	3
+09	La Litera / La Llitera	Interna	4	Asia	Mujeres	2020	1
+09	La Litera / La Llitera	Interna	5	Otros continentes	Hombres	2020	1
+10	Los Monegros	Externa	1	Europa	Hombres	2020	120
+10	Los Monegros	Externa	1	Europa	Mujeres	2020	126
+10	Los Monegros	Externa	2	África	Hombres	2020	77
+10	Los Monegros	Externa	2	África	Mujeres	2020	23
+10	Los Monegros	Externa	3	América	Hombres	2020	36
+10	Los Monegros	Externa	3	América	Mujeres	2020	42
+10	Los Monegros	Externa	4	Asia	Hombres	2020	2
+10	Los Monegros	Externa	5	Otros continentes	Hombres	2020	3
+10	Los Monegros	Interna	1	Europa	Hombres	2020	212
+10	Los Monegros	Interna	1	Europa	Mujeres	2020	218
+10	Los Monegros	Interna	2	África	Hombres	2020	32
+10	Los Monegros	Interna	2	África	Mujeres	2020	12
+10	Los Monegros	Interna	3	América	Hombres	2020	21
+10	Los Monegros	Interna	3	América	Mujeres	2020	47
+10	Los Monegros	Interna	4	Asia	Mujeres	2020	1
+11	Bajo Cinca / Baix Cinca	Externa	1	Europa	Hombres	2020	272
+11	Bajo Cinca / Baix Cinca	Externa	1	Europa	Mujeres	2020	250
+11	Bajo Cinca / Baix Cinca	Externa	2	África	Hombres	2020	269
+11	Bajo Cinca / Baix Cinca	Externa	2	África	Mujeres	2020	41
+11	Bajo Cinca / Baix Cinca	Externa	3	América	Hombres	2020	21
+11	Bajo Cinca / Baix Cinca	Externa	3	América	Mujeres	2020	29
+11	Bajo Cinca / Baix Cinca	Externa	4	Asia	Hombres	2020	21
+11	Bajo Cinca / Baix Cinca	Externa	4	Asia	Mujeres	2020	3
+11	Bajo Cinca / Baix Cinca	Interna	1	Europa	Hombres	2020	88
+11	Bajo Cinca / Baix Cinca	Interna	1	Europa	Mujeres	2020	98
+11	Bajo Cinca / Baix Cinca	Interna	2	África	Hombres	2020	38
+11	Bajo Cinca / Baix Cinca	Interna	2	África	Mujeres	2020	14
+11	Bajo Cinca / Baix Cinca	Interna	3	América	Hombres	2020	7
+11	Bajo Cinca / Baix Cinca	Interna	3	América	Mujeres	2020	8
+11	Bajo Cinca / Baix Cinca	Interna	4	Asia	Hombres	2020	4
+12	Tarazona y el Moncayo	Externa	1	Europa	Hombres	2020	101
+12	Tarazona y el Moncayo	Externa	1	Europa	Mujeres	2020	78
+12	Tarazona y el Moncayo	Externa	2	África	Hombres	2020	49
+12	Tarazona y el Moncayo	Externa	2	África	Mujeres	2020	37
+12	Tarazona y el Moncayo	Externa	3	América	Hombres	2020	36
+12	Tarazona y el Moncayo	Externa	3	América	Mujeres	2020	39
+12	Tarazona y el Moncayo	Externa	4	Asia	Mujeres	2020	1
+12	Tarazona y el Moncayo	Interna	1	Europa	Hombres	2020	104
+12	Tarazona y el Moncayo	Interna	1	Europa	Mujeres	2020	112
+12	Tarazona y el Moncayo	Interna	2	África	Hombres	2020	18
+12	Tarazona y el Moncayo	Interna	2	África	Mujeres	2020	13
+12	Tarazona y el Moncayo	Interna	3	América	Hombres	2020	8
+12	Tarazona y el Moncayo	Interna	3	América	Mujeres	2020	12
+12	Tarazona y el Moncayo	Interna	4	Asia	Hombres	2020	1
+12	Tarazona y el Moncayo	Interna	5	Otros continentes	Hombres	2020	1
+13	Campo de Borja	Externa	1	Europa	Hombres	2020	99
+13	Campo de Borja	Externa	1	Europa	Mujeres	2020	74
+13	Campo de Borja	Externa	2	África	Hombres	2020	51
+13	Campo de Borja	Externa	2	África	Mujeres	2020	33
+13	Campo de Borja	Externa	3	América	Hombres	2020	10
+13	Campo de Borja	Externa	3	América	Mujeres	2020	16
+13	Campo de Borja	Externa	4	Asia	Hombres	2020	1
+13	Campo de Borja	Externa	4	Asia	Mujeres	2020	2
+13	Campo de Borja	Interna	1	Europa	Hombres	2020	183
+13	Campo de Borja	Interna	1	Europa	Mujeres	2020	153
+13	Campo de Borja	Interna	2	África	Hombres	2020	15
+13	Campo de Borja	Interna	2	África	Mujeres	2020	6
+13	Campo de Borja	Interna	3	América	Hombres	2020	14
+13	Campo de Borja	Interna	3	América	Mujeres	2020	13
+14	Aranda	Externa	1	Europa	Hombres	2020	21
+14	Aranda	Externa	1	Europa	Mujeres	2020	21
+14	Aranda	Externa	2	África	Hombres	2020	5
+14	Aranda	Externa	2	África	Mujeres	2020	2
+14	Aranda	Externa	3	América	Hombres	2020	4
+14	Aranda	Externa	3	América	Mujeres	2020	7
+14	Aranda	Interna	1	Europa	Hombres	2020	71
+14	Aranda	Interna	1	Europa	Mujeres	2020	58
+14	Aranda	Interna	2	África	Hombres	2020	3
+14	Aranda	Interna	2	África	Mujeres	2020	2
+14	Aranda	Interna	3	América	Mujeres	2020	3
+15	Ribera Alta del Ebro	Externa	1	Europa	Hombres	2020	131
+15	Ribera Alta del Ebro	Externa	1	Europa	Mujeres	2020	113
+15	Ribera Alta del Ebro	Externa	2	África	Hombres	2020	39
+15	Ribera Alta del Ebro	Externa	2	África	Mujeres	2020	17
+15	Ribera Alta del Ebro	Externa	3	América	Hombres	2020	35
+15	Ribera Alta del Ebro	Externa	3	América	Mujeres	2020	64
+15	Ribera Alta del Ebro	Externa	4	Asia	Hombres	2020	2
+15	Ribera Alta del Ebro	Externa	4	Asia	Mujeres	2020	3
+15	Ribera Alta del Ebro	Interna	1	Europa	Hombres	2020	455
+15	Ribera Alta del Ebro	Interna	1	Europa	Mujeres	2020	443
+15	Ribera Alta del Ebro	Interna	2	África	Hombres	2020	15
+15	Ribera Alta del Ebro	Interna	2	África	Mujeres	2020	6
+15	Ribera Alta del Ebro	Interna	3	América	Hombres	2020	31
+15	Ribera Alta del Ebro	Interna	3	América	Mujeres	2020	58
+15	Ribera Alta del Ebro	Interna	4	Asia	Hombres	2020	5
+15	Ribera Alta del Ebro	Interna	4	Asia	Mujeres	2020	2
+16	Valdejalón	Externa	1	Europa	Hombres	2020	290
+16	Valdejalón	Externa	1	Europa	Mujeres	2020	233
+16	Valdejalón	Externa	2	África	Hombres	2020	171
+16	Valdejalón	Externa	2	África	Mujeres	2020	77
+16	Valdejalón	Externa	3	América	Hombres	2020	39
+16	Valdejalón	Externa	3	América	Mujeres	2020	37
+16	Valdejalón	Externa	4	Asia	Hombres	2020	6
+16	Valdejalón	Interna	1	Europa	Hombres	2020	473
+16	Valdejalón	Interna	1	Europa	Mujeres	2020	455
+16	Valdejalón	Interna	2	África	Hombres	2020	70
+16	Valdejalón	Interna	2	África	Mujeres	2020	32
+16	Valdejalón	Interna	3	América	Hombres	2020	30
+16	Valdejalón	Interna	3	América	Mujeres	2020	32
+16	Valdejalón	Interna	4	Asia	Hombres	2020	3
+17	Central	Externa	1	Europa	Hombres	2020	3404
+17	Central	Externa	1	Europa	Mujeres	2020	3241
+17	Central	Externa	2	África	Hombres	2020	1438
+17	Central	Externa	2	África	Mujeres	2020	654
+17	Central	Externa	3	América	Hombres	2020	1746
+17	Central	Externa	3	América	Mujeres	2020	2224
+17	Central	Externa	4	Asia	Hombres	2020	477
+17	Central	Externa	4	Asia	Mujeres	2020	201
+17	Central	Externa	5	Otros continentes	Hombres	2020	10
+17	Central	Externa	5	Otros continentes	Mujeres	2020	2
+17	Central	Interna	1	Europa	Hombres	2020	3775
+17	Central	Interna	1	Europa	Mujeres	2020	3667
+17	Central	Interna	2	África	Hombres	2020	191
+17	Central	Interna	2	África	Mujeres	2020	92
+17	Central	Interna	3	América	Hombres	2020	306
+17	Central	Interna	3	América	Mujeres	2020	501
+17	Central	Interna	4	Asia	Hombres	2020	42
+17	Central	Interna	4	Asia	Mujeres	2020	28
+18	Ribera Baja del Ebro	Externa	1	Europa	Hombres	2020	49
+18	Ribera Baja del Ebro	Externa	1	Europa	Mujeres	2020	43
+18	Ribera Baja del Ebro	Externa	2	África	Hombres	2020	36
+18	Ribera Baja del Ebro	Externa	2	África	Mujeres	2020	15
+18	Ribera Baja del Ebro	Externa	3	América	Hombres	2020	10
+18	Ribera Baja del Ebro	Externa	3	América	Mujeres	2020	20
+18	Ribera Baja del Ebro	Externa	4	Asia	Hombres	2020	1
+18	Ribera Baja del Ebro	Interna	1	Europa	Hombres	2020	75
+18	Ribera Baja del Ebro	Interna	1	Europa	Mujeres	2020	85
+18	Ribera Baja del Ebro	Interna	2	África	Hombres	2020	11
+18	Ribera Baja del Ebro	Interna	2	África	Mujeres	2020	3
+18	Ribera Baja del Ebro	Interna	3	América	Hombres	2020	9
+18	Ribera Baja del Ebro	Interna	3	América	Mujeres	2020	19
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	1	Europa	Hombres	2020	164
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	1	Europa	Mujeres	2020	130
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	2	África	Hombres	2020	137
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	2	África	Mujeres	2020	65
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	3	América	Hombres	2020	8
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	3	América	Mujeres	2020	18
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	4	Asia	Hombres	2020	242
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	4	Asia	Mujeres	2020	48
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	5	Otros continentes	Hombres	2020	2
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	1	Europa	Hombres	2020	45
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	1	Europa	Mujeres	2020	48
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	2	África	Hombres	2020	42
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	2	África	Mujeres	2020	13
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	3	América	Hombres	2020	5
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	3	América	Mujeres	2020	12
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	4	Asia	Hombres	2020	18
+20	Comunidad de Calatayud	Externa	1	Europa	Hombres	2020	547
+20	Comunidad de Calatayud	Externa	1	Europa	Mujeres	2020	334
+20	Comunidad de Calatayud	Externa	2	África	Hombres	2020	81
+20	Comunidad de Calatayud	Externa	2	África	Mujeres	2020	33
+20	Comunidad de Calatayud	Externa	3	América	Hombres	2020	34
+20	Comunidad de Calatayud	Externa	3	América	Mujeres	2020	87
+20	Comunidad de Calatayud	Externa	4	Asia	Hombres	2020	4
+20	Comunidad de Calatayud	Externa	4	Asia	Mujeres	2020	8
+20	Comunidad de Calatayud	Interna	1	Europa	Hombres	2020	396
+20	Comunidad de Calatayud	Interna	1	Europa	Mujeres	2020	374
+20	Comunidad de Calatayud	Interna	2	África	Hombres	2020	33
+20	Comunidad de Calatayud	Interna	2	África	Mujeres	2020	27
+20	Comunidad de Calatayud	Interna	3	América	Hombres	2020	18
+20	Comunidad de Calatayud	Interna	3	América	Mujeres	2020	36
+20	Comunidad de Calatayud	Interna	4	Asia	Hombres	2020	5
+21	Campo de Cariñena	Externa	1	Europa	Hombres	2020	58
+21	Campo de Cariñena	Externa	1	Europa	Mujeres	2020	59
+21	Campo de Cariñena	Externa	2	África	Hombres	2020	52
+21	Campo de Cariñena	Externa	2	África	Mujeres	2020	11
+21	Campo de Cariñena	Externa	3	América	Hombres	2020	6
+21	Campo de Cariñena	Externa	3	América	Mujeres	2020	7
+21	Campo de Cariñena	Externa	4	Asia	Hombres	2020	3
+21	Campo de Cariñena	Externa	4	Asia	Mujeres	2020	5
+21	Campo de Cariñena	Interna	1	Europa	Hombres	2020	165
+21	Campo de Cariñena	Interna	1	Europa	Mujeres	2020	140
+21	Campo de Cariñena	Interna	2	África	Hombres	2020	17
+21	Campo de Cariñena	Interna	2	África	Mujeres	2020	7
+21	Campo de Cariñena	Interna	3	América	Hombres	2020	4
+21	Campo de Cariñena	Interna	3	América	Mujeres	2020	16
+21	Campo de Cariñena	Interna	4	Asia	Hombres	2020	1
+22	Campo de Belchite	Externa	1	Europa	Hombres	2020	16
+22	Campo de Belchite	Externa	1	Europa	Mujeres	2020	25
+22	Campo de Belchite	Externa	2	África	Hombres	2020	6
+22	Campo de Belchite	Externa	2	África	Mujeres	2020	6
+22	Campo de Belchite	Externa	3	América	Hombres	2020	2
+22	Campo de Belchite	Externa	3	América	Mujeres	2020	4
+22	Campo de Belchite	Interna	1	Europa	Hombres	2020	125
+22	Campo de Belchite	Interna	1	Europa	Mujeres	2020	103
+22	Campo de Belchite	Interna	2	África	Hombres	2020	4
+22	Campo de Belchite	Interna	2	África	Mujeres	2020	2
+22	Campo de Belchite	Interna	3	América	Hombres	2020	2
+22	Campo de Belchite	Interna	3	América	Mujeres	2020	9
+23	Bajo Martín	Externa	1	Europa	Hombres	2020	26
+23	Bajo Martín	Externa	1	Europa	Mujeres	2020	32
+23	Bajo Martín	Externa	2	África	Hombres	2020	71
+23	Bajo Martín	Externa	2	África	Mujeres	2020	12
+23	Bajo Martín	Externa	3	América	Hombres	2020	2
+23	Bajo Martín	Externa	3	América	Mujeres	2020	4
+23	Bajo Martín	Interna	1	Europa	Hombres	2020	66
+23	Bajo Martín	Interna	1	Europa	Mujeres	2020	51
+23	Bajo Martín	Interna	2	África	Hombres	2020	21
+23	Bajo Martín	Interna	2	África	Mujeres	2020	8
+23	Bajo Martín	Interna	3	América	Mujeres	2020	4
+24	Campo de Daroca	Externa	1	Europa	Hombres	2020	63
+24	Campo de Daroca	Externa	1	Europa	Mujeres	2020	43
+24	Campo de Daroca	Externa	2	África	Hombres	2020	17
+24	Campo de Daroca	Externa	2	África	Mujeres	2020	15
+24	Campo de Daroca	Externa	3	América	Hombres	2020	10
+24	Campo de Daroca	Externa	3	América	Mujeres	2020	16
+24	Campo de Daroca	Externa	4	Asia	Mujeres	2020	1
+24	Campo de Daroca	Interna	1	Europa	Hombres	2020	95
+24	Campo de Daroca	Interna	1	Europa	Mujeres	2020	92
+24	Campo de Daroca	Interna	2	África	Hombres	2020	18
+24	Campo de Daroca	Interna	2	África	Mujeres	2020	2
+24	Campo de Daroca	Interna	3	América	Hombres	2020	2
+24	Campo de Daroca	Interna	3	América	Mujeres	2020	4
+24	Campo de Daroca	Interna	4	Asia	Hombres	2020	1
+25	Jiloca	Externa	1	Europa	Hombres	2020	138
+25	Jiloca	Externa	1	Europa	Mujeres	2020	107
+25	Jiloca	Externa	2	África	Hombres	2020	46
+25	Jiloca	Externa	2	África	Mujeres	2020	34
+25	Jiloca	Externa	3	América	Hombres	2020	17
+25	Jiloca	Externa	3	América	Mujeres	2020	35
+25	Jiloca	Externa	4	Asia	Hombres	2020	7
+25	Jiloca	Interna	1	Europa	Hombres	2020	207
+25	Jiloca	Interna	1	Europa	Mujeres	2020	161
+25	Jiloca	Interna	2	África	Hombres	2020	24
+25	Jiloca	Interna	2	África	Mujeres	2020	17
+25	Jiloca	Interna	3	América	Hombres	2020	8
+25	Jiloca	Interna	3	América	Mujeres	2020	17
+26	Cuencas Mineras	Externa	1	Europa	Hombres	2020	48
+26	Cuencas Mineras	Externa	1	Europa	Mujeres	2020	51
+26	Cuencas Mineras	Externa	2	África	Hombres	2020	29
+26	Cuencas Mineras	Externa	2	África	Mujeres	2020	8
+26	Cuencas Mineras	Externa	3	América	Hombres	2020	3
+26	Cuencas Mineras	Externa	3	América	Mujeres	2020	4
+26	Cuencas Mineras	Externa	4	Asia	Hombres	2020	9
+26	Cuencas Mineras	Externa	4	Asia	Mujeres	2020	2
+26	Cuencas Mineras	Interna	1	Europa	Hombres	2020	88
+26	Cuencas Mineras	Interna	1	Europa	Mujeres	2020	87
+26	Cuencas Mineras	Interna	2	África	Hombres	2020	8
+26	Cuencas Mineras	Interna	2	África	Mujeres	2020	7
+26	Cuencas Mineras	Interna	3	América	Hombres	2020	2
+26	Cuencas Mineras	Interna	3	América	Mujeres	2020	4
+27	Andorra-Sierra de Arcos	Externa	1	Europa	Hombres	2020	66
+27	Andorra-Sierra de Arcos	Externa	1	Europa	Mujeres	2020	49
+27	Andorra-Sierra de Arcos	Externa	2	África	Hombres	2020	25
+27	Andorra-Sierra de Arcos	Externa	2	África	Mujeres	2020	8
+27	Andorra-Sierra de Arcos	Externa	3	América	Hombres	2020	14
+27	Andorra-Sierra de Arcos	Externa	3	América	Mujeres	2020	25
+27	Andorra-Sierra de Arcos	Externa	4	Asia	Hombres	2020	3
+27	Andorra-Sierra de Arcos	Externa	4	Asia	Mujeres	2020	1
+27	Andorra-Sierra de Arcos	Interna	1	Europa	Hombres	2020	79
+27	Andorra-Sierra de Arcos	Interna	1	Europa	Mujeres	2020	80
+27	Andorra-Sierra de Arcos	Interna	2	África	Hombres	2020	10
+27	Andorra-Sierra de Arcos	Interna	2	África	Mujeres	2020	5
+27	Andorra-Sierra de Arcos	Interna	3	América	Hombres	2020	3
+27	Andorra-Sierra de Arcos	Interna	3	América	Mujeres	2020	4
+28	Bajo Aragón	Externa	1	Europa	Hombres	2020	223
+28	Bajo Aragón	Externa	1	Europa	Mujeres	2020	196
+28	Bajo Aragón	Externa	2	África	Hombres	2020	103
+28	Bajo Aragón	Externa	2	África	Mujeres	2020	46
+28	Bajo Aragón	Externa	3	América	Hombres	2020	26
+28	Bajo Aragón	Externa	3	América	Mujeres	2020	35
+28	Bajo Aragón	Externa	4	Asia	Hombres	2020	10
+28	Bajo Aragón	Externa	4	Asia	Mujeres	2020	5
+28	Bajo Aragón	Externa	5	Otros continentes	Hombres	2020	6
+28	Bajo Aragón	Externa	5	Otros continentes	Mujeres	2020	2
+28	Bajo Aragón	Interna	1	Europa	Hombres	2020	207
+28	Bajo Aragón	Interna	1	Europa	Mujeres	2020	203
+28	Bajo Aragón	Interna	2	África	Hombres	2020	51
+28	Bajo Aragón	Interna	2	África	Mujeres	2020	49
+28	Bajo Aragón	Interna	3	América	Hombres	2020	6
+28	Bajo Aragón	Interna	3	América	Mujeres	2020	19
+29	Comunidad de Teruel	Externa	1	Europa	Hombres	2020	296
+29	Comunidad de Teruel	Externa	1	Europa	Mujeres	2020	325
+29	Comunidad de Teruel	Externa	2	África	Hombres	2020	94
+29	Comunidad de Teruel	Externa	2	África	Mujeres	2020	46
+29	Comunidad de Teruel	Externa	3	América	Hombres	2020	134
+29	Comunidad de Teruel	Externa	3	América	Mujeres	2020	145
+29	Comunidad de Teruel	Externa	4	Asia	Hombres	2020	20
+29	Comunidad de Teruel	Externa	4	Asia	Mujeres	2020	11
+29	Comunidad de Teruel	Externa	5	Otros continentes	Hombres	2020	1
+29	Comunidad de Teruel	Externa	5	Otros continentes	Mujeres	2020	1
+29	Comunidad de Teruel	Interna	1	Europa	Hombres	2020	363
+29	Comunidad de Teruel	Interna	1	Europa	Mujeres	2020	343
+29	Comunidad de Teruel	Interna	2	África	Hombres	2020	30
+29	Comunidad de Teruel	Interna	2	África	Mujeres	2020	17
+29	Comunidad de Teruel	Interna	3	América	Hombres	2020	30
+29	Comunidad de Teruel	Interna	3	América	Mujeres	2020	39
+29	Comunidad de Teruel	Interna	4	Asia	Hombres	2020	5
+29	Comunidad de Teruel	Interna	4	Asia	Mujeres	2020	6
+30	Maestrazgo	Externa	1	Europa	Hombres	2020	54
+30	Maestrazgo	Externa	1	Europa	Mujeres	2020	55
+30	Maestrazgo	Externa	2	África	Hombres	2020	3
+30	Maestrazgo	Externa	2	África	Mujeres	2020	1
+30	Maestrazgo	Externa	3	América	Hombres	2020	10
+30	Maestrazgo	Externa	3	América	Mujeres	2020	6
+30	Maestrazgo	Externa	4	Asia	Hombres	2020	1
+30	Maestrazgo	Externa	5	Otros continentes	Hombres	2020	1
+30	Maestrazgo	Interna	1	Europa	Hombres	2020	33
+30	Maestrazgo	Interna	1	Europa	Mujeres	2020	35
+30	Maestrazgo	Interna	2	África	Hombres	2020	7
+30	Maestrazgo	Interna	2	África	Mujeres	2020	1
+30	Maestrazgo	Interna	3	América	Hombres	2020	2
+30	Maestrazgo	Interna	3	América	Mujeres	2020	7
+30	Maestrazgo	Interna	4	Asia	Hombres	2020	2
+31	Sierra de Albarracín	Externa	1	Europa	Hombres	2020	64
+31	Sierra de Albarracín	Externa	1	Europa	Mujeres	2020	46
+31	Sierra de Albarracín	Externa	2	África	Hombres	2020	8
+31	Sierra de Albarracín	Externa	2	África	Mujeres	2020	6
+31	Sierra de Albarracín	Externa	3	América	Hombres	2020	2
+31	Sierra de Albarracín	Externa	3	América	Mujeres	2020	10
+31	Sierra de Albarracín	Interna	1	Europa	Hombres	2020	72
+31	Sierra de Albarracín	Interna	1	Europa	Mujeres	2020	61
+31	Sierra de Albarracín	Interna	2	África	Hombres	2020	5
+31	Sierra de Albarracín	Interna	2	África	Mujeres	2020	2
+31	Sierra de Albarracín	Interna	3	América	Hombres	2020	7
+31	Sierra de Albarracín	Interna	3	América	Mujeres	2020	10
+32	Gúdar-Javalambre	Externa	1	Europa	Hombres	2020	208
+32	Gúdar-Javalambre	Externa	1	Europa	Mujeres	2020	161
+32	Gúdar-Javalambre	Externa	2	África	Hombres	2020	34
+32	Gúdar-Javalambre	Externa	2	África	Mujeres	2020	15
+32	Gúdar-Javalambre	Externa	3	América	Hombres	2020	25
+32	Gúdar-Javalambre	Externa	3	América	Mujeres	2020	35
+32	Gúdar-Javalambre	Externa	4	Asia	Hombres	2020	1
+32	Gúdar-Javalambre	Externa	4	Asia	Mujeres	2020	1
+32	Gúdar-Javalambre	Externa	5	Otros continentes	Hombres	2020	1
+32	Gúdar-Javalambre	Interna	1	Europa	Hombres	2020	76
+32	Gúdar-Javalambre	Interna	1	Europa	Mujeres	2020	70
+32	Gúdar-Javalambre	Interna	2	África	Hombres	2020	18
+32	Gúdar-Javalambre	Interna	2	África	Mujeres	2020	10
+32	Gúdar-Javalambre	Interna	3	América	Hombres	2020	7
+32	Gúdar-Javalambre	Interna	3	América	Mujeres	2020	13
+33	Matarraña / Matarranya	Externa	1	Europa	Hombres	2020	151
+33	Matarraña / Matarranya	Externa	1	Europa	Mujeres	2020	129
+33	Matarraña / Matarranya	Externa	2	África	Hombres	2020	36
+33	Matarraña / Matarranya	Externa	2	África	Mujeres	2020	6
+33	Matarraña / Matarranya	Externa	3	América	Hombres	2020	9
+33	Matarraña / Matarranya	Externa	3	América	Mujeres	2020	14
+33	Matarraña / Matarranya	Externa	4	Asia	Hombres	2020	5
+33	Matarraña / Matarranya	Externa	4	Asia	Mujeres	2020	1
+33	Matarraña / Matarranya	Interna	1	Europa	Hombres	2020	70
+33	Matarraña / Matarranya	Interna	1	Europa	Mujeres	2020	60
+33	Matarraña / Matarranya	Interna	2	África	Hombres	2020	13
+33	Matarraña / Matarranya	Interna	2	África	Mujeres	2020	7
+33	Matarraña / Matarranya	Interna	3	América	Hombres	2020	5
+33	Matarraña / Matarranya	Interna	3	América	Mujeres	2020	5
 01	La Jacetania	Externa	1	Europa	Hombres	2019	236
 01	La Jacetania	Externa	1	Europa	Mujeres	2019	199
 01	La Jacetania	Externa	2	África	Hombres	2019	10

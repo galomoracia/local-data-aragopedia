@@ -1,4 +1,60 @@
 Provincia código	Provincia nombre	Nacionalidad Continente codigo	Nacionalidad Continente	Tipo variación	Sexo	Año	Variaciones
+22	Huesca	1	Europa	Externa	Hombres	2020	2294
+22	Huesca	1	Europa	Externa	Mujeres	2020	1914
+22	Huesca	1	Europa	Interna	Hombres	2020	2311
+22	Huesca	1	Europa	Interna	Mujeres	2020	2269
+22	Huesca	2	África	Externa	Hombres	2020	903
+22	Huesca	2	África	Externa	Mujeres	2020	229
+22	Huesca	2	África	Interna	Hombres	2020	212
+22	Huesca	2	África	Interna	Mujeres	2020	84
+22	Huesca	3	América	Externa	Hombres	2020	533
+22	Huesca	3	América	Externa	Mujeres	2020	663
+22	Huesca	3	América	Interna	Hombres	2020	203
+22	Huesca	3	América	Interna	Mujeres	2020	316
+22	Huesca	4	Asia	Externa	Hombres	2020	91
+22	Huesca	4	Asia	Externa	Mujeres	2020	32
+22	Huesca	4	Asia	Interna	Hombres	2020	34
+22	Huesca	4	Asia	Interna	Mujeres	2020	21
+22	Huesca	5	Otros continentes	Externa	Hombres	2020	5
+22	Huesca	5	Otros continentes	Externa	Mujeres	2020	2
+22	Huesca	5	Otros continentes	Interna	Hombres	2020	1
+44	Teruel	1	Europa	Externa	Hombres	2020	1274
+44	Teruel	1	Europa	Externa	Mujeres	2020	1151
+44	Teruel	1	Europa	Interna	Hombres	2020	1261
+44	Teruel	1	Europa	Interna	Mujeres	2020	1151
+44	Teruel	2	África	Externa	Hombres	2020	449
+44	Teruel	2	África	Externa	Mujeres	2020	182
+44	Teruel	2	África	Interna	Hombres	2020	187
+44	Teruel	2	África	Interna	Mujeres	2020	123
+44	Teruel	3	América	Externa	Hombres	2020	242
+44	Teruel	3	América	Externa	Mujeres	2020	313
+44	Teruel	3	América	Interna	Hombres	2020	70
+44	Teruel	3	América	Interna	Mujeres	2020	122
+44	Teruel	4	Asia	Externa	Hombres	2020	56
+44	Teruel	4	Asia	Externa	Mujeres	2020	21
+44	Teruel	4	Asia	Interna	Hombres	2020	7
+44	Teruel	4	Asia	Interna	Mujeres	2020	6
+44	Teruel	5	Otros continentes	Externa	Hombres	2020	9
+44	Teruel	5	Otros continentes	Externa	Mujeres	2020	3
+50	Zaragoza	1	Europa	Externa	Hombres	2020	5173
+50	Zaragoza	1	Europa	Externa	Mujeres	2020	4600
+50	Zaragoza	1	Europa	Interna	Hombres	2020	6285
+50	Zaragoza	1	Europa	Interna	Mujeres	2020	6023
+50	Zaragoza	2	África	Externa	Hombres	2020	2230
+50	Zaragoza	2	África	Externa	Mujeres	2020	1027
+50	Zaragoza	2	África	Interna	Hombres	2020	478
+50	Zaragoza	2	África	Interna	Mujeres	2020	220
+50	Zaragoza	3	América	Externa	Hombres	2020	1987
+50	Zaragoza	3	América	Externa	Mujeres	2020	2610
+50	Zaragoza	3	América	Interna	Hombres	2020	441
+50	Zaragoza	3	América	Interna	Mujeres	2020	748
+50	Zaragoza	4	Asia	Externa	Hombres	2020	749
+50	Zaragoza	4	Asia	Externa	Mujeres	2020	273
+50	Zaragoza	4	Asia	Interna	Hombres	2020	82
+50	Zaragoza	4	Asia	Interna	Mujeres	2020	32
+50	Zaragoza	5	Otros continentes	Externa	Hombres	2020	12
+50	Zaragoza	5	Otros continentes	Externa	Mujeres	2020	2
+50	Zaragoza	5	Otros continentes	Interna	Hombres	2020	1
 22	Huesca	1	Europa	Externa	Hombres	2019	2100
 22	Huesca	1	Europa	Externa	Mujeres	2019	1943
 22	Huesca	1	Europa	Interna	Hombres	2019	1804

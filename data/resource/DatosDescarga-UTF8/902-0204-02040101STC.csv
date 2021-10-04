@@ -1,4 +1,70 @@
 Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
+01	La Jacetania	Hombres	2020	307
+01	La Jacetania	Mujeres	2020	202
+02	Alto Gállego	Hombres	2020	263
+02	Alto Gállego	Mujeres	2020	182
+03	Sobrarbe	Hombres	2020	143
+03	Sobrarbe	Mujeres	2020	95
+04	La Ribagorza	Hombres	2020	176
+04	La Ribagorza	Mujeres	2020	185
+05	Cinco Villas	Hombres	2020	253
+05	Cinco Villas	Mujeres	2020	164
+06	Hoya de Huesca / Plana de Uesca	Hombres	2020	325
+06	Hoya de Huesca / Plana de Uesca	Mujeres	2020	145
+07	Somontano de Barbastro	Hombres	2020	170
+07	Somontano de Barbastro	Mujeres	2020	135
+08	Cinca Medio	Hombres	2020	149
+08	Cinca Medio	Mujeres	2020	86
+09	La Litera / La Llitera	Hombres	2020	239
+09	La Litera / La Llitera	Mujeres	2020	108
+10	Los Monegros	Hombres	2020	179
+10	Los Monegros	Mujeres	2020	143
+11	Bajo Cinca / Baix Cinca	Hombres	2020	61
+11	Bajo Cinca / Baix Cinca	Mujeres	2020	-80
+12	Tarazona y el Moncayo	Hombres	2020	80
+12	Tarazona y el Moncayo	Mujeres	2020	58
+13	Campo de Borja	Hombres	2020	136
+13	Campo de Borja	Mujeres	2020	88
+14	Aranda	Hombres	2020	17
+14	Aranda	Mujeres	2020	23
+15	Ribera Alta del Ebro	Hombres	2020	96
+15	Ribera Alta del Ebro	Mujeres	2020	159
+16	Valdejalón	Hombres	2020	233
+16	Valdejalón	Mujeres	2020	170
+17	Central	Hombres	2020	-1812
+17	Central	Mujeres	2020	-1785
+18	Ribera Baja del Ebro	Hombres	2020	63
+18	Ribera Baja del Ebro	Mujeres	2020	40
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2020	213
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	2020	73
+20	Comunidad de Calatayud	Hombres	2020	130
+20	Comunidad de Calatayud	Mujeres	2020	178
+21	Campo de Cariñena	Hombres	2020	66
+21	Campo de Cariñena	Mujeres	2020	62
+22	Campo de Belchite	Hombres	2020	67
+22	Campo de Belchite	Mujeres	2020	71
+23	Bajo Martín	Hombres	2020	84
+23	Bajo Martín	Mujeres	2020	27
+24	Campo de Daroca	Hombres	2020	46
+24	Campo de Daroca	Mujeres	2020	71
+25	Jiloca	Hombres	2020	166
+25	Jiloca	Mujeres	2020	144
+26	Cuencas Mineras	Hombres	2020	16
+26	Cuencas Mineras	Mujeres	2020	19
+27	Andorra-Sierra de Arcos	Hombres	2020	37
+27	Andorra-Sierra de Arcos	Mujeres	2020	13
+28	Bajo Aragón	Hombres	2020	122
+28	Bajo Aragón	Mujeres	2020	43
+29	Comunidad de Teruel	Hombres	2020	133
+29	Comunidad de Teruel	Mujeres	2020	97
+30	Maestrazgo	Hombres	2020	48
+30	Maestrazgo	Mujeres	2020	38
+31	Sierra de Albarracín	Hombres	2020	43
+31	Sierra de Albarracín	Mujeres	2020	27
+32	Gúdar-Javalambre	Hombres	2020	164
+32	Gúdar-Javalambre	Mujeres	2020	107
+33	Matarraña / Matarranya	Hombres	2020	120
+33	Matarraña / Matarranya	Mujeres	2020	78
 01	La Jacetania	Hombres	2019	66
 01	La Jacetania	Mujeres	2019	127
 02	Alto Gállego	Hombres	2019	-165

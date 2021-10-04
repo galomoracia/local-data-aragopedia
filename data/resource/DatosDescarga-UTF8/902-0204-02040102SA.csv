@@ -1,4 +1,14 @@
 CCAA código	CCAA nombre	Sexo	Nacionalidad Continente codigo	Nacionalidad Continente	Año	Saldo migratorio
+02	Aragón	Hombres	1	Europa	2020	1264
+02	Aragón	Hombres	2	África	2020	885
+02	Aragón	Hombres	3	América	2020	463
+02	Aragón	Hombres	4	Asia	2020	-84
+02	Aragón	Hombres	5	Otros continentes	2020	5
+02	Aragón	Mujeres	1	Europa	2020	891
+02	Aragón	Mujeres	2	África	2020	202
+02	Aragón	Mujeres	3	América	2020	246
+02	Aragón	Mujeres	4	Asia	2020	-167
+02	Aragón	Mujeres	5	Otros continentes	2020	-6
 02	Aragón	Hombres	1	Europa	2019	1059
 02	Aragón	Hombres	2	África	2019	2734
 02	Aragón	Hombres	3	América	2019	3742
