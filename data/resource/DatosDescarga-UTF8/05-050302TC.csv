@@ -1,4 +1,681 @@
 Mes y año	Mes (código)	Comarca código	Comarca nombre	Sexo	Edad (grupos quinquenales)	Número de contratos
+Septiembre 2021	202109	01	La Jacetania	Hombres	16-19	18
+Septiembre 2021	202109	01	La Jacetania	Mujeres	16-19	12
+Septiembre 2021	202109	01	La Jacetania	Hombres	20-24	43
+Septiembre 2021	202109	01	La Jacetania	Mujeres	20-24	32
+Septiembre 2021	202109	01	La Jacetania	Hombres	25-29	21
+Septiembre 2021	202109	01	La Jacetania	Mujeres	25-29	31
+Septiembre 2021	202109	01	La Jacetania	Hombres	30-34	22
+Septiembre 2021	202109	01	La Jacetania	Mujeres	30-34	24
+Septiembre 2021	202109	01	La Jacetania	Hombres	35-39	26
+Septiembre 2021	202109	01	La Jacetania	Mujeres	35-39	34
+Septiembre 2021	202109	01	La Jacetania	Hombres	40-44	26
+Septiembre 2021	202109	01	La Jacetania	Mujeres	40-44	23
+Septiembre 2021	202109	01	La Jacetania	Hombres	45-49	22
+Septiembre 2021	202109	01	La Jacetania	Mujeres	45-49	31
+Septiembre 2021	202109	01	La Jacetania	Hombres	50-54	17
+Septiembre 2021	202109	01	La Jacetania	Mujeres	50-54	24
+Septiembre 2021	202109	01	La Jacetania	Hombres	55-59	15
+Septiembre 2021	202109	01	La Jacetania	Mujeres	55-59	16
+Septiembre 2021	202109	01	La Jacetania	Hombres	60-64	8
+Septiembre 2021	202109	01	La Jacetania	Mujeres	60-64	16
+Septiembre 2021	202109	02	Alto Gállego	Hombres	16-19	8
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	16-19	12
+Septiembre 2021	202109	02	Alto Gállego	Hombres	20-24	21
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	20-24	24
+Septiembre 2021	202109	02	Alto Gállego	Hombres	25-29	19
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	25-29	23
+Septiembre 2021	202109	02	Alto Gállego	Hombres	30-34	19
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	30-34	15
+Septiembre 2021	202109	02	Alto Gállego	Hombres	35-39	26
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	35-39	17
+Septiembre 2021	202109	02	Alto Gállego	Hombres	40-44	26
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	40-44	19
+Septiembre 2021	202109	02	Alto Gállego	Hombres	45-49	16
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	45-49	12
+Septiembre 2021	202109	02	Alto Gállego	Hombres	50-54	16
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	50-54	16
+Septiembre 2021	202109	02	Alto Gállego	Hombres	55-59	5
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	55-59	9
+Septiembre 2021	202109	02	Alto Gállego	Hombres	60-64	5
+Septiembre 2021	202109	02	Alto Gállego	Mujeres	60-64	9
+Septiembre 2021	202109	03	Sobrarbe	Hombres	16-19	8
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	16-19	6
+Septiembre 2021	202109	03	Sobrarbe	Hombres	20-24	25
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	20-24	15
+Septiembre 2021	202109	03	Sobrarbe	Hombres	25-29	18
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	25-29	30
+Septiembre 2021	202109	03	Sobrarbe	Hombres	30-34	15
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	30-34	14
+Septiembre 2021	202109	03	Sobrarbe	Hombres	35-39	11
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	35-39	14
+Septiembre 2021	202109	03	Sobrarbe	Hombres	40-44	21
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	40-44	11
+Septiembre 2021	202109	03	Sobrarbe	Hombres	45-49	21
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	45-49	26
+Septiembre 2021	202109	03	Sobrarbe	Hombres	50-54	16
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	50-54	10
+Septiembre 2021	202109	03	Sobrarbe	Hombres	55-59	6
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	55-59	9
+Septiembre 2021	202109	03	Sobrarbe	Hombres	60-64	6
+Septiembre 2021	202109	03	Sobrarbe	Mujeres	60-64	5
+Septiembre 2021	202109	04	La Ribagorza	Hombres	16-19	3
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	16-19	6
+Septiembre 2021	202109	04	La Ribagorza	Hombres	20-24	17
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	20-24	20
+Septiembre 2021	202109	04	La Ribagorza	Hombres	25-29	15
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	25-29	10
+Septiembre 2021	202109	04	La Ribagorza	Hombres	30-34	19
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	30-34	24
+Septiembre 2021	202109	04	La Ribagorza	Hombres	35-39	13
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	35-39	17
+Septiembre 2021	202109	04	La Ribagorza	Hombres	40-44	23
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	40-44	30
+Septiembre 2021	202109	04	La Ribagorza	Hombres	45-49	10
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	45-49	23
+Septiembre 2021	202109	04	La Ribagorza	Hombres	50-54	13
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	50-54	16
+Septiembre 2021	202109	04	La Ribagorza	Hombres	55-59	3
+Septiembre 2021	202109	04	La Ribagorza	Mujeres	55-59	5
+Septiembre 2021	202109	04	La Ribagorza	Hombres	60-64	5
+Septiembre 2021	202109	04	La Ribagorza	Hombres	Más de 64	1
+Septiembre 2021	202109	05	Cinco Villas	Hombres	16-19	34
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	16-19	13
+Septiembre 2021	202109	05	Cinco Villas	Hombres	20-24	77
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	20-24	58
+Septiembre 2021	202109	05	Cinco Villas	Hombres	25-29	51
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	25-29	62
+Septiembre 2021	202109	05	Cinco Villas	Hombres	30-34	61
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	30-34	49
+Septiembre 2021	202109	05	Cinco Villas	Hombres	35-39	59
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	35-39	55
+Septiembre 2021	202109	05	Cinco Villas	Hombres	40-44	71
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	40-44	53
+Septiembre 2021	202109	05	Cinco Villas	Hombres	45-49	68
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	45-49	69
+Septiembre 2021	202109	05	Cinco Villas	Hombres	50-54	52
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	50-54	39
+Septiembre 2021	202109	05	Cinco Villas	Hombres	55-59	31
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	55-59	32
+Septiembre 2021	202109	05	Cinco Villas	Hombres	60-64	16
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	60-64	12
+Septiembre 2021	202109	05	Cinco Villas	Hombres	Más de 64	3
+Septiembre 2021	202109	05	Cinco Villas	Mujeres	Más de 64	1
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	16-19	65
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	16-19	35
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	20-24	218
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	20-24	194
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	25-29	217
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	25-29	196
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	30-34	146
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	30-34	150
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	35-39	137
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	35-39	113
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	40-44	143
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	40-44	167
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	45-49	120
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	45-49	163
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	50-54	93
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	50-54	117
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	55-59	72
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	55-59	99
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	60-64	38
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	60-64	54
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Hombres	Más de 64	5
+Septiembre 2021	202109	06	Hoya de Huesca / Plana de Uesca	Mujeres	Más de 64	4
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	16-19	19
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	16-19	12
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	20-24	80
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	20-24	37
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	25-29	44
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	25-29	48
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	30-34	41
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	30-34	45
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	35-39	35
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	35-39	30
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	40-44	29
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	40-44	37
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	45-49	33
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	45-49	30
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	50-54	23
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	50-54	27
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	55-59	19
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	55-59	17
+Septiembre 2021	202109	07	Somontano de Barbastro	Hombres	60-64	12
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	60-64	6
+Septiembre 2021	202109	07	Somontano de Barbastro	Mujeres	Más de 64	1
+Septiembre 2021	202109	08	Cinca Medio	Hombres	16-19	50
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	16-19	41
+Septiembre 2021	202109	08	Cinca Medio	Hombres	20-24	79
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	20-24	101
+Septiembre 2021	202109	08	Cinca Medio	Hombres	25-29	68
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	25-29	68
+Septiembre 2021	202109	08	Cinca Medio	Hombres	30-34	57
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	30-34	66
+Septiembre 2021	202109	08	Cinca Medio	Hombres	35-39	61
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	35-39	41
+Septiembre 2021	202109	08	Cinca Medio	Hombres	40-44	79
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	40-44	45
+Septiembre 2021	202109	08	Cinca Medio	Hombres	45-49	68
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	45-49	60
+Septiembre 2021	202109	08	Cinca Medio	Hombres	50-54	50
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	50-54	36
+Septiembre 2021	202109	08	Cinca Medio	Hombres	55-59	27
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	55-59	14
+Septiembre 2021	202109	08	Cinca Medio	Hombres	60-64	12
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	60-64	5
+Septiembre 2021	202109	08	Cinca Medio	Hombres	Más de 64	4
+Septiembre 2021	202109	08	Cinca Medio	Mujeres	Más de 64	1
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	16-19	36
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	16-19	20
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	20-24	65
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	20-24	50
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	25-29	65
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	25-29	46
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	30-34	58
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	30-34	42
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	35-39	75
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	35-39	35
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	40-44	81
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	40-44	34
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	45-49	62
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	45-49	33
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	50-54	41
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	50-54	26
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	55-59	32
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	55-59	18
+Septiembre 2021	202109	09	La Litera / La Llitera	Hombres	60-64	16
+Septiembre 2021	202109	09	La Litera / La Llitera	Mujeres	60-64	9
+Septiembre 2021	202109	10	Los Monegros	Hombres	16-19	13
+Septiembre 2021	202109	10	Los Monegros	Mujeres	16-19	5
+Septiembre 2021	202109	10	Los Monegros	Hombres	20-24	53
+Septiembre 2021	202109	10	Los Monegros	Mujeres	20-24	15
+Septiembre 2021	202109	10	Los Monegros	Hombres	25-29	28
+Septiembre 2021	202109	10	Los Monegros	Mujeres	25-29	23
+Septiembre 2021	202109	10	Los Monegros	Hombres	30-34	21
+Septiembre 2021	202109	10	Los Monegros	Mujeres	30-34	17
+Septiembre 2021	202109	10	Los Monegros	Hombres	35-39	23
+Septiembre 2021	202109	10	Los Monegros	Mujeres	35-39	16
+Septiembre 2021	202109	10	Los Monegros	Hombres	40-44	44
+Septiembre 2021	202109	10	Los Monegros	Mujeres	40-44	18
+Septiembre 2021	202109	10	Los Monegros	Hombres	45-49	37
+Septiembre 2021	202109	10	Los Monegros	Mujeres	45-49	13
+Septiembre 2021	202109	10	Los Monegros	Hombres	50-54	34
+Septiembre 2021	202109	10	Los Monegros	Mujeres	50-54	18
+Septiembre 2021	202109	10	Los Monegros	Hombres	55-59	25
+Septiembre 2021	202109	10	Los Monegros	Mujeres	55-59	12
+Septiembre 2021	202109	10	Los Monegros	Hombres	60-64	8
+Septiembre 2021	202109	10	Los Monegros	Mujeres	60-64	4
+Septiembre 2021	202109	10	Los Monegros	Hombres	Más de 64	4
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	16-19	61
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	16-19	33
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	20-24	125
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	20-24	124
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	25-29	92
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	25-29	140
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	30-34	90
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	30-34	98
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	35-39	86
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	35-39	73
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	40-44	85
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	40-44	78
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	45-49	90
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	45-49	85
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	50-54	75
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	50-54	45
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	55-59	32
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	55-59	24
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	60-64	13
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Mujeres	60-64	7
+Septiembre 2021	202109	11	Bajo Cinca / Baix Cinca	Hombres	Más de 64	1
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	16-19	24
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	16-19	35
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	20-24	71
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	20-24	32
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	25-29	50
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	25-29	46
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	30-34	53
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	30-34	22
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	35-39	40
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	35-39	24
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	40-44	65
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	40-44	30
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	45-49	31
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	45-49	28
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	50-54	24
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	50-54	36
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	55-59	16
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	55-59	8
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Hombres	60-64	9
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	60-64	8
+Septiembre 2021	202109	12	Tarazona y el Moncayo	Mujeres	Más de 64	9
+Septiembre 2021	202109	13	Campo de Borja	Hombres	16-19	12
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	16-19	6
+Septiembre 2021	202109	13	Campo de Borja	Hombres	20-24	51
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	20-24	34
+Septiembre 2021	202109	13	Campo de Borja	Hombres	25-29	39
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	25-29	36
+Septiembre 2021	202109	13	Campo de Borja	Hombres	30-34	29
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	30-34	29
+Septiembre 2021	202109	13	Campo de Borja	Hombres	35-39	22
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	35-39	15
+Septiembre 2021	202109	13	Campo de Borja	Hombres	40-44	35
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	40-44	29
+Septiembre 2021	202109	13	Campo de Borja	Hombres	45-49	23
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	45-49	23
+Septiembre 2021	202109	13	Campo de Borja	Hombres	50-54	25
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	50-54	27
+Septiembre 2021	202109	13	Campo de Borja	Hombres	55-59	15
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	55-59	7
+Septiembre 2021	202109	13	Campo de Borja	Hombres	60-64	4
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	60-64	2
+Septiembre 2021	202109	13	Campo de Borja	Mujeres	Más de 64	2
+Septiembre 2021	202109	14	Aranda	Mujeres	16-19	2
+Septiembre 2021	202109	14	Aranda	Hombres	20-24	3
+Septiembre 2021	202109	14	Aranda	Mujeres	20-24	2
+Septiembre 2021	202109	14	Aranda	Hombres	25-29	2
+Septiembre 2021	202109	14	Aranda	Mujeres	25-29	2
+Septiembre 2021	202109	14	Aranda	Hombres	30-34	5
+Septiembre 2021	202109	14	Aranda	Mujeres	30-34	5
+Septiembre 2021	202109	14	Aranda	Hombres	35-39	3
+Septiembre 2021	202109	14	Aranda	Mujeres	35-39	1
+Septiembre 2021	202109	14	Aranda	Hombres	40-44	4
+Septiembre 2021	202109	14	Aranda	Mujeres	40-44	9
+Septiembre 2021	202109	14	Aranda	Hombres	45-49	4
+Septiembre 2021	202109	14	Aranda	Mujeres	45-49	3
+Septiembre 2021	202109	14	Aranda	Hombres	50-54	8
+Septiembre 2021	202109	14	Aranda	Mujeres	50-54	12
+Septiembre 2021	202109	14	Aranda	Hombres	55-59	5
+Septiembre 2021	202109	14	Aranda	Mujeres	55-59	3
+Septiembre 2021	202109	14	Aranda	Hombres	60-64	4
+Septiembre 2021	202109	14	Aranda	Mujeres	60-64	3
+Septiembre 2021	202109	14	Aranda	Mujeres	Más de 64	1
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	16-19	75
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	16-19	17
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	20-24	259
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	20-24	132
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	25-29	257
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	25-29	126
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	30-34	216
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	30-34	66
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	35-39	214
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	35-39	121
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	40-44	185
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	40-44	123
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	45-49	174
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	45-49	101
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	50-54	85
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	50-54	74
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	55-59	65
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	55-59	32
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	60-64	40
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Mujeres	60-64	6
+Septiembre 2021	202109	15	Ribera Alta del Ebro	Hombres	Más de 64	1
+Septiembre 2021	202109	16	Valdejalón	Hombres	16-19	88
+Septiembre 2021	202109	16	Valdejalón	Mujeres	16-19	35
+Septiembre 2021	202109	16	Valdejalón	Hombres	20-24	244
+Septiembre 2021	202109	16	Valdejalón	Mujeres	20-24	94
+Septiembre 2021	202109	16	Valdejalón	Hombres	25-29	190
+Septiembre 2021	202109	16	Valdejalón	Mujeres	25-29	104
+Septiembre 2021	202109	16	Valdejalón	Hombres	30-34	171
+Septiembre 2021	202109	16	Valdejalón	Mujeres	30-34	107
+Septiembre 2021	202109	16	Valdejalón	Hombres	35-39	206
+Septiembre 2021	202109	16	Valdejalón	Mujeres	35-39	104
+Septiembre 2021	202109	16	Valdejalón	Hombres	40-44	239
+Septiembre 2021	202109	16	Valdejalón	Mujeres	40-44	119
+Septiembre 2021	202109	16	Valdejalón	Hombres	45-49	329
+Septiembre 2021	202109	16	Valdejalón	Mujeres	45-49	100
+Septiembre 2021	202109	16	Valdejalón	Hombres	50-54	238
+Septiembre 2021	202109	16	Valdejalón	Mujeres	50-54	84
+Septiembre 2021	202109	16	Valdejalón	Hombres	55-59	145
+Septiembre 2021	202109	16	Valdejalón	Mujeres	55-59	41
+Septiembre 2021	202109	16	Valdejalón	Hombres	60-64	72
+Septiembre 2021	202109	16	Valdejalón	Mujeres	60-64	13
+Septiembre 2021	202109	16	Valdejalón	Hombres	Más de 64	23
+Septiembre 2021	202109	17	Central	Hombres	16-19	878
+Septiembre 2021	202109	17	Central	Mujeres	16-19	708
+Septiembre 2021	202109	17	Central	Hombres	20-24	3601
+Septiembre 2021	202109	17	Central	Mujeres	20-24	2913
+Septiembre 2021	202109	17	Central	Hombres	25-29	2920
+Septiembre 2021	202109	17	Central	Mujeres	25-29	2669
+Septiembre 2021	202109	17	Central	Hombres	30-34	2172
+Septiembre 2021	202109	17	Central	Mujeres	30-34	1986
+Septiembre 2021	202109	17	Central	Hombres	35-39	1841
+Septiembre 2021	202109	17	Central	Mujeres	35-39	1825
+Septiembre 2021	202109	17	Central	Hombres	40-44	1912
+Septiembre 2021	202109	17	Central	Mujeres	40-44	1926
+Septiembre 2021	202109	17	Central	Hombres	45-49	1734
+Septiembre 2021	202109	17	Central	Mujeres	45-49	1814
+Septiembre 2021	202109	17	Central	Hombres	50-54	1224
+Septiembre 2021	202109	17	Central	Mujeres	50-54	1360
+Septiembre 2021	202109	17	Central	Hombres	55-59	720
+Septiembre 2021	202109	17	Central	Mujeres	55-59	769
+Septiembre 2021	202109	17	Central	Hombres	60-64	397
+Septiembre 2021	202109	17	Central	Mujeres	60-64	318
+Septiembre 2021	202109	17	Central	Hombres	Más de 64	38
+Septiembre 2021	202109	17	Central	Mujeres	Más de 64	63
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	16-19	11
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	16-19	3
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	20-24	37
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	20-24	29
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	25-29	26
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	25-29	24
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	30-34	21
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	30-34	20
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	35-39	28
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	35-39	10
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	40-44	29
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	40-44	26
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	45-49	25
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	45-49	12
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	50-54	25
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	50-54	14
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	55-59	15
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	55-59	11
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	60-64	7
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Mujeres	60-64	1
+Septiembre 2021	202109	18	Ribera Baja del Ebro	Hombres	Más de 64	2
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	16-19	11
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	16-19	7
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	20-24	30
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	20-24	17
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	25-29	27
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	25-29	17
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	30-34	37
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	30-34	15
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	35-39	32
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	35-39	18
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	40-44	52
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	40-44	21
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	45-49	28
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	45-49	19
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	50-54	35
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	50-54	22
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	55-59	20
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	55-59	5
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	60-64	11
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	60-64	4
+Septiembre 2021	202109	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Más de 64	2
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	16-19	63
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	16-19	17
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	20-24	155
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	20-24	79
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	25-29	109
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	25-29	74
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	30-34	94
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	30-34	97
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	35-39	108
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	35-39	69
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	40-44	117
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	40-44	100
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	45-49	101
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	45-49	80
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	50-54	118
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	50-54	94
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	55-59	58
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	55-59	35
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	60-64	22
+Septiembre 2021	202109	20	Comunidad de Calatayud	Mujeres	60-64	8
+Septiembre 2021	202109	20	Comunidad de Calatayud	Hombres	Más de 64	8
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	16-19	26
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	16-19	3
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	20-24	90
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	20-24	28
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	25-29	62
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	25-29	27
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	30-34	91
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	30-34	31
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	35-39	112
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	35-39	39
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	40-44	114
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	40-44	47
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	45-49	115
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	45-49	44
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	50-54	112
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	50-54	27
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	55-59	87
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	55-59	8
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	60-64	37
+Septiembre 2021	202109	21	Campo de Cariñena	Mujeres	60-64	8
+Septiembre 2021	202109	21	Campo de Cariñena	Hombres	Más de 64	8
+Septiembre 2021	202109	22	Campo de Belchite	Hombres	16-19	4
+Septiembre 2021	202109	22	Campo de Belchite	Hombres	20-24	5
+Septiembre 2021	202109	22	Campo de Belchite	Mujeres	20-24	8
+Septiembre 2021	202109	22	Campo de Belchite	Hombres	25-29	5
+Septiembre 2021	202109	22	Campo de Belchite	Mujeres	25-29	5
+Septiembre 2021	202109	22	Campo de Belchite	Hombres	30-34	6
+Septiembre 2021	202109	22	Campo de Belchite	Mujeres	30-34	5
+Septiembre 2021	202109	22	Campo de Belchite	Hombres	35-39	3
+Septiembre 2021	202109	22	Campo de Belchite	Mujeres	35-39	4
+Septiembre 2021	202109	22	Campo de Belchite	Hombres	40-44	7
+Septiembre 2021	202109	22	Campo de Belchite	Mujeres	40-44	5
+Septiembre 2021	202109	22	Campo de Belchite	Hombres	45-49	7
+Septiembre 2021	202109	22	Campo de Belchite	Mujeres	45-49	3
+Septiembre 2021	202109	22	Campo de Belchite	Hombres	55-59	2
+Septiembre 2021	202109	22	Campo de Belchite	Mujeres	55-59	4
+Septiembre 2021	202109	22	Campo de Belchite	Mujeres	Más de 64	1
+Septiembre 2021	202109	23	Bajo Martín	Hombres	16-19	4
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	16-19	1
+Septiembre 2021	202109	23	Bajo Martín	Hombres	20-24	10
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	20-24	9
+Septiembre 2021	202109	23	Bajo Martín	Hombres	25-29	9
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	25-29	4
+Septiembre 2021	202109	23	Bajo Martín	Hombres	30-34	5
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	30-34	11
+Septiembre 2021	202109	23	Bajo Martín	Hombres	35-39	19
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	35-39	10
+Septiembre 2021	202109	23	Bajo Martín	Hombres	40-44	17
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	40-44	5
+Septiembre 2021	202109	23	Bajo Martín	Hombres	45-49	21
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	45-49	8
+Septiembre 2021	202109	23	Bajo Martín	Hombres	50-54	15
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	50-54	8
+Septiembre 2021	202109	23	Bajo Martín	Hombres	55-59	13
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	55-59	3
+Septiembre 2021	202109	23	Bajo Martín	Hombres	60-64	4
+Septiembre 2021	202109	23	Bajo Martín	Mujeres	60-64	4
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	16-19	3
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	16-19	4
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	20-24	7
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	20-24	5
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	25-29	5
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	25-29	5
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	30-34	6
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	30-34	5
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	35-39	8
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	35-39	12
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	40-44	8
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	40-44	1
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	45-49	7
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	45-49	2
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	50-54	12
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	50-54	4
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	55-59	7
+Septiembre 2021	202109	24	Campo de Daroca	Mujeres	55-59	8
+Septiembre 2021	202109	24	Campo de Daroca	Hombres	60-64	3
+Septiembre 2021	202109	25	Jiloca	Hombres	16-19	8
+Septiembre 2021	202109	25	Jiloca	Mujeres	16-19	7
+Septiembre 2021	202109	25	Jiloca	Hombres	20-24	22
+Septiembre 2021	202109	25	Jiloca	Mujeres	20-24	20
+Septiembre 2021	202109	25	Jiloca	Hombres	25-29	13
+Septiembre 2021	202109	25	Jiloca	Mujeres	25-29	12
+Septiembre 2021	202109	25	Jiloca	Hombres	30-34	19
+Septiembre 2021	202109	25	Jiloca	Mujeres	30-34	8
+Septiembre 2021	202109	25	Jiloca	Hombres	35-39	20
+Septiembre 2021	202109	25	Jiloca	Mujeres	35-39	9
+Septiembre 2021	202109	25	Jiloca	Hombres	40-44	8
+Septiembre 2021	202109	25	Jiloca	Mujeres	40-44	9
+Septiembre 2021	202109	25	Jiloca	Hombres	45-49	11
+Septiembre 2021	202109	25	Jiloca	Mujeres	45-49	8
+Septiembre 2021	202109	25	Jiloca	Hombres	50-54	11
+Septiembre 2021	202109	25	Jiloca	Mujeres	50-54	3
+Septiembre 2021	202109	25	Jiloca	Hombres	55-59	7
+Septiembre 2021	202109	25	Jiloca	Mujeres	55-59	9
+Septiembre 2021	202109	25	Jiloca	Hombres	60-64	1
+Septiembre 2021	202109	25	Jiloca	Mujeres	60-64	4
+Septiembre 2021	202109	25	Jiloca	Mujeres	Más de 64	1
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	16-19	9
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	16-19	3
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	20-24	18
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	20-24	27
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	25-29	14
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	25-29	15
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	30-34	8
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	30-34	10
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	35-39	5
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	35-39	11
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	40-44	3
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	40-44	12
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	45-49	8
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	45-49	6
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	50-54	4
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	50-54	6
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	55-59	4
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	55-59	2
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	60-64	2
+Septiembre 2021	202109	26	Cuencas Mineras	Hombres	Más de 64	1
+Septiembre 2021	202109	26	Cuencas Mineras	Mujeres	Más de 64	1
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	16-19	8
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	16-19	7
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	20-24	25
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	20-24	21
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	25-29	11
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	25-29	13
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	30-34	18
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	30-34	10
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	35-39	13
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	35-39	21
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	40-44	14
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	40-44	10
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	45-49	12
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	45-49	11
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	50-54	10
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	50-54	7
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	55-59	9
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	55-59	15
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Hombres	60-64	5
+Septiembre 2021	202109	27	Andorra-Sierra de Arcos	Mujeres	60-64	2
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	16-19	97
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	16-19	35
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	20-24	185
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	20-24	110
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	25-29	82
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	25-29	64
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	30-34	57
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	30-34	61
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	35-39	60
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	35-39	39
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	40-44	69
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	40-44	61
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	45-49	75
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	45-49	57
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	50-54	70
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	50-54	48
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	55-59	44
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	55-59	21
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	60-64	15
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	60-64	14
+Septiembre 2021	202109	28	Bajo Aragón	Hombres	Más de 64	2
+Septiembre 2021	202109	28	Bajo Aragón	Mujeres	Más de 64	2
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	16-19	40
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	16-19	55
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	20-24	267
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	20-24	171
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	25-29	166
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	25-29	138
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	30-34	131
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	30-34	108
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	35-39	100
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	35-39	73
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	40-44	77
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	40-44	58
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	45-49	78
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	45-49	73
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	50-54	61
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	50-54	61
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	55-59	47
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	55-59	22
+Septiembre 2021	202109	29	Comunidad de Teruel	Hombres	60-64	10
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	60-64	15
+Septiembre 2021	202109	29	Comunidad de Teruel	Mujeres	Más de 64	2
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	16-19	2
+Septiembre 2021	202109	30	Maestrazgo	Hombres	20-24	9
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	20-24	2
+Septiembre 2021	202109	30	Maestrazgo	Hombres	25-29	5
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	25-29	6
+Septiembre 2021	202109	30	Maestrazgo	Hombres	30-34	4
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	30-34	4
+Septiembre 2021	202109	30	Maestrazgo	Hombres	35-39	5
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	35-39	2
+Septiembre 2021	202109	30	Maestrazgo	Hombres	40-44	6
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	40-44	3
+Septiembre 2021	202109	30	Maestrazgo	Hombres	45-49	5
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	45-49	7
+Septiembre 2021	202109	30	Maestrazgo	Hombres	50-54	2
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	50-54	3
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	55-59	2
+Septiembre 2021	202109	30	Maestrazgo	Hombres	60-64	1
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	60-64	5
+Septiembre 2021	202109	30	Maestrazgo	Mujeres	Más de 64	2
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	16-19	7
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	16-19	5
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	20-24	13
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	20-24	11
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	25-29	3
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	25-29	5
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	30-34	1
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	30-34	3
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	35-39	5
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	35-39	6
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	40-44	2
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	40-44	6
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	45-49	5
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	45-49	4
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	50-54	6
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	55-59	3
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	55-59	5
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	60-64	6
+Septiembre 2021	202109	31	Sierra de Albarracín	Mujeres	60-64	1
+Septiembre 2021	202109	31	Sierra de Albarracín	Hombres	Más de 64	2
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	16-19	13
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	16-19	11
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	20-24	24
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	20-24	39
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	25-29	7
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	25-29	21
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	30-34	12
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	30-34	21
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	35-39	12
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	35-39	22
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	40-44	16
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	40-44	9
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	45-49	11
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	45-49	13
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	50-54	8
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	50-54	9
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	55-59	7
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	55-59	7
+Septiembre 2021	202109	32	Gúdar-Javalambre	Hombres	60-64	4
+Septiembre 2021	202109	32	Gúdar-Javalambre	Mujeres	60-64	4
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	16-19	7
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	16-19	2
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	20-24	11
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	20-24	17
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	25-29	7
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	25-29	9
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	30-34	9
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	30-34	13
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	35-39	10
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	35-39	11
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	40-44	17
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	40-44	4
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	45-49	10
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	45-49	7
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	50-54	5
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	50-54	6
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	55-59	5
+Septiembre 2021	202109	33	Matarraña / Matarranya	Mujeres	55-59	7
+Septiembre 2021	202109	33	Matarraña / Matarranya	Hombres	60-64	1
 Agosto 2021	202108	01	La Jacetania	Hombres	16-19	19
 Agosto 2021	202108	01	La Jacetania	Mujeres	16-19	21
 Agosto 2021	202108	01	La Jacetania	Hombres	20-24	41
