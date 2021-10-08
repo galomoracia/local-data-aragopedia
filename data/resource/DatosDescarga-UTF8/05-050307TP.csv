@@ -1,4 +1,59 @@
 Mes y año	Mes (código)	Mes nombre	Año	AÑO-CNO	Provincia código	Provincia nombre	 CASE  WHEN Ocupación (1 dígito) código = '0' THEN '99' ELSE Ocupación (1 dígito) código END	Ocupación (1 dígito) descripción	Sexo	Número de contratos
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	1	Directores y gerentes	Hombres	14
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	1	Directores y gerentes	Mujeres	15
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	2	Técnicos y profesionales científicos e intelectuales	Hombres	238
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	2	Técnicos y profesionales científicos e intelectuales	Mujeres	283
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	3	Técnicos; profesionales de apoyo	Hombres	322
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	3	Técnicos; profesionales de apoyo	Mujeres	185
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	181
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	293
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	832
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	1395
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	87
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	7
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	586
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	89
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	419
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	68
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	9	Ocupaciones elementales	Hombres	1538
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	22	Huesca	9	Ocupaciones elementales	Mujeres	1329
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	1	Directores y gerentes	Hombres	5
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	1	Directores y gerentes	Mujeres	6
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	2	Técnicos y profesionales científicos e intelectuales	Hombres	74
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	2	Técnicos y profesionales científicos e intelectuales	Mujeres	153
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	3	Técnicos; profesionales de apoyo	Hombres	97
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	3	Técnicos; profesionales de apoyo	Mujeres	73
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	37
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	100
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	440
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	787
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	56
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	7
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	570
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	146
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	345
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	49
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	9	Ocupaciones elementales	Hombres	825
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	44	Teruel	9	Ocupaciones elementales	Mujeres	654
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	1	Directores y gerentes	Hombres	53
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	1	Directores y gerentes	Mujeres	32
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	2	Técnicos y profesionales científicos e intelectuales	Hombres	1701
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	2	Técnicos y profesionales científicos e intelectuales	Mujeres	2238
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	3	Técnicos; profesionales de apoyo	Hombres	2004
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	3	Técnicos; profesionales de apoyo	Mujeres	1515
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	4	Empleados contables, administrativos y otros empleados de oficina	Hombres	787
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	4	Empleados contables, administrativos y otros empleados de oficina	Mujeres	1472
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Hombres	3605
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	5	Trabajadores de los servicios de restauración, personales, protección y vendedores	Mujeres	5291
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Hombres	188
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	6	Trabajadores cualificados en el sector agrícola, ganadero, forestal y pesquero	Mujeres	67
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Hombres	2020
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	7	Artesanos y trabajadores cualificados de las industrias manufactureras y la construcción (excepto operadores de instalaciones y maquinaria)	Mujeres	341
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	8	Operadores de instalaciones y maquinaria, y montadores	Hombres	2632
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	8	Operadores de instalaciones y maquinaria, y montadores	Mujeres	1000
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	9	Ocupaciones elementales	Hombres	11730
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	9	Ocupaciones elementales	Mujeres	8506
+Septiembre 2021	202109	Septiembre	2021	CNO - 2011	50	Zaragoza	99	Ocupaciones militares	Hombres	1
 Agosto 2021	202108	Agosto	2021	CNO - 2011	22	Huesca	1	Directores y gerentes	Hombres	8
 Agosto 2021	202108	Agosto	2021	CNO - 2011	22	Huesca	1	Directores y gerentes	Mujeres	5
 Agosto 2021	202108	Agosto	2021	CNO - 2011	22	Huesca	2	Técnicos y profesionales científicos e intelectuales	Hombres	157

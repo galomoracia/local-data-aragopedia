@@ -1,4 +1,34 @@
 Mes y año	Provincia código	Provincia nombre	Sector código	Sector descripción	Sexo	Nº parados
+Septiembre 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	519
+Septiembre 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	250
+Septiembre 2021	22	Huesca	2	Industria y energía	Hombres	485
+Septiembre 2021	22	Huesca	2	Industria y energía	Mujeres	299
+Septiembre 2021	22	Huesca	3	Construcción	Hombres	532
+Septiembre 2021	22	Huesca	3	Construcción	Mujeres	76
+Septiembre 2021	22	Huesca	4	Servicios	Hombres	1844
+Septiembre 2021	22	Huesca	4	Servicios	Mujeres	3907
+Septiembre 2021	22	Huesca		Sin empleo anterior	Hombres	218
+Septiembre 2021	22	Huesca		Sin empleo anterior	Mujeres	358
+Septiembre 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	199
+Septiembre 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	111
+Septiembre 2021	44	Teruel	2	Industria y energía	Hombres	323
+Septiembre 2021	44	Teruel	2	Industria y energía	Mujeres	250
+Septiembre 2021	44	Teruel	3	Construcción	Hombres	330
+Septiembre 2021	44	Teruel	3	Construcción	Mujeres	45
+Septiembre 2021	44	Teruel	4	Servicios	Hombres	1097
+Septiembre 2021	44	Teruel	4	Servicios	Mujeres	2308
+Septiembre 2021	44	Teruel		Sin empleo anterior	Hombres	120
+Septiembre 2021	44	Teruel		Sin empleo anterior	Mujeres	254
+Septiembre 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1420
+Septiembre 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	944
+Septiembre 2021	50	Zaragoza	2	Industria y energía	Hombres	3250
+Septiembre 2021	50	Zaragoza	2	Industria y energía	Mujeres	2802
+Septiembre 2021	50	Zaragoza	3	Construcción	Hombres	2404
+Septiembre 2021	50	Zaragoza	3	Construcción	Mujeres	435
+Septiembre 2021	50	Zaragoza	4	Servicios	Hombres	11060
+Septiembre 2021	50	Zaragoza	4	Servicios	Mujeres	23235
+Septiembre 2021	50	Zaragoza		Sin empleo anterior	Hombres	1280
+Septiembre 2021	50	Zaragoza		Sin empleo anterior	Mujeres	2794
 Agosto 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	491
 Agosto 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	232
 Agosto 2021	22	Huesca	2	Industria y energía	Hombres	507

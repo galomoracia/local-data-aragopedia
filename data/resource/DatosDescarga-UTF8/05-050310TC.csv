@@ -1,4 +1,456 @@
 Año	Mes (código)	Mes nombre	Mes y año	Sexo	Comarca código	Comarca nombre	Temporalidad	Modalidad	Grupo de tipo de contrato	Número de contratos
+2021	202109	Septiembre	Septiembre 2021	Hombres	01	La Jacetania	Indefinido	Indefinido	Indef. Fomento	12
+2021	202109	Septiembre	Septiembre 2021	Hombres	01	La Jacetania	Indefinido	Indefinido	Indef. Ordinario	10
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Indefinido	Indefinido	Indef. Fomento	15
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Indefinido	Indefinido	Indef. Ordinario	14
+2021	202109	Septiembre	Septiembre 2021	Hombres	01	La Jacetania	Temporal	Obra o servicio	Obra o servicio	88
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Temporal	Obra o servicio	Obra o servicio	84
+2021	202109	Septiembre	Septiembre 2021	Hombres	01	La Jacetania	Temporal	Eventual por circunstancias de la producción	Eventual producción	89
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Temporal	Eventual por circunstancias de la producción	Eventual producción	80
+2021	202109	Septiembre	Septiembre 2021	Hombres	01	La Jacetania	Temporal	Interinidad	Interinidad	12
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Temporal	Interinidad	Interinidad	41
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Temporal	Ligados a la jubilación	Relevo	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	01	La Jacetania	Temporal	Ligados a la formación	Formación	6
+2021	202109	Septiembre	Septiembre 2021	Hombres	01	La Jacetania	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Temporal	Ligados a la formación	Formación	4
+2021	202109	Septiembre	Septiembre 2021	Mujeres	01	La Jacetania	Temporal	Ligados a la formación	Prácticas	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	02	Alto Gállego	Indefinido	Indefinido	Indef. Fomento	16
+2021	202109	Septiembre	Septiembre 2021	Hombres	02	Alto Gállego	Indefinido	Indefinido	Indef. Ordinario	9
+2021	202109	Septiembre	Septiembre 2021	Mujeres	02	Alto Gállego	Indefinido	Indefinido	Indef. Fomento	16
+2021	202109	Septiembre	Septiembre 2021	Mujeres	02	Alto Gállego	Indefinido	Indefinido	Indef. Ordinario	7
+2021	202109	Septiembre	Septiembre 2021	Mujeres	02	Alto Gállego	Indefinido	Discapacitados	Minusválidos	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	02	Alto Gállego	Temporal	Obra o servicio	Obra o servicio	53
+2021	202109	Septiembre	Septiembre 2021	Mujeres	02	Alto Gállego	Temporal	Obra o servicio	Obra o servicio	40
+2021	202109	Septiembre	Septiembre 2021	Hombres	02	Alto Gállego	Temporal	Eventual por circunstancias de la producción	Eventual producción	77
+2021	202109	Septiembre	Septiembre 2021	Mujeres	02	Alto Gállego	Temporal	Eventual por circunstancias de la producción	Eventual producción	81
+2021	202109	Septiembre	Septiembre 2021	Hombres	02	Alto Gállego	Temporal	Interinidad	Interinidad	4
+2021	202109	Septiembre	Septiembre 2021	Mujeres	02	Alto Gállego	Temporal	Interinidad	Interinidad	9
+2021	202109	Septiembre	Septiembre 2021	Hombres	02	Alto Gállego	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	02	Alto Gállego	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	02	Alto Gállego	Temporal	Ligados a la formación	Formación	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	02	Alto Gállego	Temporal	Ligados a la formación	Formación	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	03	Sobrarbe	Indefinido	Indefinido	Indef. Fomento	6
+2021	202109	Septiembre	Septiembre 2021	Hombres	03	Sobrarbe	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202109	Septiembre	Septiembre 2021	Mujeres	03	Sobrarbe	Indefinido	Indefinido	Indef. Fomento	7
+2021	202109	Septiembre	Septiembre 2021	Mujeres	03	Sobrarbe	Indefinido	Indefinido	Indef. Ordinario	4
+2021	202109	Septiembre	Septiembre 2021	Hombres	03	Sobrarbe	Temporal	Obra o servicio	Obra o servicio	40
+2021	202109	Septiembre	Septiembre 2021	Mujeres	03	Sobrarbe	Temporal	Obra o servicio	Obra o servicio	50
+2021	202109	Septiembre	Septiembre 2021	Hombres	03	Sobrarbe	Temporal	Eventual por circunstancias de la producción	Eventual producción	87
+2021	202109	Septiembre	Septiembre 2021	Mujeres	03	Sobrarbe	Temporal	Eventual por circunstancias de la producción	Eventual producción	67
+2021	202109	Septiembre	Septiembre 2021	Hombres	03	Sobrarbe	Temporal	Interinidad	Interinidad	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	03	Sobrarbe	Temporal	Interinidad	Interinidad	12
+2021	202109	Septiembre	Septiembre 2021	Hombres	03	Sobrarbe	Temporal	Ligados a la formación	Formación	8
+2021	202109	Septiembre	Septiembre 2021	Hombres	04	La Ribagorza	Indefinido	Indefinido	Indef. Fomento	7
+2021	202109	Septiembre	Septiembre 2021	Hombres	04	La Ribagorza	Indefinido	Indefinido	Indef. Ordinario	10
+2021	202109	Septiembre	Septiembre 2021	Mujeres	04	La Ribagorza	Indefinido	Indefinido	Indef. Fomento	4
+2021	202109	Septiembre	Septiembre 2021	Mujeres	04	La Ribagorza	Indefinido	Indefinido	Indef. Ordinario	12
+2021	202109	Septiembre	Septiembre 2021	Hombres	04	La Ribagorza	Temporal	Obra o servicio	Obra o servicio	46
+2021	202109	Septiembre	Septiembre 2021	Mujeres	04	La Ribagorza	Temporal	Obra o servicio	Obra o servicio	46
+2021	202109	Septiembre	Septiembre 2021	Hombres	04	La Ribagorza	Temporal	Eventual por circunstancias de la producción	Eventual producción	48
+2021	202109	Septiembre	Septiembre 2021	Mujeres	04	La Ribagorza	Temporal	Eventual por circunstancias de la producción	Eventual producción	56
+2021	202109	Septiembre	Septiembre 2021	Hombres	04	La Ribagorza	Temporal	Interinidad	Interinidad	11
+2021	202109	Septiembre	Septiembre 2021	Mujeres	04	La Ribagorza	Temporal	Interinidad	Interinidad	32
+2021	202109	Septiembre	Septiembre 2021	Mujeres	04	La Ribagorza	Temporal	Ligados a la formación	Formación	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Indefinido	Indefinido	Indef. Fomento	36
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Indefinido	Indefinido	Indef. Ordinario	21
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Indefinido	Indefinido	Indef. Fomento	9
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Indefinido	Indefinido	Indef. Ordinario	11
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Temporal	Obra o servicio	Obra o servicio	220
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Temporal	Obra o servicio	Obra o servicio	203
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Temporal	Eventual por circunstancias de la producción	Eventual producción	234
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Temporal	Eventual por circunstancias de la producción	Eventual producción	187
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Temporal	Interinidad	Interinidad	7
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Temporal	Interinidad	Interinidad	28
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Temporal	Discapacitados	Temp. Minusv	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Temporal	Discapacitados	Temp. Minusv	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Temporal	Ligados a la jubilación	Sust. Jubilación	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Temporal	Ligados a la formación	Formación	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Temporal	Ligados a la formación	Formación	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	05	Cinco Villas	Temporal	Ligados a la formación	Prácticas	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	05	Cinco Villas	Temporal	Otros	Otros	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Indefinido	Indef. Fomento	82
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Indefinido	Indef. Ordinario	71
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Indefinido	Indef. Fomento	64
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Indefinido	Indef. Ordinario	69
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Indefinido	Discapacitados	Minusválidos	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Obra o servicio	Obra o servicio	400
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Obra o servicio	Obra o servicio	286
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Eventual por circunstancias de la producción	Eventual producción	606
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Eventual por circunstancias de la producción	Eventual producción	712
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Interinidad	Interinidad	76
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Interinidad	Interinidad	145
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Discapacitados	Temp. Minusv	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la jubilación	Jubilación parcial	6
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la jubilación	Relevo	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la jubilación	Jubilación parcial	4
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la jubilación	Relevo	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la formación	Formación	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la formación	Prácticas	5
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la formación	Formación	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Ligados a la formación	Prácticas	4
+2021	202109	Septiembre	Septiembre 2021	Hombres	06	Hoya de Huesca / Plana de Uesca	Temporal	Otros	Otros	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	06	Hoya de Huesca / Plana de Uesca	Temporal	Otros	Otros	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	07	Somontano de Barbastro	Indefinido	Indefinido	Indef. Fomento	17
+2021	202109	Septiembre	Septiembre 2021	Hombres	07	Somontano de Barbastro	Indefinido	Indefinido	Indef. Ordinario	15
+2021	202109	Septiembre	Septiembre 2021	Mujeres	07	Somontano de Barbastro	Indefinido	Indefinido	Indef. Fomento	13
+2021	202109	Septiembre	Septiembre 2021	Mujeres	07	Somontano de Barbastro	Indefinido	Indefinido	Indef. Ordinario	10
+2021	202109	Septiembre	Septiembre 2021	Hombres	07	Somontano de Barbastro	Indefinido	Discapacitados	Minusválidos	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	07	Somontano de Barbastro	Temporal	Obra o servicio	Obra o servicio	92
+2021	202109	Septiembre	Septiembre 2021	Mujeres	07	Somontano de Barbastro	Temporal	Obra o servicio	Obra o servicio	65
+2021	202109	Septiembre	Septiembre 2021	Hombres	07	Somontano de Barbastro	Temporal	Eventual por circunstancias de la producción	Eventual producción	196
+2021	202109	Septiembre	Septiembre 2021	Mujeres	07	Somontano de Barbastro	Temporal	Eventual por circunstancias de la producción	Eventual producción	172
+2021	202109	Septiembre	Septiembre 2021	Hombres	07	Somontano de Barbastro	Temporal	Interinidad	Interinidad	13
+2021	202109	Septiembre	Septiembre 2021	Mujeres	07	Somontano de Barbastro	Temporal	Interinidad	Interinidad	25
+2021	202109	Septiembre	Septiembre 2021	Mujeres	07	Somontano de Barbastro	Temporal	Discapacitados	Temp. Minusv	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	07	Somontano de Barbastro	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	07	Somontano de Barbastro	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	07	Somontano de Barbastro	Temporal	Ligados a la jubilación	Relevo	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Indefinido	Indefinido	Indef. Fomento	44
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Indefinido	Indefinido	Indef. Ordinario	32
+2021	202109	Septiembre	Septiembre 2021	Mujeres	08	Cinca Medio	Indefinido	Indefinido	Indef. Fomento	9
+2021	202109	Septiembre	Septiembre 2021	Mujeres	08	Cinca Medio	Indefinido	Indefinido	Indef. Ordinario	10
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Temporal	Obra o servicio	Obra o servicio	204
+2021	202109	Septiembre	Septiembre 2021	Mujeres	08	Cinca Medio	Temporal	Obra o servicio	Obra o servicio	116
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Temporal	Eventual por circunstancias de la producción	Eventual producción	251
+2021	202109	Septiembre	Septiembre 2021	Mujeres	08	Cinca Medio	Temporal	Eventual por circunstancias de la producción	Eventual producción	299
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Temporal	Interinidad	Interinidad	14
+2021	202109	Septiembre	Septiembre 2021	Mujeres	08	Cinca Medio	Temporal	Interinidad	Interinidad	41
+2021	202109	Septiembre	Septiembre 2021	Mujeres	08	Cinca Medio	Temporal	Discapacitados	Temp. Minusv	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Temporal	Ligados a la jubilación	Jubilación parcial	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Temporal	Ligados a la jubilación	Relevo	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Temporal	Ligados a la formación	Formación	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	08	Cinca Medio	Temporal	Ligados a la formación	Prácticas	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	08	Cinca Medio	Temporal	Ligados a la formación	Formación	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	08	Cinca Medio	Temporal	Otros	Temp. Inserción	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	09	La Litera / La Llitera	Indefinido	Indefinido	Indef. Fomento	38
+2021	202109	Septiembre	Septiembre 2021	Hombres	09	La Litera / La Llitera	Indefinido	Indefinido	Indef. Ordinario	25
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Indefinido	Indefinido	Indef. Fomento	21
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Indefinido	Indefinido	Indef. Ordinario	19
+2021	202109	Septiembre	Septiembre 2021	Hombres	09	La Litera / La Llitera	Temporal	Obra o servicio	Obra o servicio	166
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Temporal	Obra o servicio	Obra o servicio	79
+2021	202109	Septiembre	Septiembre 2021	Hombres	09	La Litera / La Llitera	Temporal	Eventual por circunstancias de la producción	Eventual producción	284
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Temporal	Eventual por circunstancias de la producción	Eventual producción	146
+2021	202109	Septiembre	Septiembre 2021	Hombres	09	La Litera / La Llitera	Temporal	Interinidad	Interinidad	9
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Temporal	Interinidad	Interinidad	40
+2021	202109	Septiembre	Septiembre 2021	Hombres	09	La Litera / La Llitera	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Temporal	Ligados a la jubilación	Relevo	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	09	La Litera / La Llitera	Temporal	Ligados a la formación	Formación	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	09	La Litera / La Llitera	Temporal	Ligados a la formación	Prácticas	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Temporal	Ligados a la formación	Formación	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	09	La Litera / La Llitera	Temporal	Ligados a la formación	Prácticas	4
+2021	202109	Septiembre	Septiembre 2021	Hombres	10	Los Monegros	Indefinido	Indefinido	Indef. Fomento	12
+2021	202109	Septiembre	Septiembre 2021	Hombres	10	Los Monegros	Indefinido	Indefinido	Indef. Ordinario	17
+2021	202109	Septiembre	Septiembre 2021	Mujeres	10	Los Monegros	Indefinido	Indefinido	Indef. Fomento	5
+2021	202109	Septiembre	Septiembre 2021	Mujeres	10	Los Monegros	Indefinido	Indefinido	Indef. Ordinario	10
+2021	202109	Septiembre	Septiembre 2021	Hombres	10	Los Monegros	Temporal	Obra o servicio	Obra o servicio	185
+2021	202109	Septiembre	Septiembre 2021	Mujeres	10	Los Monegros	Temporal	Obra o servicio	Obra o servicio	40
+2021	202109	Septiembre	Septiembre 2021	Hombres	10	Los Monegros	Temporal	Eventual por circunstancias de la producción	Eventual producción	69
+2021	202109	Septiembre	Septiembre 2021	Mujeres	10	Los Monegros	Temporal	Eventual por circunstancias de la producción	Eventual producción	57
+2021	202109	Septiembre	Septiembre 2021	Hombres	10	Los Monegros	Temporal	Interinidad	Interinidad	4
+2021	202109	Septiembre	Septiembre 2021	Mujeres	10	Los Monegros	Temporal	Interinidad	Interinidad	26
+2021	202109	Septiembre	Septiembre 2021	Hombres	10	Los Monegros	Temporal	Ligados a la formación	Formación	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	10	Los Monegros	Temporal	Ligados a la formación	Formación	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	10	Los Monegros	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	11	Bajo Cinca / Baix Cinca	Indefinido	Indefinido	Indef. Fomento	69
+2021	202109	Septiembre	Septiembre 2021	Hombres	11	Bajo Cinca / Baix Cinca	Indefinido	Indefinido	Indef. Ordinario	39
+2021	202109	Septiembre	Septiembre 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Indefinido	Indefinido	Indef. Fomento	68
+2021	202109	Septiembre	Septiembre 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Indefinido	Indefinido	Indef. Ordinario	19
+2021	202109	Septiembre	Septiembre 2021	Hombres	11	Bajo Cinca / Baix Cinca	Temporal	Obra o servicio	Obra o servicio	354
+2021	202109	Septiembre	Septiembre 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Temporal	Obra o servicio	Obra o servicio	142
+2021	202109	Septiembre	Septiembre 2021	Hombres	11	Bajo Cinca / Baix Cinca	Temporal	Eventual por circunstancias de la producción	Eventual producción	281
+2021	202109	Septiembre	Septiembre 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Temporal	Eventual por circunstancias de la producción	Eventual producción	461
+2021	202109	Septiembre	Septiembre 2021	Hombres	11	Bajo Cinca / Baix Cinca	Temporal	Interinidad	Interinidad	6
+2021	202109	Septiembre	Septiembre 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Temporal	Interinidad	Interinidad	16
+2021	202109	Septiembre	Septiembre 2021	Hombres	11	Bajo Cinca / Baix Cinca	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	11	Bajo Cinca / Baix Cinca	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	12	Tarazona y el Moncayo	Indefinido	Indefinido	Indef. Fomento	9
+2021	202109	Septiembre	Septiembre 2021	Hombres	12	Tarazona y el Moncayo	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Indefinido	Indefinido	Indef. Fomento	6
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Indefinido	Indefinido	Indef. Ordinario	4
+2021	202109	Septiembre	Septiembre 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Obra o servicio	Obra o servicio	95
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Obra o servicio	Obra o servicio	52
+2021	202109	Septiembre	Septiembre 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Eventual por circunstancias de la producción	Eventual producción	262
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Eventual por circunstancias de la producción	Eventual producción	194
+2021	202109	Septiembre	Septiembre 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Interinidad	Interinidad	8
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Interinidad	Interinidad	14
+2021	202109	Septiembre	Septiembre 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Ligados a la jubilación	Jubilación parcial	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Ligados a la jubilación	Relevo	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	12	Tarazona y el Moncayo	Temporal	Ligados a la formación	Formación	4
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Ligados a la formación	Formación	4
+2021	202109	Septiembre	Septiembre 2021	Mujeres	12	Tarazona y el Moncayo	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	13	Campo de Borja	Indefinido	Indefinido	Indef. Fomento	11
+2021	202109	Septiembre	Septiembre 2021	Hombres	13	Campo de Borja	Indefinido	Indefinido	Indef. Ordinario	22
+2021	202109	Septiembre	Septiembre 2021	Mujeres	13	Campo de Borja	Indefinido	Indefinido	Indef. Fomento	6
+2021	202109	Septiembre	Septiembre 2021	Mujeres	13	Campo de Borja	Indefinido	Indefinido	Indef. Ordinario	10
+2021	202109	Septiembre	Septiembre 2021	Hombres	13	Campo de Borja	Temporal	Obra o servicio	Obra o servicio	124
+2021	202109	Septiembre	Septiembre 2021	Mujeres	13	Campo de Borja	Temporal	Obra o servicio	Obra o servicio	52
+2021	202109	Septiembre	Septiembre 2021	Hombres	13	Campo de Borja	Temporal	Eventual por circunstancias de la producción	Eventual producción	85
+2021	202109	Septiembre	Septiembre 2021	Mujeres	13	Campo de Borja	Temporal	Eventual por circunstancias de la producción	Eventual producción	102
+2021	202109	Septiembre	Septiembre 2021	Hombres	13	Campo de Borja	Temporal	Interinidad	Interinidad	12
+2021	202109	Septiembre	Septiembre 2021	Mujeres	13	Campo de Borja	Temporal	Interinidad	Interinidad	38
+2021	202109	Septiembre	Septiembre 2021	Hombres	13	Campo de Borja	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	13	Campo de Borja	Temporal	Ligados a la formación	Prácticas	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	14	Aranda	Indefinido	Indefinido	Indef. Fomento	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	14	Aranda	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	14	Aranda	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	14	Aranda	Temporal	Obra o servicio	Obra o servicio	22
+2021	202109	Septiembre	Septiembre 2021	Mujeres	14	Aranda	Temporal	Obra o servicio	Obra o servicio	32
+2021	202109	Septiembre	Septiembre 2021	Hombres	14	Aranda	Temporal	Eventual por circunstancias de la producción	Eventual producción	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	14	Aranda	Temporal	Eventual por circunstancias de la producción	Eventual producción	4
+2021	202109	Septiembre	Septiembre 2021	Hombres	14	Aranda	Temporal	Interinidad	Interinidad	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	14	Aranda	Temporal	Interinidad	Interinidad	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	14	Aranda	Temporal	Ligados a la formación	Formación	10
+2021	202109	Septiembre	Septiembre 2021	Mujeres	14	Aranda	Temporal	Ligados a la formación	Formación	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	15	Ribera Alta del Ebro	Indefinido	Indefinido	Indef. Fomento	25
+2021	202109	Septiembre	Septiembre 2021	Hombres	15	Ribera Alta del Ebro	Indefinido	Indefinido	Indef. Ordinario	24
+2021	202109	Septiembre	Septiembre 2021	Mujeres	15	Ribera Alta del Ebro	Indefinido	Indefinido	Indef. Fomento	16
+2021	202109	Septiembre	Septiembre 2021	Mujeres	15	Ribera Alta del Ebro	Indefinido	Indefinido	Indef. Ordinario	13
+2021	202109	Septiembre	Septiembre 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Obra o servicio	Obra o servicio	262
+2021	202109	Septiembre	Septiembre 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Obra o servicio	Obra o servicio	186
+2021	202109	Septiembre	Septiembre 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Eventual por circunstancias de la producción	Eventual producción	1208
+2021	202109	Septiembre	Septiembre 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Eventual por circunstancias de la producción	Eventual producción	498
+2021	202109	Septiembre	Septiembre 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Interinidad	Interinidad	14
+2021	202109	Septiembre	Septiembre 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Interinidad	Interinidad	79
+2021	202109	Septiembre	Septiembre 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Ligados a la jubilación	Jubilación parcial	13
+2021	202109	Septiembre	Septiembre 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Ligados a la jubilación	Relevo	17
+2021	202109	Septiembre	Septiembre 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	15	Ribera Alta del Ebro	Temporal	Ligados a la jubilación	Relevo	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	15	Ribera Alta del Ebro	Temporal	Ligados a la formación	Formación	8
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Indefinido	Indefinido	Indef. Fomento	33
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Indefinido	Indefinido	Indef. Ordinario	42
+2021	202109	Septiembre	Septiembre 2021	Mujeres	16	Valdejalón	Indefinido	Indefinido	Indef. Fomento	12
+2021	202109	Septiembre	Septiembre 2021	Mujeres	16	Valdejalón	Indefinido	Indefinido	Indef. Ordinario	23
+2021	202109	Septiembre	Septiembre 2021	Mujeres	16	Valdejalón	Indefinido	Discapacitados	Minusválidos	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Temporal	Obra o servicio	Obra o servicio	1205
+2021	202109	Septiembre	Septiembre 2021	Mujeres	16	Valdejalón	Temporal	Obra o servicio	Obra o servicio	408
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Temporal	Eventual por circunstancias de la producción	Eventual producción	628
+2021	202109	Septiembre	Septiembre 2021	Mujeres	16	Valdejalón	Temporal	Eventual por circunstancias de la producción	Eventual producción	337
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Temporal	Interinidad	Interinidad	29
+2021	202109	Septiembre	Septiembre 2021	Mujeres	16	Valdejalón	Temporal	Interinidad	Interinidad	18
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Temporal	Discapacitados	Temp. Minusv	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	16	Valdejalón	Temporal	Discapacitados	Temp. Minusv	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Temporal	Ligados a la formación	Prácticas	4
+2021	202109	Septiembre	Septiembre 2021	Hombres	16	Valdejalón	Temporal	Otros	Otros	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	16	Valdejalón	Temporal	Otros	Otros	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Indefinido	Indefinido	Indef. Fomento	686
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Indefinido	Indefinido	Indef. Ordinario	1117
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Indefinido	Indefinido	Indef. Fomento	605
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Indefinido	Indefinido	Indef. Ordinario	1229
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Indefinido	Discapacitados	Minusválidos	10
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Indefinido	Discapacitados	Minusválidos	14
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Obra o servicio	Obra o servicio	5563
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Obra o servicio	Obra o servicio	4518
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Eventual por circunstancias de la producción	Eventual producción	9206
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Eventual por circunstancias de la producción	Eventual producción	8022
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Interinidad	Interinidad	536
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Interinidad	Interinidad	1717
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Discapacitados	Temp. Minusv	21
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Discapacitados	Temp. Minusv	9
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Ligados a la jubilación	Jubilación parcial	86
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Ligados a la jubilación	Relevo	9
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Ligados a la jubilación	Jubilación parcial	47
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Ligados a la jubilación	Relevo	22
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Ligados a la jubilación	Sust. Jubilación	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Ligados a la formación	Formación	79
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Ligados a la formación	Prácticas	98
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Ligados a la formación	Formación	46
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Ligados a la formación	Prácticas	99
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Otros	Otros	23
+2021	202109	Septiembre	Septiembre 2021	Hombres	17	Central	Temporal	Otros	Temp. Inserción	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Otros	Otros	19
+2021	202109	Septiembre	Septiembre 2021	Mujeres	17	Central	Temporal	Otros	Temp. Inserción	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	18	Ribera Baja del Ebro	Indefinido	Indefinido	Indef. Fomento	10
+2021	202109	Septiembre	Septiembre 2021	Hombres	18	Ribera Baja del Ebro	Indefinido	Indefinido	Indef. Ordinario	21
+2021	202109	Septiembre	Septiembre 2021	Mujeres	18	Ribera Baja del Ebro	Indefinido	Indefinido	Indef. Fomento	6
+2021	202109	Septiembre	Septiembre 2021	Mujeres	18	Ribera Baja del Ebro	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	18	Ribera Baja del Ebro	Temporal	Obra o servicio	Obra o servicio	124
+2021	202109	Septiembre	Septiembre 2021	Mujeres	18	Ribera Baja del Ebro	Temporal	Obra o servicio	Obra o servicio	37
+2021	202109	Septiembre	Septiembre 2021	Hombres	18	Ribera Baja del Ebro	Temporal	Eventual por circunstancias de la producción	Eventual producción	67
+2021	202109	Septiembre	Septiembre 2021	Mujeres	18	Ribera Baja del Ebro	Temporal	Eventual por circunstancias de la producción	Eventual producción	91
+2021	202109	Septiembre	Septiembre 2021	Hombres	18	Ribera Baja del Ebro	Temporal	Interinidad	Interinidad	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	18	Ribera Baja del Ebro	Temporal	Interinidad	Interinidad	13
+2021	202109	Septiembre	Septiembre 2021	Hombres	18	Ribera Baja del Ebro	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Indefinido	Indef. Fomento	4
+2021	202109	Septiembre	Septiembre 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Indefinido	Indef. Ordinario	22
+2021	202109	Septiembre	Septiembre 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Indefinido	Indef. Fomento	6
+2021	202109	Septiembre	Septiembre 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Indefinido	Indefinido	Indef. Ordinario	9
+2021	202109	Septiembre	Septiembre 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Obra o servicio	Obra o servicio	166
+2021	202109	Septiembre	Septiembre 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Obra o servicio	Obra o servicio	64
+2021	202109	Septiembre	Septiembre 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Eventual por circunstancias de la producción	Eventual producción	83
+2021	202109	Septiembre	Septiembre 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Eventual por circunstancias de la producción	Eventual producción	38
+2021	202109	Septiembre	Septiembre 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Interinidad	Interinidad	8
+2021	202109	Septiembre	Septiembre 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Interinidad	Interinidad	27
+2021	202109	Septiembre	Septiembre 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	20	Comunidad de Calatayud	Indefinido	Indefinido	Indef. Fomento	23
+2021	202109	Septiembre	Septiembre 2021	Hombres	20	Comunidad de Calatayud	Indefinido	Indefinido	Indef. Ordinario	18
+2021	202109	Septiembre	Septiembre 2021	Mujeres	20	Comunidad de Calatayud	Indefinido	Indefinido	Indef. Fomento	19
+2021	202109	Septiembre	Septiembre 2021	Mujeres	20	Comunidad de Calatayud	Indefinido	Indefinido	Indef. Ordinario	26
+2021	202109	Septiembre	Septiembre 2021	Hombres	20	Comunidad de Calatayud	Temporal	Obra o servicio	Obra o servicio	527
+2021	202109	Septiembre	Septiembre 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Obra o servicio	Obra o servicio	308
+2021	202109	Septiembre	Septiembre 2021	Hombres	20	Comunidad de Calatayud	Temporal	Eventual por circunstancias de la producción	Eventual producción	367
+2021	202109	Septiembre	Septiembre 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Eventual por circunstancias de la producción	Eventual producción	266
+2021	202109	Septiembre	Septiembre 2021	Hombres	20	Comunidad de Calatayud	Temporal	Interinidad	Interinidad	15
+2021	202109	Septiembre	Septiembre 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Interinidad	Interinidad	27
+2021	202109	Septiembre	Septiembre 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Discapacitados	Temp. Minusv	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	20	Comunidad de Calatayud	Temporal	Ligados a la jubilación	Relevo	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	20	Comunidad de Calatayud	Temporal	Ligados a la formación	Formación	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	20	Comunidad de Calatayud	Temporal	Ligados a la formación	Prácticas	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	21	Campo de Cariñena	Indefinido	Indefinido	Indef. Fomento	10
+2021	202109	Septiembre	Septiembre 2021	Hombres	21	Campo de Cariñena	Indefinido	Indefinido	Indef. Ordinario	24
+2021	202109	Septiembre	Septiembre 2021	Mujeres	21	Campo de Cariñena	Indefinido	Indefinido	Indef. Fomento	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	21	Campo de Cariñena	Indefinido	Indefinido	Indef. Ordinario	18
+2021	202109	Septiembre	Septiembre 2021	Hombres	21	Campo de Cariñena	Temporal	Obra o servicio	Obra o servicio	571
+2021	202109	Septiembre	Septiembre 2021	Mujeres	21	Campo de Cariñena	Temporal	Obra o servicio	Obra o servicio	144
+2021	202109	Septiembre	Septiembre 2021	Hombres	21	Campo de Cariñena	Temporal	Eventual por circunstancias de la producción	Eventual producción	241
+2021	202109	Septiembre	Septiembre 2021	Mujeres	21	Campo de Cariñena	Temporal	Eventual por circunstancias de la producción	Eventual producción	78
+2021	202109	Septiembre	Septiembre 2021	Hombres	21	Campo de Cariñena	Temporal	Interinidad	Interinidad	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	21	Campo de Cariñena	Temporal	Interinidad	Interinidad	17
+2021	202109	Septiembre	Septiembre 2021	Hombres	21	Campo de Cariñena	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	21	Campo de Cariñena	Temporal	Ligados a la jubilación	Jubilación parcial	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	21	Campo de Cariñena	Temporal	Ligados a la jubilación	Relevo	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	21	Campo de Cariñena	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	21	Campo de Cariñena	Temporal	Otros	Otros	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	22	Campo de Belchite	Indefinido	Indefinido	Indef. Fomento	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	22	Campo de Belchite	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	22	Campo de Belchite	Indefinido	Indefinido	Indef. Fomento	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	22	Campo de Belchite	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	22	Campo de Belchite	Temporal	Obra o servicio	Obra o servicio	20
+2021	202109	Septiembre	Septiembre 2021	Mujeres	22	Campo de Belchite	Temporal	Obra o servicio	Obra o servicio	8
+2021	202109	Septiembre	Septiembre 2021	Hombres	22	Campo de Belchite	Temporal	Eventual por circunstancias de la producción	Eventual producción	11
+2021	202109	Septiembre	Septiembre 2021	Mujeres	22	Campo de Belchite	Temporal	Eventual por circunstancias de la producción	Eventual producción	17
+2021	202109	Septiembre	Septiembre 2021	Mujeres	22	Campo de Belchite	Temporal	Interinidad	Interinidad	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	23	Bajo Martín	Indefinido	Indefinido	Indef. Fomento	14
+2021	202109	Septiembre	Septiembre 2021	Hombres	23	Bajo Martín	Indefinido	Indefinido	Indef. Ordinario	8
+2021	202109	Septiembre	Septiembre 2021	Mujeres	23	Bajo Martín	Indefinido	Indefinido	Indef. Fomento	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	23	Bajo Martín	Temporal	Obra o servicio	Obra o servicio	52
+2021	202109	Septiembre	Septiembre 2021	Mujeres	23	Bajo Martín	Temporal	Obra o servicio	Obra o servicio	31
+2021	202109	Septiembre	Septiembre 2021	Hombres	23	Bajo Martín	Temporal	Eventual por circunstancias de la producción	Eventual producción	42
+2021	202109	Septiembre	Septiembre 2021	Mujeres	23	Bajo Martín	Temporal	Eventual por circunstancias de la producción	Eventual producción	27
+2021	202109	Septiembre	Septiembre 2021	Hombres	23	Bajo Martín	Temporal	Interinidad	Interinidad	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	23	Bajo Martín	Temporal	Interinidad	Interinidad	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	24	Campo de Daroca	Indefinido	Indefinido	Indef. Fomento	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	24	Campo de Daroca	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	24	Campo de Daroca	Indefinido	Indefinido	Indef. Ordinario	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	24	Campo de Daroca	Temporal	Obra o servicio	Obra o servicio	36
+2021	202109	Septiembre	Septiembre 2021	Mujeres	24	Campo de Daroca	Temporal	Obra o servicio	Obra o servicio	15
+2021	202109	Septiembre	Septiembre 2021	Hombres	24	Campo de Daroca	Temporal	Eventual por circunstancias de la producción	Eventual producción	20
+2021	202109	Septiembre	Septiembre 2021	Mujeres	24	Campo de Daroca	Temporal	Eventual por circunstancias de la producción	Eventual producción	26
+2021	202109	Septiembre	Septiembre 2021	Hombres	24	Campo de Daroca	Temporal	Interinidad	Interinidad	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	24	Campo de Daroca	Temporal	Interinidad	Interinidad	4
+2021	202109	Septiembre	Septiembre 2021	Hombres	25	Jiloca	Indefinido	Indefinido	Indef. Fomento	8
+2021	202109	Septiembre	Septiembre 2021	Hombres	25	Jiloca	Indefinido	Indefinido	Indef. Ordinario	8
+2021	202109	Septiembre	Septiembre 2021	Mujeres	25	Jiloca	Indefinido	Indefinido	Indef. Fomento	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	25	Jiloca	Indefinido	Indefinido	Indef. Ordinario	8
+2021	202109	Septiembre	Septiembre 2021	Hombres	25	Jiloca	Temporal	Obra o servicio	Obra o servicio	36
+2021	202109	Septiembre	Septiembre 2021	Mujeres	25	Jiloca	Temporal	Obra o servicio	Obra o servicio	19
+2021	202109	Septiembre	Septiembre 2021	Hombres	25	Jiloca	Temporal	Eventual por circunstancias de la producción	Eventual producción	60
+2021	202109	Septiembre	Septiembre 2021	Mujeres	25	Jiloca	Temporal	Eventual por circunstancias de la producción	Eventual producción	48
+2021	202109	Septiembre	Septiembre 2021	Hombres	25	Jiloca	Temporal	Interinidad	Interinidad	5
+2021	202109	Septiembre	Septiembre 2021	Mujeres	25	Jiloca	Temporal	Interinidad	Interinidad	13
+2021	202109	Septiembre	Septiembre 2021	Hombres	25	Jiloca	Temporal	Ligados a la formación	Formación	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	26	Cuencas Mineras	Indefinido	Indefinido	Indef. Fomento	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	26	Cuencas Mineras	Indefinido	Indefinido	Indef. Ordinario	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	26	Cuencas Mineras	Indefinido	Indefinido	Indef. Fomento	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	26	Cuencas Mineras	Temporal	Obra o servicio	Obra o servicio	26
+2021	202109	Septiembre	Septiembre 2021	Mujeres	26	Cuencas Mineras	Temporal	Obra o servicio	Obra o servicio	14
+2021	202109	Septiembre	Septiembre 2021	Hombres	26	Cuencas Mineras	Temporal	Eventual por circunstancias de la producción	Eventual producción	40
+2021	202109	Septiembre	Septiembre 2021	Mujeres	26	Cuencas Mineras	Temporal	Eventual por circunstancias de la producción	Eventual producción	64
+2021	202109	Septiembre	Septiembre 2021	Hombres	26	Cuencas Mineras	Temporal	Interinidad	Interinidad	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	26	Cuencas Mineras	Temporal	Interinidad	Interinidad	16
+2021	202109	Septiembre	Septiembre 2021	Hombres	26	Cuencas Mineras	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	27	Andorra-Sierra de Arcos	Indefinido	Indefinido	Indef. Ordinario	5
+2021	202109	Septiembre	Septiembre 2021	Mujeres	27	Andorra-Sierra de Arcos	Indefinido	Indefinido	Indef. Fomento	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	27	Andorra-Sierra de Arcos	Indefinido	Indefinido	Indef. Ordinario	8
+2021	202109	Septiembre	Septiembre 2021	Mujeres	27	Andorra-Sierra de Arcos	Indefinido	Discapacitados	Minusválidos	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	27	Andorra-Sierra de Arcos	Temporal	Obra o servicio	Obra o servicio	52
+2021	202109	Septiembre	Septiembre 2021	Mujeres	27	Andorra-Sierra de Arcos	Temporal	Obra o servicio	Obra o servicio	19
+2021	202109	Septiembre	Septiembre 2021	Hombres	27	Andorra-Sierra de Arcos	Temporal	Eventual por circunstancias de la producción	Eventual producción	59
+2021	202109	Septiembre	Septiembre 2021	Mujeres	27	Andorra-Sierra de Arcos	Temporal	Eventual por circunstancias de la producción	Eventual producción	58
+2021	202109	Septiembre	Septiembre 2021	Hombres	27	Andorra-Sierra de Arcos	Temporal	Interinidad	Interinidad	9
+2021	202109	Septiembre	Septiembre 2021	Mujeres	27	Andorra-Sierra de Arcos	Temporal	Interinidad	Interinidad	30
+2021	202109	Septiembre	Septiembre 2021	Hombres	28	Bajo Aragón	Indefinido	Indefinido	Indef. Fomento	22
+2021	202109	Septiembre	Septiembre 2021	Hombres	28	Bajo Aragón	Indefinido	Indefinido	Indef. Ordinario	18
+2021	202109	Septiembre	Septiembre 2021	Mujeres	28	Bajo Aragón	Indefinido	Indefinido	Indef. Fomento	14
+2021	202109	Septiembre	Septiembre 2021	Mujeres	28	Bajo Aragón	Indefinido	Indefinido	Indef. Ordinario	26
+2021	202109	Septiembre	Septiembre 2021	Hombres	28	Bajo Aragón	Temporal	Obra o servicio	Obra o servicio	246
+2021	202109	Septiembre	Septiembre 2021	Mujeres	28	Bajo Aragón	Temporal	Obra o servicio	Obra o servicio	178
+2021	202109	Septiembre	Septiembre 2021	Hombres	28	Bajo Aragón	Temporal	Eventual por circunstancias de la producción	Eventual producción	457
+2021	202109	Septiembre	Septiembre 2021	Mujeres	28	Bajo Aragón	Temporal	Eventual por circunstancias de la producción	Eventual producción	260
+2021	202109	Septiembre	Septiembre 2021	Hombres	28	Bajo Aragón	Temporal	Interinidad	Interinidad	12
+2021	202109	Septiembre	Septiembre 2021	Mujeres	28	Bajo Aragón	Temporal	Interinidad	Interinidad	32
+2021	202109	Septiembre	Septiembre 2021	Hombres	28	Bajo Aragón	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Mujeres	28	Bajo Aragón	Temporal	Ligados a la formación	Prácticas	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Indefinido	Indefinido	Indef. Fomento	31
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Indefinido	Indefinido	Indef. Ordinario	53
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Indefinido	Indefinido	Indef. Fomento	38
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Indefinido	Indefinido	Indef. Ordinario	39
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Indefinido	Discapacitados	Minusválidos	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Obra o servicio	Obra o servicio	167
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Temporal	Obra o servicio	Obra o servicio	142
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Eventual por circunstancias de la producción	Eventual producción	645
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Temporal	Eventual por circunstancias de la producción	Eventual producción	457
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Interinidad	Interinidad	61
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Temporal	Interinidad	Interinidad	89
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Discapacitados	Temp. Minusv	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Ligados a la jubilación	Jubilación parcial	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Ligados a la jubilación	Relevo	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Temporal	Ligados a la jubilación	Jubilación parcial	5
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Temporal	Ligados a la jubilación	Relevo	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Ligados a la formación	Formación	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Ligados a la formación	Prácticas	5
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Temporal	Ligados a la formación	Prácticas	3
+2021	202109	Septiembre	Septiembre 2021	Hombres	29	Comunidad de Teruel	Temporal	Otros	Temp. Inserción	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	29	Comunidad de Teruel	Temporal	Otros	Temp. Inserción	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	30	Maestrazgo	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	30	Maestrazgo	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202109	Septiembre	Septiembre 2021	Hombres	30	Maestrazgo	Temporal	Obra o servicio	Obra o servicio	22
+2021	202109	Septiembre	Septiembre 2021	Mujeres	30	Maestrazgo	Temporal	Obra o servicio	Obra o servicio	25
+2021	202109	Septiembre	Septiembre 2021	Hombres	30	Maestrazgo	Temporal	Eventual por circunstancias de la producción	Eventual producción	13
+2021	202109	Septiembre	Septiembre 2021	Mujeres	30	Maestrazgo	Temporal	Eventual por circunstancias de la producción	Eventual producción	10
+2021	202109	Septiembre	Septiembre 2021	Mujeres	30	Maestrazgo	Temporal	Interinidad	Interinidad	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	31	Sierra de Albarracín	Indefinido	Indefinido	Indef. Fomento	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	31	Sierra de Albarracín	Indefinido	Indefinido	Indef. Ordinario	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	31	Sierra de Albarracín	Indefinido	Indefinido	Indef. Fomento	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	31	Sierra de Albarracín	Indefinido	Indefinido	Indef. Ordinario	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	31	Sierra de Albarracín	Temporal	Obra o servicio	Obra o servicio	6
+2021	202109	Septiembre	Septiembre 2021	Mujeres	31	Sierra de Albarracín	Temporal	Obra o servicio	Obra o servicio	6
+2021	202109	Septiembre	Septiembre 2021	Hombres	31	Sierra de Albarracín	Temporal	Eventual por circunstancias de la producción	Eventual producción	33
+2021	202109	Septiembre	Septiembre 2021	Mujeres	31	Sierra de Albarracín	Temporal	Eventual por circunstancias de la producción	Eventual producción	31
+2021	202109	Septiembre	Septiembre 2021	Mujeres	31	Sierra de Albarracín	Temporal	Interinidad	Interinidad	6
+2021	202109	Septiembre	Septiembre 2021	Hombres	31	Sierra de Albarracín	Temporal	Ligados a la formación	Formación	5
+2021	202109	Septiembre	Septiembre 2021	Mujeres	31	Sierra de Albarracín	Temporal	Ligados a la formación	Formación	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	32	Gúdar-Javalambre	Indefinido	Indefinido	Indef. Fomento	6
+2021	202109	Septiembre	Septiembre 2021	Hombres	32	Gúdar-Javalambre	Indefinido	Indefinido	Indef. Ordinario	15
+2021	202109	Septiembre	Septiembre 2021	Mujeres	32	Gúdar-Javalambre	Indefinido	Indefinido	Indef. Fomento	12
+2021	202109	Septiembre	Septiembre 2021	Mujeres	32	Gúdar-Javalambre	Indefinido	Indefinido	Indef. Ordinario	15
+2021	202109	Septiembre	Septiembre 2021	Mujeres	32	Gúdar-Javalambre	Indefinido	Discapacitados	Minusválidos	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	32	Gúdar-Javalambre	Temporal	Obra o servicio	Obra o servicio	28
+2021	202109	Septiembre	Septiembre 2021	Mujeres	32	Gúdar-Javalambre	Temporal	Obra o servicio	Obra o servicio	55
+2021	202109	Septiembre	Septiembre 2021	Hombres	32	Gúdar-Javalambre	Temporal	Eventual por circunstancias de la producción	Eventual producción	61
+2021	202109	Septiembre	Septiembre 2021	Mujeres	32	Gúdar-Javalambre	Temporal	Eventual por circunstancias de la producción	Eventual producción	65
+2021	202109	Septiembre	Septiembre 2021	Hombres	32	Gúdar-Javalambre	Temporal	Interinidad	Interinidad	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	32	Gúdar-Javalambre	Temporal	Interinidad	Interinidad	7
+2021	202109	Septiembre	Septiembre 2021	Hombres	32	Gúdar-Javalambre	Temporal	Ligados a la formación	Prácticas	2
+2021	202109	Septiembre	Septiembre 2021	Mujeres	32	Gúdar-Javalambre	Temporal	Ligados a la formación	Prácticas	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	33	Matarraña / Matarranya	Indefinido	Indefinido	Indef. Fomento	5
+2021	202109	Septiembre	Septiembre 2021	Hombres	33	Matarraña / Matarranya	Indefinido	Indefinido	Indef. Ordinario	8
+2021	202109	Septiembre	Septiembre 2021	Mujeres	33	Matarraña / Matarranya	Indefinido	Indefinido	Indef. Fomento	3
+2021	202109	Septiembre	Septiembre 2021	Mujeres	33	Matarraña / Matarranya	Indefinido	Indefinido	Indef. Ordinario	10
+2021	202109	Septiembre	Septiembre 2021	Hombres	33	Matarraña / Matarranya	Indefinido	Discapacitados	Minusválidos	1
+2021	202109	Septiembre	Septiembre 2021	Hombres	33	Matarraña / Matarranya	Temporal	Obra o servicio	Obra o servicio	46
+2021	202109	Septiembre	Septiembre 2021	Mujeres	33	Matarraña / Matarranya	Temporal	Obra o servicio	Obra o servicio	35
+2021	202109	Septiembre	Septiembre 2021	Hombres	33	Matarraña / Matarranya	Temporal	Eventual por circunstancias de la producción	Eventual producción	18
+2021	202109	Septiembre	Septiembre 2021	Mujeres	33	Matarraña / Matarranya	Temporal	Eventual por circunstancias de la producción	Eventual producción	23
+2021	202109	Septiembre	Septiembre 2021	Hombres	33	Matarraña / Matarranya	Temporal	Interinidad	Interinidad	4
+2021	202109	Septiembre	Septiembre 2021	Mujeres	33	Matarraña / Matarranya	Temporal	Interinidad	Interinidad	5
 2021	202108	Agosto	Agosto 2021	Hombres	01	La Jacetania	Indefinido	Indefinido	Indef. Fomento	6
 2021	202108	Agosto	Agosto 2021	Hombres	01	La Jacetania	Indefinido	Indefinido	Indef. Ordinario	11
 2021	202108	Agosto	Agosto 2021	Mujeres	01	La Jacetania	Indefinido	Indefinido	Indef. Fomento	4

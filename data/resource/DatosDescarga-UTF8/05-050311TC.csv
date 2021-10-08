@@ -1,4 +1,186 @@
 Año	Mes (código)	Mes y año	Mes nombre	Comarca código	Comarca nombre	Grupo de tipo de jornada	Sexo	Número de contratos
+2021	202109	Septiembre 2021	Septiembre	01	La Jacetania	1 - Jornada Completa	Hombres	135
+2021	202109	Septiembre 2021	Septiembre	01	La Jacetania	1 - Jornada Completa	Mujeres	83
+2021	202109	Septiembre 2021	Septiembre	01	La Jacetania	2 - Jornada Parcial	Hombres	74
+2021	202109	Septiembre 2021	Septiembre	01	La Jacetania	2 - Jornada Parcial	Mujeres	152
+2021	202109	Septiembre 2021	Septiembre	01	La Jacetania	3 - Fijos Discontinuos	Hombres	9
+2021	202109	Septiembre 2021	Septiembre	01	La Jacetania	3 - Fijos Discontinuos	Mujeres	8
+2021	202109	Septiembre 2021	Septiembre	02	Alto Gállego	1 - Jornada Completa	Hombres	105
+2021	202109	Septiembre 2021	Septiembre	02	Alto Gállego	1 - Jornada Completa	Mujeres	76
+2021	202109	Septiembre 2021	Septiembre	02	Alto Gállego	2 - Jornada Parcial	Hombres	48
+2021	202109	Septiembre 2021	Septiembre	02	Alto Gállego	2 - Jornada Parcial	Mujeres	65
+2021	202109	Septiembre 2021	Septiembre	02	Alto Gállego	3 - Fijos Discontinuos	Hombres	8
+2021	202109	Septiembre 2021	Septiembre	02	Alto Gállego	3 - Fijos Discontinuos	Mujeres	15
+2021	202109	Septiembre 2021	Septiembre	03	Sobrarbe	1 - Jornada Completa	Hombres	107
+2021	202109	Septiembre 2021	Septiembre	03	Sobrarbe	1 - Jornada Completa	Mujeres	81
+2021	202109	Septiembre 2021	Septiembre	03	Sobrarbe	2 - Jornada Parcial	Hombres	38
+2021	202109	Septiembre 2021	Septiembre	03	Sobrarbe	2 - Jornada Parcial	Mujeres	55
+2021	202109	Septiembre 2021	Septiembre	03	Sobrarbe	3 - Fijos Discontinuos	Hombres	2
+2021	202109	Septiembre 2021	Septiembre	03	Sobrarbe	3 - Fijos Discontinuos	Mujeres	4
+2021	202109	Septiembre 2021	Septiembre	04	La Ribagorza	1 - Jornada Completa	Hombres	85
+2021	202109	Septiembre 2021	Septiembre	04	La Ribagorza	1 - Jornada Completa	Mujeres	72
+2021	202109	Septiembre 2021	Septiembre	04	La Ribagorza	2 - Jornada Parcial	Hombres	37
+2021	202109	Septiembre 2021	Septiembre	04	La Ribagorza	2 - Jornada Parcial	Mujeres	72
+2021	202109	Septiembre 2021	Septiembre	04	La Ribagorza	3 - Fijos Discontinuos	Mujeres	7
+2021	202109	Septiembre 2021	Septiembre	05	Cinco Villas	1 - Jornada Completa	Hombres	472
+2021	202109	Septiembre 2021	Septiembre	05	Cinco Villas	1 - Jornada Completa	Mujeres	319
+2021	202109	Septiembre 2021	Septiembre	05	Cinco Villas	2 - Jornada Parcial	Hombres	50
+2021	202109	Septiembre 2021	Septiembre	05	Cinco Villas	2 - Jornada Parcial	Mujeres	123
+2021	202109	Septiembre 2021	Septiembre	05	Cinco Villas	3 - Fijos Discontinuos	Hombres	1
+2021	202109	Septiembre 2021	Septiembre	05	Cinco Villas	3 - Fijos Discontinuos	Mujeres	1
+2021	202109	Septiembre 2021	Septiembre	06	Hoya de Huesca / Plana de Uesca	1 - Jornada Completa	Hombres	940
+2021	202109	Septiembre 2021	Septiembre	06	Hoya de Huesca / Plana de Uesca	1 - Jornada Completa	Mujeres	602
+2021	202109	Septiembre 2021	Septiembre	06	Hoya de Huesca / Plana de Uesca	2 - Jornada Parcial	Hombres	301
+2021	202109	Septiembre 2021	Septiembre	06	Hoya de Huesca / Plana de Uesca	2 - Jornada Parcial	Mujeres	681
+2021	202109	Septiembre 2021	Septiembre	06	Hoya de Huesca / Plana de Uesca	3 - Fijos Discontinuos	Hombres	13
+2021	202109	Septiembre 2021	Septiembre	06	Hoya de Huesca / Plana de Uesca	3 - Fijos Discontinuos	Mujeres	9
+2021	202109	Septiembre 2021	Septiembre	07	Somontano de Barbastro	1 - Jornada Completa	Hombres	260
+2021	202109	Septiembre 2021	Septiembre	07	Somontano de Barbastro	1 - Jornada Completa	Mujeres	172
+2021	202109	Septiembre 2021	Septiembre	07	Somontano de Barbastro	2 - Jornada Parcial	Hombres	69
+2021	202109	Septiembre 2021	Septiembre	07	Somontano de Barbastro	2 - Jornada Parcial	Mujeres	115
+2021	202109	Septiembre 2021	Septiembre	07	Somontano de Barbastro	3 - Fijos Discontinuos	Hombres	6
+2021	202109	Septiembre 2021	Septiembre	07	Somontano de Barbastro	3 - Fijos Discontinuos	Mujeres	3
+2021	202109	Septiembre 2021	Septiembre	08	Cinca Medio	1 - Jornada Completa	Hombres	474
+2021	202109	Septiembre 2021	Septiembre	08	Cinca Medio	1 - Jornada Completa	Mujeres	326
+2021	202109	Septiembre 2021	Septiembre	08	Cinca Medio	2 - Jornada Parcial	Hombres	61
+2021	202109	Septiembre 2021	Septiembre	08	Cinca Medio	2 - Jornada Parcial	Mujeres	150
+2021	202109	Septiembre 2021	Septiembre	08	Cinca Medio	3 - Fijos Discontinuos	Hombres	20
+2021	202109	Septiembre 2021	Septiembre	08	Cinca Medio	3 - Fijos Discontinuos	Mujeres	2
+2021	202109	Septiembre 2021	Septiembre	09	La Litera / La Llitera	1 - Jornada Completa	Hombres	482
+2021	202109	Septiembre 2021	Septiembre	09	La Litera / La Llitera	1 - Jornada Completa	Mujeres	212
+2021	202109	Septiembre 2021	Septiembre	09	La Litera / La Llitera	2 - Jornada Parcial	Hombres	46
+2021	202109	Septiembre 2021	Septiembre	09	La Litera / La Llitera	2 - Jornada Parcial	Mujeres	92
+2021	202109	Septiembre 2021	Septiembre	09	La Litera / La Llitera	3 - Fijos Discontinuos	Hombres	3
+2021	202109	Septiembre 2021	Septiembre	09	La Litera / La Llitera	3 - Fijos Discontinuos	Mujeres	9
+2021	202109	Septiembre 2021	Septiembre	10	Los Monegros	1 - Jornada Completa	Hombres	272
+2021	202109	Septiembre 2021	Septiembre	10	Los Monegros	1 - Jornada Completa	Mujeres	75
+2021	202109	Septiembre 2021	Septiembre	10	Los Monegros	2 - Jornada Parcial	Hombres	16
+2021	202109	Septiembre 2021	Septiembre	10	Los Monegros	2 - Jornada Parcial	Mujeres	65
+2021	202109	Septiembre 2021	Septiembre	10	Los Monegros	3 - Fijos Discontinuos	Hombres	2
+2021	202109	Septiembre 2021	Septiembre	10	Los Monegros	3 - Fijos Discontinuos	Mujeres	1
+2021	202109	Septiembre 2021	Septiembre	11	Bajo Cinca / Baix Cinca	1 - Jornada Completa	Hombres	588
+2021	202109	Septiembre 2021	Septiembre	11	Bajo Cinca / Baix Cinca	1 - Jornada Completa	Mujeres	497
+2021	202109	Septiembre 2021	Septiembre	11	Bajo Cinca / Baix Cinca	2 - Jornada Parcial	Hombres	107
+2021	202109	Septiembre 2021	Septiembre	11	Bajo Cinca / Baix Cinca	2 - Jornada Parcial	Mujeres	151
+2021	202109	Septiembre 2021	Septiembre	11	Bajo Cinca / Baix Cinca	3 - Fijos Discontinuos	Hombres	55
+2021	202109	Septiembre 2021	Septiembre	11	Bajo Cinca / Baix Cinca	3 - Fijos Discontinuos	Mujeres	59
+2021	202109	Septiembre 2021	Septiembre	12	Tarazona y el Moncayo	1 - Jornada Completa	Hombres	265
+2021	202109	Septiembre 2021	Septiembre	12	Tarazona y el Moncayo	1 - Jornada Completa	Mujeres	171
+2021	202109	Septiembre 2021	Septiembre	12	Tarazona y el Moncayo	2 - Jornada Parcial	Hombres	118
+2021	202109	Septiembre 2021	Septiembre	12	Tarazona y el Moncayo	2 - Jornada Parcial	Mujeres	103
+2021	202109	Septiembre 2021	Septiembre	12	Tarazona y el Moncayo	3 - Fijos Discontinuos	Mujeres	4
+2021	202109	Septiembre 2021	Septiembre	13	Campo de Borja	1 - Jornada Completa	Hombres	214
+2021	202109	Septiembre 2021	Septiembre	13	Campo de Borja	1 - Jornada Completa	Mujeres	152
+2021	202109	Septiembre 2021	Septiembre	13	Campo de Borja	2 - Jornada Parcial	Hombres	37
+2021	202109	Septiembre 2021	Septiembre	13	Campo de Borja	2 - Jornada Parcial	Mujeres	57
+2021	202109	Septiembre 2021	Septiembre	13	Campo de Borja	3 - Fijos Discontinuos	Hombres	4
+2021	202109	Septiembre 2021	Septiembre	13	Campo de Borja	3 - Fijos Discontinuos	Mujeres	1
+2021	202109	Septiembre 2021	Septiembre	14	Aranda	1 - Jornada Completa	Hombres	36
+2021	202109	Septiembre 2021	Septiembre	14	Aranda	1 - Jornada Completa	Mujeres	24
+2021	202109	Septiembre 2021	Septiembre	14	Aranda	2 - Jornada Parcial	Hombres	2
+2021	202109	Septiembre 2021	Septiembre	14	Aranda	2 - Jornada Parcial	Mujeres	19
+2021	202109	Septiembre 2021	Septiembre	15	Ribera Alta del Ebro	1 - Jornada Completa	Hombres	1395
+2021	202109	Septiembre 2021	Septiembre	15	Ribera Alta del Ebro	1 - Jornada Completa	Mujeres	547
+2021	202109	Septiembre 2021	Septiembre	15	Ribera Alta del Ebro	2 - Jornada Parcial	Hombres	173
+2021	202109	Septiembre 2021	Septiembre	15	Ribera Alta del Ebro	2 - Jornada Parcial	Mujeres	248
+2021	202109	Septiembre 2021	Septiembre	15	Ribera Alta del Ebro	3 - Fijos Discontinuos	Hombres	3
+2021	202109	Septiembre 2021	Septiembre	15	Ribera Alta del Ebro	3 - Fijos Discontinuos	Mujeres	3
+2021	202109	Septiembre 2021	Septiembre	16	Valdejalón	1 - Jornada Completa	Hombres	1788
+2021	202109	Septiembre 2021	Septiembre	16	Valdejalón	1 - Jornada Completa	Mujeres	658
+2021	202109	Septiembre 2021	Septiembre	16	Valdejalón	2 - Jornada Parcial	Hombres	152
+2021	202109	Septiembre 2021	Septiembre	16	Valdejalón	2 - Jornada Parcial	Mujeres	132
+2021	202109	Septiembre 2021	Septiembre	16	Valdejalón	3 - Fijos Discontinuos	Hombres	5
+2021	202109	Septiembre 2021	Septiembre	16	Valdejalón	3 - Fijos Discontinuos	Mujeres	11
+2021	202109	Septiembre 2021	Septiembre	17	Central	1 - Jornada Completa	Hombres	12029
+2021	202109	Septiembre 2021	Septiembre	17	Central	1 - Jornada Completa	Mujeres	8350
+2021	202109	Septiembre 2021	Septiembre	17	Central	2 - Jornada Parcial	Hombres	5190
+2021	202109	Septiembre 2021	Septiembre	17	Central	2 - Jornada Parcial	Mujeres	7785
+2021	202109	Septiembre 2021	Septiembre	17	Central	3 - Fijos Discontinuos	Hombres	218
+2021	202109	Septiembre 2021	Septiembre	17	Central	3 - Fijos Discontinuos	Mujeres	216
+2021	202109	Septiembre 2021	Septiembre	18	Ribera Baja del Ebro	1 - Jornada Completa	Hombres	194
+2021	202109	Septiembre 2021	Septiembre	18	Ribera Baja del Ebro	1 - Jornada Completa	Mujeres	77
+2021	202109	Septiembre 2021	Septiembre	18	Ribera Baja del Ebro	2 - Jornada Parcial	Hombres	20
+2021	202109	Septiembre 2021	Septiembre	18	Ribera Baja del Ebro	2 - Jornada Parcial	Mujeres	70
+2021	202109	Septiembre 2021	Septiembre	18	Ribera Baja del Ebro	3 - Fijos Discontinuos	Hombres	12
+2021	202109	Septiembre 2021	Septiembre	18	Ribera Baja del Ebro	3 - Fijos Discontinuos	Mujeres	3
+2021	202109	Septiembre 2021	Septiembre	19	Bajo Aragón-Caspe / Baix Aragó-Casp	1 - Jornada Completa	Hombres	244
+2021	202109	Septiembre 2021	Septiembre	19	Bajo Aragón-Caspe / Baix Aragó-Casp	1 - Jornada Completa	Mujeres	66
+2021	202109	Septiembre 2021	Septiembre	19	Bajo Aragón-Caspe / Baix Aragó-Casp	2 - Jornada Parcial	Hombres	23
+2021	202109	Septiembre 2021	Septiembre	19	Bajo Aragón-Caspe / Baix Aragó-Casp	2 - Jornada Parcial	Mujeres	73
+2021	202109	Septiembre 2021	Septiembre	19	Bajo Aragón-Caspe / Baix Aragó-Casp	3 - Fijos Discontinuos	Hombres	18
+2021	202109	Septiembre 2021	Septiembre	19	Bajo Aragón-Caspe / Baix Aragó-Casp	3 - Fijos Discontinuos	Mujeres	6
+2021	202109	Septiembre 2021	Septiembre	20	Comunidad de Calatayud	1 - Jornada Completa	Hombres	838
+2021	202109	Septiembre 2021	Septiembre	20	Comunidad de Calatayud	1 - Jornada Completa	Mujeres	485
+2021	202109	Septiembre 2021	Septiembre	20	Comunidad de Calatayud	2 - Jornada Parcial	Hombres	114
+2021	202109	Septiembre 2021	Septiembre	20	Comunidad de Calatayud	2 - Jornada Parcial	Mujeres	164
+2021	202109	Septiembre 2021	Septiembre	20	Comunidad de Calatayud	3 - Fijos Discontinuos	Hombres	1
+2021	202109	Septiembre 2021	Septiembre	20	Comunidad de Calatayud	3 - Fijos Discontinuos	Mujeres	4
+2021	202109	Septiembre 2021	Septiembre	21	Campo de Cariñena	1 - Jornada Completa	Hombres	758
+2021	202109	Septiembre 2021	Septiembre	21	Campo de Cariñena	1 - Jornada Completa	Mujeres	204
+2021	202109	Septiembre 2021	Septiembre	21	Campo de Cariñena	2 - Jornada Parcial	Hombres	82
+2021	202109	Septiembre 2021	Septiembre	21	Campo de Cariñena	2 - Jornada Parcial	Mujeres	48
+2021	202109	Septiembre 2021	Septiembre	21	Campo de Cariñena	3 - Fijos Discontinuos	Hombres	14
+2021	202109	Septiembre 2021	Septiembre	21	Campo de Cariñena	3 - Fijos Discontinuos	Mujeres	10
+2021	202109	Septiembre 2021	Septiembre	22	Campo de Belchite	1 - Jornada Completa	Hombres	28
+2021	202109	Septiembre 2021	Septiembre	22	Campo de Belchite	1 - Jornada Completa	Mujeres	23
+2021	202109	Septiembre 2021	Septiembre	22	Campo de Belchite	2 - Jornada Parcial	Hombres	11
+2021	202109	Septiembre 2021	Septiembre	22	Campo de Belchite	2 - Jornada Parcial	Mujeres	12
+2021	202109	Septiembre 2021	Septiembre	23	Bajo Martín	1 - Jornada Completa	Hombres	101
+2021	202109	Septiembre 2021	Septiembre	23	Bajo Martín	1 - Jornada Completa	Mujeres	42
+2021	202109	Septiembre 2021	Septiembre	23	Bajo Martín	2 - Jornada Parcial	Hombres	8
+2021	202109	Septiembre 2021	Septiembre	23	Bajo Martín	2 - Jornada Parcial	Mujeres	21
+2021	202109	Septiembre 2021	Septiembre	23	Bajo Martín	3 - Fijos Discontinuos	Hombres	8
+2021	202109	Septiembre 2021	Septiembre	24	Campo de Daroca	1 - Jornada Completa	Hombres	55
+2021	202109	Septiembre 2021	Septiembre	24	Campo de Daroca	1 - Jornada Completa	Mujeres	24
+2021	202109	Septiembre 2021	Septiembre	24	Campo de Daroca	2 - Jornada Parcial	Hombres	11
+2021	202109	Septiembre 2021	Septiembre	24	Campo de Daroca	2 - Jornada Parcial	Mujeres	22
+2021	202109	Septiembre 2021	Septiembre	25	Jiloca	1 - Jornada Completa	Hombres	106
+2021	202109	Septiembre 2021	Septiembre	25	Jiloca	1 - Jornada Completa	Mujeres	63
+2021	202109	Septiembre 2021	Septiembre	25	Jiloca	2 - Jornada Parcial	Hombres	13
+2021	202109	Septiembre 2021	Septiembre	25	Jiloca	2 - Jornada Parcial	Mujeres	27
+2021	202109	Septiembre 2021	Septiembre	25	Jiloca	3 - Fijos Discontinuos	Hombres	1
+2021	202109	Septiembre 2021	Septiembre	26	Cuencas Mineras	1 - Jornada Completa	Hombres	57
+2021	202109	Septiembre 2021	Septiembre	26	Cuencas Mineras	1 - Jornada Completa	Mujeres	73
+2021	202109	Septiembre 2021	Septiembre	26	Cuencas Mineras	2 - Jornada Parcial	Hombres	17
+2021	202109	Septiembre 2021	Septiembre	26	Cuencas Mineras	2 - Jornada Parcial	Mujeres	22
+2021	202109	Septiembre 2021	Septiembre	27	Andorra-Sierra de Arcos	1 - Jornada Completa	Hombres	97
+2021	202109	Septiembre 2021	Septiembre	27	Andorra-Sierra de Arcos	1 - Jornada Completa	Mujeres	58
+2021	202109	Septiembre 2021	Septiembre	27	Andorra-Sierra de Arcos	2 - Jornada Parcial	Hombres	28
+2021	202109	Septiembre 2021	Septiembre	27	Andorra-Sierra de Arcos	2 - Jornada Parcial	Mujeres	54
+2021	202109	Septiembre 2021	Septiembre	27	Andorra-Sierra de Arcos	3 - Fijos Discontinuos	Mujeres	5
+2021	202109	Septiembre 2021	Septiembre	28	Bajo Aragón	1 - Jornada Completa	Hombres	664
+2021	202109	Septiembre 2021	Septiembre	28	Bajo Aragón	1 - Jornada Completa	Mujeres	328
+2021	202109	Septiembre 2021	Septiembre	28	Bajo Aragón	2 - Jornada Parcial	Hombres	91
+2021	202109	Septiembre 2021	Septiembre	28	Bajo Aragón	2 - Jornada Parcial	Mujeres	179
+2021	202109	Septiembre 2021	Septiembre	28	Bajo Aragón	3 - Fijos Discontinuos	Hombres	1
+2021	202109	Septiembre 2021	Septiembre	28	Bajo Aragón	3 - Fijos Discontinuos	Mujeres	5
+2021	202109	Septiembre 2021	Septiembre	29	Comunidad de Teruel	1 - Jornada Completa	Hombres	780
+2021	202109	Septiembre 2021	Septiembre	29	Comunidad de Teruel	1 - Jornada Completa	Mujeres	455
+2021	202109	Septiembre 2021	Septiembre	29	Comunidad de Teruel	2 - Jornada Parcial	Hombres	180
+2021	202109	Septiembre 2021	Septiembre	29	Comunidad de Teruel	2 - Jornada Parcial	Mujeres	316
+2021	202109	Septiembre 2021	Septiembre	29	Comunidad de Teruel	3 - Fijos Discontinuos	Hombres	17
+2021	202109	Septiembre 2021	Septiembre	29	Comunidad de Teruel	3 - Fijos Discontinuos	Mujeres	5
+2021	202109	Septiembre 2021	Septiembre	30	Maestrazgo	1 - Jornada Completa	Hombres	27
+2021	202109	Septiembre 2021	Septiembre	30	Maestrazgo	1 - Jornada Completa	Mujeres	13
+2021	202109	Septiembre 2021	Septiembre	30	Maestrazgo	2 - Jornada Parcial	Hombres	10
+2021	202109	Septiembre 2021	Septiembre	30	Maestrazgo	2 - Jornada Parcial	Mujeres	25
+2021	202109	Septiembre 2021	Septiembre	31	Sierra de Albarracín	1 - Jornada Completa	Hombres	39
+2021	202109	Septiembre 2021	Septiembre	31	Sierra de Albarracín	1 - Jornada Completa	Mujeres	38
+2021	202109	Septiembre 2021	Septiembre	31	Sierra de Albarracín	2 - Jornada Parcial	Hombres	8
+2021	202109	Septiembre 2021	Septiembre	31	Sierra de Albarracín	2 - Jornada Parcial	Mujeres	13
+2021	202109	Septiembre 2021	Septiembre	31	Sierra de Albarracín	3 - Fijos Discontinuos	Mujeres	1
+2021	202109	Septiembre 2021	Septiembre	32	Gúdar-Javalambre	1 - Jornada Completa	Hombres	67
+2021	202109	Septiembre 2021	Septiembre	32	Gúdar-Javalambre	1 - Jornada Completa	Mujeres	54
+2021	202109	Septiembre 2021	Septiembre	32	Gúdar-Javalambre	2 - Jornada Parcial	Hombres	41
+2021	202109	Septiembre 2021	Septiembre	32	Gúdar-Javalambre	2 - Jornada Parcial	Mujeres	99
+2021	202109	Septiembre 2021	Septiembre	32	Gúdar-Javalambre	3 - Fijos Discontinuos	Hombres	6
+2021	202109	Septiembre 2021	Septiembre	32	Gúdar-Javalambre	3 - Fijos Discontinuos	Mujeres	3
+2021	202109	Septiembre 2021	Septiembre	33	Matarraña / Matarranya	1 - Jornada Completa	Hombres	59
+2021	202109	Septiembre 2021	Septiembre	33	Matarraña / Matarranya	1 - Jornada Completa	Mujeres	36
+2021	202109	Septiembre 2021	Septiembre	33	Matarraña / Matarranya	2 - Jornada Parcial	Hombres	17
+2021	202109	Septiembre 2021	Septiembre	33	Matarraña / Matarranya	2 - Jornada Parcial	Mujeres	36
+2021	202109	Septiembre 2021	Septiembre	33	Matarraña / Matarranya	3 - Fijos Discontinuos	Hombres	6
+2021	202109	Septiembre 2021	Septiembre	33	Matarraña / Matarranya	3 - Fijos Discontinuos	Mujeres	4
 2021	202108	Agosto 2021	Agosto	01	La Jacetania	1 - Jornada Completa	Hombres	140
 2021	202108	Agosto 2021	Agosto	01	La Jacetania	1 - Jornada Completa	Mujeres	117
 2021	202108	Agosto 2021	Agosto	01	La Jacetania	2 - Jornada Parcial	Hombres	74
