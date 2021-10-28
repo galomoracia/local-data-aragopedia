@@ -10379,3 +10379,944 @@ Año	Municipio código	Municipio nombre	División (2 dígitos) código	División
 2019	50297	Zaragoza	93	Actividades deportivas, recreativas y de entretenimiento	802
 2019	50297	Zaragoza	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	858
 2019	50297	Zaragoza	96	Otros servicios personales	3466
+2020	22048	Barbastro	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	111
+2020	22048	Barbastro	02	Silvicultura y explotación forestal	4
+2020	22048	Barbastro	08	Otras industrias extractivas	1
+2020	22048	Barbastro	10	Industria de la alimentación	31
+2020	22048	Barbastro	11	Fabricación de bebidas	19
+2020	22048	Barbastro	13	Industria textil	4
+2020	22048	Barbastro	14	Confección de prendas de vestir	4
+2020	22048	Barbastro	15	Industria del cuero y del calzado	3
+2020	22048	Barbastro	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	12
+2020	22048	Barbastro	17	Industria del papel	1
+2020	22048	Barbastro	18	Artes gráficas y reproducción de soportes grabados	19
+2020	22048	Barbastro	20	Industria química	15
+2020	22048	Barbastro	21	Fabricación de productos farmacéuticos	1
+2020	22048	Barbastro	22	Fabricación de productos de caucho y plásticos	4
+2020	22048	Barbastro	23	Fabricación de otros productos minerales no metálicos	8
+2020	22048	Barbastro	25	Fabricación de productos metálicos, excepto maquinaria y equipo	30
+2020	22048	Barbastro	26	Fabricación de productos informáticos, electrónicos y ópticos	3
+2020	22048	Barbastro	27	Fabricación de material y equipo eléctrico	1
+2020	22048	Barbastro	28	Fabricación de maquinaria y equipo n.c.o.p.	7
+2020	22048	Barbastro	29	Fabricación de vehículos de motor, remolques y semirremolques	1
+2020	22048	Barbastro	31	Fabricación de muebles	17
+2020	22048	Barbastro	32	Otras industrias manufactureras	4
+2020	22048	Barbastro	33	Reparación e instalación de maquinaria y equipo	10
+2020	22048	Barbastro	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	14
+2020	22048	Barbastro	36	Captación, depuración y distribución de agua	1
+2020	22048	Barbastro	37	Recogida y tratamiento de aguas residuales	2
+2020	22048	Barbastro	38	Recogida, tratamiento y eliminación de residuos; valorización	2
+2020	22048	Barbastro	39	Actividades de descontaminación y otros servicios de gestión de residuos	2
+2020	22048	Barbastro	41	Construcción de edificios	110
+2020	22048	Barbastro	42	Ingeniería civil	2
+2020	22048	Barbastro	43	Actividades de construcción especializada	167
+2020	22048	Barbastro	45	Venta y reparación de vehículos de motor y motocicletas	80
+2020	22048	Barbastro	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	157
+2020	22048	Barbastro	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	523
+2020	22048	Barbastro	49	Transporte terrestre y por tubería	79
+2020	22048	Barbastro	52	Almacenamiento y actividades anexas al transporte	10
+2020	22048	Barbastro	53	Actividades postales y de correos	6
+2020	22048	Barbastro	55	Servicios de alojamiento	14
+2020	22048	Barbastro	56	Servicios de comidas y bebidas	163
+2020	22048	Barbastro	58	Edición	13
+2020	22048	Barbastro	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	8
+2020	22048	Barbastro	60	Actividades de programación y emisión de radio y televisión	3
+2020	22048	Barbastro	61	Telecomunicaciones	9
+2020	22048	Barbastro	62	Programación, consultoría y otras actividades relacionadas con la informática	19
+2020	22048	Barbastro	63	Servicios de información	2
+2020	22048	Barbastro	64	Servicios financieros, excepto seguros y fondos de pensiones	13
+2020	22048	Barbastro	66	Actividades auxiliares a los servicios financieros y a los seguros	45
+2020	22048	Barbastro	68	Actividades inmobiliarias	427
+2020	22048	Barbastro	69	Actividades jurídicas y de contabilidad	75
+2020	22048	Barbastro	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	88
+2020	22048	Barbastro	72	Investigación y desarrollo	12
+2020	22048	Barbastro	73	Publicidad y estudios de mercado	44
+2020	22048	Barbastro	74	Otras actividades profesionales, científicas y técnicas	29
+2020	22048	Barbastro	75	Actividades veterinarias	6
+2020	22048	Barbastro	77	Actividades de alquiler	41
+2020	22048	Barbastro	78	Actividades relacionadas con el empleo	7
+2020	22048	Barbastro	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	4
+2020	22048	Barbastro	81	Servicios a edificios y actividades de jardinería	32
+2020	22048	Barbastro	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	56
+2020	22048	Barbastro	85	Educación	134
+2020	22048	Barbastro	86	Actividades sanitarias	85
+2020	22048	Barbastro	87	Asistencia en establecimientos residenciales	2
+2020	22048	Barbastro	88	Actividades de servicios sociales sin alojamiento	7
+2020	22048	Barbastro	90	Actividades de creación, artísticas y espectáculos	37
+2020	22048	Barbastro	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	5
+2020	22048	Barbastro	92	Actividades de juegos de azar y apuestas	19
+2020	22048	Barbastro	93	Actividades deportivas, recreativas y de entretenimiento	28
+2020	22048	Barbastro	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	17
+2020	22048	Barbastro	96	Otros servicios personales	105
+2020	22112	Fraga	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	151
+2020	22112	Fraga	02	Silvicultura y explotación forestal	1
+2020	22112	Fraga	08	Otras industrias extractivas	3
+2020	22112	Fraga	10	Industria de la alimentación	34
+2020	22112	Fraga	13	Industria textil	4
+2020	22112	Fraga	14	Confección de prendas de vestir	2
+2020	22112	Fraga	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	16
+2020	22112	Fraga	17	Industria del papel	5
+2020	22112	Fraga	18	Artes gráficas y reproducción de soportes grabados	10
+2020	22112	Fraga	20	Industria química	5
+2020	22112	Fraga	22	Fabricación de productos de caucho y plásticos	1
+2020	22112	Fraga	23	Fabricación de otros productos minerales no metálicos	10
+2020	22112	Fraga	25	Fabricación de productos metálicos, excepto maquinaria y equipo	33
+2020	22112	Fraga	28	Fabricación de maquinaria y equipo n.c.o.p.	16
+2020	22112	Fraga	29	Fabricación de vehículos de motor, remolques y semirremolques	8
+2020	22112	Fraga	31	Fabricación de muebles	5
+2020	22112	Fraga	32	Otras industrias manufactureras	5
+2020	22112	Fraga	33	Reparación e instalación de maquinaria y equipo	6
+2020	22112	Fraga	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	32
+2020	22112	Fraga	36	Captación, depuración y distribución de agua	1
+2020	22112	Fraga	37	Recogida y tratamiento de aguas residuales	3
+2020	22112	Fraga	38	Recogida, tratamiento y eliminación de residuos; valorización	5
+2020	22112	Fraga	39	Actividades de descontaminación y otros servicios de gestión de residuos	2
+2020	22112	Fraga	41	Construcción de edificios	116
+2020	22112	Fraga	42	Ingeniería civil	5
+2020	22112	Fraga	43	Actividades de construcción especializada	164
+2020	22112	Fraga	45	Venta y reparación de vehículos de motor y motocicletas	86
+2020	22112	Fraga	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	200
+2020	22112	Fraga	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	464
+2020	22112	Fraga	49	Transporte terrestre y por tubería	91
+2020	22112	Fraga	52	Almacenamiento y actividades anexas al transporte	23
+2020	22112	Fraga	53	Actividades postales y de correos	8
+2020	22112	Fraga	55	Servicios de alojamiento	10
+2020	22112	Fraga	56	Servicios de comidas y bebidas	134
+2020	22112	Fraga	58	Edición	3
+2020	22112	Fraga	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	2
+2020	22112	Fraga	60	Actividades de programación y emisión de radio y televisión	1
+2020	22112	Fraga	61	Telecomunicaciones	2
+2020	22112	Fraga	62	Programación, consultoría y otras actividades relacionadas con la informática	11
+2020	22112	Fraga	64	Servicios financieros, excepto seguros y fondos de pensiones	10
+2020	22112	Fraga	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	3
+2020	22112	Fraga	66	Actividades auxiliares a los servicios financieros y a los seguros	58
+2020	22112	Fraga	68	Actividades inmobiliarias	309
+2020	22112	Fraga	69	Actividades jurídicas y de contabilidad	77
+2020	22112	Fraga	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	65
+2020	22112	Fraga	72	Investigación y desarrollo	8
+2020	22112	Fraga	73	Publicidad y estudios de mercado	18
+2020	22112	Fraga	74	Otras actividades profesionales, científicas y técnicas	38
+2020	22112	Fraga	75	Actividades veterinarias	6
+2020	22112	Fraga	77	Actividades de alquiler	40
+2020	22112	Fraga	78	Actividades relacionadas con el empleo	6
+2020	22112	Fraga	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	5
+2020	22112	Fraga	81	Servicios a edificios y actividades de jardinería	14
+2020	22112	Fraga	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	48
+2020	22112	Fraga	85	Educación	77
+2020	22112	Fraga	86	Actividades sanitarias	47
+2020	22112	Fraga	87	Asistencia en establecimientos residenciales	4
+2020	22112	Fraga	88	Actividades de servicios sociales sin alojamiento	5
+2020	22112	Fraga	90	Actividades de creación, artísticas y espectáculos	23
+2020	22112	Fraga	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	3
+2020	22112	Fraga	92	Actividades de juegos de azar y apuestas	9
+2020	22112	Fraga	93	Actividades deportivas, recreativas y de entretenimiento	27
+2020	22112	Fraga	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	30
+2020	22112	Fraga	96	Otros servicios personales	80
+2020	22125	Huesca	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	201
+2020	22125	Huesca	02	Silvicultura y explotación forestal	9
+2020	22125	Huesca	05	Extracción de antracita, hulla y lignito	1
+2020	22125	Huesca	08	Otras industrias extractivas	1
+2020	22125	Huesca	10	Industria de la alimentación	34
+2020	22125	Huesca	13	Industria textil	10
+2020	22125	Huesca	14	Confección de prendas de vestir	18
+2020	22125	Huesca	15	Industria del cuero y del calzado	1
+2020	22125	Huesca	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	21
+2020	22125	Huesca	17	Industria del papel	2
+2020	22125	Huesca	18	Artes gráficas y reproducción de soportes grabados	49
+2020	22125	Huesca	20	Industria química	14
+2020	22125	Huesca	21	Fabricación de productos farmacéuticos	2
+2020	22125	Huesca	22	Fabricación de productos de caucho y plásticos	5
+2020	22125	Huesca	23	Fabricación de otros productos minerales no metálicos	6
+2020	22125	Huesca	25	Fabricación de productos metálicos, excepto maquinaria y equipo	83
+2020	22125	Huesca	26	Fabricación de productos informáticos, electrónicos y ópticos	2
+2020	22125	Huesca	27	Fabricación de material y equipo eléctrico	8
+2020	22125	Huesca	28	Fabricación de maquinaria y equipo n.c.o.p.	19
+2020	22125	Huesca	29	Fabricación de vehículos de motor, remolques y semirremolques	7
+2020	22125	Huesca	30	Fabricación de otro material de transporte	5
+2020	22125	Huesca	31	Fabricación de muebles	19
+2020	22125	Huesca	32	Otras industrias manufactureras	30
+2020	22125	Huesca	33	Reparación e instalación de maquinaria y equipo	33
+2020	22125	Huesca	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	53
+2020	22125	Huesca	36	Captación, depuración y distribución de agua	3
+2020	22125	Huesca	37	Recogida y tratamiento de aguas residuales	5
+2020	22125	Huesca	38	Recogida, tratamiento y eliminación de residuos; valorización	8
+2020	22125	Huesca	39	Actividades de descontaminación y otros servicios de gestión de residuos	13
+2020	22125	Huesca	41	Construcción de edificios	319
+2020	22125	Huesca	42	Ingeniería civil	91
+2020	22125	Huesca	43	Actividades de construcción especializada	707
+2020	22125	Huesca	45	Venta y reparación de vehículos de motor y motocicletas	281
+2020	22125	Huesca	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	510
+2020	22125	Huesca	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	1457
+2020	22125	Huesca	49	Transporte terrestre y por tubería	260
+2020	22125	Huesca	52	Almacenamiento y actividades anexas al transporte	33
+2020	22125	Huesca	53	Actividades postales y de correos	46
+2020	22125	Huesca	55	Servicios de alojamiento	45
+2020	22125	Huesca	56	Servicios de comidas y bebidas	491
+2020	22125	Huesca	58	Edición	42
+2020	22125	Huesca	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	34
+2020	22125	Huesca	60	Actividades de programación y emisión de radio y televisión	13
+2020	22125	Huesca	61	Telecomunicaciones	13
+2020	22125	Huesca	62	Programación, consultoría y otras actividades relacionadas con la informática	118
+2020	22125	Huesca	63	Servicios de información	5
+2020	22125	Huesca	64	Servicios financieros, excepto seguros y fondos de pensiones	32
+2020	22125	Huesca	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	19
+2020	22125	Huesca	66	Actividades auxiliares a los servicios financieros y a los seguros	173
+2020	22125	Huesca	68	Actividades inmobiliarias	1157
+2020	22125	Huesca	69	Actividades jurídicas y de contabilidad	311
+2020	22125	Huesca	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	390
+2020	22125	Huesca	72	Investigación y desarrollo	71
+2020	22125	Huesca	73	Publicidad y estudios de mercado	148
+2020	22125	Huesca	74	Otras actividades profesionales, científicas y técnicas	210
+2020	22125	Huesca	75	Actividades veterinarias	27
+2020	22125	Huesca	77	Actividades de alquiler	99
+2020	22125	Huesca	78	Actividades relacionadas con el empleo	25
+2020	22125	Huesca	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	44
+2020	22125	Huesca	80	Actividades de seguridad e investigación	14
+2020	22125	Huesca	81	Servicios a edificios y actividades de jardinería	123
+2020	22125	Huesca	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	210
+2020	22125	Huesca	85	Educación	578
+2020	22125	Huesca	86	Actividades sanitarias	360
+2020	22125	Huesca	87	Asistencia en establecimientos residenciales	30
+2020	22125	Huesca	88	Actividades de servicios sociales sin alojamiento	37
+2020	22125	Huesca	90	Actividades de creación, artísticas y espectáculos	228
+2020	22125	Huesca	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	73
+2020	22125	Huesca	92	Actividades de juegos de azar y apuestas	32
+2020	22125	Huesca	93	Actividades deportivas, recreativas y de entretenimiento	141
+2020	22125	Huesca	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	111
+2020	22125	Huesca	96	Otros servicios personales	354
+2020	22130	Jaca	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	59
+2020	22130	Jaca	02	Silvicultura y explotación forestal	3
+2020	22130	Jaca	10	Industria de la alimentación	8
+2020	22130	Jaca	11	Fabricación de bebidas	1
+2020	22130	Jaca	13	Industria textil	3
+2020	22130	Jaca	14	Confección de prendas de vestir	4
+2020	22130	Jaca	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	8
+2020	22130	Jaca	18	Artes gráficas y reproducción de soportes grabados	8
+2020	22130	Jaca	23	Fabricación de otros productos minerales no metálicos	3
+2020	22130	Jaca	25	Fabricación de productos metálicos, excepto maquinaria y equipo	15
+2020	22130	Jaca	27	Fabricación de material y equipo eléctrico	1
+2020	22130	Jaca	28	Fabricación de maquinaria y equipo n.c.o.p.	3
+2020	22130	Jaca	30	Fabricación de otro material de transporte	1
+2020	22130	Jaca	31	Fabricación de muebles	2
+2020	22130	Jaca	32	Otras industrias manufactureras	11
+2020	22130	Jaca	33	Reparación e instalación de maquinaria y equipo	5
+2020	22130	Jaca	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	6
+2020	22130	Jaca	37	Recogida y tratamiento de aguas residuales	3
+2020	22130	Jaca	39	Actividades de descontaminación y otros servicios de gestión de residuos	1
+2020	22130	Jaca	41	Construcción de edificios	118
+2020	22130	Jaca	42	Ingeniería civil	12
+2020	22130	Jaca	43	Actividades de construcción especializada	194
+2020	22130	Jaca	45	Venta y reparación de vehículos de motor y motocicletas	50
+2020	22130	Jaca	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	85
+2020	22130	Jaca	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	538
+2020	22130	Jaca	49	Transporte terrestre y por tubería	54
+2020	22130	Jaca	52	Almacenamiento y actividades anexas al transporte	3
+2020	22130	Jaca	53	Actividades postales y de correos	4
+2020	22130	Jaca	55	Servicios de alojamiento	63
+2020	22130	Jaca	56	Servicios de comidas y bebidas	253
+2020	22130	Jaca	58	Edición	10
+2020	22130	Jaca	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	3
+2020	22130	Jaca	60	Actividades de programación y emisión de radio y televisión	1
+2020	22130	Jaca	62	Programación, consultoría y otras actividades relacionadas con la informática	17
+2020	22130	Jaca	63	Servicios de información	6
+2020	22130	Jaca	64	Servicios financieros, excepto seguros y fondos de pensiones	8
+2020	22130	Jaca	66	Actividades auxiliares a los servicios financieros y a los seguros	46
+2020	22130	Jaca	68	Actividades inmobiliarias	365
+2020	22130	Jaca	69	Actividades jurídicas y de contabilidad	72
+2020	22130	Jaca	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	45
+2020	22130	Jaca	72	Investigación y desarrollo	15
+2020	22130	Jaca	73	Publicidad y estudios de mercado	19
+2020	22130	Jaca	74	Otras actividades profesionales, científicas y técnicas	45
+2020	22130	Jaca	75	Actividades veterinarias	7
+2020	22130	Jaca	77	Actividades de alquiler	34
+2020	22130	Jaca	78	Actividades relacionadas con el empleo	2
+2020	22130	Jaca	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	21
+2020	22130	Jaca	81	Servicios a edificios y actividades de jardinería	27
+2020	22130	Jaca	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	53
+2020	22130	Jaca	85	Educación	108
+2020	22130	Jaca	86	Actividades sanitarias	69
+2020	22130	Jaca	87	Asistencia en establecimientos residenciales	4
+2020	22130	Jaca	88	Actividades de servicios sociales sin alojamiento	2
+2020	22130	Jaca	90	Actividades de creación, artísticas y espectáculos	53
+2020	22130	Jaca	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	18
+2020	22130	Jaca	92	Actividades de juegos de azar y apuestas	16
+2020	22130	Jaca	93	Actividades deportivas, recreativas y de entretenimiento	53
+2020	22130	Jaca	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	32
+2020	22130	Jaca	96	Otros servicios personales	107
+2020	22158	Monzón	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	167
+2020	22158	Monzón	02	Silvicultura y explotación forestal	2
+2020	22158	Monzón	08	Otras industrias extractivas	3
+2020	22158	Monzón	10	Industria de la alimentación	28
+2020	22158	Monzón	11	Fabricación de bebidas	3
+2020	22158	Monzón	13	Industria textil	6
+2020	22158	Monzón	14	Confección de prendas de vestir	10
+2020	22158	Monzón	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	8
+2020	22158	Monzón	18	Artes gráficas y reproducción de soportes grabados	7
+2020	22158	Monzón	20	Industria química	13
+2020	22158	Monzón	22	Fabricación de productos de caucho y plásticos	6
+2020	22158	Monzón	23	Fabricación de otros productos minerales no metálicos	8
+2020	22158	Monzón	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	4
+2020	22158	Monzón	25	Fabricación de productos metálicos, excepto maquinaria y equipo	59
+2020	22158	Monzón	26	Fabricación de productos informáticos, electrónicos y ópticos	3
+2020	22158	Monzón	27	Fabricación de material y equipo eléctrico	3
+2020	22158	Monzón	28	Fabricación de maquinaria y equipo n.c.o.p.	8
+2020	22158	Monzón	29	Fabricación de vehículos de motor, remolques y semirremolques	1
+2020	22158	Monzón	31	Fabricación de muebles	5
+2020	22158	Monzón	32	Otras industrias manufactureras	4
+2020	22158	Monzón	33	Reparación e instalación de maquinaria y equipo	17
+2020	22158	Monzón	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	6
+2020	22158	Monzón	36	Captación, depuración y distribución de agua	2
+2020	22158	Monzón	37	Recogida y tratamiento de aguas residuales	2
+2020	22158	Monzón	38	Recogida, tratamiento y eliminación de residuos; valorización	4
+2020	22158	Monzón	39	Actividades de descontaminación y otros servicios de gestión de residuos	3
+2020	22158	Monzón	41	Construcción de edificios	103
+2020	22158	Monzón	42	Ingeniería civil	21
+2020	22158	Monzón	43	Actividades de construcción especializada	206
+2020	22158	Monzón	45	Venta y reparación de vehículos de motor y motocicletas	85
+2020	22158	Monzón	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	134
+2020	22158	Monzón	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	454
+2020	22158	Monzón	49	Transporte terrestre y por tubería	94
+2020	22158	Monzón	52	Almacenamiento y actividades anexas al transporte	21
+2020	22158	Monzón	53	Actividades postales y de correos	7
+2020	22158	Monzón	55	Servicios de alojamiento	10
+2020	22158	Monzón	56	Servicios de comidas y bebidas	152
+2020	22158	Monzón	58	Edición	13
+2020	22158	Monzón	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	8
+2020	22158	Monzón	60	Actividades de programación y emisión de radio y televisión	2
+2020	22158	Monzón	61	Telecomunicaciones	4
+2020	22158	Monzón	62	Programación, consultoría y otras actividades relacionadas con la informática	14
+2020	22158	Monzón	63	Servicios de información	2
+2020	22158	Monzón	64	Servicios financieros, excepto seguros y fondos de pensiones	7
+2020	22158	Monzón	66	Actividades auxiliares a los servicios financieros y a los seguros	82
+2020	22158	Monzón	68	Actividades inmobiliarias	330
+2020	22158	Monzón	69	Actividades jurídicas y de contabilidad	96
+2020	22158	Monzón	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	93
+2020	22158	Monzón	72	Investigación y desarrollo	6
+2020	22158	Monzón	73	Publicidad y estudios de mercado	25
+2020	22158	Monzón	74	Otras actividades profesionales, científicas y técnicas	26
+2020	22158	Monzón	75	Actividades veterinarias	10
+2020	22158	Monzón	77	Actividades de alquiler	30
+2020	22158	Monzón	78	Actividades relacionadas con el empleo	7
+2020	22158	Monzón	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	7
+2020	22158	Monzón	80	Actividades de seguridad e investigación	1
+2020	22158	Monzón	81	Servicios a edificios y actividades de jardinería	41
+2020	22158	Monzón	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	51
+2020	22158	Monzón	85	Educación	113
+2020	22158	Monzón	86	Actividades sanitarias	60
+2020	22158	Monzón	87	Asistencia en establecimientos residenciales	2
+2020	22158	Monzón	88	Actividades de servicios sociales sin alojamiento	7
+2020	22158	Monzón	90	Actividades de creación, artísticas y espectáculos	42
+2020	22158	Monzón	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	10
+2020	22158	Monzón	92	Actividades de juegos de azar y apuestas	12
+2020	22158	Monzón	93	Actividades deportivas, recreativas y de entretenimiento	35
+2020	22158	Monzón	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	36
+2020	22158	Monzón	96	Otros servicios personales	80
+2020	44013	Alcañiz	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	81
+2020	44013	Alcañiz	02	Silvicultura y explotación forestal	2
+2020	44013	Alcañiz	08	Otras industrias extractivas	8
+2020	44013	Alcañiz	10	Industria de la alimentación	13
+2020	44013	Alcañiz	11	Fabricación de bebidas	2
+2020	44013	Alcañiz	13	Industria textil	10
+2020	44013	Alcañiz	14	Confección de prendas de vestir	8
+2020	44013	Alcañiz	15	Industria del cuero y del calzado	3
+2020	44013	Alcañiz	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	16
+2020	44013	Alcañiz	17	Industria del papel	1
+2020	44013	Alcañiz	18	Artes gráficas y reproducción de soportes grabados	15
+2020	44013	Alcañiz	20	Industria química	3
+2020	44013	Alcañiz	22	Fabricación de productos de caucho y plásticos	4
+2020	44013	Alcañiz	23	Fabricación de otros productos minerales no metálicos	12
+2020	44013	Alcañiz	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	2
+2020	44013	Alcañiz	25	Fabricación de productos metálicos, excepto maquinaria y equipo	26
+2020	44013	Alcañiz	28	Fabricación de maquinaria y equipo n.c.o.p.	3
+2020	44013	Alcañiz	29	Fabricación de vehículos de motor, remolques y semirremolques	4
+2020	44013	Alcañiz	30	Fabricación de otro material de transporte	1
+2020	44013	Alcañiz	31	Fabricación de muebles	8
+2020	44013	Alcañiz	32	Otras industrias manufactureras	8
+2020	44013	Alcañiz	33	Reparación e instalación de maquinaria y equipo	11
+2020	44013	Alcañiz	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	19
+2020	44013	Alcañiz	37	Recogida y tratamiento de aguas residuales	3
+2020	44013	Alcañiz	38	Recogida, tratamiento y eliminación de residuos; valorización	6
+2020	44013	Alcañiz	39	Actividades de descontaminación y otros servicios de gestión de residuos	2
+2020	44013	Alcañiz	41	Construcción de edificios	159
+2020	44013	Alcañiz	42	Ingeniería civil	20
+2020	44013	Alcañiz	43	Actividades de construcción especializada	234
+2020	44013	Alcañiz	45	Venta y reparación de vehículos de motor y motocicletas	133
+2020	44013	Alcañiz	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	158
+2020	44013	Alcañiz	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	598
+2020	44013	Alcañiz	49	Transporte terrestre y por tubería	97
+2020	44013	Alcañiz	52	Almacenamiento y actividades anexas al transporte	18
+2020	44013	Alcañiz	53	Actividades postales y de correos	7
+2020	44013	Alcañiz	55	Servicios de alojamiento	48
+2020	44013	Alcañiz	56	Servicios de comidas y bebidas	149
+2020	44013	Alcañiz	58	Edición	8
+2020	44013	Alcañiz	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	4
+2020	44013	Alcañiz	60	Actividades de programación y emisión de radio y televisión	5
+2020	44013	Alcañiz	61	Telecomunicaciones	10
+2020	44013	Alcañiz	62	Programación, consultoría y otras actividades relacionadas con la informática	22
+2020	44013	Alcañiz	63	Servicios de información	3
+2020	44013	Alcañiz	64	Servicios financieros, excepto seguros y fondos de pensiones	11
+2020	44013	Alcañiz	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	4
+2020	44013	Alcañiz	66	Actividades auxiliares a los servicios financieros y a los seguros	73
+2020	44013	Alcañiz	68	Actividades inmobiliarias	515
+2020	44013	Alcañiz	69	Actividades jurídicas y de contabilidad	93
+2020	44013	Alcañiz	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	82
+2020	44013	Alcañiz	72	Investigación y desarrollo	19
+2020	44013	Alcañiz	73	Publicidad y estudios de mercado	27
+2020	44013	Alcañiz	74	Otras actividades profesionales, científicas y técnicas	41
+2020	44013	Alcañiz	75	Actividades veterinarias	7
+2020	44013	Alcañiz	77	Actividades de alquiler	49
+2020	44013	Alcañiz	78	Actividades relacionadas con el empleo	4
+2020	44013	Alcañiz	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	12
+2020	44013	Alcañiz	80	Actividades de seguridad e investigación	3
+2020	44013	Alcañiz	81	Servicios a edificios y actividades de jardinería	25
+2020	44013	Alcañiz	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	64
+2020	44013	Alcañiz	85	Educación	110
+2020	44013	Alcañiz	86	Actividades sanitarias	71
+2020	44013	Alcañiz	87	Asistencia en establecimientos residenciales	1
+2020	44013	Alcañiz	88	Actividades de servicios sociales sin alojamiento	6
+2020	44013	Alcañiz	90	Actividades de creación, artísticas y espectáculos	40
+2020	44013	Alcañiz	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	2
+2020	44013	Alcañiz	92	Actividades de juegos de azar y apuestas	13
+2020	44013	Alcañiz	93	Actividades deportivas, recreativas y de entretenimiento	24
+2020	44013	Alcañiz	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	41
+2020	44013	Alcañiz	96	Otros servicios personales	112
+2020	44216	Teruel	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	64
+2020	44216	Teruel	02	Silvicultura y explotación forestal	17
+2020	44216	Teruel	08	Otras industrias extractivas	8
+2020	44216	Teruel	10	Industria de la alimentación	43
+2020	44216	Teruel	13	Industria textil	9
+2020	44216	Teruel	14	Confección de prendas de vestir	8
+2020	44216	Teruel	15	Industria del cuero y del calzado	1
+2020	44216	Teruel	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	16
+2020	44216	Teruel	18	Artes gráficas y reproducción de soportes grabados	34
+2020	44216	Teruel	20	Industria química	5
+2020	44216	Teruel	22	Fabricación de productos de caucho y plásticos	3
+2020	44216	Teruel	23	Fabricación de otros productos minerales no metálicos	26
+2020	44216	Teruel	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	1
+2020	44216	Teruel	25	Fabricación de productos metálicos, excepto maquinaria y equipo	49
+2020	44216	Teruel	27	Fabricación de material y equipo eléctrico	2
+2020	44216	Teruel	28	Fabricación de maquinaria y equipo n.c.o.p.	7
+2020	44216	Teruel	29	Fabricación de vehículos de motor, remolques y semirremolques	3
+2020	44216	Teruel	30	Fabricación de otro material de transporte	4
+2020	44216	Teruel	31	Fabricación de muebles	22
+2020	44216	Teruel	32	Otras industrias manufactureras	9
+2020	44216	Teruel	33	Reparación e instalación de maquinaria y equipo	10
+2020	44216	Teruel	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	50
+2020	44216	Teruel	36	Captación, depuración y distribución de agua	2
+2020	44216	Teruel	37	Recogida y tratamiento de aguas residuales	6
+2020	44216	Teruel	38	Recogida, tratamiento y eliminación de residuos; valorización	17
+2020	44216	Teruel	39	Actividades de descontaminación y otros servicios de gestión de residuos	7
+2020	44216	Teruel	41	Construcción de edificios	303
+2020	44216	Teruel	42	Ingeniería civil	51
+2020	44216	Teruel	43	Actividades de construcción especializada	391
+2020	44216	Teruel	45	Venta y reparación de vehículos de motor y motocicletas	191
+2020	44216	Teruel	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	263
+2020	44216	Teruel	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	1063
+2020	44216	Teruel	49	Transporte terrestre y por tubería	273
+2020	44216	Teruel	52	Almacenamiento y actividades anexas al transporte	32
+2020	44216	Teruel	53	Actividades postales y de correos	24
+2020	44216	Teruel	55	Servicios de alojamiento	60
+2020	44216	Teruel	56	Servicios de comidas y bebidas	378
+2020	44216	Teruel	58	Edición	16
+2020	44216	Teruel	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	16
+2020	44216	Teruel	60	Actividades de programación y emisión de radio y televisión	12
+2020	44216	Teruel	61	Telecomunicaciones	10
+2020	44216	Teruel	62	Programación, consultoría y otras actividades relacionadas con la informática	51
+2020	44216	Teruel	63	Servicios de información	12
+2020	44216	Teruel	64	Servicios financieros, excepto seguros y fondos de pensiones	19
+2020	44216	Teruel	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	14
+2020	44216	Teruel	66	Actividades auxiliares a los servicios financieros y a los seguros	156
+2020	44216	Teruel	68	Actividades inmobiliarias	617
+2020	44216	Teruel	69	Actividades jurídicas y de contabilidad	211
+2020	44216	Teruel	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	228
+2020	44216	Teruel	72	Investigación y desarrollo	42
+2020	44216	Teruel	73	Publicidad y estudios de mercado	56
+2020	44216	Teruel	74	Otras actividades profesionales, científicas y técnicas	82
+2020	44216	Teruel	75	Actividades veterinarias	32
+2020	44216	Teruel	77	Actividades de alquiler	65
+2020	44216	Teruel	78	Actividades relacionadas con el empleo	19
+2020	44216	Teruel	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	15
+2020	44216	Teruel	80	Actividades de seguridad e investigación	17
+2020	44216	Teruel	81	Servicios a edificios y actividades de jardinería	48
+2020	44216	Teruel	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	132
+2020	44216	Teruel	85	Educación	340
+2020	44216	Teruel	86	Actividades sanitarias	218
+2020	44216	Teruel	87	Asistencia en establecimientos residenciales	14
+2020	44216	Teruel	88	Actividades de servicios sociales sin alojamiento	27
+2020	44216	Teruel	90	Actividades de creación, artísticas y espectáculos	86
+2020	44216	Teruel	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	20
+2020	44216	Teruel	92	Actividades de juegos de azar y apuestas	16
+2020	44216	Teruel	93	Actividades deportivas, recreativas y de entretenimiento	57
+2020	44216	Teruel	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	52
+2020	44216	Teruel	96	Otros servicios personales	211
+2020	50067	Calatayud	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	40
+2020	50067	Calatayud	02	Silvicultura y explotación forestal	1
+2020	50067	Calatayud	08	Otras industrias extractivas	5
+2020	50067	Calatayud	10	Industria de la alimentación	27
+2020	50067	Calatayud	11	Fabricación de bebidas	9
+2020	50067	Calatayud	13	Industria textil	10
+2020	50067	Calatayud	14	Confección de prendas de vestir	4
+2020	50067	Calatayud	15	Industria del cuero y del calzado	6
+2020	50067	Calatayud	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	10
+2020	50067	Calatayud	17	Industria del papel	5
+2020	50067	Calatayud	18	Artes gráficas y reproducción de soportes grabados	18
+2020	50067	Calatayud	20	Industria química	4
+2020	50067	Calatayud	21	Fabricación de productos farmacéuticos	1
+2020	50067	Calatayud	22	Fabricación de productos de caucho y plásticos	5
+2020	50067	Calatayud	23	Fabricación de otros productos minerales no metálicos	7
+2020	50067	Calatayud	25	Fabricación de productos metálicos, excepto maquinaria y equipo	22
+2020	50067	Calatayud	27	Fabricación de material y equipo eléctrico	1
+2020	50067	Calatayud	28	Fabricación de maquinaria y equipo n.c.o.p.	5
+2020	50067	Calatayud	29	Fabricación de vehículos de motor, remolques y semirremolques	6
+2020	50067	Calatayud	30	Fabricación de otro material de transporte	2
+2020	50067	Calatayud	31	Fabricación de muebles	1
+2020	50067	Calatayud	32	Otras industrias manufactureras	4
+2020	50067	Calatayud	33	Reparación e instalación de maquinaria y equipo	6
+2020	50067	Calatayud	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	21
+2020	50067	Calatayud	37	Recogida y tratamiento de aguas residuales	2
+2020	50067	Calatayud	38	Recogida, tratamiento y eliminación de residuos; valorización	9
+2020	50067	Calatayud	39	Actividades de descontaminación y otros servicios de gestión de residuos	4
+2020	50067	Calatayud	41	Construcción de edificios	149
+2020	50067	Calatayud	42	Ingeniería civil	15
+2020	50067	Calatayud	43	Actividades de construcción especializada	185
+2020	50067	Calatayud	45	Venta y reparación de vehículos de motor y motocicletas	112
+2020	50067	Calatayud	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	175
+2020	50067	Calatayud	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	506
+2020	50067	Calatayud	49	Transporte terrestre y por tubería	95
+2020	50067	Calatayud	50	Transporte marítimo y por vías navegables interiores	1
+2020	50067	Calatayud	52	Almacenamiento y actividades anexas al transporte	18
+2020	50067	Calatayud	53	Actividades postales y de correos	3
+2020	50067	Calatayud	55	Servicios de alojamiento	16
+2020	50067	Calatayud	56	Servicios de comidas y bebidas	183
+2020	50067	Calatayud	58	Edición	2
+2020	50067	Calatayud	60	Actividades de programación y emisión de radio y televisión	5
+2020	50067	Calatayud	62	Programación, consultoría y otras actividades relacionadas con la informática	8
+2020	50067	Calatayud	64	Servicios financieros, excepto seguros y fondos de pensiones	9
+2020	50067	Calatayud	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	2
+2020	50067	Calatayud	66	Actividades auxiliares a los servicios financieros y a los seguros	72
+2020	50067	Calatayud	68	Actividades inmobiliarias	416
+2020	50067	Calatayud	69	Actividades jurídicas y de contabilidad	95
+2020	50067	Calatayud	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	57
+2020	50067	Calatayud	72	Investigación y desarrollo	12
+2020	50067	Calatayud	73	Publicidad y estudios de mercado	22
+2020	50067	Calatayud	74	Otras actividades profesionales, científicas y técnicas	26
+2020	50067	Calatayud	75	Actividades veterinarias	5
+2020	50067	Calatayud	77	Actividades de alquiler	32
+2020	50067	Calatayud	78	Actividades relacionadas con el empleo	5
+2020	50067	Calatayud	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	12
+2020	50067	Calatayud	80	Actividades de seguridad e investigación	1
+2020	50067	Calatayud	81	Servicios a edificios y actividades de jardinería	17
+2020	50067	Calatayud	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	46
+2020	50067	Calatayud	85	Educación	100
+2020	50067	Calatayud	86	Actividades sanitarias	70
+2020	50067	Calatayud	87	Asistencia en establecimientos residenciales	10
+2020	50067	Calatayud	88	Actividades de servicios sociales sin alojamiento	10
+2020	50067	Calatayud	90	Actividades de creación, artísticas y espectáculos	34
+2020	50067	Calatayud	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	6
+2020	50067	Calatayud	92	Actividades de juegos de azar y apuestas	18
+2020	50067	Calatayud	93	Actividades deportivas, recreativas y de entretenimiento	32
+2020	50067	Calatayud	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	28
+2020	50067	Calatayud	96	Otros servicios personales	108
+2020	50074	Caspe	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	118
+2020	50074	Caspe	02	Silvicultura y explotación forestal	3
+2020	50074	Caspe	08	Otras industrias extractivas	1
+2020	50074	Caspe	10	Industria de la alimentación	15
+2020	50074	Caspe	11	Fabricación de bebidas	2
+2020	50074	Caspe	13	Industria textil	3
+2020	50074	Caspe	14	Confección de prendas de vestir	3
+2020	50074	Caspe	15	Industria del cuero y del calzado	1
+2020	50074	Caspe	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	2
+2020	50074	Caspe	17	Industria del papel	4
+2020	50074	Caspe	18	Artes gráficas y reproducción de soportes grabados	6
+2020	50074	Caspe	20	Industria química	2
+2020	50074	Caspe	23	Fabricación de otros productos minerales no metálicos	4
+2020	50074	Caspe	25	Fabricación de productos metálicos, excepto maquinaria y equipo	18
+2020	50074	Caspe	27	Fabricación de material y equipo eléctrico	2
+2020	50074	Caspe	28	Fabricación de maquinaria y equipo n.c.o.p.	4
+2020	50074	Caspe	29	Fabricación de vehículos de motor, remolques y semirremolques	1
+2020	50074	Caspe	30	Fabricación de otro material de transporte	1
+2020	50074	Caspe	32	Otras industrias manufactureras	3
+2020	50074	Caspe	33	Reparación e instalación de maquinaria y equipo	2
+2020	50074	Caspe	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	7
+2020	50074	Caspe	36	Captación, depuración y distribución de agua	2
+2020	50074	Caspe	37	Recogida y tratamiento de aguas residuales	1
+2020	50074	Caspe	38	Recogida, tratamiento y eliminación de residuos; valorización	2
+2020	50074	Caspe	39	Actividades de descontaminación y otros servicios de gestión de residuos	2
+2020	50074	Caspe	41	Construcción de edificios	56
+2020	50074	Caspe	42	Ingeniería civil	8
+2020	50074	Caspe	43	Actividades de construcción especializada	93
+2020	50074	Caspe	45	Venta y reparación de vehículos de motor y motocicletas	35
+2020	50074	Caspe	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	84
+2020	50074	Caspe	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	290
+2020	50074	Caspe	49	Transporte terrestre y por tubería	15
+2020	50074	Caspe	50	Transporte marítimo y por vías navegables interiores	1
+2020	50074	Caspe	52	Almacenamiento y actividades anexas al transporte	1
+2020	50074	Caspe	55	Servicios de alojamiento	24
+2020	50074	Caspe	56	Servicios de comidas y bebidas	86
+2020	50074	Caspe	58	Edición	2
+2020	50074	Caspe	60	Actividades de programación y emisión de radio y televisión	2
+2020	50074	Caspe	62	Programación, consultoría y otras actividades relacionadas con la informática	2
+2020	50074	Caspe	64	Servicios financieros, excepto seguros y fondos de pensiones	6
+2020	50074	Caspe	66	Actividades auxiliares a los servicios financieros y a los seguros	20
+2020	50074	Caspe	68	Actividades inmobiliarias	169
+2020	50074	Caspe	69	Actividades jurídicas y de contabilidad	26
+2020	50074	Caspe	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	26
+2020	50074	Caspe	72	Investigación y desarrollo	3
+2020	50074	Caspe	73	Publicidad y estudios de mercado	4
+2020	50074	Caspe	74	Otras actividades profesionales, científicas y técnicas	10
+2020	50074	Caspe	75	Actividades veterinarias	6
+2020	50074	Caspe	77	Actividades de alquiler	45
+2020	50074	Caspe	78	Actividades relacionadas con el empleo	4
+2020	50074	Caspe	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	3
+2020	50074	Caspe	80	Actividades de seguridad e investigación	1
+2020	50074	Caspe	81	Servicios a edificios y actividades de jardinería	9
+2020	50074	Caspe	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	27
+2020	50074	Caspe	85	Educación	54
+2020	50074	Caspe	86	Actividades sanitarias	24
+2020	50074	Caspe	87	Asistencia en establecimientos residenciales	5
+2020	50074	Caspe	88	Actividades de servicios sociales sin alojamiento	3
+2020	50074	Caspe	90	Actividades de creación, artísticas y espectáculos	13
+2020	50074	Caspe	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	1
+2020	50074	Caspe	92	Actividades de juegos de azar y apuestas	6
+2020	50074	Caspe	93	Actividades deportivas, recreativas y de entretenimiento	13
+2020	50074	Caspe	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	12
+2020	50074	Caspe	96	Otros servicios personales	51
+2020	50089	Cuarte de Huerva	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	11
+2020	50089	Cuarte de Huerva	02	Silvicultura y explotación forestal	2
+2020	50089	Cuarte de Huerva	08	Otras industrias extractivas	1
+2020	50089	Cuarte de Huerva	10	Industria de la alimentación	23
+2020	50089	Cuarte de Huerva	11	Fabricación de bebidas	2
+2020	50089	Cuarte de Huerva	13	Industria textil	15
+2020	50089	Cuarte de Huerva	14	Confección de prendas de vestir	4
+2020	50089	Cuarte de Huerva	15	Industria del cuero y del calzado	2
+2020	50089	Cuarte de Huerva	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	5
+2020	50089	Cuarte de Huerva	17	Industria del papel	6
+2020	50089	Cuarte de Huerva	18	Artes gráficas y reproducción de soportes grabados	33
+2020	50089	Cuarte de Huerva	20	Industria química	9
+2020	50089	Cuarte de Huerva	22	Fabricación de productos de caucho y plásticos	22
+2020	50089	Cuarte de Huerva	23	Fabricación de otros productos minerales no metálicos	18
+2020	50089	Cuarte de Huerva	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	4
+2020	50089	Cuarte de Huerva	25	Fabricación de productos metálicos, excepto maquinaria y equipo	126
+2020	50089	Cuarte de Huerva	26	Fabricación de productos informáticos, electrónicos y ópticos	4
+2020	50089	Cuarte de Huerva	27	Fabricación de material y equipo eléctrico	16
+2020	50089	Cuarte de Huerva	28	Fabricación de maquinaria y equipo n.c.o.p.	33
+2020	50089	Cuarte de Huerva	29	Fabricación de vehículos de motor, remolques y semirremolques	15
+2020	50089	Cuarte de Huerva	30	Fabricación de otro material de transporte	1
+2020	50089	Cuarte de Huerva	31	Fabricación de muebles	54
+2020	50089	Cuarte de Huerva	32	Otras industrias manufactureras	10
+2020	50089	Cuarte de Huerva	33	Reparación e instalación de maquinaria y equipo	23
+2020	50089	Cuarte de Huerva	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	8
+2020	50089	Cuarte de Huerva	37	Recogida y tratamiento de aguas residuales	4
+2020	50089	Cuarte de Huerva	38	Recogida, tratamiento y eliminación de residuos; valorización	4
+2020	50089	Cuarte de Huerva	39	Actividades de descontaminación y otros servicios de gestión de residuos	2
+2020	50089	Cuarte de Huerva	41	Construcción de edificios	110
+2020	50089	Cuarte de Huerva	42	Ingeniería civil	10
+2020	50089	Cuarte de Huerva	43	Actividades de construcción especializada	149
+2020	50089	Cuarte de Huerva	45	Venta y reparación de vehículos de motor y motocicletas	145
+2020	50089	Cuarte de Huerva	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	368
+2020	50089	Cuarte de Huerva	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	282
+2020	50089	Cuarte de Huerva	49	Transporte terrestre y por tubería	64
+2020	50089	Cuarte de Huerva	51	Transporte aéreo	1
+2020	50089	Cuarte de Huerva	52	Almacenamiento y actividades anexas al transporte	6
+2020	50089	Cuarte de Huerva	53	Actividades postales y de correos	19
+2020	50089	Cuarte de Huerva	55	Servicios de alojamiento	4
+2020	50089	Cuarte de Huerva	56	Servicios de comidas y bebidas	70
+2020	50089	Cuarte de Huerva	58	Edición	3
+2020	50089	Cuarte de Huerva	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	6
+2020	50089	Cuarte de Huerva	60	Actividades de programación y emisión de radio y televisión	1
+2020	50089	Cuarte de Huerva	61	Telecomunicaciones	2
+2020	50089	Cuarte de Huerva	62	Programación, consultoría y otras actividades relacionadas con la informática	15
+2020	50089	Cuarte de Huerva	63	Servicios de información	5
+2020	50089	Cuarte de Huerva	64	Servicios financieros, excepto seguros y fondos de pensiones	7
+2020	50089	Cuarte de Huerva	66	Actividades auxiliares a los servicios financieros y a los seguros	27
+2020	50089	Cuarte de Huerva	68	Actividades inmobiliarias	207
+2020	50089	Cuarte de Huerva	69	Actividades jurídicas y de contabilidad	25
+2020	50089	Cuarte de Huerva	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	79
+2020	50089	Cuarte de Huerva	72	Investigación y desarrollo	10
+2020	50089	Cuarte de Huerva	73	Publicidad y estudios de mercado	30
+2020	50089	Cuarte de Huerva	74	Otras actividades profesionales, científicas y técnicas	40
+2020	50089	Cuarte de Huerva	75	Actividades veterinarias	4
+2020	50089	Cuarte de Huerva	77	Actividades de alquiler	30
+2020	50089	Cuarte de Huerva	78	Actividades relacionadas con el empleo	3
+2020	50089	Cuarte de Huerva	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	4
+2020	50089	Cuarte de Huerva	80	Actividades de seguridad e investigación	3
+2020	50089	Cuarte de Huerva	81	Servicios a edificios y actividades de jardinería	13
+2020	50089	Cuarte de Huerva	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	57
+2020	50089	Cuarte de Huerva	85	Educación	53
+2020	50089	Cuarte de Huerva	86	Actividades sanitarias	37
+2020	50089	Cuarte de Huerva	87	Asistencia en establecimientos residenciales	3
+2020	50089	Cuarte de Huerva	90	Actividades de creación, artísticas y espectáculos	28
+2020	50089	Cuarte de Huerva	92	Actividades de juegos de azar y apuestas	3
+2020	50089	Cuarte de Huerva	93	Actividades deportivas, recreativas y de entretenimiento	28
+2020	50089	Cuarte de Huerva	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	24
+2020	50089	Cuarte de Huerva	96	Otros servicios personales	28
+2020	50095	Ejea de los Caballeros	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	278
+2020	50095	Ejea de los Caballeros	02	Silvicultura y explotación forestal	8
+2020	50095	Ejea de los Caballeros	08	Otras industrias extractivas	6
+2020	50095	Ejea de los Caballeros	10	Industria de la alimentación	35
+2020	50095	Ejea de los Caballeros	11	Fabricación de bebidas	1
+2020	50095	Ejea de los Caballeros	13	Industria textil	2
+2020	50095	Ejea de los Caballeros	14	Confección de prendas de vestir	7
+2020	50095	Ejea de los Caballeros	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	6
+2020	50095	Ejea de los Caballeros	17	Industria del papel	1
+2020	50095	Ejea de los Caballeros	18	Artes gráficas y reproducción de soportes grabados	10
+2020	50095	Ejea de los Caballeros	20	Industria química	2
+2020	50095	Ejea de los Caballeros	21	Fabricación de productos farmacéuticos	3
+2020	50095	Ejea de los Caballeros	22	Fabricación de productos de caucho y plásticos	4
+2020	50095	Ejea de los Caballeros	23	Fabricación de otros productos minerales no metálicos	7
+2020	50095	Ejea de los Caballeros	25	Fabricación de productos metálicos, excepto maquinaria y equipo	48
+2020	50095	Ejea de los Caballeros	26	Fabricación de productos informáticos, electrónicos y ópticos	2
+2020	50095	Ejea de los Caballeros	27	Fabricación de material y equipo eléctrico	9
+2020	50095	Ejea de los Caballeros	28	Fabricación de maquinaria y equipo n.c.o.p.	19
+2020	50095	Ejea de los Caballeros	29	Fabricación de vehículos de motor, remolques y semirremolques	7
+2020	50095	Ejea de los Caballeros	31	Fabricación de muebles	8
+2020	50095	Ejea de los Caballeros	32	Otras industrias manufactureras	4
+2020	50095	Ejea de los Caballeros	33	Reparación e instalación de maquinaria y equipo	4
+2020	50095	Ejea de los Caballeros	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	101
+2020	50095	Ejea de los Caballeros	36	Captación, depuración y distribución de agua	1
+2020	50095	Ejea de los Caballeros	37	Recogida y tratamiento de aguas residuales	2
+2020	50095	Ejea de los Caballeros	38	Recogida, tratamiento y eliminación de residuos; valorización	5
+2020	50095	Ejea de los Caballeros	39	Actividades de descontaminación y otros servicios de gestión de residuos	2
+2020	50095	Ejea de los Caballeros	41	Construcción de edificios	128
+2020	50095	Ejea de los Caballeros	42	Ingeniería civil	31
+2020	50095	Ejea de los Caballeros	43	Actividades de construcción especializada	216
+2020	50095	Ejea de los Caballeros	45	Venta y reparación de vehículos de motor y motocicletas	80
+2020	50095	Ejea de los Caballeros	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	120
+2020	50095	Ejea de los Caballeros	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	433
+2020	50095	Ejea de los Caballeros	49	Transporte terrestre y por tubería	90
+2020	50095	Ejea de los Caballeros	52	Almacenamiento y actividades anexas al transporte	15
+2020	50095	Ejea de los Caballeros	53	Actividades postales y de correos	8
+2020	50095	Ejea de los Caballeros	55	Servicios de alojamiento	13
+2020	50095	Ejea de los Caballeros	56	Servicios de comidas y bebidas	159
+2020	50095	Ejea de los Caballeros	58	Edición	5
+2020	50095	Ejea de los Caballeros	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	3
+2020	50095	Ejea de los Caballeros	60	Actividades de programación y emisión de radio y televisión	1
+2020	50095	Ejea de los Caballeros	62	Programación, consultoría y otras actividades relacionadas con la informática	15
+2020	50095	Ejea de los Caballeros	63	Servicios de información	2
+2020	50095	Ejea de los Caballeros	64	Servicios financieros, excepto seguros y fondos de pensiones	11
+2020	50095	Ejea de los Caballeros	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	3
+2020	50095	Ejea de los Caballeros	66	Actividades auxiliares a los servicios financieros y a los seguros	52
+2020	50095	Ejea de los Caballeros	68	Actividades inmobiliarias	273
+2020	50095	Ejea de los Caballeros	69	Actividades jurídicas y de contabilidad	71
+2020	50095	Ejea de los Caballeros	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	61
+2020	50095	Ejea de los Caballeros	72	Investigación y desarrollo	14
+2020	50095	Ejea de los Caballeros	73	Publicidad y estudios de mercado	20
+2020	50095	Ejea de los Caballeros	74	Otras actividades profesionales, científicas y técnicas	22
+2020	50095	Ejea de los Caballeros	75	Actividades veterinarias	12
+2020	50095	Ejea de los Caballeros	77	Actividades de alquiler	32
+2020	50095	Ejea de los Caballeros	78	Actividades relacionadas con el empleo	1
+2020	50095	Ejea de los Caballeros	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	6
+2020	50095	Ejea de los Caballeros	81	Servicios a edificios y actividades de jardinería	14
+2020	50095	Ejea de los Caballeros	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	54
+2020	50095	Ejea de los Caballeros	85	Educación	77
+2020	50095	Ejea de los Caballeros	86	Actividades sanitarias	41
+2020	50095	Ejea de los Caballeros	87	Asistencia en establecimientos residenciales	5
+2020	50095	Ejea de los Caballeros	88	Actividades de servicios sociales sin alojamiento	7
+2020	50095	Ejea de los Caballeros	90	Actividades de creación, artísticas y espectáculos	21
+2020	50095	Ejea de los Caballeros	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	3
+2020	50095	Ejea de los Caballeros	92	Actividades de juegos de azar y apuestas	14
+2020	50095	Ejea de los Caballeros	93	Actividades deportivas, recreativas y de entretenimiento	24
+2020	50095	Ejea de los Caballeros	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	26
+2020	50095	Ejea de los Caballeros	96	Otros servicios personales	75
+2020	50251	Tarazona	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	36
+2020	50251	Tarazona	02	Silvicultura y explotación forestal	2
+2020	50251	Tarazona	08	Otras industrias extractivas	1
+2020	50251	Tarazona	10	Industria de la alimentación	16
+2020	50251	Tarazona	13	Industria textil	5
+2020	50251	Tarazona	14	Confección de prendas de vestir	7
+2020	50251	Tarazona	15	Industria del cuero y del calzado	2
+2020	50251	Tarazona	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	3
+2020	50251	Tarazona	18	Artes gráficas y reproducción de soportes grabados	4
+2020	50251	Tarazona	20	Industria química	1
+2020	50251	Tarazona	22	Fabricación de productos de caucho y plásticos	2
+2020	50251	Tarazona	23	Fabricación de otros productos minerales no metálicos	2
+2020	50251	Tarazona	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	1
+2020	50251	Tarazona	25	Fabricación de productos metálicos, excepto maquinaria y equipo	24
+2020	50251	Tarazona	26	Fabricación de productos informáticos, electrónicos y ópticos	1
+2020	50251	Tarazona	27	Fabricación de material y equipo eléctrico	3
+2020	50251	Tarazona	28	Fabricación de maquinaria y equipo n.c.o.p.	5
+2020	50251	Tarazona	29	Fabricación de vehículos de motor, remolques y semirremolques	7
+2020	50251	Tarazona	30	Fabricación de otro material de transporte	3
+2020	50251	Tarazona	31	Fabricación de muebles	7
+2020	50251	Tarazona	32	Otras industrias manufactureras	4
+2020	50251	Tarazona	33	Reparación e instalación de maquinaria y equipo	12
+2020	50251	Tarazona	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	11
+2020	50251	Tarazona	37	Recogida y tratamiento de aguas residuales	1
+2020	50251	Tarazona	41	Construcción de edificios	69
+2020	50251	Tarazona	42	Ingeniería civil	12
+2020	50251	Tarazona	43	Actividades de construcción especializada	113
+2020	50251	Tarazona	45	Venta y reparación de vehículos de motor y motocicletas	51
+2020	50251	Tarazona	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	76
+2020	50251	Tarazona	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	272
+2020	50251	Tarazona	49	Transporte terrestre y por tubería	51
+2020	50251	Tarazona	52	Almacenamiento y actividades anexas al transporte	4
+2020	50251	Tarazona	53	Actividades postales y de correos	3
+2020	50251	Tarazona	55	Servicios de alojamiento	9
+2020	50251	Tarazona	56	Servicios de comidas y bebidas	77
+2020	50251	Tarazona	58	Edición	1
+2020	50251	Tarazona	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	1
+2020	50251	Tarazona	60	Actividades de programación y emisión de radio y televisión	4
+2020	50251	Tarazona	62	Programación, consultoría y otras actividades relacionadas con la informática	4
+2020	50251	Tarazona	64	Servicios financieros, excepto seguros y fondos de pensiones	8
+2020	50251	Tarazona	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	2
+2020	50251	Tarazona	66	Actividades auxiliares a los servicios financieros y a los seguros	34
+2020	50251	Tarazona	68	Actividades inmobiliarias	204
+2020	50251	Tarazona	69	Actividades jurídicas y de contabilidad	33
+2020	50251	Tarazona	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	40
+2020	50251	Tarazona	72	Investigación y desarrollo	5
+2020	50251	Tarazona	73	Publicidad y estudios de mercado	6
+2020	50251	Tarazona	74	Otras actividades profesionales, científicas y técnicas	20
+2020	50251	Tarazona	75	Actividades veterinarias	4
+2020	50251	Tarazona	77	Actividades de alquiler	15
+2020	50251	Tarazona	78	Actividades relacionadas con el empleo	1
+2020	50251	Tarazona	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	5
+2020	50251	Tarazona	81	Servicios a edificios y actividades de jardinería	11
+2020	50251	Tarazona	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	20
+2020	50251	Tarazona	85	Educación	35
+2020	50251	Tarazona	86	Actividades sanitarias	22
+2020	50251	Tarazona	87	Asistencia en establecimientos residenciales	1
+2020	50251	Tarazona	88	Actividades de servicios sociales sin alojamiento	4
+2020	50251	Tarazona	90	Actividades de creación, artísticas y espectáculos	16
+2020	50251	Tarazona	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	2
+2020	50251	Tarazona	92	Actividades de juegos de azar y apuestas	9
+2020	50251	Tarazona	93	Actividades deportivas, recreativas y de entretenimiento	10
+2020	50251	Tarazona	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	10
+2020	50251	Tarazona	96	Otros servicios personales	52
+2020	50272	Utebo	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	25
+2020	50272	Utebo	08	Otras industrias extractivas	1
+2020	50272	Utebo	10	Industria de la alimentación	16
+2020	50272	Utebo	13	Industria textil	9
+2020	50272	Utebo	14	Confección de prendas de vestir	6
+2020	50272	Utebo	15	Industria del cuero y del calzado	3
+2020	50272	Utebo	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	1
+2020	50272	Utebo	18	Artes gráficas y reproducción de soportes grabados	9
+2020	50272	Utebo	20	Industria química	10
+2020	50272	Utebo	21	Fabricación de productos farmacéuticos	2
+2020	50272	Utebo	22	Fabricación de productos de caucho y plásticos	9
+2020	50272	Utebo	25	Fabricación de productos metálicos, excepto maquinaria y equipo	41
+2020	50272	Utebo	27	Fabricación de material y equipo eléctrico	4
+2020	50272	Utebo	28	Fabricación de maquinaria y equipo n.c.o.p.	15
+2020	50272	Utebo	29	Fabricación de vehículos de motor, remolques y semirremolques	8
+2020	50272	Utebo	31	Fabricación de muebles	9
+2020	50272	Utebo	32	Otras industrias manufactureras	2
+2020	50272	Utebo	33	Reparación e instalación de maquinaria y equipo	11
+2020	50272	Utebo	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	7
+2020	50272	Utebo	37	Recogida y tratamiento de aguas residuales	2
+2020	50272	Utebo	38	Recogida, tratamiento y eliminación de residuos; valorización	3
+2020	50272	Utebo	39	Actividades de descontaminación y otros servicios de gestión de residuos	2
+2020	50272	Utebo	41	Construcción de edificios	102
+2020	50272	Utebo	42	Ingeniería civil	14
+2020	50272	Utebo	43	Actividades de construcción especializada	97
+2020	50272	Utebo	45	Venta y reparación de vehículos de motor y motocicletas	105
+2020	50272	Utebo	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	116
+2020	50272	Utebo	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	321
+2020	50272	Utebo	49	Transporte terrestre y por tubería	89
+2020	50272	Utebo	52	Almacenamiento y actividades anexas al transporte	11
+2020	50272	Utebo	53	Actividades postales y de correos	15
+2020	50272	Utebo	55	Servicios de alojamiento	8
+2020	50272	Utebo	56	Servicios de comidas y bebidas	113
+2020	50272	Utebo	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	4
+2020	50272	Utebo	61	Telecomunicaciones	2
+2020	50272	Utebo	62	Programación, consultoría y otras actividades relacionadas con la informática	12
+2020	50272	Utebo	64	Servicios financieros, excepto seguros y fondos de pensiones	9
+2020	50272	Utebo	66	Actividades auxiliares a los servicios financieros y a los seguros	27
+2020	50272	Utebo	68	Actividades inmobiliarias	207
+2020	50272	Utebo	69	Actividades jurídicas y de contabilidad	30
+2020	50272	Utebo	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	39
+2020	50272	Utebo	72	Investigación y desarrollo	7
+2020	50272	Utebo	73	Publicidad y estudios de mercado	21
+2020	50272	Utebo	74	Otras actividades profesionales, científicas y técnicas	24
+2020	50272	Utebo	75	Actividades veterinarias	5
+2020	50272	Utebo	77	Actividades de alquiler	22
+2020	50272	Utebo	78	Actividades relacionadas con el empleo	3
+2020	50272	Utebo	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	3
+2020	50272	Utebo	80	Actividades de seguridad e investigación	2
+2020	50272	Utebo	81	Servicios a edificios y actividades de jardinería	13
+2020	50272	Utebo	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	33
+2020	50272	Utebo	85	Educación	72
+2020	50272	Utebo	86	Actividades sanitarias	35
+2020	50272	Utebo	87	Asistencia en establecimientos residenciales	3
+2020	50272	Utebo	88	Actividades de servicios sociales sin alojamiento	6
+2020	50272	Utebo	90	Actividades de creación, artísticas y espectáculos	20
+2020	50272	Utebo	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	4
+2020	50272	Utebo	92	Actividades de juegos de azar y apuestas	6
+2020	50272	Utebo	93	Actividades deportivas, recreativas y de entretenimiento	24
+2020	50272	Utebo	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	30
+2020	50272	Utebo	96	Otros servicios personales	73
+2020	50297	Zaragoza	01	Agricultura, ganadería, caza y servicios relacionados con las mismas	440
+2020	50297	Zaragoza	02	Silvicultura y explotación forestal	35
+2020	50297	Zaragoza	05	Extracción de antracita, hulla y lignito	1
+2020	50297	Zaragoza	07	Extracción de minerales metálicos	2
+2020	50297	Zaragoza	08	Otras industrias extractivas	19
+2020	50297	Zaragoza	10	Industria de la alimentación	422
+2020	50297	Zaragoza	11	Fabricación de bebidas	16
+2020	50297	Zaragoza	13	Industria textil	134
+2020	50297	Zaragoza	14	Confección de prendas de vestir	276
+2020	50297	Zaragoza	15	Industria del cuero y del calzado	27
+2020	50297	Zaragoza	16	Industria de la madera y del corcho, excepto muebles; cestería y espartería	109
+2020	50297	Zaragoza	17	Industria del papel	18
+2020	50297	Zaragoza	18	Artes gráficas y reproducción de soportes grabados	416
+2020	50297	Zaragoza	20	Industria química	68
+2020	50297	Zaragoza	21	Fabricación de productos farmacéuticos	17
+2020	50297	Zaragoza	22	Fabricación de productos de caucho y plásticos	98
+2020	50297	Zaragoza	23	Fabricación de otros productos minerales no metálicos	68
+2020	50297	Zaragoza	24	Metalurgia; fabricación de productos de hierro, acero y ferroaleaciones	17
+2020	50297	Zaragoza	25	Fabricación de productos metálicos, excepto maquinaria y equipo	544
+2020	50297	Zaragoza	26	Fabricación de productos informáticos, electrónicos y ópticos	105
+2020	50297	Zaragoza	27	Fabricación de material y equipo eléctrico	82
+2020	50297	Zaragoza	28	Fabricación de maquinaria y equipo n.c.o.p.	252
+2020	50297	Zaragoza	29	Fabricación de vehículos de motor, remolques y semirremolques	52
+2020	50297	Zaragoza	30	Fabricación de otro material de transporte	28
+2020	50297	Zaragoza	31	Fabricación de muebles	169
+2020	50297	Zaragoza	32	Otras industrias manufactureras	315
+2020	50297	Zaragoza	33	Reparación e instalación de maquinaria y equipo	313
+2020	50297	Zaragoza	35	Suministro de energía eléctrica, gas, vapor y aire acondicionado	414
+2020	50297	Zaragoza	36	Captación, depuración y distribución de agua	10
+2020	50297	Zaragoza	37	Recogida y tratamiento de aguas residuales	27
+2020	50297	Zaragoza	38	Recogida, tratamiento y eliminación de residuos; valorización	44
+2020	50297	Zaragoza	39	Actividades de descontaminación y otros servicios de gestión de residuos	64
+2020	50297	Zaragoza	41	Construcción de edificios	3053
+2020	50297	Zaragoza	42	Ingeniería civil	582
+2020	50297	Zaragoza	43	Actividades de construcción especializada	6699
+2020	50297	Zaragoza	45	Venta y reparación de vehículos de motor y motocicletas	1805
+2020	50297	Zaragoza	46	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	6200
+2020	50297	Zaragoza	47	Comercio al por menor, excepto de vehículos de motor y motocicletas	13885
+2020	50297	Zaragoza	49	Transporte terrestre y por tubería	4046
+2020	50297	Zaragoza	50	Transporte marítimo y por vías navegables interiores	6
+2020	50297	Zaragoza	51	Transporte aéreo	7
+2020	50297	Zaragoza	52	Almacenamiento y actividades anexas al transporte	614
+2020	50297	Zaragoza	53	Actividades postales y de correos	1279
+2020	50297	Zaragoza	55	Servicios de alojamiento	233
+2020	50297	Zaragoza	56	Servicios de comidas y bebidas	5755
+2020	50297	Zaragoza	58	Edición	392
+2020	50297	Zaragoza	59	Actividades cinematográficas, de vídeo y de programas de televisión, grabación de sonido y edición musical	372
+2020	50297	Zaragoza	60	Actividades de programación y emisión de radio y televisión	71
+2020	50297	Zaragoza	61	Telecomunicaciones	131
+2020	50297	Zaragoza	62	Programación, consultoría y otras actividades relacionadas con la informática	1303
+2020	50297	Zaragoza	63	Servicios de información	115
+2020	50297	Zaragoza	64	Servicios financieros, excepto seguros y fondos de pensiones	444
+2020	50297	Zaragoza	65	Seguros, reaseguros y fondos de pensiones, excepto Seguridad Social obligatoria	97
+2020	50297	Zaragoza	66	Actividades auxiliares a los servicios financieros y a los seguros	2174
+2020	50297	Zaragoza	68	Actividades inmobiliarias	12857
+2020	50297	Zaragoza	69	Actividades jurídicas y de contabilidad	4710
+2020	50297	Zaragoza	71	Servicios técnicos de arquitectura e ingeniería; ensayos y análisis técnicos	3382
+2020	50297	Zaragoza	72	Investigación y desarrollo	760
+2020	50297	Zaragoza	73	Publicidad y estudios de mercado	1393
+2020	50297	Zaragoza	74	Otras actividades profesionales, científicas y técnicas	2100
+2020	50297	Zaragoza	75	Actividades veterinarias	275
+2020	50297	Zaragoza	77	Actividades de alquiler	853
+2020	50297	Zaragoza	78	Actividades relacionadas con el empleo	243
+2020	50297	Zaragoza	79	Actividades de agencias de viajes, operadores turísticos, servicios de reservas y actividades relacionadas con los mismos	262
+2020	50297	Zaragoza	80	Actividades de seguridad e investigación	110
+2020	50297	Zaragoza	81	Servicios a edificios y actividades de jardinería	861
+2020	50297	Zaragoza	82	Actividades administrativas de oficina y otras actividades auxiliares a las empresas	3386
+2020	50297	Zaragoza	85	Educación	4382
+2020	50297	Zaragoza	86	Actividades sanitarias	4040
+2020	50297	Zaragoza	87	Asistencia en establecimientos residenciales	238
+2020	50297	Zaragoza	88	Actividades de servicios sociales sin alojamiento	298
+2020	50297	Zaragoza	90	Actividades de creación, artísticas y espectáculos	1932
+2020	50297	Zaragoza	91	Actividades de bibliotecas, archivos, museos y otras actividades culturales	238
+2020	50297	Zaragoza	92	Actividades de juegos de azar y apuestas	359
+2020	50297	Zaragoza	93	Actividades deportivas, recreativas y de entretenimiento	799
+2020	50297	Zaragoza	95	Reparación de ordenadores, efectos personales y artículos de uso doméstico	862
+2020	50297	Zaragoza	96	Otros servicios personales	3470
