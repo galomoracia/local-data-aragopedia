@@ -1,556 +1,69 @@
 Mes y año	Mes (código)	Mes nombre	Año	Sector código	Sector descripción	Sexo	Número de contratos	CCAA nombre
-Septiembre 2021	202109	Septiembre	2021	1	Agricultura, ganadería y pesca	Hombres	4648	Aragón
-Septiembre 2021	202109	Septiembre	2021	1	Agricultura, ganadería y pesca	Mujeres	1231	Aragón
-Septiembre 2021	202109	Septiembre	2021	2	Industria y energía	Hombres	7579	Aragón
-Septiembre 2021	202109	Septiembre	2021	2	Industria y energía	Mujeres	4470	Aragón
-Septiembre 2021	202109	Septiembre	2021	3	Construcción	Hombres	1913	Aragón
-Septiembre 2021	202109	Septiembre	2021	3	Construcción	Mujeres	137	Aragón
-Septiembre 2021	202109	Septiembre	2021	4	Servicios	Hombres	17247	Aragón
-Septiembre 2021	202109	Septiembre	2021	4	Servicios	Mujeres	20263	Aragón
-Agosto 2021	202108	Agosto	2021	1	Agricultura, ganadería y pesca	Hombres	5516	Aragón
-Agosto 2021	202108	Agosto	2021	1	Agricultura, ganadería y pesca	Mujeres	1458	Aragón
-Agosto 2021	202108	Agosto	2021	2	Industria y energía	Hombres	5695	Aragón
-Agosto 2021	202108	Agosto	2021	2	Industria y energía	Mujeres	3676	Aragón
-Agosto 2021	202108	Agosto	2021	3	Construcción	Hombres	1469	Aragón
-Agosto 2021	202108	Agosto	2021	3	Construcción	Mujeres	101	Aragón
-Agosto 2021	202108	Agosto	2021	4	Servicios	Hombres	12144	Aragón
-Agosto 2021	202108	Agosto	2021	4	Servicios	Mujeres	13518	Aragón
-Julio 2021	202107	Julio	2021	1	Agricultura, ganadería y pesca	Hombres	6688	Aragón
-Julio 2021	202107	Julio	2021	1	Agricultura, ganadería y pesca	Mujeres	2215	Aragón
-Julio 2021	202107	Julio	2021	2	Industria y energía	Hombres	7221	Aragón
-Julio 2021	202107	Julio	2021	2	Industria y energía	Mujeres	3981	Aragón
-Julio 2021	202107	Julio	2021	3	Construcción	Hombres	2047	Aragón
-Julio 2021	202107	Julio	2021	3	Construcción	Mujeres	123	Aragón
-Julio 2021	202107	Julio	2021	4	Servicios	Hombres	15652	Aragón
-Julio 2021	202107	Julio	2021	4	Servicios	Mujeres	17900	Aragón
-Junio 2021	202106	Junio	2021	1	Agricultura, ganadería y pesca	Hombres	9908	Aragón
-Junio 2021	202106	Junio	2021	1	Agricultura, ganadería y pesca	Mujeres	3329	Aragón
-Junio 2021	202106	Junio	2021	2	Industria y energía	Hombres	7815	Aragón
-Junio 2021	202106	Junio	2021	2	Industria y energía	Mujeres	4129	Aragón
-Junio 2021	202106	Junio	2021	3	Construcción	Hombres	2080	Aragón
-Junio 2021	202106	Junio	2021	3	Construcción	Mujeres	151	Aragón
-Junio 2021	202106	Junio	2021	4	Servicios	Hombres	15034	Aragón
-Junio 2021	202106	Junio	2021	4	Servicios	Mujeres	18772	Aragón
-Mayo 2021	202105	Mayo	2021	1	Agricultura, ganadería y pesca	Hombres	9265	Aragón
-Mayo 2021	202105	Mayo	2021	1	Agricultura, ganadería y pesca	Mujeres	3440	Aragón
-Mayo 2021	202105	Mayo	2021	2	Industria y energía	Hombres	6810	Aragón
-Mayo 2021	202105	Mayo	2021	2	Industria y energía	Mujeres	3772	Aragón
-Mayo 2021	202105	Mayo	2021	3	Construcción	Hombres	2028	Aragón
-Mayo 2021	202105	Mayo	2021	3	Construcción	Mujeres	124	Aragón
-Mayo 2021	202105	Mayo	2021	4	Servicios	Hombres	10990	Aragón
-Mayo 2021	202105	Mayo	2021	4	Servicios	Mujeres	13165	Aragón
-Abril 2021	202104	Abril	2021	1	Agricultura, ganadería y pesca	Hombres	3296	Aragón
-Abril 2021	202104	Abril	2021	1	Agricultura, ganadería y pesca	Mujeres	929	Aragón
-Abril 2021	202104	Abril	2021	2	Industria y energía	Hombres	6881	Aragón
-Abril 2021	202104	Abril	2021	2	Industria y energía	Mujeres	3905	Aragón
-Abril 2021	202104	Abril	2021	3	Construcción	Hombres	1844	Aragón
-Abril 2021	202104	Abril	2021	3	Construcción	Mujeres	117	Aragón
-Abril 2021	202104	Abril	2021	4	Servicios	Hombres	9875	Aragón
-Abril 2021	202104	Abril	2021	4	Servicios	Mujeres	11690	Aragón
-Marzo 2021	202103	Marzo	2021	1	Agricultura, ganadería y pesca	Hombres	2292	Aragón
-Marzo 2021	202103	Marzo	2021	1	Agricultura, ganadería y pesca	Mujeres	449	Aragón
-Marzo 2021	202103	Marzo	2021	2	Industria y energía	Hombres	7373	Aragón
-Marzo 2021	202103	Marzo	2021	2	Industria y energía	Mujeres	3916	Aragón
-Marzo 2021	202103	Marzo	2021	3	Construcción	Hombres	2011	Aragón
-Marzo 2021	202103	Marzo	2021	3	Construcción	Mujeres	110	Aragón
-Marzo 2021	202103	Marzo	2021	4	Servicios	Hombres	10556	Aragón
-Marzo 2021	202103	Marzo	2021	4	Servicios	Mujeres	12306	Aragón
-Febrero 2021	202102	Febrero	2021	1	Agricultura, ganadería y pesca	Hombres	2619	Aragón
-Febrero 2021	202102	Febrero	2021	1	Agricultura, ganadería y pesca	Mujeres	534	Aragón
-Febrero 2021	202102	Febrero	2021	2	Industria y energía	Hombres	6872	Aragón
-Febrero 2021	202102	Febrero	2021	2	Industria y energía	Mujeres	3637	Aragón
-Febrero 2021	202102	Febrero	2021	3	Construcción	Hombres	2001	Aragón
-Febrero 2021	202102	Febrero	2021	3	Construcción	Mujeres	118	Aragón
-Febrero 2021	202102	Febrero	2021	4	Servicios	Hombres	7897	Aragón
-Febrero 2021	202102	Febrero	2021	4	Servicios	Mujeres	9622	Aragón
-Enero 2021	202101	Enero	2021	1	Agricultura, ganadería y pesca	Hombres	1531	Aragón
-Enero 2021	202101	Enero	2021	1	Agricultura, ganadería y pesca	Mujeres	286	Aragón
-Enero 2021	202101	Enero	2021	2	Industria y energía	Hombres	7729	Aragón
-Enero 2021	202101	Enero	2021	2	Industria y energía	Mujeres	4264	Aragón
-Enero 2021	202101	Enero	2021	3	Construcción	Hombres	1616	Aragón
-Enero 2021	202101	Enero	2021	3	Construcción	Mujeres	117	Aragón
-Enero 2021	202101	Enero	2021	4	Servicios	Hombres	8665	Aragón
-Enero 2021	202101	Enero	2021	4	Servicios	Mujeres	10090	Aragón
-Diciembre 2020	202012	Diciembre	2020	1	Agricultura, ganadería y pesca	Hombres	1566	Aragón
-Diciembre 2020	202012	Diciembre	2020	1	Agricultura, ganadería y pesca	Mujeres	284	Aragón
-Diciembre 2020	202012	Diciembre	2020	2	Industria y energía	Hombres	6423	Aragón
-Diciembre 2020	202012	Diciembre	2020	2	Industria y energía	Mujeres	3659	Aragón
-Diciembre 2020	202012	Diciembre	2020	3	Construcción	Hombres	962	Aragón
-Diciembre 2020	202012	Diciembre	2020	3	Construcción	Mujeres	100	Aragón
-Diciembre 2020	202012	Diciembre	2020	4	Servicios	Hombres	8719	Aragón
-Diciembre 2020	202012	Diciembre	2020	4	Servicios	Mujeres	10551	Aragón
-Noviembre 2020	202011	Noviembre	2020	1	Agricultura, ganadería y pesca	Hombres	2277	Aragón
-Noviembre 2020	202011	Noviembre	2020	1	Agricultura, ganadería y pesca	Mujeres	469	Aragón
-Noviembre 2020	202011	Noviembre	2020	2	Industria y energía	Hombres	6909	Aragón
-Noviembre 2020	202011	Noviembre	2020	2	Industria y energía	Mujeres	4092	Aragón
-Noviembre 2020	202011	Noviembre	2020	3	Construcción	Hombres	1579	Aragón
-Noviembre 2020	202011	Noviembre	2020	3	Construcción	Mujeres	105	Aragón
-Noviembre 2020	202011	Noviembre	2020	4	Servicios	Hombres	9880	Aragón
-Noviembre 2020	202011	Noviembre	2020	4	Servicios	Mujeres	12221	Aragón
-Octubre 2020	202010	Octubre	2020	1	Agricultura, ganadería y pesca	Hombres	2192	Aragón
-Octubre 2020	202010	Octubre	2020	1	Agricultura, ganadería y pesca	Mujeres	525	Aragón
-Octubre 2020	202010	Octubre	2020	2	Industria y energía	Hombres	7247	Aragón
-Octubre 2020	202010	Octubre	2020	2	Industria y energía	Mujeres	4384	Aragón
-Octubre 2020	202010	Octubre	2020	3	Construcción	Hombres	1799	Aragón
-Octubre 2020	202010	Octubre	2020	3	Construcción	Mujeres	133	Aragón
-Octubre 2020	202010	Octubre	2020	4	Servicios	Hombres	12174	Aragón
-Octubre 2020	202010	Octubre	2020	4	Servicios	Mujeres	15268	Aragón
-Septiembre 2020	202009	Septiembre	2020	1	Agricultura, ganadería y pesca	Hombres	4220	Aragón
-Septiembre 2020	202009	Septiembre	2020	1	Agricultura, ganadería y pesca	Mujeres	1067	Aragón
-Septiembre 2020	202009	Septiembre	2020	2	Industria y energía	Hombres	7618	Aragón
-Septiembre 2020	202009	Septiembre	2020	2	Industria y energía	Mujeres	4569	Aragón
-Septiembre 2020	202009	Septiembre	2020	3	Construcción	Hombres	1855	Aragón
-Septiembre 2020	202009	Septiembre	2020	3	Construcción	Mujeres	123	Aragón
-Septiembre 2020	202009	Septiembre	2020	4	Servicios	Hombres	12502	Aragón
-Septiembre 2020	202009	Septiembre	2020	4	Servicios	Mujeres	15977	Aragón
-Agosto 2020	202008	Agosto	2020	1	Agricultura, ganadería y pesca	Hombres	5065	Aragón
-Agosto 2020	202008	Agosto	2020	1	Agricultura, ganadería y pesca	Mujeres	1473	Aragón
-Agosto 2020	202008	Agosto	2020	2	Industria y energía	Hombres	4808	Aragón
-Agosto 2020	202008	Agosto	2020	2	Industria y energía	Mujeres	2952	Aragón
-Agosto 2020	202008	Agosto	2020	3	Construcción	Hombres	1502	Aragón
-Agosto 2020	202008	Agosto	2020	3	Construcción	Mujeres	73	Aragón
-Agosto 2020	202008	Agosto	2020	4	Servicios	Hombres	8856	Aragón
-Agosto 2020	202008	Agosto	2020	4	Servicios	Mujeres	11242	Aragón
-Julio 2020	202007	Julio	2020	1	Agricultura, ganadería y pesca	Hombres	5618	Aragón
-Julio 2020	202007	Julio	2020	1	Agricultura, ganadería y pesca	Mujeres	1801	Aragón
-Julio 2020	202007	Julio	2020	2	Industria y energía	Hombres	6074	Aragón
-Julio 2020	202007	Julio	2020	2	Industria y energía	Mujeres	3370	Aragón
-Julio 2020	202007	Julio	2020	3	Construcción	Hombres	2292	Aragón
-Julio 2020	202007	Julio	2020	3	Construcción	Mujeres	137	Aragón
-Julio 2020	202007	Julio	2020	4	Servicios	Hombres	12825	Aragón
-Julio 2020	202007	Julio	2020	4	Servicios	Mujeres	15075	Aragón
-Junio 2020	202006	Junio	2020	1	Agricultura, ganadería y pesca	Hombres	8877	Aragón
-Junio 2020	202006	Junio	2020	1	Agricultura, ganadería y pesca	Mujeres	3154	Aragón
-Junio 2020	202006	Junio	2020	2	Industria y energía	Hombres	3721	Aragón
-Junio 2020	202006	Junio	2020	2	Industria y energía	Mujeres	2124	Aragón
-Junio 2020	202006	Junio	2020	3	Construcción	Hombres	2124	Aragón
-Junio 2020	202006	Junio	2020	3	Construcción	Mujeres	109	Aragón
-Junio 2020	202006	Junio	2020	4	Servicios	Hombres	8447	Aragón
-Junio 2020	202006	Junio	2020	4	Servicios	Mujeres	10317	Aragón
-Mayo 2020	202005	Mayo	2020	1	Agricultura, ganadería y pesca	Hombres	8989	Aragón
-Mayo 2020	202005	Mayo	2020	1	Agricultura, ganadería y pesca	Mujeres	2921	Aragón
-Mayo 2020	202005	Mayo	2020	2	Industria y energía	Hombres	2934	Aragón
-Mayo 2020	202005	Mayo	2020	2	Industria y energía	Mujeres	1712	Aragón
-Mayo 2020	202005	Mayo	2020	3	Construcción	Hombres	1779	Aragón
-Mayo 2020	202005	Mayo	2020	3	Construcción	Mujeres	82	Aragón
-Mayo 2020	202005	Mayo	2020	4	Servicios	Hombres	5197	Aragón
-Mayo 2020	202005	Mayo	2020	4	Servicios	Mujeres	6421	Aragón
-Abril 2020	202004	Abril	2020	1	Agricultura, ganadería y pesca	Hombres	4554	Aragón
-Abril 2020	202004	Abril	2020	1	Agricultura, ganadería y pesca	Mujeres	1264	Aragón
-Abril 2020	202004	Abril	2020	2	Industria y energía	Hombres	2461	Aragón
-Abril 2020	202004	Abril	2020	2	Industria y energía	Mujeres	1468	Aragón
-Abril 2020	202004	Abril	2020	3	Construcción	Hombres	1167	Aragón
-Abril 2020	202004	Abril	2020	3	Construcción	Mujeres	38	Aragón
-Abril 2020	202004	Abril	2020	4	Servicios	Hombres	3406	Aragón
-Abril 2020	202004	Abril	2020	4	Servicios	Mujeres	4612	Aragón
-Marzo 2020	202003	Marzo	2020	1	Agricultura, ganadería y pesca	Hombres	1832	Aragón
-Marzo 2020	202003	Marzo	2020	1	Agricultura, ganadería y pesca	Mujeres	395	Aragón
-Marzo 2020	202003	Marzo	2020	2	Industria y energía	Hombres	5325	Aragón
-Marzo 2020	202003	Marzo	2020	2	Industria y energía	Mujeres	2796	Aragón
-Marzo 2020	202003	Marzo	2020	3	Construcción	Hombres	1702	Aragón
-Marzo 2020	202003	Marzo	2020	3	Construcción	Mujeres	122	Aragón
-Marzo 2020	202003	Marzo	2020	4	Servicios	Hombres	9600	Aragón
-Marzo 2020	202003	Marzo	2020	4	Servicios	Mujeres	12142	Aragón
-Febrero 2020	202002	Febrero	2020	1	Agricultura, ganadería y pesca	Hombres	2359	Aragón
-Febrero 2020	202002	Febrero	2020	1	Agricultura, ganadería y pesca	Mujeres	452	Aragón
-Febrero 2020	202002	Febrero	2020	2	Industria y energía	Hombres	5768	Aragón
-Febrero 2020	202002	Febrero	2020	2	Industria y energía	Mujeres	3024	Aragón
-Febrero 2020	202002	Febrero	2020	3	Construcción	Hombres	2227	Aragón
-Febrero 2020	202002	Febrero	2020	3	Construcción	Mujeres	157	Aragón
-Febrero 2020	202002	Febrero	2020	4	Servicios	Hombres	13898	Aragón
-Febrero 2020	202002	Febrero	2020	4	Servicios	Mujeres	16998	Aragón
-Enero 2020	202001	Enero	2020	1	Agricultura, ganadería y pesca	Hombres	1948	Aragón
-Enero 2020	202001	Enero	2020	1	Agricultura, ganadería y pesca	Mujeres	365	Aragón
-Enero 2020	202001	Enero	2020	2	Industria y energía	Hombres	7024	Aragón
-Enero 2020	202001	Enero	2020	2	Industria y energía	Mujeres	3684	Aragón
-Enero 2020	202001	Enero	2020	3	Construcción	Hombres	2088	Aragón
-Enero 2020	202001	Enero	2020	3	Construcción	Mujeres	121	Aragón
-Enero 2020	202001	Enero	2020	4	Servicios	Hombres	14084	Aragón
-Enero 2020	202001	Enero	2020	4	Servicios	Mujeres	17332	Aragón
-Diciembre 2019	201912	Diciembre	2019	1	Agricultura, ganadería y pesca	Hombres	1703	Aragón
-Diciembre 2019	201912	Diciembre	2019	1	Agricultura, ganadería y pesca	Mujeres	278	Aragón
-Diciembre 2019	201912	Diciembre	2019	2	Industria y energía	Hombres	4936	Aragón
-Diciembre 2019	201912	Diciembre	2019	2	Industria y energía	Mujeres	2694	Aragón
-Diciembre 2019	201912	Diciembre	2019	3	Construcción	Hombres	1202	Aragón
-Diciembre 2019	201912	Diciembre	2019	3	Construcción	Mujeres	85	Aragón
-Diciembre 2019	201912	Diciembre	2019	4	Servicios	Hombres	13918	Aragón
-Diciembre 2019	201912	Diciembre	2019	4	Servicios	Mujeres	18067	Aragón
-Noviembre 2019	201911	Noviembre	2019	1	Agricultura, ganadería y pesca	Hombres	2344	Aragón
-Noviembre 2019	201911	Noviembre	2019	1	Agricultura, ganadería y pesca	Mujeres	515	Aragón
-Noviembre 2019	201911	Noviembre	2019	2	Industria y energía	Hombres	6143	Aragón
-Noviembre 2019	201911	Noviembre	2019	2	Industria y energía	Mujeres	3280	Aragón
-Noviembre 2019	201911	Noviembre	2019	3	Construcción	Hombres	1871	Aragón
-Noviembre 2019	201911	Noviembre	2019	3	Construcción	Mujeres	113	Aragón
-Noviembre 2019	201911	Noviembre	2019	4	Servicios	Hombres	14076	Aragón
-Noviembre 2019	201911	Noviembre	2019	4	Servicios	Mujeres	18187	Aragón
-Octubre 2019	201910	Octubre	2019	1	Agricultura, ganadería y pesca	Hombres	3227	Aragón
-Octubre 2019	201910	Octubre	2019	1	Agricultura, ganadería y pesca	Mujeres	759	Aragón
-Octubre 2019	201910	Octubre	2019	2	Industria y energía	Hombres	6676	Aragón
-Octubre 2019	201910	Octubre	2019	2	Industria y energía	Mujeres	3531	Aragón
-Octubre 2019	201910	Octubre	2019	3	Construcción	Hombres	2152	Aragón
-Octubre 2019	201910	Octubre	2019	3	Construcción	Mujeres	157	Aragón
-Octubre 2019	201910	Octubre	2019	4	Servicios	Hombres	19848	Aragón
-Octubre 2019	201910	Octubre	2019	4	Servicios	Mujeres	24652	Aragón
-Septiembre 2019	201909	Septiembre	2019	1	Agricultura, ganadería y pesca	Hombres	5349	Aragón
-Septiembre 2019	201909	Septiembre	2019	1	Agricultura, ganadería y pesca	Mujeres	1295	Aragón
-Septiembre 2019	201909	Septiembre	2019	2	Industria y energía	Hombres	6750	Aragón
-Septiembre 2019	201909	Septiembre	2019	2	Industria y energía	Mujeres	3517	Aragón
-Septiembre 2019	201909	Septiembre	2019	3	Construcción	Hombres	2265	Aragón
-Septiembre 2019	201909	Septiembre	2019	3	Construcción	Mujeres	136	Aragón
-Septiembre 2019	201909	Septiembre	2019	4	Servicios	Hombres	18675	Aragón
-Septiembre 2019	201909	Septiembre	2019	4	Servicios	Mujeres	23083	Aragón
-Agosto 2019	201908	Agosto	2019	1	Agricultura, ganadería y pesca	Hombres	5334	Aragón
-Agosto 2019	201908	Agosto	2019	1	Agricultura, ganadería y pesca	Mujeres	1343	Aragón
-Agosto 2019	201908	Agosto	2019	2	Industria y energía	Hombres	5162	Aragón
-Agosto 2019	201908	Agosto	2019	2	Industria y energía	Mujeres	3381	Aragón
-Agosto 2019	201908	Agosto	2019	3	Construcción	Hombres	1992	Aragón
-Agosto 2019	201908	Agosto	2019	3	Construcción	Mujeres	101	Aragón
-Agosto 2019	201908	Agosto	2019	4	Servicios	Hombres	14068	Aragón
-Agosto 2019	201908	Agosto	2019	4	Servicios	Mujeres	15484	Aragón
-Julio 2019	201907	Julio	2019	1	Agricultura, ganadería y pesca	Hombres	6956	Aragón
-Julio 2019	201907	Julio	2019	1	Agricultura, ganadería y pesca	Mujeres	2245	Aragón
-Julio 2019	201907	Julio	2019	2	Industria y energía	Hombres	6946	Aragón
-Julio 2019	201907	Julio	2019	2	Industria y energía	Mujeres	3634	Aragón
-Julio 2019	201907	Julio	2019	3	Construcción	Hombres	2542	Aragón
-Julio 2019	201907	Julio	2019	3	Construcción	Mujeres	161	Aragón
-Julio 2019	201907	Julio	2019	4	Servicios	Hombres	19710	Aragón
-Julio 2019	201907	Julio	2019	4	Servicios	Mujeres	22771	Aragón
-Junio 2019	201906	Junio	2019	1	Agricultura, ganadería y pesca	Hombres	8691	Aragón
-Junio 2019	201906	Junio	2019	1	Agricultura, ganadería y pesca	Mujeres	3058	Aragón
-Junio 2019	201906	Junio	2019	2	Industria y energía	Hombres	6701	Aragón
-Junio 2019	201906	Junio	2019	2	Industria y energía	Mujeres	3267	Aragón
-Junio 2019	201906	Junio	2019	3	Construcción	Hombres	2383	Aragón
-Junio 2019	201906	Junio	2019	3	Construcción	Mujeres	138	Aragón
-Junio 2019	201906	Junio	2019	4	Servicios	Hombres	17644	Aragón
-Junio 2019	201906	Junio	2019	4	Servicios	Mujeres	21129	Aragón
-Mayo 2019	201905	Mayo	2019	1	Agricultura, ganadería y pesca	Hombres	11232	Aragón
-Mayo 2019	201905	Mayo	2019	1	Agricultura, ganadería y pesca	Mujeres	3795	Aragón
-Mayo 2019	201905	Mayo	2019	2	Industria y energía	Hombres	6830	Aragón
-Mayo 2019	201905	Mayo	2019	2	Industria y energía	Mujeres	3805	Aragón
-Mayo 2019	201905	Mayo	2019	3	Construcción	Hombres	2692	Aragón
-Mayo 2019	201905	Mayo	2019	3	Construcción	Mujeres	165	Aragón
-Mayo 2019	201905	Mayo	2019	4	Servicios	Hombres	17045	Aragón
-Mayo 2019	201905	Mayo	2019	4	Servicios	Mujeres	20369	Aragón
-Abril 2019	201904	Abril	2019	1	Agricultura, ganadería y pesca	Hombres	3825	Aragón
-Abril 2019	201904	Abril	2019	1	Agricultura, ganadería y pesca	Mujeres	1040	Aragón
-Abril 2019	201904	Abril	2019	2	Industria y energía	Hombres	6192	Aragón
-Abril 2019	201904	Abril	2019	2	Industria y energía	Mujeres	3197	Aragón
-Abril 2019	201904	Abril	2019	3	Construcción	Hombres	2104	Aragón
-Abril 2019	201904	Abril	2019	3	Construcción	Mujeres	119	Aragón
-Abril 2019	201904	Abril	2019	4	Servicios	Hombres	13440	Aragón
-Abril 2019	201904	Abril	2019	4	Servicios	Mujeres	16651	Aragón
-Marzo 2019	201903	Marzo	2019	1	Agricultura, ganadería y pesca	Hombres	2358	Aragón
-Marzo 2019	201903	Marzo	2019	1	Agricultura, ganadería y pesca	Mujeres	487	Aragón
-Marzo 2019	201903	Marzo	2019	2	Industria y energía	Hombres	6147	Aragón
-Marzo 2019	201903	Marzo	2019	2	Industria y energía	Mujeres	3269	Aragón
-Marzo 2019	201903	Marzo	2019	3	Construcción	Hombres	2285	Aragón
-Marzo 2019	201903	Marzo	2019	3	Construcción	Mujeres	117	Aragón
-Marzo 2019	201903	Marzo	2019	4	Servicios	Hombres	13585	Aragón
-Marzo 2019	201903	Marzo	2019	4	Servicios	Mujeres	16947	Aragón
-Febrero 2019	201902	Febrero	2019	1	Agricultura, ganadería y pesca	Hombres	2101	Aragón
-Febrero 2019	201902	Febrero	2019	1	Agricultura, ganadería y pesca	Mujeres	362	Aragón
-Febrero 2019	201902	Febrero	2019	2	Industria y energía	Hombres	5552	Aragón
-Febrero 2019	201902	Febrero	2019	2	Industria y energía	Mujeres	3111	Aragón
-Febrero 2019	201902	Febrero	2019	3	Construcción	Hombres	2276	Aragón
-Febrero 2019	201902	Febrero	2019	3	Construcción	Mujeres	145	Aragón
-Febrero 2019	201902	Febrero	2019	4	Servicios	Hombres	12415	Aragón
-Febrero 2019	201902	Febrero	2019	4	Servicios	Mujeres	15618	Aragón
-Enero 2019	201901	Enero	2019	1	Agricultura, ganadería y pesca	Hombres	1980	Aragón
-Enero 2019	201901	Enero	2019	1	Agricultura, ganadería y pesca	Mujeres	296	Aragón
-Enero 2019	201901	Enero	2019	2	Industria y energía	Hombres	7562	Aragón
-Enero 2019	201901	Enero	2019	2	Industria y energía	Mujeres	4171	Aragón
-Enero 2019	201901	Enero	2019	3	Construcción	Hombres	2187	Aragón
-Enero 2019	201901	Enero	2019	3	Construcción	Mujeres	138	Aragón
-Enero 2019	201901	Enero	2019	4	Servicios	Hombres	14084	Aragón
-Enero 2019	201901	Enero	2019	4	Servicios	Mujeres	17433	Aragón
-Diciembre 2018	201812	Diciembre	2018	1	Agricultura, ganadería y pesca	Hombres	1844	Aragón
-Diciembre 2018	201812	Diciembre	2018	1	Agricultura, ganadería y pesca	Mujeres	328	Aragón
-Diciembre 2018	201812	Diciembre	2018	2	Industria y energía	Hombres	4963	Aragón
-Diciembre 2018	201812	Diciembre	2018	2	Industria y energía	Mujeres	2813	Aragón
-Diciembre 2018	201812	Diciembre	2018	3	Construcción	Hombres	1312	Aragón
-Diciembre 2018	201812	Diciembre	2018	3	Construcción	Mujeres	79	Aragón
-Diciembre 2018	201812	Diciembre	2018	4	Servicios	Hombres	12966	Aragón
-Diciembre 2018	201812	Diciembre	2018	4	Servicios	Mujeres	17219	Aragón
-Noviembre 2018	201811	Noviembre	2018	1	Agricultura, ganadería y pesca	Hombres	2623	Aragón
-Noviembre 2018	201811	Noviembre	2018	1	Agricultura, ganadería y pesca	Mujeres	524	Aragón
-Noviembre 2018	201811	Noviembre	2018	2	Industria y energía	Hombres	6243	Aragón
-Noviembre 2018	201811	Noviembre	2018	2	Industria y energía	Mujeres	3546	Aragón
-Noviembre 2018	201811	Noviembre	2018	3	Construcción	Hombres	1992	Aragón
-Noviembre 2018	201811	Noviembre	2018	3	Construcción	Mujeres	114	Aragón
-Noviembre 2018	201811	Noviembre	2018	4	Servicios	Hombres	14547	Aragón
-Noviembre 2018	201811	Noviembre	2018	4	Servicios	Mujeres	18610	Aragón
-Octubre 2018	201810	Octubre	2018	1	Agricultura, ganadería y pesca	Hombres	3587	Aragón
-Octubre 2018	201810	Octubre	2018	1	Agricultura, ganadería y pesca	Mujeres	971	Aragón
-Octubre 2018	201810	Octubre	2018	2	Industria y energía	Hombres	7342	Aragón
-Octubre 2018	201810	Octubre	2018	2	Industria y energía	Mujeres	4470	Aragón
-Octubre 2018	201810	Octubre	2018	3	Construcción	Hombres	2267	Aragón
-Octubre 2018	201810	Octubre	2018	3	Construcción	Mujeres	139	Aragón
-Octubre 2018	201810	Octubre	2018	4	Servicios	Hombres	20325	Aragón
-Octubre 2018	201810	Octubre	2018	4	Servicios	Mujeres	24393	Aragón
-Septiembre 2018	201809	Septiembre	2018	1	Agricultura, ganadería y pesca	Hombres	5346	Aragón
-Septiembre 2018	201809	Septiembre	2018	1	Agricultura, ganadería y pesca	Mujeres	1487	Aragón
-Septiembre 2018	201809	Septiembre	2018	2	Industria y energía	Hombres	7111	Aragón
-Septiembre 2018	201809	Septiembre	2018	2	Industria y energía	Mujeres	3913	Aragón
-Septiembre 2018	201809	Septiembre	2018	3	Construcción	Hombres	2018	Aragón
-Septiembre 2018	201809	Septiembre	2018	3	Construcción	Mujeres	135	Aragón
-Septiembre 2018	201809	Septiembre	2018	4	Servicios	Hombres	17418	Aragón
-Septiembre 2018	201809	Septiembre	2018	4	Servicios	Mujeres	21667	Aragón
-Agosto 2018	201808	Agosto	2018	1	Agricultura, ganadería y pesca	Hombres	6544	Aragón
-Agosto 2018	201808	Agosto	2018	1	Agricultura, ganadería y pesca	Mujeres	1960	Aragón
-Agosto 2018	201808	Agosto	2018	2	Industria y energía	Hombres	5947	Aragón
-Agosto 2018	201808	Agosto	2018	2	Industria y energía	Mujeres	3794	Aragón
-Agosto 2018	201808	Agosto	2018	3	Construcción	Hombres	1752	Aragón
-Agosto 2018	201808	Agosto	2018	3	Construcción	Mujeres	92	Aragón
-Agosto 2018	201808	Agosto	2018	4	Servicios	Hombres	14949	Aragón
-Agosto 2018	201808	Agosto	2018	4	Servicios	Mujeres	16689	Aragón
-Julio 2018	201807	Julio	2018	1	Agricultura, ganadería y pesca	Hombres	8346	Aragón
-Julio 2018	201807	Julio	2018	1	Agricultura, ganadería y pesca	Mujeres	2344	Aragón
-Julio 2018	201807	Julio	2018	2	Industria y energía	Hombres	6878	Aragón
-Julio 2018	201807	Julio	2018	2	Industria y energía	Mujeres	3908	Aragón
-Julio 2018	201807	Julio	2018	3	Construcción	Hombres	2331	Aragón
-Julio 2018	201807	Julio	2018	3	Construcción	Mujeres	126	Aragón
-Julio 2018	201807	Julio	2018	4	Servicios	Hombres	18776	Aragón
-Julio 2018	201807	Julio	2018	4	Servicios	Mujeres	21694	Aragón
-Junio 2018	201806	Junio	2018	1	Agricultura, ganadería y pesca	Hombres	9867	Aragón
-Junio 2018	201806	Junio	2018	1	Agricultura, ganadería y pesca	Mujeres	3414	Aragón
-Junio 2018	201806	Junio	2018	2	Industria y energía	Hombres	7569	Aragón
-Junio 2018	201806	Junio	2018	2	Industria y energía	Mujeres	3621	Aragón
-Junio 2018	201806	Junio	2018	3	Construcción	Hombres	2264	Aragón
-Junio 2018	201806	Junio	2018	3	Construcción	Mujeres	122	Aragón
-Junio 2018	201806	Junio	2018	4	Servicios	Hombres	17662	Aragón
-Junio 2018	201806	Junio	2018	4	Servicios	Mujeres	21506	Aragón
-Mayo 2018	201805	Mayo	2018	1	Agricultura, ganadería y pesca	Hombres	11294	Aragón
-Mayo 2018	201805	Mayo	2018	1	Agricultura, ganadería y pesca	Mujeres	3690	Aragón
-Mayo 2018	201805	Mayo	2018	2	Industria y energía	Hombres	7340	Aragón
-Mayo 2018	201805	Mayo	2018	2	Industria y energía	Mujeres	4004	Aragón
-Mayo 2018	201805	Mayo	2018	3	Construcción	Hombres	2306	Aragón
-Mayo 2018	201805	Mayo	2018	3	Construcción	Mujeres	101	Aragón
-Mayo 2018	201805	Mayo	2018	4	Servicios	Hombres	16339	Aragón
-Mayo 2018	201805	Mayo	2018	4	Servicios	Mujeres	20069	Aragón
-Abril 2018	201804	Abril	2018	1	Agricultura, ganadería y pesca	Hombres	2906	Aragón
-Abril 2018	201804	Abril	2018	1	Agricultura, ganadería y pesca	Mujeres	745	Aragón
-Abril 2018	201804	Abril	2018	2	Industria y energía	Hombres	6555	Aragón
-Abril 2018	201804	Abril	2018	2	Industria y energía	Mujeres	3596	Aragón
-Abril 2018	201804	Abril	2018	3	Construcción	Hombres	1802	Aragón
-Abril 2018	201804	Abril	2018	3	Construcción	Mujeres	119	Aragón
-Abril 2018	201804	Abril	2018	4	Servicios	Hombres	13970	Aragón
-Abril 2018	201804	Abril	2018	4	Servicios	Mujeres	17487	Aragón
-Marzo 2018	201803	Marzo	2018	1	Agricultura, ganadería y pesca	Hombres	1949	Aragón
-Marzo 2018	201803	Marzo	2018	1	Agricultura, ganadería y pesca	Mujeres	423	Aragón
-Marzo 2018	201803	Marzo	2018	2	Industria y energía	Hombres	6754	Aragón
-Marzo 2018	201803	Marzo	2018	2	Industria y energía	Mujeres	3127	Aragón
-Marzo 2018	201803	Marzo	2018	3	Construcción	Hombres	1772	Aragón
-Marzo 2018	201803	Marzo	2018	3	Construcción	Mujeres	113	Aragón
-Marzo 2018	201803	Marzo	2018	4	Servicios	Hombres	13297	Aragón
-Marzo 2018	201803	Marzo	2018	4	Servicios	Mujeres	16995	Aragón
-Febrero 2018	201802	Febrero	2018	1	Agricultura, ganadería y pesca	Hombres	1938	Aragón
-Febrero 2018	201802	Febrero	2018	1	Agricultura, ganadería y pesca	Mujeres	335	Aragón
-Febrero 2018	201802	Febrero	2018	2	Industria y energía	Hombres	6405	Aragón
-Febrero 2018	201802	Febrero	2018	2	Industria y energía	Mujeres	3352	Aragón
-Febrero 2018	201802	Febrero	2018	3	Construcción	Hombres	1993	Aragón
-Febrero 2018	201802	Febrero	2018	3	Construcción	Mujeres	100	Aragón
-Febrero 2018	201802	Febrero	2018	4	Servicios	Hombres	12505	Aragón
-Febrero 2018	201802	Febrero	2018	4	Servicios	Mujeres	16113	Aragón
-Enero 2018	201801	Enero	2018	1	Agricultura, ganadería y pesca	Hombres	1943	Aragón
-Enero 2018	201801	Enero	2018	1	Agricultura, ganadería y pesca	Mujeres	265	Aragón
-Enero 2018	201801	Enero	2018	2	Industria y energía	Hombres	8020	Aragón
-Enero 2018	201801	Enero	2018	2	Industria y energía	Mujeres	3734	Aragón
-Enero 2018	201801	Enero	2018	3	Construcción	Hombres	1955	Aragón
-Enero 2018	201801	Enero	2018	3	Construcción	Mujeres	132	Aragón
-Enero 2018	201801	Enero	2018	4	Servicios	Hombres	13611	Aragón
-Enero 2018	201801	Enero	2018	4	Servicios	Mujeres	16711	Aragón
-Diciembre 2017	201712	Diciembre	2017	1	Agricultura, ganadería y pesca	Hombres	1531	Aragón
-Diciembre 2017	201712	Diciembre	2017	1	Agricultura, ganadería y pesca	Mujeres	247	Aragón
-Diciembre 2017	201712	Diciembre	2017	2	Industria y energía	Hombres	6294	Aragón
-Diciembre 2017	201712	Diciembre	2017	2	Industria y energía	Mujeres	3202	Aragón
-Diciembre 2017	201712	Diciembre	2017	3	Construcción	Hombres	1305	Aragón
-Diciembre 2017	201712	Diciembre	2017	3	Construcción	Mujeres	86	Aragón
-Diciembre 2017	201712	Diciembre	2017	4	Servicios	Hombres	12962	Aragón
-Diciembre 2017	201712	Diciembre	2017	4	Servicios	Mujeres	16616	Aragón
-Noviembre 2017	201711	Noviembre	2017	1	Agricultura, ganadería y pesca	Hombres	2715	Aragón
-Noviembre 2017	201711	Noviembre	2017	1	Agricultura, ganadería y pesca	Mujeres	487	Aragón
-Noviembre 2017	201711	Noviembre	2017	2	Industria y energía	Hombres	7076	Aragón
-Noviembre 2017	201711	Noviembre	2017	2	Industria y energía	Mujeres	3542	Aragón
-Noviembre 2017	201711	Noviembre	2017	3	Construcción	Hombres	1982	Aragón
-Noviembre 2017	201711	Noviembre	2017	3	Construcción	Mujeres	118	Aragón
-Noviembre 2017	201711	Noviembre	2017	4	Servicios	Hombres	14150	Aragón
-Noviembre 2017	201711	Noviembre	2017	4	Servicios	Mujeres	18446	Aragón
-Octubre 2017	201710	Octubre	2017	1	Agricultura, ganadería y pesca	Hombres	2446	Aragón
-Octubre 2017	201710	Octubre	2017	1	Agricultura, ganadería y pesca	Mujeres	637	Aragón
-Octubre 2017	201710	Octubre	2017	2	Industria y energía	Hombres	8057	Aragón
-Octubre 2017	201710	Octubre	2017	2	Industria y energía	Mujeres	4136	Aragón
-Octubre 2017	201710	Octubre	2017	3	Construcción	Hombres	2015	Aragón
-Octubre 2017	201710	Octubre	2017	3	Construcción	Mujeres	116	Aragón
-Octubre 2017	201710	Octubre	2017	4	Servicios	Hombres	18866	Aragón
-Octubre 2017	201710	Octubre	2017	4	Servicios	Mujeres	22634	Aragón
-Septiembre 2017	201709	Septiembre	2017	1	Agricultura, ganadería y pesca	Hombres	5071	Aragón
-Septiembre 2017	201709	Septiembre	2017	1	Agricultura, ganadería y pesca	Mujeres	1549	Aragón
-Septiembre 2017	201709	Septiembre	2017	2	Industria y energía	Hombres	8133	Aragón
-Septiembre 2017	201709	Septiembre	2017	2	Industria y energía	Mujeres	3927	Aragón
-Septiembre 2017	201709	Septiembre	2017	3	Construcción	Hombres	1992	Aragón
-Septiembre 2017	201709	Septiembre	2017	3	Construcción	Mujeres	114	Aragón
-Septiembre 2017	201709	Septiembre	2017	4	Servicios	Hombres	17869	Aragón
-Septiembre 2017	201709	Septiembre	2017	4	Servicios	Mujeres	22174	Aragón
-Agosto 2017	201708	Agosto	2017	1	Agricultura, ganadería y pesca	Hombres	6784	Aragón
-Agosto 2017	201708	Agosto	2017	1	Agricultura, ganadería y pesca	Mujeres	1716	Aragón
-Agosto 2017	201708	Agosto	2017	2	Industria y energía	Hombres	6779	Aragón
-Agosto 2017	201708	Agosto	2017	2	Industria y energía	Mujeres	3353	Aragón
-Agosto 2017	201708	Agosto	2017	3	Construcción	Hombres	1903	Aragón
-Agosto 2017	201708	Agosto	2017	3	Construcción	Mujeres	96	Aragón
-Agosto 2017	201708	Agosto	2017	4	Servicios	Hombres	14920	Aragón
-Agosto 2017	201708	Agosto	2017	4	Servicios	Mujeres	16359	Aragón
-Julio 2017	201707	Julio	2017	1	Agricultura, ganadería y pesca	Hombres	6330	Aragón
-Julio 2017	201707	Julio	2017	1	Agricultura, ganadería y pesca	Mujeres	1789	Aragón
-Julio 2017	201707	Julio	2017	2	Industria y energía	Hombres	7448	Aragón
-Julio 2017	201707	Julio	2017	2	Industria y energía	Mujeres	3302	Aragón
-Julio 2017	201707	Julio	2017	3	Construcción	Hombres	2111	Aragón
-Julio 2017	201707	Julio	2017	3	Construcción	Mujeres	109	Aragón
-Julio 2017	201707	Julio	2017	4	Servicios	Hombres	17674	Aragón
-Julio 2017	201707	Julio	2017	4	Servicios	Mujeres	19808	Aragón
-Junio 2017	201706	Junio	2017	1	Agricultura, ganadería y pesca	Hombres	9511	Aragón
-Junio 2017	201706	Junio	2017	1	Agricultura, ganadería y pesca	Mujeres	2798	Aragón
-Junio 2017	201706	Junio	2017	2	Industria y energía	Hombres	7516	Aragón
-Junio 2017	201706	Junio	2017	2	Industria y energía	Mujeres	3611	Aragón
-Junio 2017	201706	Junio	2017	3	Construcción	Hombres	2182	Aragón
-Junio 2017	201706	Junio	2017	3	Construcción	Mujeres	120	Aragón
-Junio 2017	201706	Junio	2017	4	Servicios	Hombres	18706	Aragón
-Junio 2017	201706	Junio	2017	4	Servicios	Mujeres	21760	Aragón
-Mayo 2017	201705	Mayo	2017	1	Agricultura, ganadería y pesca	Hombres	12503	Aragón
-Mayo 2017	201705	Mayo	2017	1	Agricultura, ganadería y pesca	Mujeres	3911	Aragón
-Mayo 2017	201705	Mayo	2017	2	Industria y energía	Hombres	7550	Aragón
-Mayo 2017	201705	Mayo	2017	2	Industria y energía	Mujeres	3395	Aragón
-Mayo 2017	201705	Mayo	2017	3	Construcción	Hombres	2243	Aragón
-Mayo 2017	201705	Mayo	2017	3	Construcción	Mujeres	126	Aragón
-Mayo 2017	201705	Mayo	2017	4	Servicios	Hombres	17245	Aragón
-Mayo 2017	201705	Mayo	2017	4	Servicios	Mujeres	21150	Aragón
-Abril 2017	201704	Abril	2017	1	Agricultura, ganadería y pesca	Hombres	4704	Aragón
-Abril 2017	201704	Abril	2017	1	Agricultura, ganadería y pesca	Mujeres	1068	Aragón
-Abril 2017	201704	Abril	2017	2	Industria y energía	Hombres	6016	Aragón
-Abril 2017	201704	Abril	2017	2	Industria y energía	Mujeres	2651	Aragón
-Abril 2017	201704	Abril	2017	3	Construcción	Hombres	1500	Aragón
-Abril 2017	201704	Abril	2017	3	Construcción	Mujeres	97	Aragón
-Abril 2017	201704	Abril	2017	4	Servicios	Hombres	13698	Aragón
-Abril 2017	201704	Abril	2017	4	Servicios	Mujeres	16859	Aragón
-Marzo 2017	201703	Marzo	2017	1	Agricultura, ganadería y pesca	Hombres	2439	Aragón
-Marzo 2017	201703	Marzo	2017	1	Agricultura, ganadería y pesca	Mujeres	516	Aragón
-Marzo 2017	201703	Marzo	2017	2	Industria y energía	Hombres	6735	Aragón
-Marzo 2017	201703	Marzo	2017	2	Industria y energía	Mujeres	2636	Aragón
-Marzo 2017	201703	Marzo	2017	3	Construcción	Hombres	2147	Aragón
-Marzo 2017	201703	Marzo	2017	3	Construcción	Mujeres	116	Aragón
-Marzo 2017	201703	Marzo	2017	4	Servicios	Hombres	13625	Aragón
-Marzo 2017	201703	Marzo	2017	4	Servicios	Mujeres	17573	Aragón
-Febrero 2017	201702	Febrero	2017	1	Agricultura, ganadería y pesca	Hombres	2052	Aragón
-Febrero 2017	201702	Febrero	2017	1	Agricultura, ganadería y pesca	Mujeres	291	Aragón
-Febrero 2017	201702	Febrero	2017	2	Industria y energía	Hombres	6044	Aragón
-Febrero 2017	201702	Febrero	2017	2	Industria y energía	Mujeres	2457	Aragón
-Febrero 2017	201702	Febrero	2017	3	Construcción	Hombres	1679	Aragón
-Febrero 2017	201702	Febrero	2017	3	Construcción	Mujeres	111	Aragón
-Febrero 2017	201702	Febrero	2017	4	Servicios	Hombres	11316	Aragón
-Febrero 2017	201702	Febrero	2017	4	Servicios	Mujeres	14866	Aragón
-Enero 2017	201701	Enero	2017	1	Agricultura, ganadería y pesca	Hombres	1978	Aragón
-Enero 2017	201701	Enero	2017	1	Agricultura, ganadería y pesca	Mujeres	256	Aragón
-Enero 2017	201701	Enero	2017	2	Industria y energía	Hombres	7251	Aragón
-Enero 2017	201701	Enero	2017	2	Industria y energía	Mujeres	2690	Aragón
-Enero 2017	201701	Enero	2017	3	Construcción	Hombres	1642	Aragón
-Enero 2017	201701	Enero	2017	3	Construcción	Mujeres	76	Aragón
-Enero 2017	201701	Enero	2017	4	Servicios	Hombres	12083	Aragón
-Enero 2017	201701	Enero	2017	4	Servicios	Mujeres	16089	Aragón
-Diciembre 2016	201612	Diciembre	2016	1	Agricultura, ganadería y pesca	Hombres	1867	Aragón
-Diciembre 2016	201612	Diciembre	2016	1	Agricultura, ganadería y pesca	Mujeres	293	Aragón
-Diciembre 2016	201612	Diciembre	2016	2	Industria y energía	Hombres	5335	Aragón
-Diciembre 2016	201612	Diciembre	2016	2	Industria y energía	Mujeres	2025	Aragón
-Diciembre 2016	201612	Diciembre	2016	3	Construcción	Hombres	1364	Aragón
-Diciembre 2016	201612	Diciembre	2016	3	Construcción	Mujeres	79	Aragón
-Diciembre 2016	201612	Diciembre	2016	4	Servicios	Hombres	12441	Aragón
-Diciembre 2016	201612	Diciembre	2016	4	Servicios	Mujeres	17331	Aragón
-Noviembre 2016	201611	Noviembre	2016	1	Agricultura, ganadería y pesca	Hombres	2659	Aragón
-Noviembre 2016	201611	Noviembre	2016	1	Agricultura, ganadería y pesca	Mujeres	514	Aragón
-Noviembre 2016	201611	Noviembre	2016	2	Industria y energía	Hombres	6136	Aragón
-Noviembre 2016	201611	Noviembre	2016	2	Industria y energía	Mujeres	2792	Aragón
-Noviembre 2016	201611	Noviembre	2016	3	Construcción	Hombres	1981	Aragón
-Noviembre 2016	201611	Noviembre	2016	3	Construcción	Mujeres	97	Aragón
-Noviembre 2016	201611	Noviembre	2016	4	Servicios	Hombres	13642	Aragón
-Noviembre 2016	201611	Noviembre	2016	4	Servicios	Mujeres	18577	Aragón
-Octubre 2016	201610	Octubre	2016	1	Agricultura, ganadería y pesca	Hombres	3243	Aragón
-Octubre 2016	201610	Octubre	2016	1	Agricultura, ganadería y pesca	Mujeres	708	Aragón
-Octubre 2016	201610	Octubre	2016	2	Industria y energía	Hombres	5968	Aragón
-Octubre 2016	201610	Octubre	2016	2	Industria y energía	Mujeres	2652	Aragón
-Octubre 2016	201610	Octubre	2016	3	Construcción	Hombres	1874	Aragón
-Octubre 2016	201610	Octubre	2016	3	Construcción	Mujeres	113	Aragón
-Octubre 2016	201610	Octubre	2016	4	Servicios	Hombres	16474	Aragón
-Octubre 2016	201610	Octubre	2016	4	Servicios	Mujeres	20456	Aragón
-Septiembre 2016	201609	Septiembre	2016	1	Agricultura, ganadería y pesca	Hombres	5534	Aragón
-Septiembre 2016	201609	Septiembre	2016	1	Agricultura, ganadería y pesca	Mujeres	1242	Aragón
-Septiembre 2016	201609	Septiembre	2016	2	Industria y energía	Hombres	6614	Aragón
-Septiembre 2016	201609	Septiembre	2016	2	Industria y energía	Mujeres	2909	Aragón
-Septiembre 2016	201609	Septiembre	2016	3	Construcción	Hombres	2182	Aragón
-Septiembre 2016	201609	Septiembre	2016	3	Construcción	Mujeres	116	Aragón
-Septiembre 2016	201609	Septiembre	2016	4	Servicios	Hombres	16638	Aragón
-Septiembre 2016	201609	Septiembre	2016	4	Servicios	Mujeres	20142	Aragón
-Agosto 2016	201608	Agosto	2016	1	Agricultura, ganadería y pesca	Hombres	6464	Aragón
-Agosto 2016	201608	Agosto	2016	1	Agricultura, ganadería y pesca	Mujeres	1623	Aragón
-Agosto 2016	201608	Agosto	2016	2	Industria y energía	Hombres	5388	Aragón
-Agosto 2016	201608	Agosto	2016	2	Industria y energía	Mujeres	2648	Aragón
-Agosto 2016	201608	Agosto	2016	3	Construcción	Hombres	1713	Aragón
-Agosto 2016	201608	Agosto	2016	3	Construcción	Mujeres	79	Aragón
-Agosto 2016	201608	Agosto	2016	4	Servicios	Hombres	13793	Aragón
-Agosto 2016	201608	Agosto	2016	4	Servicios	Mujeres	15199	Aragón
-Julio 2016	201607	Julio	2016	1	Agricultura, ganadería y pesca	Hombres	6794	Aragón
-Julio 2016	201607	Julio	2016	1	Agricultura, ganadería y pesca	Mujeres	1794	Aragón
-Julio 2016	201607	Julio	2016	2	Industria y energía	Hombres	5723	Aragón
-Julio 2016	201607	Julio	2016	2	Industria y energía	Mujeres	2587	Aragón
-Julio 2016	201607	Julio	2016	3	Construcción	Hombres	2208	Aragón
-Julio 2016	201607	Julio	2016	3	Construcción	Mujeres	112	Aragón
-Julio 2016	201607	Julio	2016	4	Servicios	Hombres	16324	Aragón
-Julio 2016	201607	Julio	2016	4	Servicios	Mujeres	19063	Aragón
-Junio 2016	201606	Junio	2016	1	Agricultura, ganadería y pesca	Hombres	9241	Aragón
-Junio 2016	201606	Junio	2016	1	Agricultura, ganadería y pesca	Mujeres	2702	Aragón
-Junio 2016	201606	Junio	2016	2	Industria y energía	Hombres	6462	Aragón
-Junio 2016	201606	Junio	2016	2	Industria y energía	Mujeres	2552	Aragón
-Junio 2016	201606	Junio	2016	3	Construcción	Hombres	2152	Aragón
-Junio 2016	201606	Junio	2016	3	Construcción	Mujeres	112	Aragón
-Junio 2016	201606	Junio	2016	4	Servicios	Hombres	17004	Aragón
-Junio 2016	201606	Junio	2016	4	Servicios	Mujeres	19990	Aragón
-Mayo 2016	201605	Mayo	2016	1	Agricultura, ganadería y pesca	Hombres	9425	Aragón
-Mayo 2016	201605	Mayo	2016	1	Agricultura, ganadería y pesca	Mujeres	2828	Aragón
-Mayo 2016	201605	Mayo	2016	2	Industria y energía	Hombres	5972	Aragón
-Mayo 2016	201605	Mayo	2016	2	Industria y energía	Mujeres	2454	Aragón
-Mayo 2016	201605	Mayo	2016	3	Construcción	Hombres	1919	Aragón
-Mayo 2016	201605	Mayo	2016	3	Construcción	Mujeres	129	Aragón
-Mayo 2016	201605	Mayo	2016	4	Servicios	Hombres	15502	Aragón
-Mayo 2016	201605	Mayo	2016	4	Servicios	Mujeres	18614	Aragón
-Abril 2016	201604	Abril	2016	1	Agricultura, ganadería y pesca	Hombres	3430	Aragón
-Abril 2016	201604	Abril	2016	1	Agricultura, ganadería y pesca	Mujeres	721	Aragón
-Abril 2016	201604	Abril	2016	2	Industria y energía	Hombres	5541	Aragón
-Abril 2016	201604	Abril	2016	2	Industria y energía	Mujeres	2076	Aragón
-Abril 2016	201604	Abril	2016	3	Construcción	Hombres	1850	Aragón
-Abril 2016	201604	Abril	2016	3	Construcción	Mujeres	100	Aragón
-Abril 2016	201604	Abril	2016	4	Servicios	Hombres	12025	Aragón
-Abril 2016	201604	Abril	2016	4	Servicios	Mujeres	15082	Aragón
-Marzo 2016	201603	Marzo	2016	1	Agricultura, ganadería y pesca	Hombres	1524	Aragón
-Marzo 2016	201603	Marzo	2016	1	Agricultura, ganadería y pesca	Mujeres	306	Aragón
-Marzo 2016	201603	Marzo	2016	2	Industria y energía	Hombres	5582	Aragón
-Marzo 2016	201603	Marzo	2016	2	Industria y energía	Mujeres	2097	Aragón
-Marzo 2016	201603	Marzo	2016	3	Construcción	Hombres	1787	Aragón
-Marzo 2016	201603	Marzo	2016	3	Construcción	Mujeres	100	Aragón
-Marzo 2016	201603	Marzo	2016	4	Servicios	Hombres	12148	Aragón
-Marzo 2016	201603	Marzo	2016	4	Servicios	Mujeres	16223	Aragón
-Febrero 2016	201602	Febrero	2016	1	Agricultura, ganadería y pesca	Hombres	1804	Aragón
-Febrero 2016	201602	Febrero	2016	1	Agricultura, ganadería y pesca	Mujeres	292	Aragón
-Febrero 2016	201602	Febrero	2016	2	Industria y energía	Hombres	5519	Aragón
-Febrero 2016	201602	Febrero	2016	2	Industria y energía	Mujeres	2094	Aragón
-Febrero 2016	201602	Febrero	2016	3	Construcción	Hombres	1803	Aragón
-Febrero 2016	201602	Febrero	2016	3	Construcción	Mujeres	126	Aragón
-Febrero 2016	201602	Febrero	2016	4	Servicios	Hombres	10918	Aragón
-Febrero 2016	201602	Febrero	2016	4	Servicios	Mujeres	14256	Aragón
-Enero 2016	201601	Enero	2016	1	Agricultura, ganadería y pesca	Hombres	1682	Aragón
-Enero 2016	201601	Enero	2016	1	Agricultura, ganadería y pesca	Mujeres	307	Aragón
-Enero 2016	201601	Enero	2016	2	Industria y energía	Hombres	5967	Aragón
-Enero 2016	201601	Enero	2016	2	Industria y energía	Mujeres	2283	Aragón
-Enero 2016	201601	Enero	2016	3	Construcción	Hombres	1704	Aragón
-Enero 2016	201601	Enero	2016	3	Construcción	Mujeres	104	Aragón
-Enero 2016	201601	Enero	2016	4	Servicios	Hombres	10139	Aragón
-Enero 2016	201601	Enero	2016	4	Servicios	Mujeres	13513	Aragón
+October 2020	202010	October	2020	1	Agricultura, ganadería y pesca	Hombres	2192	Aragón
+October 2020	202010	October	2020	1	Agricultura, ganadería y pesca	Mujeres	525	Aragón
+October 2020	202010	October	2020	2	Industria y energía	Hombres	7247	Aragón
+October 2020	202010	October	2020	2	Industria y energía	Mujeres	4384	Aragón
+October 2020	202010	October	2020	3	Construcción	Hombres	1799	Aragón
+October 2020	202010	October	2020	3	Construcción	Mujeres	133	Aragón
+October 2020	202010	October	2020	4	Servicios	Hombres	12174	Aragón
+October 2020	202010	October	2020	4	Servicios	Mujeres	15268	Aragón
+June 2020	202006	June	2020	1	Agricultura, ganadería y pesca	Hombres	1	Sin clasificar
+March 2017	201703	March	2017	1	Agricultura, ganadería y pesca	Hombres	2439	Aragón
+March 2017	201703	March	2017	1	Agricultura, ganadería y pesca	Mujeres	516	Aragón
+March 2017	201703	March	2017	2	Industria y energía	Hombres	6735	Aragón
+March 2017	201703	March	2017	2	Industria y energía	Mujeres	2636	Aragón
+March 2017	201703	March	2017	3	Construcción	Hombres	2147	Aragón
+March 2017	201703	March	2017	3	Construcción	Mujeres	116	Aragón
+March 2017	201703	March	2017	4	Servicios	Hombres	13625	Aragón
+March 2017	201703	March	2017	4	Servicios	Mujeres	17573	Aragón
+February 2017	201702	February	2017	1	Agricultura, ganadería y pesca	Hombres	2052	Aragón
+February 2017	201702	February	2017	1	Agricultura, ganadería y pesca	Mujeres	291	Aragón
+February 2017	201702	February	2017	2	Industria y energía	Hombres	6044	Aragón
+February 2017	201702	February	2017	2	Industria y energía	Mujeres	2457	Aragón
+February 2017	201702	February	2017	3	Construcción	Hombres	1679	Aragón
+February 2017	201702	February	2017	3	Construcción	Mujeres	111	Aragón
+February 2017	201702	February	2017	4	Servicios	Hombres	11316	Aragón
+February 2017	201702	February	2017	4	Servicios	Mujeres	14866	Aragón
+December 2016	201612	December	2016	1	Agricultura, ganadería y pesca	Hombres	1867	Aragón
+December 2016	201612	December	2016	1	Agricultura, ganadería y pesca	Mujeres	293	Aragón
+December 2016	201612	December	2016	2	Industria y energía	Hombres	5335	Aragón
+December 2016	201612	December	2016	2	Industria y energía	Mujeres	2025	Aragón
+December 2016	201612	December	2016	3	Construcción	Hombres	1364	Aragón
+December 2016	201612	December	2016	3	Construcción	Mujeres	79	Aragón
+December 2016	201612	December	2016	4	Servicios	Hombres	12441	Aragón
+December 2016	201612	December	2016	4	Servicios	Mujeres	17331	Aragón
+May 2016	201605	May	2016	1	Agricultura, ganadería y pesca	Hombres	9425	Aragón
+May 2016	201605	May	2016	1	Agricultura, ganadería y pesca	Mujeres	2828	Aragón
+May 2016	201605	May	2016	2	Industria y energía	Hombres	5972	Aragón
+May 2016	201605	May	2016	2	Industria y energía	Mujeres	2454	Aragón
+May 2016	201605	May	2016	3	Construcción	Hombres	1919	Aragón
+May 2016	201605	May	2016	3	Construcción	Mujeres	129	Aragón
+May 2016	201605	May	2016	4	Servicios	Hombres	15502	Aragón
+May 2016	201605	May	2016	4	Servicios	Mujeres	18614	Aragón
+April 2016	201604	April	2016	1	Agricultura, ganadería y pesca	Hombres	3430	Aragón
+April 2016	201604	April	2016	1	Agricultura, ganadería y pesca	Mujeres	721	Aragón
+April 2016	201604	April	2016	2	Industria y energía	Hombres	5541	Aragón
+April 2016	201604	April	2016	2	Industria y energía	Mujeres	2076	Aragón
+April 2016	201604	April	2016	3	Construcción	Hombres	1850	Aragón
+April 2016	201604	April	2016	3	Construcción	Mujeres	100	Aragón
+April 2016	201604	April	2016	4	Servicios	Hombres	12025	Aragón
+April 2016	201604	April	2016	4	Servicios	Mujeres	15082	Aragón
+March 2016	201603	March	2016	1	Agricultura, ganadería y pesca	Hombres	1524	Aragón
+March 2016	201603	March	2016	1	Agricultura, ganadería y pesca	Mujeres	306	Aragón
+March 2016	201603	March	2016	2	Industria y energía	Hombres	5582	Aragón
+March 2016	201603	March	2016	2	Industria y energía	Mujeres	2097	Aragón
+March 2016	201603	March	2016	3	Construcción	Hombres	1787	Aragón
+March 2016	201603	March	2016	3	Construcción	Mujeres	100	Aragón
+March 2016	201603	March	2016	4	Servicios	Hombres	12148	Aragón
+March 2016	201603	March	2016	4	Servicios	Mujeres	16223	Aragón
+February 2016	201602	February	2016	1	Agricultura, ganadería y pesca	Hombres	1804	Aragón
+February 2016	201602	February	2016	1	Agricultura, ganadería y pesca	Mujeres	292	Aragón
+February 2016	201602	February	2016	2	Industria y energía	Hombres	5519	Aragón
+February 2016	201602	February	2016	2	Industria y energía	Mujeres	2094	Aragón
+February 2016	201602	February	2016	3	Construcción	Hombres	1803	Aragón
+February 2016	201602	February	2016	3	Construcción	Mujeres	126	Aragón
+February 2016	201602	February	2016	4	Servicios	Hombres	10918	Aragón
+February 2016	201602	February	2016	4	Servicios	Mujeres	14256	Aragón
 Diciembre 2015	201512	Diciembre	2015	1	Agricultura, ganadería y pesca	Hombres	1579	Aragón
 Diciembre 2015	201512	Diciembre	2015	1	Agricultura, ganadería y pesca	Mujeres	243	Aragón
 Diciembre 2015	201512	Diciembre	2015	2	Industria y energía	Hombres	4675	Aragón

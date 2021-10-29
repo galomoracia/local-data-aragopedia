@@ -1,2488 +1,328 @@
 Mes y año	Provincia código	Provincia nombre	Sexo	Nº parados	Grupos 1 duración demanda código	Grupos 1 duración demanda descripción
-Septiembre 2021	22	Huesca	Hombres	1649	1	Hasta 3 meses
-Septiembre 2021	22	Huesca	Hombres	375	2	De 3 a 6 meses
-Septiembre 2021	22	Huesca	Hombres	392	3	De 6 a 12 meses
-Septiembre 2021	22	Huesca	Hombres	531	4	De 1 a 2 años
-Septiembre 2021	22	Huesca	Hombres	277	5	De 2 a 3 años
-Septiembre 2021	22	Huesca	Hombres	374	6	Más de 3 años
-Septiembre 2021	22	Huesca	Mujeres	1715	1	Hasta 3 meses
-Septiembre 2021	22	Huesca	Mujeres	400	2	De 3 a 6 meses
-Septiembre 2021	22	Huesca	Mujeres	550	3	De 6 a 12 meses
-Septiembre 2021	22	Huesca	Mujeres	969	4	De 1 a 2 años
-Septiembre 2021	22	Huesca	Mujeres	534	5	De 2 a 3 años
-Septiembre 2021	22	Huesca	Mujeres	722	6	Más de 3 años
-Septiembre 2021	44	Teruel	Hombres	913	1	Hasta 3 meses
-Septiembre 2021	44	Teruel	Hombres	189	2	De 3 a 6 meses
-Septiembre 2021	44	Teruel	Hombres	235	3	De 6 a 12 meses
-Septiembre 2021	44	Teruel	Hombres	335	4	De 1 a 2 años
-Septiembre 2021	44	Teruel	Hombres	138	5	De 2 a 3 años
-Septiembre 2021	44	Teruel	Hombres	259	6	Más de 3 años
-Septiembre 2021	44	Teruel	Mujeres	1027	1	Hasta 3 meses
-Septiembre 2021	44	Teruel	Mujeres	231	2	De 3 a 6 meses
-Septiembre 2021	44	Teruel	Mujeres	366	3	De 6 a 12 meses
-Septiembre 2021	44	Teruel	Mujeres	569	4	De 1 a 2 años
-Septiembre 2021	44	Teruel	Mujeres	308	5	De 2 a 3 años
-Septiembre 2021	44	Teruel	Mujeres	467	6	Más de 3 años
-Septiembre 2021	50	Zaragoza	Hombres	6901	1	Hasta 3 meses
-Septiembre 2021	50	Zaragoza	Hombres	1922	2	De 3 a 6 meses
-Septiembre 2021	50	Zaragoza	Hombres	2232	3	De 6 a 12 meses
-Septiembre 2021	50	Zaragoza	Hombres	3593	4	De 1 a 2 años
-Septiembre 2021	50	Zaragoza	Hombres	1695	5	De 2 a 3 años
-Septiembre 2021	50	Zaragoza	Hombres	3071	6	Más de 3 años
-Septiembre 2021	50	Zaragoza	Mujeres	8011	1	Hasta 3 meses
-Septiembre 2021	50	Zaragoza	Mujeres	2381	2	De 3 a 6 meses
-Septiembre 2021	50	Zaragoza	Mujeres	3320	3	De 6 a 12 meses
-Septiembre 2021	50	Zaragoza	Mujeres	6062	4	De 1 a 2 años
-Septiembre 2021	50	Zaragoza	Mujeres	3664	5	De 2 a 3 años
-Septiembre 2021	50	Zaragoza	Mujeres	6772	6	Más de 3 años
-Agosto 2021	22	Huesca	Hombres	1349	1	Hasta 3 meses
-Agosto 2021	22	Huesca	Hombres	372	2	De 3 a 6 meses
-Agosto 2021	22	Huesca	Hombres	532	3	De 6 a 12 meses
-Agosto 2021	22	Huesca	Hombres	728	4	De 1 a 2 años
-Agosto 2021	22	Huesca	Hombres	296	5	De 2 a 3 años
-Agosto 2021	22	Huesca	Hombres	375	6	Más de 3 años
-Agosto 2021	22	Huesca	Mujeres	1493	1	Hasta 3 meses
-Agosto 2021	22	Huesca	Mujeres	395	2	De 3 a 6 meses
-Agosto 2021	22	Huesca	Mujeres	748	3	De 6 a 12 meses
-Agosto 2021	22	Huesca	Mujeres	1228	4	De 1 a 2 años
-Agosto 2021	22	Huesca	Mujeres	525	5	De 2 a 3 años
-Agosto 2021	22	Huesca	Mujeres	724	6	Más de 3 años
-Agosto 2021	44	Teruel	Hombres	826	1	Hasta 3 meses
-Agosto 2021	44	Teruel	Hombres	200	2	De 3 a 6 meses
-Agosto 2021	44	Teruel	Hombres	301	3	De 6 a 12 meses
-Agosto 2021	44	Teruel	Hombres	399	4	De 1 a 2 años
-Agosto 2021	44	Teruel	Hombres	149	5	De 2 a 3 años
-Agosto 2021	44	Teruel	Hombres	263	6	Más de 3 años
-Agosto 2021	44	Teruel	Mujeres	914	1	Hasta 3 meses
-Agosto 2021	44	Teruel	Mujeres	231	2	De 3 a 6 meses
-Agosto 2021	44	Teruel	Mujeres	487	3	De 6 a 12 meses
-Agosto 2021	44	Teruel	Mujeres	737	4	De 1 a 2 años
-Agosto 2021	44	Teruel	Mujeres	317	5	De 2 a 3 años
-Agosto 2021	44	Teruel	Mujeres	468	6	Más de 3 años
-Agosto 2021	50	Zaragoza	Hombres	6502	1	Hasta 3 meses
-Agosto 2021	50	Zaragoza	Hombres	2048	2	De 3 a 6 meses
-Agosto 2021	50	Zaragoza	Hombres	2878	3	De 6 a 12 meses
-Agosto 2021	50	Zaragoza	Hombres	4441	4	De 1 a 2 años
-Agosto 2021	50	Zaragoza	Hombres	1758	5	De 2 a 3 años
-Agosto 2021	50	Zaragoza	Hombres	3099	6	Más de 3 años
-Agosto 2021	50	Zaragoza	Mujeres	7459	1	Hasta 3 meses
-Agosto 2021	50	Zaragoza	Mujeres	2502	2	De 3 a 6 meses
-Agosto 2021	50	Zaragoza	Mujeres	4169	3	De 6 a 12 meses
-Agosto 2021	50	Zaragoza	Mujeres	7360	4	De 1 a 2 años
-Agosto 2021	50	Zaragoza	Mujeres	3651	5	De 2 a 3 años
-Agosto 2021	50	Zaragoza	Mujeres	6812	6	Más de 3 años
-Julio 2021	22	Huesca	Hombres	1186	1	Hasta 3 meses
-Julio 2021	22	Huesca	Hombres	464	2	De 3 a 6 meses
-Julio 2021	22	Huesca	Hombres	646	3	De 6 a 12 meses
-Julio 2021	22	Huesca	Hombres	869	4	De 1 a 2 años
-Julio 2021	22	Huesca	Hombres	289	5	De 2 a 3 años
-Julio 2021	22	Huesca	Hombres	398	6	Más de 3 años
-Julio 2021	22	Huesca	Mujeres	1255	1	Hasta 3 meses
-Julio 2021	22	Huesca	Mujeres	499	2	De 3 a 6 meses
-Julio 2021	22	Huesca	Mujeres	862	3	De 6 a 12 meses
-Julio 2021	22	Huesca	Mujeres	1457	4	De 1 a 2 años
-Julio 2021	22	Huesca	Mujeres	540	5	De 2 a 3 años
-Julio 2021	22	Huesca	Mujeres	748	6	Más de 3 años
-Julio 2021	44	Teruel	Hombres	731	1	Hasta 3 meses
-Julio 2021	44	Teruel	Hombres	247	2	De 3 a 6 meses
-Julio 2021	44	Teruel	Hombres	358	3	De 6 a 12 meses
-Julio 2021	44	Teruel	Hombres	477	4	De 1 a 2 años
-Julio 2021	44	Teruel	Hombres	150	5	De 2 a 3 años
-Julio 2021	44	Teruel	Hombres	269	6	Más de 3 años
-Julio 2021	44	Teruel	Mujeres	796	1	Hasta 3 meses
-Julio 2021	44	Teruel	Mujeres	324	2	De 3 a 6 meses
-Julio 2021	44	Teruel	Mujeres	578	3	De 6 a 12 meses
-Julio 2021	44	Teruel	Mujeres	872	4	De 1 a 2 años
-Julio 2021	44	Teruel	Mujeres	329	5	De 2 a 3 años
-Julio 2021	44	Teruel	Mujeres	473	6	Más de 3 años
-Julio 2021	50	Zaragoza	Hombres	6100	1	Hasta 3 meses
-Julio 2021	50	Zaragoza	Hombres	2292	2	De 3 a 6 meses
-Julio 2021	50	Zaragoza	Hombres	3365	3	De 6 a 12 meses
-Julio 2021	50	Zaragoza	Hombres	5231	4	De 1 a 2 años
-Julio 2021	50	Zaragoza	Hombres	1824	5	De 2 a 3 años
-Julio 2021	50	Zaragoza	Hombres	3168	6	Más de 3 años
-Julio 2021	50	Zaragoza	Mujeres	6755	1	Hasta 3 meses
-Julio 2021	50	Zaragoza	Mujeres	2925	2	De 3 a 6 meses
-Julio 2021	50	Zaragoza	Mujeres	4625	3	De 6 a 12 meses
-Julio 2021	50	Zaragoza	Mujeres	8535	4	De 1 a 2 años
-Julio 2021	50	Zaragoza	Mujeres	3693	5	De 2 a 3 años
-Julio 2021	50	Zaragoza	Mujeres	6934	6	Más de 3 años
-Junio 2021	22	Huesca	Hombres	1090	1	Hasta 3 meses
-Junio 2021	22	Huesca	Hombres	594	2	De 3 a 6 meses
-Junio 2021	22	Huesca	Hombres	863	3	De 6 a 12 meses
-Junio 2021	22	Huesca	Hombres	1044	4	De 1 a 2 años
-Junio 2021	22	Huesca	Hombres	292	5	De 2 a 3 años
-Junio 2021	22	Huesca	Hombres	412	6	Más de 3 años
-Junio 2021	22	Huesca	Mujeres	1134	1	Hasta 3 meses
-Junio 2021	22	Huesca	Mujeres	676	2	De 3 a 6 meses
-Junio 2021	22	Huesca	Mujeres	1147	3	De 6 a 12 meses
-Junio 2021	22	Huesca	Mujeres	1704	4	De 1 a 2 años
-Junio 2021	22	Huesca	Mujeres	576	5	De 2 a 3 años
-Junio 2021	22	Huesca	Mujeres	762	6	Más de 3 años
-Junio 2021	44	Teruel	Hombres	660	1	Hasta 3 meses
-Junio 2021	44	Teruel	Hombres	324	2	De 3 a 6 meses
-Junio 2021	44	Teruel	Hombres	479	3	De 6 a 12 meses
-Junio 2021	44	Teruel	Hombres	579	4	De 1 a 2 años
-Junio 2021	44	Teruel	Hombres	157	5	De 2 a 3 años
-Junio 2021	44	Teruel	Hombres	271	6	Más de 3 años
-Junio 2021	44	Teruel	Mujeres	683	1	Hasta 3 meses
-Junio 2021	44	Teruel	Mujeres	449	2	De 3 a 6 meses
-Junio 2021	44	Teruel	Mujeres	767	3	De 6 a 12 meses
-Junio 2021	44	Teruel	Mujeres	1050	4	De 1 a 2 años
-Junio 2021	44	Teruel	Mujeres	338	5	De 2 a 3 años
-Junio 2021	44	Teruel	Mujeres	497	6	Más de 3 años
-Junio 2021	50	Zaragoza	Hombres	5267	1	Hasta 3 meses
-Junio 2021	50	Zaragoza	Hombres	2722	2	De 3 a 6 meses
-Junio 2021	50	Zaragoza	Hombres	4201	3	De 6 a 12 meses
-Junio 2021	50	Zaragoza	Hombres	6000	4	De 1 a 2 años
-Junio 2021	50	Zaragoza	Hombres	1834	5	De 2 a 3 años
-Junio 2021	50	Zaragoza	Hombres	3284	6	Más de 3 años
-Junio 2021	50	Zaragoza	Mujeres	6105	1	Hasta 3 meses
-Junio 2021	50	Zaragoza	Mujeres	3530	2	De 3 a 6 meses
-Junio 2021	50	Zaragoza	Mujeres	5620	3	De 6 a 12 meses
-Junio 2021	50	Zaragoza	Mujeres	9685	4	De 1 a 2 años
-Junio 2021	50	Zaragoza	Mujeres	3781	5	De 2 a 3 años
-Junio 2021	50	Zaragoza	Mujeres	7001	6	Más de 3 años
-Mayo 2021	22	Huesca	Hombres	1064	1	Hasta 3 meses
-Mayo 2021	22	Huesca	Hombres	722	2	De 3 a 6 meses
-Mayo 2021	22	Huesca	Hombres	1060	3	De 6 a 12 meses
-Mayo 2021	22	Huesca	Hombres	1019	4	De 1 a 2 años
-Mayo 2021	22	Huesca	Hombres	270	5	De 2 a 3 años
-Mayo 2021	22	Huesca	Hombres	406	6	Más de 3 años
-Mayo 2021	22	Huesca	Mujeres	1061	1	Hasta 3 meses
-Mayo 2021	22	Huesca	Mujeres	826	2	De 3 a 6 meses
-Mayo 2021	22	Huesca	Mujeres	1393	3	De 6 a 12 meses
-Mayo 2021	22	Huesca	Mujeres	1717	4	De 1 a 2 años
-Mayo 2021	22	Huesca	Mujeres	563	5	De 2 a 3 años
-Mayo 2021	22	Huesca	Mujeres	755	6	Más de 3 años
-Mayo 2021	44	Teruel	Hombres	659	1	Hasta 3 meses
-Mayo 2021	44	Teruel	Hombres	427	2	De 3 a 6 meses
-Mayo 2021	44	Teruel	Hombres	607	3	De 6 a 12 meses
-Mayo 2021	44	Teruel	Hombres	583	4	De 1 a 2 años
-Mayo 2021	44	Teruel	Hombres	157	5	De 2 a 3 años
-Mayo 2021	44	Teruel	Hombres	262	6	Más de 3 años
-Mayo 2021	44	Teruel	Mujeres	664	1	Hasta 3 meses
-Mayo 2021	44	Teruel	Mujeres	559	2	De 3 a 6 meses
-Mayo 2021	44	Teruel	Mujeres	972	3	De 6 a 12 meses
-Mayo 2021	44	Teruel	Mujeres	1074	4	De 1 a 2 años
-Mayo 2021	44	Teruel	Mujeres	327	5	De 2 a 3 años
-Mayo 2021	44	Teruel	Mujeres	498	6	Más de 3 años
-Mayo 2021	50	Zaragoza	Hombres	5294	1	Hasta 3 meses
-Mayo 2021	50	Zaragoza	Hombres	3215	2	De 3 a 6 meses
-Mayo 2021	50	Zaragoza	Hombres	4867	3	De 6 a 12 meses
-Mayo 2021	50	Zaragoza	Hombres	6108	4	De 1 a 2 años
-Mayo 2021	50	Zaragoza	Hombres	1777	5	De 2 a 3 años
-Mayo 2021	50	Zaragoza	Hombres	3251	6	Más de 3 años
-Mayo 2021	50	Zaragoza	Mujeres	5930	1	Hasta 3 meses
-Mayo 2021	50	Zaragoza	Mujeres	4069	2	De 3 a 6 meses
-Mayo 2021	50	Zaragoza	Mujeres	6365	3	De 6 a 12 meses
-Mayo 2021	50	Zaragoza	Mujeres	9847	4	De 1 a 2 años
-Mayo 2021	50	Zaragoza	Mujeres	3661	5	De 2 a 3 años
-Mayo 2021	50	Zaragoza	Mujeres	6950	6	Más de 3 años
-Abril 2021	22	Huesca	Hombres	1342	1	Hasta 3 meses
-Abril 2021	22	Huesca	Hombres	754	2	De 3 a 6 meses
-Abril 2021	22	Huesca	Hombres	1120	3	De 6 a 12 meses
-Abril 2021	22	Huesca	Hombres	1015	4	De 1 a 2 años
-Abril 2021	22	Huesca	Hombres	269	5	De 2 a 3 años
-Abril 2021	22	Huesca	Hombres	405	6	Más de 3 años
-Abril 2021	22	Huesca	Mujeres	1273	1	Hasta 3 meses
-Abril 2021	22	Huesca	Mujeres	912	2	De 3 a 6 meses
-Abril 2021	22	Huesca	Mujeres	1468	3	De 6 a 12 meses
-Abril 2021	22	Huesca	Mujeres	1760	4	De 1 a 2 años
-Abril 2021	22	Huesca	Mujeres	519	5	De 2 a 3 años
-Abril 2021	22	Huesca	Mujeres	742	6	Más de 3 años
-Abril 2021	44	Teruel	Hombres	764	1	Hasta 3 meses
-Abril 2021	44	Teruel	Hombres	495	2	De 3 a 6 meses
-Abril 2021	44	Teruel	Hombres	647	3	De 6 a 12 meses
-Abril 2021	44	Teruel	Hombres	597	4	De 1 a 2 años
-Abril 2021	44	Teruel	Hombres	160	5	De 2 a 3 años
-Abril 2021	44	Teruel	Hombres	262	6	Más de 3 años
-Abril 2021	44	Teruel	Mujeres	852	1	Hasta 3 meses
-Abril 2021	44	Teruel	Mujeres	690	2	De 3 a 6 meses
-Abril 2021	44	Teruel	Mujeres	936	3	De 6 a 12 meses
-Abril 2021	44	Teruel	Mujeres	1131	4	De 1 a 2 años
-Abril 2021	44	Teruel	Mujeres	301	5	De 2 a 3 años
-Abril 2021	44	Teruel	Mujeres	493	6	Más de 3 años
-Abril 2021	50	Zaragoza	Hombres	5997	1	Hasta 3 meses
-Abril 2021	50	Zaragoza	Hombres	3720	2	De 3 a 6 meses
-Abril 2021	50	Zaragoza	Hombres	5098	3	De 6 a 12 meses
-Abril 2021	50	Zaragoza	Hombres	6271	4	De 1 a 2 años
-Abril 2021	50	Zaragoza	Hombres	1708	5	De 2 a 3 años
-Abril 2021	50	Zaragoza	Hombres	3209	6	Más de 3 años
-Abril 2021	50	Zaragoza	Mujeres	6705	1	Hasta 3 meses
-Abril 2021	50	Zaragoza	Mujeres	4501	2	De 3 a 6 meses
-Abril 2021	50	Zaragoza	Mujeres	6439	3	De 6 a 12 meses
-Abril 2021	50	Zaragoza	Mujeres	10201	4	De 1 a 2 años
-Abril 2021	50	Zaragoza	Mujeres	3543	5	De 2 a 3 años
-Abril 2021	50	Zaragoza	Mujeres	6866	6	Más de 3 años
-Marzo 2021	22	Huesca	Hombres	1492	1	Hasta 3 meses
-Marzo 2021	22	Huesca	Hombres	828	2	De 3 a 6 meses
-Marzo 2021	22	Huesca	Hombres	1120	3	De 6 a 12 meses
-Marzo 2021	22	Huesca	Hombres	1039	4	De 1 a 2 años
-Marzo 2021	22	Huesca	Hombres	248	5	De 2 a 3 años
-Marzo 2021	22	Huesca	Hombres	399	6	Más de 3 años
-Marzo 2021	22	Huesca	Mujeres	1425	1	Hasta 3 meses
-Marzo 2021	22	Huesca	Mujeres	1080	2	De 3 a 6 meses
-Marzo 2021	22	Huesca	Mujeres	1363	3	De 6 a 12 meses
-Marzo 2021	22	Huesca	Mujeres	1815	4	De 1 a 2 años
-Marzo 2021	22	Huesca	Mujeres	493	5	De 2 a 3 años
-Marzo 2021	22	Huesca	Mujeres	735	6	Más de 3 años
-Marzo 2021	44	Teruel	Hombres	898	1	Hasta 3 meses
-Marzo 2021	44	Teruel	Hombres	570	2	De 3 a 6 meses
-Marzo 2021	44	Teruel	Hombres	667	3	De 6 a 12 meses
-Marzo 2021	44	Teruel	Hombres	597	4	De 1 a 2 años
-Marzo 2021	44	Teruel	Hombres	157	5	De 2 a 3 años
-Marzo 2021	44	Teruel	Hombres	255	6	Más de 3 años
-Marzo 2021	44	Teruel	Mujeres	1033	1	Hasta 3 meses
-Marzo 2021	44	Teruel	Mujeres	777	2	De 3 a 6 meses
-Marzo 2021	44	Teruel	Mujeres	847	3	De 6 a 12 meses
-Marzo 2021	44	Teruel	Mujeres	1140	4	De 1 a 2 años
-Marzo 2021	44	Teruel	Mujeres	294	5	De 2 a 3 años
-Marzo 2021	44	Teruel	Mujeres	474	6	Más de 3 años
-Marzo 2021	50	Zaragoza	Hombres	6676	1	Hasta 3 meses
-Marzo 2021	50	Zaragoza	Hombres	4047	2	De 3 a 6 meses
-Marzo 2021	50	Zaragoza	Hombres	5001	3	De 6 a 12 meses
-Marzo 2021	50	Zaragoza	Hombres	6367	4	De 1 a 2 años
-Marzo 2021	50	Zaragoza	Hombres	1619	5	De 2 a 3 años
-Marzo 2021	50	Zaragoza	Hombres	3216	6	Más de 3 años
-Marzo 2021	50	Zaragoza	Mujeres	7389	1	Hasta 3 meses
-Marzo 2021	50	Zaragoza	Mujeres	4810	2	De 3 a 6 meses
-Marzo 2021	50	Zaragoza	Mujeres	6161	3	De 6 a 12 meses
-Marzo 2021	50	Zaragoza	Mujeres	10534	4	De 1 a 2 años
-Marzo 2021	50	Zaragoza	Mujeres	3463	5	De 2 a 3 años
-Marzo 2021	50	Zaragoza	Mujeres	6853	6	Más de 3 años
-Febrero 2021	22	Huesca	Hombres	1567	1	Hasta 3 meses
-Febrero 2021	22	Huesca	Hombres	1113	2	De 3 a 6 meses
-Febrero 2021	22	Huesca	Hombres	1020	3	De 6 a 12 meses
-Febrero 2021	22	Huesca	Hombres	977	4	De 1 a 2 años
-Febrero 2021	22	Huesca	Hombres	228	5	De 2 a 3 años
-Febrero 2021	22	Huesca	Hombres	399	6	Más de 3 años
-Febrero 2021	22	Huesca	Mujeres	1662	1	Hasta 3 meses
-Febrero 2021	22	Huesca	Mujeres	1422	2	De 3 a 6 meses
-Febrero 2021	22	Huesca	Mujeres	1253	3	De 6 a 12 meses
-Febrero 2021	22	Huesca	Mujeres	1691	4	De 1 a 2 años
-Febrero 2021	22	Huesca	Mujeres	461	5	De 2 a 3 años
-Febrero 2021	22	Huesca	Mujeres	719	6	Más de 3 años
-Febrero 2021	44	Teruel	Hombres	999	1	Hasta 3 meses
-Febrero 2021	44	Teruel	Hombres	662	2	De 3 a 6 meses
-Febrero 2021	44	Teruel	Hombres	647	3	De 6 a 12 meses
-Febrero 2021	44	Teruel	Hombres	550	4	De 1 a 2 años
-Febrero 2021	44	Teruel	Hombres	142	5	De 2 a 3 años
-Febrero 2021	44	Teruel	Hombres	254	6	Más de 3 años
-Febrero 2021	44	Teruel	Mujeres	1089	1	Hasta 3 meses
-Febrero 2021	44	Teruel	Mujeres	901	2	De 3 a 6 meses
-Febrero 2021	44	Teruel	Mujeres	794	3	De 6 a 12 meses
-Febrero 2021	44	Teruel	Mujeres	1060	4	De 1 a 2 años
-Febrero 2021	44	Teruel	Mujeres	273	5	De 2 a 3 años
-Febrero 2021	44	Teruel	Mujeres	465	6	Más de 3 años
-Febrero 2021	50	Zaragoza	Hombres	6989	1	Hasta 3 meses
-Febrero 2021	50	Zaragoza	Hombres	4510	2	De 3 a 6 meses
-Febrero 2021	50	Zaragoza	Hombres	4994	3	De 6 a 12 meses
-Febrero 2021	50	Zaragoza	Hombres	5970	4	De 1 a 2 años
-Febrero 2021	50	Zaragoza	Hombres	1561	5	De 2 a 3 años
-Febrero 2021	50	Zaragoza	Hombres	3175	6	Más de 3 años
-Febrero 2021	50	Zaragoza	Mujeres	7841	1	Hasta 3 meses
-Febrero 2021	50	Zaragoza	Mujeres	5615	2	De 3 a 6 meses
-Febrero 2021	50	Zaragoza	Mujeres	6095	3	De 6 a 12 meses
-Febrero 2021	50	Zaragoza	Mujeres	9965	4	De 1 a 2 años
-Febrero 2021	50	Zaragoza	Mujeres	3320	5	De 2 a 3 años
-Febrero 2021	50	Zaragoza	Mujeres	6775	6	Más de 3 años
-Enero 2021	22	Huesca	Hombres	1573	1	Hasta 3 meses
-Enero 2021	22	Huesca	Hombres	1070	2	De 3 a 6 meses
-Enero 2021	22	Huesca	Hombres	1108	3	De 6 a 12 meses
-Enero 2021	22	Huesca	Hombres	849	4	De 1 a 2 años
-Enero 2021	22	Huesca	Hombres	209	5	De 2 a 3 años
-Enero 2021	22	Huesca	Hombres	397	6	Más de 3 años
-Enero 2021	22	Huesca	Mujeres	1658	1	Hasta 3 meses
-Enero 2021	22	Huesca	Mujeres	1343	2	De 3 a 6 meses
-Enero 2021	22	Huesca	Mujeres	1360	3	De 6 a 12 meses
-Enero 2021	22	Huesca	Mujeres	1510	4	De 1 a 2 años
-Enero 2021	22	Huesca	Mujeres	429	5	De 2 a 3 años
-Enero 2021	22	Huesca	Mujeres	706	6	Más de 3 años
-Enero 2021	44	Teruel	Hombres	1130	1	Hasta 3 meses
-Enero 2021	44	Teruel	Hombres	579	2	De 3 a 6 meses
-Enero 2021	44	Teruel	Hombres	677	3	De 6 a 12 meses
-Enero 2021	44	Teruel	Hombres	493	4	De 1 a 2 años
-Enero 2021	44	Teruel	Hombres	132	5	De 2 a 3 años
-Enero 2021	44	Teruel	Hombres	247	6	Más de 3 años
-Enero 2021	44	Teruel	Mujeres	1126	1	Hasta 3 meses
-Enero 2021	44	Teruel	Mujeres	742	2	De 3 a 6 meses
-Enero 2021	44	Teruel	Mujeres	845	3	De 6 a 12 meses
-Enero 2021	44	Teruel	Mujeres	935	4	De 1 a 2 años
-Enero 2021	44	Teruel	Mujeres	267	5	De 2 a 3 años
-Enero 2021	44	Teruel	Mujeres	459	6	Más de 3 años
-Enero 2021	50	Zaragoza	Hombres	7159	1	Hasta 3 meses
-Enero 2021	50	Zaragoza	Hombres	4281	2	De 3 a 6 meses
-Enero 2021	50	Zaragoza	Hombres	5436	3	De 6 a 12 meses
-Enero 2021	50	Zaragoza	Hombres	5309	4	De 1 a 2 años
-Enero 2021	50	Zaragoza	Hombres	1506	5	De 2 a 3 años
-Enero 2021	50	Zaragoza	Hombres	3131	6	Más de 3 años
-Enero 2021	50	Zaragoza	Mujeres	7666	1	Hasta 3 meses
-Enero 2021	50	Zaragoza	Mujeres	5105	2	De 3 a 6 meses
-Enero 2021	50	Zaragoza	Mujeres	6923	3	De 6 a 12 meses
-Enero 2021	50	Zaragoza	Mujeres	8909	4	De 1 a 2 años
-Enero 2021	50	Zaragoza	Mujeres	3218	5	De 2 a 3 años
-Enero 2021	50	Zaragoza	Mujeres	6671	6	Más de 3 años
-Diciembre 2020	22	Huesca	Hombres	1641	1	Hasta 3 meses
-Diciembre 2020	22	Huesca	Hombres	996	2	De 3 a 6 meses
-Diciembre 2020	22	Huesca	Hombres	1122	3	De 6 a 12 meses
-Diciembre 2020	22	Huesca	Hombres	708	4	De 1 a 2 años
-Diciembre 2020	22	Huesca	Hombres	190	5	De 2 a 3 años
-Diciembre 2020	22	Huesca	Hombres	385	6	Más de 3 años
-Diciembre 2020	22	Huesca	Mujeres	1763	1	Hasta 3 meses
-Diciembre 2020	22	Huesca	Mujeres	1143	2	De 3 a 6 meses
-Diciembre 2020	22	Huesca	Mujeres	1463	3	De 6 a 12 meses
-Diciembre 2020	22	Huesca	Mujeres	1293	4	De 1 a 2 años
-Diciembre 2020	22	Huesca	Mujeres	366	5	De 2 a 3 años
-Diciembre 2020	22	Huesca	Mujeres	685	6	Más de 3 años
-Diciembre 2020	44	Teruel	Hombres	1160	1	Hasta 3 meses
-Diciembre 2020	44	Teruel	Hombres	592	2	De 3 a 6 meses
-Diciembre 2020	44	Teruel	Hombres	685	3	De 6 a 12 meses
-Diciembre 2020	44	Teruel	Hombres	436	4	De 1 a 2 años
-Diciembre 2020	44	Teruel	Hombres	119	5	De 2 a 3 años
-Diciembre 2020	44	Teruel	Hombres	243	6	Más de 3 años
-Diciembre 2020	44	Teruel	Mujeres	1138	1	Hasta 3 meses
-Diciembre 2020	44	Teruel	Mujeres	639	2	De 3 a 6 meses
-Diciembre 2020	44	Teruel	Mujeres	889	3	De 6 a 12 meses
-Diciembre 2020	44	Teruel	Mujeres	792	4	De 1 a 2 años
-Diciembre 2020	44	Teruel	Mujeres	256	5	De 2 a 3 años
-Diciembre 2020	44	Teruel	Mujeres	454	6	Más de 3 años
-Diciembre 2020	50	Zaragoza	Hombres	7462	1	Hasta 3 meses
-Diciembre 2020	50	Zaragoza	Hombres	4195	2	De 3 a 6 meses
-Diciembre 2020	50	Zaragoza	Hombres	5593	3	De 6 a 12 meses
-Diciembre 2020	50	Zaragoza	Hombres	4576	4	De 1 a 2 años
-Diciembre 2020	50	Zaragoza	Hombres	1413	5	De 2 a 3 años
-Diciembre 2020	50	Zaragoza	Hombres	3048	6	Más de 3 años
-Diciembre 2020	50	Zaragoza	Mujeres	7430	1	Hasta 3 meses
-Diciembre 2020	50	Zaragoza	Mujeres	4708	2	De 3 a 6 meses
-Diciembre 2020	50	Zaragoza	Mujeres	7581	3	De 6 a 12 meses
-Diciembre 2020	50	Zaragoza	Mujeres	7741	4	De 1 a 2 años
-Diciembre 2020	50	Zaragoza	Mujeres	2972	5	De 2 a 3 años
-Diciembre 2020	50	Zaragoza	Mujeres	6488	6	Más de 3 años
-Noviembre 2020	22	Huesca	Hombres	1822	1	Hasta 3 meses
-Noviembre 2020	22	Huesca	Hombres	810	2	De 3 a 6 meses
-Noviembre 2020	22	Huesca	Hombres	1054	3	De 6 a 12 meses
-Noviembre 2020	22	Huesca	Hombres	636	4	De 1 a 2 años
-Noviembre 2020	22	Huesca	Hombres	185	5	De 2 a 3 años
-Noviembre 2020	22	Huesca	Hombres	379	6	Más de 3 años
-Noviembre 2020	22	Huesca	Mujeres	2107	1	Hasta 3 meses
-Noviembre 2020	22	Huesca	Mujeres	878	2	De 3 a 6 meses
-Noviembre 2020	22	Huesca	Mujeres	1401	3	De 6 a 12 meses
-Noviembre 2020	22	Huesca	Mujeres	1181	4	De 1 a 2 años
-Noviembre 2020	22	Huesca	Mujeres	351	5	De 2 a 3 años
-Noviembre 2020	22	Huesca	Mujeres	676	6	Más de 3 años
-Noviembre 2020	44	Teruel	Hombres	1097	1	Hasta 3 meses
-Noviembre 2020	44	Teruel	Hombres	518	2	De 3 a 6 meses
-Noviembre 2020	44	Teruel	Hombres	612	3	De 6 a 12 meses
-Noviembre 2020	44	Teruel	Hombres	402	4	De 1 a 2 años
-Noviembre 2020	44	Teruel	Hombres	114	5	De 2 a 3 años
-Noviembre 2020	44	Teruel	Hombres	241	6	Más de 3 años
-Noviembre 2020	44	Teruel	Mujeres	1284	1	Hasta 3 meses
-Noviembre 2020	44	Teruel	Mujeres	557	2	De 3 a 6 meses
-Noviembre 2020	44	Teruel	Mujeres	835	3	De 6 a 12 meses
-Noviembre 2020	44	Teruel	Mujeres	722	4	De 1 a 2 años
-Noviembre 2020	44	Teruel	Mujeres	244	5	De 2 a 3 años
-Noviembre 2020	44	Teruel	Mujeres	456	6	Más de 3 años
-Noviembre 2020	50	Zaragoza	Hombres	7483	1	Hasta 3 meses
-Noviembre 2020	50	Zaragoza	Hombres	3737	2	De 3 a 6 meses
-Noviembre 2020	50	Zaragoza	Hombres	5494	3	De 6 a 12 meses
-Noviembre 2020	50	Zaragoza	Hombres	4170	4	De 1 a 2 años
-Noviembre 2020	50	Zaragoza	Hombres	1363	5	De 2 a 3 años
-Noviembre 2020	50	Zaragoza	Hombres	3006	6	Más de 3 años
-Noviembre 2020	50	Zaragoza	Mujeres	8185	1	Hasta 3 meses
-Noviembre 2020	50	Zaragoza	Mujeres	4101	2	De 3 a 6 meses
-Noviembre 2020	50	Zaragoza	Mujeres	7605	3	De 6 a 12 meses
-Noviembre 2020	50	Zaragoza	Mujeres	7154	4	De 1 a 2 años
-Noviembre 2020	50	Zaragoza	Mujeres	2897	5	De 2 a 3 años
-Noviembre 2020	50	Zaragoza	Mujeres	6399	6	Más de 3 años
-Octubre 2020	22	Huesca	Hombres	1796	1	Hasta 3 meses
-Octubre 2020	22	Huesca	Hombres	740	2	De 3 a 6 meses
-Octubre 2020	22	Huesca	Hombres	1079	3	De 6 a 12 meses
-Octubre 2020	22	Huesca	Hombres	586	4	De 1 a 2 años
-Octubre 2020	22	Huesca	Hombres	171	5	De 2 a 3 años
-Octubre 2020	22	Huesca	Hombres	376	6	Más de 3 años
-Octubre 2020	22	Huesca	Mujeres	1970	1	Hasta 3 meses
-Octubre 2020	22	Huesca	Mujeres	770	2	De 3 a 6 meses
-Octubre 2020	22	Huesca	Mujeres	1466	3	De 6 a 12 meses
-Octubre 2020	22	Huesca	Mujeres	1082	4	De 1 a 2 años
-Octubre 2020	22	Huesca	Mujeres	344	5	De 2 a 3 años
-Octubre 2020	22	Huesca	Mujeres	669	6	Más de 3 años
-Octubre 2020	44	Teruel	Hombres	973	1	Hasta 3 meses
-Octubre 2020	44	Teruel	Hombres	466	2	De 3 a 6 meses
-Octubre 2020	44	Teruel	Hombres	626	3	De 6 a 12 meses
-Octubre 2020	44	Teruel	Hombres	373	4	De 1 a 2 años
-Octubre 2020	44	Teruel	Hombres	111	5	De 2 a 3 años
-Octubre 2020	44	Teruel	Hombres	236	6	Más de 3 años
-Octubre 2020	44	Teruel	Mujeres	1094	1	Hasta 3 meses
-Octubre 2020	44	Teruel	Mujeres	496	2	De 3 a 6 meses
-Octubre 2020	44	Teruel	Mujeres	904	3	De 6 a 12 meses
-Octubre 2020	44	Teruel	Mujeres	648	4	De 1 a 2 años
-Octubre 2020	44	Teruel	Mujeres	234	5	De 2 a 3 años
-Octubre 2020	44	Teruel	Mujeres	447	6	Más de 3 años
-Octubre 2020	50	Zaragoza	Hombres	7264	1	Hasta 3 meses
-Octubre 2020	50	Zaragoza	Hombres	3541	2	De 3 a 6 meses
-Octubre 2020	50	Zaragoza	Hombres	5901	3	De 6 a 12 meses
-Octubre 2020	50	Zaragoza	Hombres	3892	4	De 1 a 2 años
-Octubre 2020	50	Zaragoza	Hombres	1310	5	De 2 a 3 años
-Octubre 2020	50	Zaragoza	Hombres	2944	6	Más de 3 años
-Octubre 2020	50	Zaragoza	Mujeres	7588	1	Hasta 3 meses
-Octubre 2020	50	Zaragoza	Mujeres	3786	2	De 3 a 6 meses
-Octubre 2020	50	Zaragoza	Mujeres	8216	3	De 6 a 12 meses
-Octubre 2020	50	Zaragoza	Mujeres	6663	4	De 1 a 2 años
-Octubre 2020	50	Zaragoza	Mujeres	2817	5	De 2 a 3 años
-Octubre 2020	50	Zaragoza	Mujeres	6287	6	Más de 3 años
-Septiembre 2020	22	Huesca	Hombres	1749	1	Hasta 3 meses
-Septiembre 2020	22	Huesca	Hombres	693	2	De 3 a 6 meses
-Septiembre 2020	22	Huesca	Hombres	1111	3	De 6 a 12 meses
-Septiembre 2020	22	Huesca	Hombres	537	4	De 1 a 2 años
-Septiembre 2020	22	Huesca	Hombres	160	5	De 2 a 3 años
-Septiembre 2020	22	Huesca	Hombres	372	6	Más de 3 años
-Septiembre 2020	22	Huesca	Mujeres	1801	1	Hasta 3 meses
-Septiembre 2020	22	Huesca	Mujeres	713	2	De 3 a 6 meses
-Septiembre 2020	22	Huesca	Mujeres	1593	3	De 6 a 12 meses
-Septiembre 2020	22	Huesca	Mujeres	1000	4	De 1 a 2 años
-Septiembre 2020	22	Huesca	Mujeres	329	5	De 2 a 3 años
-Septiembre 2020	22	Huesca	Mujeres	646	6	Más de 3 años
-Septiembre 2020	44	Teruel	Hombres	978	1	Hasta 3 meses
-Septiembre 2020	44	Teruel	Hombres	406	2	De 3 a 6 meses
-Septiembre 2020	44	Teruel	Hombres	685	3	De 6 a 12 meses
-Septiembre 2020	44	Teruel	Hombres	330	4	De 1 a 2 años
-Septiembre 2020	44	Teruel	Hombres	106	5	De 2 a 3 años
-Septiembre 2020	44	Teruel	Hombres	233	6	Más de 3 años
-Septiembre 2020	44	Teruel	Mujeres	1005	1	Hasta 3 meses
-Septiembre 2020	44	Teruel	Mujeres	426	2	De 3 a 6 meses
-Septiembre 2020	44	Teruel	Mujeres	991	3	De 6 a 12 meses
-Septiembre 2020	44	Teruel	Mujeres	594	4	De 1 a 2 años
-Septiembre 2020	44	Teruel	Mujeres	216	5	De 2 a 3 años
-Septiembre 2020	44	Teruel	Mujeres	439	6	Más de 3 años
-Septiembre 2020	50	Zaragoza	Hombres	7197	1	Hasta 3 meses
-Septiembre 2020	50	Zaragoza	Hombres	3286	2	De 3 a 6 meses
-Septiembre 2020	50	Zaragoza	Hombres	6426	3	De 6 a 12 meses
-Septiembre 2020	50	Zaragoza	Hombres	3493	4	De 1 a 2 años
-Septiembre 2020	50	Zaragoza	Hombres	1240	5	De 2 a 3 años
-Septiembre 2020	50	Zaragoza	Hombres	2921	6	Más de 3 años
-Septiembre 2020	50	Zaragoza	Mujeres	7388	1	Hasta 3 meses
-Septiembre 2020	50	Zaragoza	Mujeres	3527	2	De 3 a 6 meses
-Septiembre 2020	50	Zaragoza	Mujeres	9046	3	De 6 a 12 meses
-Septiembre 2020	50	Zaragoza	Mujeres	6187	4	De 1 a 2 años
-Septiembre 2020	50	Zaragoza	Mujeres	2693	5	De 2 a 3 años
-Septiembre 2020	50	Zaragoza	Mujeres	6193	6	Más de 3 años
-Agosto 2020	22	Huesca	Hombres	1509	1	Hasta 3 meses
-Agosto 2020	22	Huesca	Hombres	755	2	De 3 a 6 meses
-Agosto 2020	22	Huesca	Hombres	1045	3	De 6 a 12 meses
-Agosto 2020	22	Huesca	Hombres	488	4	De 1 a 2 años
-Agosto 2020	22	Huesca	Hombres	149	5	De 2 a 3 años
-Agosto 2020	22	Huesca	Hombres	366	6	Más de 3 años
-Agosto 2020	22	Huesca	Mujeres	1596	1	Hasta 3 meses
-Agosto 2020	22	Huesca	Mujeres	845	2	De 3 a 6 meses
-Agosto 2020	22	Huesca	Mujeres	1540	3	De 6 a 12 meses
-Agosto 2020	22	Huesca	Mujeres	883	4	De 1 a 2 años
-Agosto 2020	22	Huesca	Mujeres	307	5	De 2 a 3 años
-Agosto 2020	22	Huesca	Mujeres	634	6	Más de 3 años
-Agosto 2020	44	Teruel	Hombres	997	1	Hasta 3 meses
-Agosto 2020	44	Teruel	Hombres	470	2	De 3 a 6 meses
-Agosto 2020	44	Teruel	Hombres	620	3	De 6 a 12 meses
-Agosto 2020	44	Teruel	Hombres	308	4	De 1 a 2 años
-Agosto 2020	44	Teruel	Hombres	102	5	De 2 a 3 años
-Agosto 2020	44	Teruel	Hombres	234	6	Más de 3 años
-Agosto 2020	44	Teruel	Mujeres	999	1	Hasta 3 meses
-Agosto 2020	44	Teruel	Mujeres	487	2	De 3 a 6 meses
-Agosto 2020	44	Teruel	Mujeres	1017	3	De 6 a 12 meses
-Agosto 2020	44	Teruel	Mujeres	544	4	De 1 a 2 años
-Agosto 2020	44	Teruel	Mujeres	196	5	De 2 a 3 años
-Agosto 2020	44	Teruel	Mujeres	441	6	Más de 3 años
-Agosto 2020	50	Zaragoza	Hombres	7149	1	Hasta 3 meses
-Agosto 2020	50	Zaragoza	Hombres	4200	2	De 3 a 6 meses
-Agosto 2020	50	Zaragoza	Hombres	6288	3	De 6 a 12 meses
-Agosto 2020	50	Zaragoza	Hombres	3238	4	De 1 a 2 años
-Agosto 2020	50	Zaragoza	Hombres	1172	5	De 2 a 3 años
-Agosto 2020	50	Zaragoza	Hombres	2883	6	Más de 3 años
-Agosto 2020	50	Zaragoza	Mujeres	7317	1	Hasta 3 meses
-Agosto 2020	50	Zaragoza	Mujeres	4638	2	De 3 a 6 meses
-Agosto 2020	50	Zaragoza	Mujeres	9109	3	De 6 a 12 meses
-Agosto 2020	50	Zaragoza	Mujeres	5705	4	De 1 a 2 años
-Agosto 2020	50	Zaragoza	Mujeres	2595	5	De 2 a 3 años
-Agosto 2020	50	Zaragoza	Mujeres	6097	6	Más de 3 años
-Julio 2020	22	Huesca	Hombres	1334	1	Hasta 3 meses
-Julio 2020	22	Huesca	Hombres	963	2	De 3 a 6 meses
-Julio 2020	22	Huesca	Hombres	857	3	De 6 a 12 meses
-Julio 2020	22	Huesca	Hombres	455	4	De 1 a 2 años
-Julio 2020	22	Huesca	Hombres	137	5	De 2 a 3 años
-Julio 2020	22	Huesca	Hombres	365	6	Más de 3 años
-Julio 2020	22	Huesca	Mujeres	1405	1	Hasta 3 meses
-Julio 2020	22	Huesca	Mujeres	1127	2	De 3 a 6 meses
-Julio 2020	22	Huesca	Mujeres	1326	3	De 6 a 12 meses
-Julio 2020	22	Huesca	Mujeres	807	4	De 1 a 2 años
-Julio 2020	22	Huesca	Mujeres	292	5	De 2 a 3 años
-Julio 2020	22	Huesca	Mujeres	626	6	Más de 3 años
-Julio 2020	44	Teruel	Hombres	941	1	Hasta 3 meses
-Julio 2020	44	Teruel	Hombres	605	2	De 3 a 6 meses
-Julio 2020	44	Teruel	Hombres	540	3	De 6 a 12 meses
-Julio 2020	44	Teruel	Hombres	304	4	De 1 a 2 años
-Julio 2020	44	Teruel	Hombres	103	5	De 2 a 3 años
-Julio 2020	44	Teruel	Hombres	233	6	Más de 3 años
-Julio 2020	44	Teruel	Mujeres	934	1	Hasta 3 meses
-Julio 2020	44	Teruel	Mujeres	668	2	De 3 a 6 meses
-Julio 2020	44	Teruel	Mujeres	906	3	De 6 a 12 meses
-Julio 2020	44	Teruel	Mujeres	524	4	De 1 a 2 años
-Julio 2020	44	Teruel	Mujeres	182	5	De 2 a 3 años
-Julio 2020	44	Teruel	Mujeres	435	6	Más de 3 años
-Julio 2020	50	Zaragoza	Hombres	6844	1	Hasta 3 meses
-Julio 2020	50	Zaragoza	Hombres	5443	2	De 3 a 6 meses
-Julio 2020	50	Zaragoza	Hombres	5442	3	De 6 a 12 meses
-Julio 2020	50	Zaragoza	Hombres	2996	4	De 1 a 2 años
-Julio 2020	50	Zaragoza	Hombres	1109	5	De 2 a 3 años
-Julio 2020	50	Zaragoza	Hombres	2844	6	Más de 3 años
-Julio 2020	50	Zaragoza	Mujeres	6816	1	Hasta 3 meses
-Julio 2020	50	Zaragoza	Mujeres	6468	2	De 3 a 6 meses
-Julio 2020	50	Zaragoza	Mujeres	7855	3	De 6 a 12 meses
-Julio 2020	50	Zaragoza	Mujeres	5414	4	De 1 a 2 años
-Julio 2020	50	Zaragoza	Mujeres	2465	5	De 2 a 3 años
-Julio 2020	50	Zaragoza	Mujeres	6020	6	Más de 3 años
-Junio 2020	22	Huesca	Hombres	1353	1	Hasta 3 meses
-Junio 2020	22	Huesca	Hombres	1195	2	De 3 a 6 meses
-Junio 2020	22	Huesca	Hombres	733	3	De 6 a 12 meses
-Junio 2020	22	Huesca	Hombres	420	4	De 1 a 2 años
-Junio 2020	22	Huesca	Hombres	129	5	De 2 a 3 años
-Junio 2020	22	Huesca	Hombres	362	6	Más de 3 años
-Junio 2020	22	Huesca	Mujeres	1365	1	Hasta 3 meses
-Junio 2020	22	Huesca	Mujeres	1537	2	De 3 a 6 meses
-Junio 2020	22	Huesca	Mujeres	1155	3	De 6 a 12 meses
-Junio 2020	22	Huesca	Mujeres	774	4	De 1 a 2 años
-Junio 2020	22	Huesca	Mujeres	278	5	De 2 a 3 años
-Junio 2020	22	Huesca	Mujeres	621	6	Más de 3 años
-Junio 2020	44	Teruel	Hombres	928	1	Hasta 3 meses
-Junio 2020	44	Teruel	Hombres	778	2	De 3 a 6 meses
-Junio 2020	44	Teruel	Hombres	470	3	De 6 a 12 meses
-Junio 2020	44	Teruel	Hombres	289	4	De 1 a 2 años
-Junio 2020	44	Teruel	Hombres	100	5	De 2 a 3 años
-Junio 2020	44	Teruel	Hombres	234	6	Más de 3 años
-Junio 2020	44	Teruel	Mujeres	853	1	Hasta 3 meses
-Junio 2020	44	Teruel	Mujeres	947	2	De 3 a 6 meses
-Junio 2020	44	Teruel	Mujeres	778	3	De 6 a 12 meses
-Junio 2020	44	Teruel	Mujeres	490	4	De 1 a 2 años
-Junio 2020	44	Teruel	Mujeres	178	5	De 2 a 3 años
-Junio 2020	44	Teruel	Mujeres	433	6	Más de 3 años
-Junio 2020	50	Zaragoza	Hombres	7097	1	Hasta 3 meses
-Junio 2020	50	Zaragoza	Hombres	6555	2	De 3 a 6 meses
-Junio 2020	50	Zaragoza	Hombres	4626	3	De 6 a 12 meses
-Junio 2020	50	Zaragoza	Hombres	2761	4	De 1 a 2 años
-Junio 2020	50	Zaragoza	Hombres	1073	5	De 2 a 3 años
-Junio 2020	50	Zaragoza	Hombres	2795	6	Más de 3 años
-Junio 2020	50	Zaragoza	Mujeres	6696	1	Hasta 3 meses
-Junio 2020	50	Zaragoza	Mujeres	8303	2	De 3 a 6 meses
-Junio 2020	50	Zaragoza	Mujeres	6771	3	De 6 a 12 meses
-Junio 2020	50	Zaragoza	Mujeres	5064	4	De 1 a 2 años
-Junio 2020	50	Zaragoza	Mujeres	2361	5	De 2 a 3 años
-Junio 2020	50	Zaragoza	Mujeres	5958	6	Más de 3 años
-Mayo 2020	22	Huesca	Hombres	1684	1	Hasta 3 meses
-Mayo 2020	22	Huesca	Hombres	1056	2	De 3 a 6 meses
-Mayo 2020	22	Huesca	Hombres	703	3	De 6 a 12 meses
-Mayo 2020	22	Huesca	Hombres	390	4	De 1 a 2 años
-Mayo 2020	22	Huesca	Hombres	131	5	De 2 a 3 años
-Mayo 2020	22	Huesca	Hombres	354	6	Más de 3 años
-Mayo 2020	22	Huesca	Mujeres	1749	1	Hasta 3 meses
-Mayo 2020	22	Huesca	Mujeres	1342	2	De 3 a 6 meses
-Mayo 2020	22	Huesca	Mujeres	1131	3	De 6 a 12 meses
-Mayo 2020	22	Huesca	Mujeres	718	4	De 1 a 2 años
-Mayo 2020	22	Huesca	Mujeres	277	5	De 2 a 3 años
-Mayo 2020	22	Huesca	Mujeres	614	6	Más de 3 años
-Mayo 2020	44	Teruel	Hombres	1145	1	Hasta 3 meses
-Mayo 2020	44	Teruel	Hombres	646	2	De 3 a 6 meses
-Mayo 2020	44	Teruel	Hombres	455	3	De 6 a 12 meses
-Mayo 2020	44	Teruel	Hombres	297	4	De 1 a 2 años
-Mayo 2020	44	Teruel	Hombres	93	5	De 2 a 3 años
-Mayo 2020	44	Teruel	Hombres	241	6	Más de 3 años
-Mayo 2020	44	Teruel	Mujeres	990	1	Hasta 3 meses
-Mayo 2020	44	Teruel	Mujeres	848	2	De 3 a 6 meses
-Mayo 2020	44	Teruel	Mujeres	736	3	De 6 a 12 meses
-Mayo 2020	44	Teruel	Mujeres	461	4	De 1 a 2 años
-Mayo 2020	44	Teruel	Mujeres	179	5	De 2 a 3 años
-Mayo 2020	44	Teruel	Mujeres	427	6	Más de 3 años
-Mayo 2020	50	Zaragoza	Hombres	9344	1	Hasta 3 meses
-Mayo 2020	50	Zaragoza	Hombres	5865	2	De 3 a 6 meses
-Mayo 2020	50	Zaragoza	Hombres	4301	3	De 6 a 12 meses
-Mayo 2020	50	Zaragoza	Hombres	2671	4	De 1 a 2 años
-Mayo 2020	50	Zaragoza	Hombres	1024	5	De 2 a 3 años
-Mayo 2020	50	Zaragoza	Hombres	2761	6	Más de 3 años
-Mayo 2020	50	Zaragoza	Mujeres	8918	1	Hasta 3 meses
-Mayo 2020	50	Zaragoza	Mujeres	7502	2	De 3 a 6 meses
-Mayo 2020	50	Zaragoza	Mujeres	6437	3	De 6 a 12 meses
-Mayo 2020	50	Zaragoza	Mujeres	4845	4	De 1 a 2 años
-Mayo 2020	50	Zaragoza	Mujeres	2303	5	De 2 a 3 años
-Mayo 2020	50	Zaragoza	Mujeres	5891	6	Más de 3 años
-Abril 2020	22	Huesca	Hombres	2147	1	Hasta 3 meses
-Abril 2020	22	Huesca	Hombres	870	2	De 3 a 6 meses
-Abril 2020	22	Huesca	Hombres	620	3	De 6 a 12 meses
-Abril 2020	22	Huesca	Hombres	377	4	De 1 a 2 años
-Abril 2020	22	Huesca	Hombres	123	5	De 2 a 3 años
-Abril 2020	22	Huesca	Hombres	348	6	Más de 3 años
-Abril 2020	22	Huesca	Mujeres	2199	1	Hasta 3 meses
-Abril 2020	22	Huesca	Mujeres	1092	2	De 3 a 6 meses
-Abril 2020	22	Huesca	Mujeres	1066	3	De 6 a 12 meses
-Abril 2020	22	Huesca	Mujeres	660	4	De 1 a 2 años
-Abril 2020	22	Huesca	Mujeres	256	5	De 2 a 3 años
-Abril 2020	22	Huesca	Mujeres	596	6	Más de 3 años
-Abril 2020	44	Teruel	Hombres	1394	1	Hasta 3 meses
-Abril 2020	44	Teruel	Hombres	536	2	De 3 a 6 meses
-Abril 2020	44	Teruel	Hombres	406	3	De 6 a 12 meses
-Abril 2020	44	Teruel	Hombres	296	4	De 1 a 2 años
-Abril 2020	44	Teruel	Hombres	86	5	De 2 a 3 años
-Abril 2020	44	Teruel	Hombres	239	6	Más de 3 años
-Abril 2020	44	Teruel	Mujeres	1225	1	Hasta 3 meses
-Abril 2020	44	Teruel	Mujeres	723	2	De 3 a 6 meses
-Abril 2020	44	Teruel	Mujeres	615	3	De 6 a 12 meses
-Abril 2020	44	Teruel	Mujeres	405	4	De 1 a 2 años
-Abril 2020	44	Teruel	Mujeres	173	5	De 2 a 3 años
-Abril 2020	44	Teruel	Mujeres	421	6	Más de 3 años
-Abril 2020	50	Zaragoza	Hombres	11815	1	Hasta 3 meses
-Abril 2020	50	Zaragoza	Hombres	4719	2	De 3 a 6 meses
-Abril 2020	50	Zaragoza	Hombres	3811	3	De 6 a 12 meses
-Abril 2020	50	Zaragoza	Hombres	2491	4	De 1 a 2 años
-Abril 2020	50	Zaragoza	Hombres	974	5	De 2 a 3 años
-Abril 2020	50	Zaragoza	Hombres	2672	6	Más de 3 años
-Abril 2020	50	Zaragoza	Mujeres	11562	1	Hasta 3 meses
-Abril 2020	50	Zaragoza	Mujeres	5966	2	De 3 a 6 meses
-Abril 2020	50	Zaragoza	Mujeres	5796	3	De 6 a 12 meses
-Abril 2020	50	Zaragoza	Mujeres	4580	4	De 1 a 2 años
-Abril 2020	50	Zaragoza	Mujeres	2200	5	De 2 a 3 años
-Abril 2020	50	Zaragoza	Mujeres	5755	6	Más de 3 años
-Marzo 2020	22	Huesca	Hombres	2167	1	Hasta 3 meses
-Marzo 2020	22	Huesca	Hombres	673	2	De 3 a 6 meses
-Marzo 2020	22	Huesca	Hombres	491	3	De 6 a 12 meses
-Marzo 2020	22	Huesca	Hombres	337	4	De 1 a 2 años
-Marzo 2020	22	Huesca	Hombres	117	5	De 2 a 3 años
-Marzo 2020	22	Huesca	Hombres	337	6	Más de 3 años
-Marzo 2020	22	Huesca	Mujeres	2315	1	Hasta 3 meses
-Marzo 2020	22	Huesca	Mujeres	893	2	De 3 a 6 meses
-Marzo 2020	22	Huesca	Mujeres	832	3	De 6 a 12 meses
-Marzo 2020	22	Huesca	Mujeres	620	4	De 1 a 2 años
-Marzo 2020	22	Huesca	Mujeres	240	5	De 2 a 3 años
-Marzo 2020	22	Huesca	Mujeres	581	6	Más de 3 años
-Marzo 2020	44	Teruel	Hombres	1320	1	Hasta 3 meses
-Marzo 2020	44	Teruel	Hombres	436	2	De 3 a 6 meses
-Marzo 2020	44	Teruel	Hombres	314	3	De 6 a 12 meses
-Marzo 2020	44	Teruel	Hombres	272	4	De 1 a 2 años
-Marzo 2020	44	Teruel	Hombres	81	5	De 2 a 3 años
-Marzo 2020	44	Teruel	Hombres	230	6	Más de 3 años
-Marzo 2020	44	Teruel	Mujeres	1339	1	Hasta 3 meses
-Marzo 2020	44	Teruel	Mujeres	584	2	De 3 a 6 meses
-Marzo 2020	44	Teruel	Mujeres	500	3	De 6 a 12 meses
-Marzo 2020	44	Teruel	Mujeres	377	4	De 1 a 2 años
-Marzo 2020	44	Teruel	Mujeres	156	5	De 2 a 3 años
-Marzo 2020	44	Teruel	Mujeres	413	6	Más de 3 años
-Marzo 2020	50	Zaragoza	Hombres	10758	1	Hasta 3 meses
-Marzo 2020	50	Zaragoza	Hombres	3776	2	De 3 a 6 meses
-Marzo 2020	50	Zaragoza	Hombres	3006	3	De 6 a 12 meses
-Marzo 2020	50	Zaragoza	Hombres	2307	4	De 1 a 2 años
-Marzo 2020	50	Zaragoza	Hombres	931	5	De 2 a 3 años
-Marzo 2020	50	Zaragoza	Hombres	2594	6	Más de 3 años
-Marzo 2020	50	Zaragoza	Mujeres	11908	1	Hasta 3 meses
-Marzo 2020	50	Zaragoza	Mujeres	4744	2	De 3 a 6 meses
-Marzo 2020	50	Zaragoza	Mujeres	4770	3	De 6 a 12 meses
-Marzo 2020	50	Zaragoza	Mujeres	4315	4	De 1 a 2 años
-Marzo 2020	50	Zaragoza	Mujeres	2115	5	De 2 a 3 años
-Marzo 2020	50	Zaragoza	Mujeres	5632	6	Más de 3 años
-Febrero 2020	22	Huesca	Hombres	1708	1	Hasta 3 meses
-Febrero 2020	22	Huesca	Hombres	676	2	De 3 a 6 meses
-Febrero 2020	22	Huesca	Hombres	410	3	De 6 a 12 meses
-Febrero 2020	22	Huesca	Hombres	306	4	De 1 a 2 años
-Febrero 2020	22	Huesca	Hombres	114	5	De 2 a 3 años
-Febrero 2020	22	Huesca	Hombres	340	6	Más de 3 años
-Febrero 2020	22	Huesca	Mujeres	1944	1	Hasta 3 meses
-Febrero 2020	22	Huesca	Mujeres	1026	2	De 3 a 6 meses
-Febrero 2020	22	Huesca	Mujeres	684	3	De 6 a 12 meses
-Febrero 2020	22	Huesca	Mujeres	593	4	De 1 a 2 años
-Febrero 2020	22	Huesca	Mujeres	234	5	De 2 a 3 años
-Febrero 2020	22	Huesca	Mujeres	581	6	Más de 3 años
-Febrero 2020	44	Teruel	Hombres	1025	1	Hasta 3 meses
-Febrero 2020	44	Teruel	Hombres	457	2	De 3 a 6 meses
-Febrero 2020	44	Teruel	Hombres	283	3	De 6 a 12 meses
-Febrero 2020	44	Teruel	Hombres	257	4	De 1 a 2 años
-Febrero 2020	44	Teruel	Hombres	77	5	De 2 a 3 años
-Febrero 2020	44	Teruel	Hombres	232	6	Más de 3 años
-Febrero 2020	44	Teruel	Mujeres	1261	1	Hasta 3 meses
-Febrero 2020	44	Teruel	Mujeres	655	2	De 3 a 6 meses
-Febrero 2020	44	Teruel	Mujeres	399	3	De 6 a 12 meses
-Febrero 2020	44	Teruel	Mujeres	377	4	De 1 a 2 años
-Febrero 2020	44	Teruel	Mujeres	155	5	De 2 a 3 años
-Febrero 2020	44	Teruel	Mujeres	412	6	Más de 3 años
-Febrero 2020	50	Zaragoza	Hombres	8948	1	Hasta 3 meses
-Febrero 2020	50	Zaragoza	Hombres	3744	2	De 3 a 6 meses
-Febrero 2020	50	Zaragoza	Hombres	2591	3	De 6 a 12 meses
-Febrero 2020	50	Zaragoza	Hombres	2241	4	De 1 a 2 años
-Febrero 2020	50	Zaragoza	Hombres	921	5	De 2 a 3 años
-Febrero 2020	50	Zaragoza	Hombres	2566	6	Más de 3 años
-Febrero 2020	50	Zaragoza	Mujeres	10767	1	Hasta 3 meses
-Febrero 2020	50	Zaragoza	Mujeres	5088	2	De 3 a 6 meses
-Febrero 2020	50	Zaragoza	Mujeres	4034	3	De 6 a 12 meses
-Febrero 2020	50	Zaragoza	Mujeres	4208	4	De 1 a 2 años
-Febrero 2020	50	Zaragoza	Mujeres	2084	5	De 2 a 3 años
-Febrero 2020	50	Zaragoza	Mujeres	5574	6	Más de 3 años
-Enero 2020	22	Huesca	Hombres	1855	1	Hasta 3 meses
-Enero 2020	22	Huesca	Hombres	633	2	De 3 a 6 meses
-Enero 2020	22	Huesca	Hombres	427	3	De 6 a 12 meses
-Enero 2020	22	Huesca	Hombres	295	4	De 1 a 2 años
-Enero 2020	22	Huesca	Hombres	121	5	De 2 a 3 años
-Enero 2020	22	Huesca	Hombres	340	6	Más de 3 años
-Enero 2020	22	Huesca	Mujeres	2098	1	Hasta 3 meses
-Enero 2020	22	Huesca	Mujeres	967	2	De 3 a 6 meses
-Enero 2020	22	Huesca	Mujeres	693	3	De 6 a 12 meses
-Enero 2020	22	Huesca	Mujeres	574	4	De 1 a 2 años
-Enero 2020	22	Huesca	Mujeres	242	5	De 2 a 3 años
-Enero 2020	22	Huesca	Mujeres	592	6	Más de 3 años
-Enero 2020	44	Teruel	Hombres	1176	1	Hasta 3 meses
-Enero 2020	44	Teruel	Hombres	459	2	De 3 a 6 meses
-Enero 2020	44	Teruel	Hombres	278	3	De 6 a 12 meses
-Enero 2020	44	Teruel	Hombres	259	4	De 1 a 2 años
-Enero 2020	44	Teruel	Hombres	86	5	De 2 a 3 años
-Enero 2020	44	Teruel	Hombres	231	6	Más de 3 años
-Enero 2020	44	Teruel	Mujeres	1413	1	Hasta 3 meses
-Enero 2020	44	Teruel	Mujeres	609	2	De 3 a 6 meses
-Enero 2020	44	Teruel	Mujeres	410	3	De 6 a 12 meses
-Enero 2020	44	Teruel	Mujeres	391	4	De 1 a 2 años
-Enero 2020	44	Teruel	Mujeres	156	5	De 2 a 3 años
-Enero 2020	44	Teruel	Mujeres	422	6	Más de 3 años
-Enero 2020	50	Zaragoza	Hombres	9440	1	Hasta 3 meses
-Enero 2020	50	Zaragoza	Hombres	3515	2	De 3 a 6 meses
-Enero 2020	50	Zaragoza	Hombres	2494	3	De 6 a 12 meses
-Enero 2020	50	Zaragoza	Hombres	2241	4	De 1 a 2 años
-Enero 2020	50	Zaragoza	Hombres	922	5	De 2 a 3 años
-Enero 2020	50	Zaragoza	Hombres	2585	6	Más de 3 años
-Enero 2020	50	Zaragoza	Mujeres	10854	1	Hasta 3 meses
-Enero 2020	50	Zaragoza	Mujeres	4919	2	De 3 a 6 meses
-Enero 2020	50	Zaragoza	Mujeres	4030	3	De 6 a 12 meses
-Enero 2020	50	Zaragoza	Mujeres	4204	4	De 1 a 2 años
-Enero 2020	50	Zaragoza	Mujeres	2092	5	De 2 a 3 años
-Enero 2020	50	Zaragoza	Mujeres	5612	6	Más de 3 años
-Diciembre 2019	22	Huesca	Hombres	1792	1	Hasta 3 meses
-Diciembre 2019	22	Huesca	Hombres	540	2	De 3 a 6 meses
-Diciembre 2019	22	Huesca	Hombres	415	3	De 6 a 12 meses
-Diciembre 2019	22	Huesca	Hombres	279	4	De 1 a 2 años
-Diciembre 2019	22	Huesca	Hombres	118	5	De 2 a 3 años
-Diciembre 2019	22	Huesca	Hombres	350	6	Más de 3 años
-Diciembre 2019	22	Huesca	Mujeres	1989	1	Hasta 3 meses
-Diciembre 2019	22	Huesca	Mujeres	783	2	De 3 a 6 meses
-Diciembre 2019	22	Huesca	Mujeres	674	3	De 6 a 12 meses
-Diciembre 2019	22	Huesca	Mujeres	530	4	De 1 a 2 años
-Diciembre 2019	22	Huesca	Mujeres	238	5	De 2 a 3 años
-Diciembre 2019	22	Huesca	Mujeres	587	6	Más de 3 años
-Diciembre 2019	44	Teruel	Hombres	1245	1	Hasta 3 meses
-Diciembre 2019	44	Teruel	Hombres	360	2	De 3 a 6 meses
-Diciembre 2019	44	Teruel	Hombres	301	3	De 6 a 12 meses
-Diciembre 2019	44	Teruel	Hombres	207	4	De 1 a 2 años
-Diciembre 2019	44	Teruel	Hombres	80	5	De 2 a 3 años
-Diciembre 2019	44	Teruel	Hombres	231	6	Más de 3 años
-Diciembre 2019	44	Teruel	Mujeres	1348	1	Hasta 3 meses
-Diciembre 2019	44	Teruel	Mujeres	507	2	De 3 a 6 meses
-Diciembre 2019	44	Teruel	Mujeres	405	3	De 6 a 12 meses
-Diciembre 2019	44	Teruel	Mujeres	380	4	De 1 a 2 años
-Diciembre 2019	44	Teruel	Mujeres	156	5	De 2 a 3 años
-Diciembre 2019	44	Teruel	Mujeres	420	6	Más de 3 años
-Diciembre 2019	50	Zaragoza	Hombres	9732	1	Hasta 3 meses
-Diciembre 2019	50	Zaragoza	Hombres	3023	2	De 3 a 6 meses
-Diciembre 2019	50	Zaragoza	Hombres	2333	3	De 6 a 12 meses
-Diciembre 2019	50	Zaragoza	Hombres	2211	4	De 1 a 2 años
-Diciembre 2019	50	Zaragoza	Hombres	921	5	De 2 a 3 años
-Diciembre 2019	50	Zaragoza	Hombres	2584	6	Más de 3 años
-Diciembre 2019	50	Zaragoza	Mujeres	10112	1	Hasta 3 meses
-Diciembre 2019	50	Zaragoza	Mujeres	4366	2	De 3 a 6 meses
-Diciembre 2019	50	Zaragoza	Mujeres	3921	3	De 6 a 12 meses
-Diciembre 2019	50	Zaragoza	Mujeres	4070	4	De 1 a 2 años
-Diciembre 2019	50	Zaragoza	Mujeres	2046	5	De 2 a 3 años
-Diciembre 2019	50	Zaragoza	Mujeres	5602	6	Más de 3 años
-Noviembre 2019	22	Huesca	Hombres	1949	1	Hasta 3 meses
-Noviembre 2019	22	Huesca	Hombres	461	2	De 3 a 6 meses
-Noviembre 2019	22	Huesca	Hombres	391	3	De 6 a 12 meses
-Noviembre 2019	22	Huesca	Hombres	290	4	De 1 a 2 años
-Noviembre 2019	22	Huesca	Hombres	115	5	De 2 a 3 años
-Noviembre 2019	22	Huesca	Hombres	363	6	Más de 3 años
-Noviembre 2019	22	Huesca	Mujeres	2453	1	Hasta 3 meses
-Noviembre 2019	22	Huesca	Mujeres	656	2	De 3 a 6 meses
-Noviembre 2019	22	Huesca	Mujeres	625	3	De 6 a 12 meses
-Noviembre 2019	22	Huesca	Mujeres	527	4	De 1 a 2 años
-Noviembre 2019	22	Huesca	Mujeres	247	5	De 2 a 3 años
-Noviembre 2019	22	Huesca	Mujeres	585	6	Más de 3 años
-Noviembre 2019	44	Teruel	Hombres	1261	1	Hasta 3 meses
-Noviembre 2019	44	Teruel	Hombres	323	2	De 3 a 6 meses
-Noviembre 2019	44	Teruel	Hombres	283	3	De 6 a 12 meses
-Noviembre 2019	44	Teruel	Hombres	206	4	De 1 a 2 años
-Noviembre 2019	44	Teruel	Hombres	80	5	De 2 a 3 años
-Noviembre 2019	44	Teruel	Hombres	233	6	Más de 3 años
-Noviembre 2019	44	Teruel	Mujeres	1593	1	Hasta 3 meses
-Noviembre 2019	44	Teruel	Mujeres	384	2	De 3 a 6 meses
-Noviembre 2019	44	Teruel	Mujeres	393	3	De 6 a 12 meses
-Noviembre 2019	44	Teruel	Mujeres	388	4	De 1 a 2 años
-Noviembre 2019	44	Teruel	Mujeres	158	5	De 2 a 3 años
-Noviembre 2019	44	Teruel	Mujeres	433	6	Más de 3 años
-Noviembre 2019	50	Zaragoza	Hombres	9670	1	Hasta 3 meses
-Noviembre 2019	50	Zaragoza	Hombres	2597	2	De 3 a 6 meses
-Noviembre 2019	50	Zaragoza	Hombres	2274	3	De 6 a 12 meses
-Noviembre 2019	50	Zaragoza	Hombres	2208	4	De 1 a 2 años
-Noviembre 2019	50	Zaragoza	Hombres	893	5	De 2 a 3 años
-Noviembre 2019	50	Zaragoza	Hombres	2595	6	Más de 3 años
-Noviembre 2019	50	Zaragoza	Mujeres	11407	1	Hasta 3 meses
-Noviembre 2019	50	Zaragoza	Mujeres	3611	2	De 3 a 6 meses
-Noviembre 2019	50	Zaragoza	Mujeres	3798	3	De 6 a 12 meses
-Noviembre 2019	50	Zaragoza	Mujeres	4121	4	De 1 a 2 años
-Noviembre 2019	50	Zaragoza	Mujeres	2029	5	De 2 a 3 años
-Noviembre 2019	50	Zaragoza	Mujeres	5623	6	Más de 3 años
-Octubre 2019	22	Huesca	Hombres	2008	1	Hasta 3 meses
-Octubre 2019	22	Huesca	Hombres	465	2	De 3 a 6 meses
-Octubre 2019	22	Huesca	Hombres	393	3	De 6 a 12 meses
-Octubre 2019	22	Huesca	Hombres	299	4	De 1 a 2 años
-Octubre 2019	22	Huesca	Hombres	114	5	De 2 a 3 años
-Octubre 2019	22	Huesca	Hombres	366	6	Más de 3 años
-Octubre 2019	22	Huesca	Mujeres	2448	1	Hasta 3 meses
-Octubre 2019	22	Huesca	Mujeres	670	2	De 3 a 6 meses
-Octubre 2019	22	Huesca	Mujeres	578	3	De 6 a 12 meses
-Octubre 2019	22	Huesca	Mujeres	545	4	De 1 a 2 años
-Octubre 2019	22	Huesca	Mujeres	250	5	De 2 a 3 años
-Octubre 2019	22	Huesca	Mujeres	589	6	Más de 3 años
-Octubre 2019	44	Teruel	Hombres	1294	1	Hasta 3 meses
-Octubre 2019	44	Teruel	Hombres	272	2	De 3 a 6 meses
-Octubre 2019	44	Teruel	Hombres	291	3	De 6 a 12 meses
-Octubre 2019	44	Teruel	Hombres	209	4	De 1 a 2 años
-Octubre 2019	44	Teruel	Hombres	81	5	De 2 a 3 años
-Octubre 2019	44	Teruel	Hombres	233	6	Más de 3 años
-Octubre 2019	44	Teruel	Mujeres	1502	1	Hasta 3 meses
-Octubre 2019	44	Teruel	Mujeres	362	2	De 3 a 6 meses
-Octubre 2019	44	Teruel	Mujeres	384	3	De 6 a 12 meses
-Octubre 2019	44	Teruel	Mujeres	389	4	De 1 a 2 años
-Octubre 2019	44	Teruel	Mujeres	147	5	De 2 a 3 años
-Octubre 2019	44	Teruel	Mujeres	440	6	Más de 3 años
-Octubre 2019	50	Zaragoza	Hombres	9679	1	Hasta 3 meses
-Octubre 2019	50	Zaragoza	Hombres	2594	2	De 3 a 6 meses
-Octubre 2019	50	Zaragoza	Hombres	2241	3	De 6 a 12 meses
-Octubre 2019	50	Zaragoza	Hombres	2225	4	De 1 a 2 años
-Octubre 2019	50	Zaragoza	Hombres	895	5	De 2 a 3 años
-Octubre 2019	50	Zaragoza	Hombres	2615	6	Más de 3 años
-Octubre 2019	50	Zaragoza	Mujeres	11507	1	Hasta 3 meses
-Octubre 2019	50	Zaragoza	Mujeres	3498	2	De 3 a 6 meses
-Octubre 2019	50	Zaragoza	Mujeres	3825	3	De 6 a 12 meses
-Octubre 2019	50	Zaragoza	Mujeres	4108	4	De 1 a 2 años
-Octubre 2019	50	Zaragoza	Mujeres	2063	5	De 2 a 3 años
-Octubre 2019	50	Zaragoza	Mujeres	5656	6	Más de 3 años
-Septiembre 2019	22	Huesca	Hombres	1814	1	Hasta 3 meses
-Septiembre 2019	22	Huesca	Hombres	456	2	De 3 a 6 meses
-Septiembre 2019	22	Huesca	Hombres	394	3	De 6 a 12 meses
-Septiembre 2019	22	Huesca	Hombres	301	4	De 1 a 2 años
-Septiembre 2019	22	Huesca	Hombres	121	5	De 2 a 3 años
-Septiembre 2019	22	Huesca	Hombres	375	6	Más de 3 años
-Septiembre 2019	22	Huesca	Mujeres	2115	1	Hasta 3 meses
-Septiembre 2019	22	Huesca	Mujeres	610	2	De 3 a 6 meses
-Septiembre 2019	22	Huesca	Mujeres	614	3	De 6 a 12 meses
-Septiembre 2019	22	Huesca	Mujeres	533	4	De 1 a 2 años
-Septiembre 2019	22	Huesca	Mujeres	233	5	De 2 a 3 años
-Septiembre 2019	22	Huesca	Mujeres	602	6	Más de 3 años
-Septiembre 2019	44	Teruel	Hombres	1099	1	Hasta 3 meses
-Septiembre 2019	44	Teruel	Hombres	253	2	De 3 a 6 meses
-Septiembre 2019	44	Teruel	Hombres	279	3	De 6 a 12 meses
-Septiembre 2019	44	Teruel	Hombres	194	4	De 1 a 2 años
-Septiembre 2019	44	Teruel	Hombres	82	5	De 2 a 3 años
-Septiembre 2019	44	Teruel	Hombres	237	6	Más de 3 años
-Septiembre 2019	44	Teruel	Mujeres	1278	1	Hasta 3 meses
-Septiembre 2019	44	Teruel	Mujeres	350	2	De 3 a 6 meses
-Septiembre 2019	44	Teruel	Mujeres	413	3	De 6 a 12 meses
-Septiembre 2019	44	Teruel	Mujeres	367	4	De 1 a 2 años
-Septiembre 2019	44	Teruel	Mujeres	144	5	De 2 a 3 años
-Septiembre 2019	44	Teruel	Mujeres	447	6	Más de 3 años
-Septiembre 2019	50	Zaragoza	Hombres	8825	1	Hasta 3 meses
-Septiembre 2019	50	Zaragoza	Hombres	2453	2	De 3 a 6 meses
-Septiembre 2019	50	Zaragoza	Hombres	2437	3	De 6 a 12 meses
-Septiembre 2019	50	Zaragoza	Hombres	2200	4	De 1 a 2 años
-Septiembre 2019	50	Zaragoza	Hombres	913	5	De 2 a 3 años
-Septiembre 2019	50	Zaragoza	Hombres	2648	6	Más de 3 años
-Septiembre 2019	50	Zaragoza	Mujeres	10564	1	Hasta 3 meses
-Septiembre 2019	50	Zaragoza	Mujeres	3316	2	De 3 a 6 meses
-Septiembre 2019	50	Zaragoza	Mujeres	4235	3	De 6 a 12 meses
-Septiembre 2019	50	Zaragoza	Mujeres	4140	4	De 1 a 2 años
-Septiembre 2019	50	Zaragoza	Mujeres	2095	5	De 2 a 3 años
-Septiembre 2019	50	Zaragoza	Mujeres	5726	6	Más de 3 años
-Agosto 2019	22	Huesca	Hombres	1519	1	Hasta 3 meses
-Agosto 2019	22	Huesca	Hombres	418	2	De 3 a 6 meses
-Agosto 2019	22	Huesca	Hombres	413	3	De 6 a 12 meses
-Agosto 2019	22	Huesca	Hombres	293	4	De 1 a 2 años
-Agosto 2019	22	Huesca	Hombres	124	5	De 2 a 3 años
-Agosto 2019	22	Huesca	Hombres	366	6	Más de 3 años
-Agosto 2019	22	Huesca	Mujeres	1888	1	Hasta 3 meses
-Agosto 2019	22	Huesca	Mujeres	584	2	De 3 a 6 meses
-Agosto 2019	22	Huesca	Mujeres	651	3	De 6 a 12 meses
-Agosto 2019	22	Huesca	Mujeres	519	4	De 1 a 2 años
-Agosto 2019	22	Huesca	Mujeres	233	5	De 2 a 3 años
-Agosto 2019	22	Huesca	Mujeres	605	6	Más de 3 años
-Agosto 2019	44	Teruel	Hombres	996	1	Hasta 3 meses
-Agosto 2019	44	Teruel	Hombres	263	2	De 3 a 6 meses
-Agosto 2019	44	Teruel	Hombres	291	3	De 6 a 12 meses
-Agosto 2019	44	Teruel	Hombres	208	4	De 1 a 2 años
-Agosto 2019	44	Teruel	Hombres	65	5	De 2 a 3 años
-Agosto 2019	44	Teruel	Hombres	240	6	Más de 3 años
-Agosto 2019	44	Teruel	Mujeres	1082	1	Hasta 3 meses
-Agosto 2019	44	Teruel	Mujeres	366	2	De 3 a 6 meses
-Agosto 2019	44	Teruel	Mujeres	469	3	De 6 a 12 meses
-Agosto 2019	44	Teruel	Mujeres	341	4	De 1 a 2 años
-Agosto 2019	44	Teruel	Mujeres	143	5	De 2 a 3 años
-Agosto 2019	44	Teruel	Mujeres	452	6	Más de 3 años
-Agosto 2019	50	Zaragoza	Hombres	8506	1	Hasta 3 meses
-Agosto 2019	50	Zaragoza	Hombres	2441	2	De 3 a 6 meses
-Agosto 2019	50	Zaragoza	Hombres	2622	3	De 6 a 12 meses
-Agosto 2019	50	Zaragoza	Hombres	2171	4	De 1 a 2 años
-Agosto 2019	50	Zaragoza	Hombres	873	5	De 2 a 3 años
-Agosto 2019	50	Zaragoza	Hombres	2692	6	Más de 3 años
-Agosto 2019	50	Zaragoza	Mujeres	10023	1	Hasta 3 meses
-Agosto 2019	50	Zaragoza	Mujeres	3299	2	De 3 a 6 meses
-Agosto 2019	50	Zaragoza	Mujeres	4486	3	De 6 a 12 meses
-Agosto 2019	50	Zaragoza	Mujeres	4070	4	De 1 a 2 años
-Agosto 2019	50	Zaragoza	Mujeres	2083	5	De 2 a 3 años
-Agosto 2019	50	Zaragoza	Mujeres	5688	6	Más de 3 años
-Julio 2019	22	Huesca	Hombres	1438	1	Hasta 3 meses
-Julio 2019	22	Huesca	Hombres	417	2	De 3 a 6 meses
-Julio 2019	22	Huesca	Hombres	432	3	De 6 a 12 meses
-Julio 2019	22	Huesca	Hombres	294	4	De 1 a 2 años
-Julio 2019	22	Huesca	Hombres	122	5	De 2 a 3 años
-Julio 2019	22	Huesca	Hombres	374	6	Más de 3 años
-Julio 2019	22	Huesca	Mujeres	1801	1	Hasta 3 meses
-Julio 2019	22	Huesca	Mujeres	557	2	De 3 a 6 meses
-Julio 2019	22	Huesca	Mujeres	635	3	De 6 a 12 meses
-Julio 2019	22	Huesca	Mujeres	536	4	De 1 a 2 años
-Julio 2019	22	Huesca	Mujeres	237	5	De 2 a 3 años
-Julio 2019	22	Huesca	Mujeres	628	6	Más de 3 años
-Julio 2019	44	Teruel	Hombres	906	1	Hasta 3 meses
-Julio 2019	44	Teruel	Hombres	259	2	De 3 a 6 meses
-Julio 2019	44	Teruel	Hombres	321	3	De 6 a 12 meses
-Julio 2019	44	Teruel	Hombres	206	4	De 1 a 2 años
-Julio 2019	44	Teruel	Hombres	70	5	De 2 a 3 años
-Julio 2019	44	Teruel	Hombres	247	6	Más de 3 años
-Julio 2019	44	Teruel	Mujeres	1070	1	Hasta 3 meses
-Julio 2019	44	Teruel	Mujeres	367	2	De 3 a 6 meses
-Julio 2019	44	Teruel	Mujeres	472	3	De 6 a 12 meses
-Julio 2019	44	Teruel	Mujeres	353	4	De 1 a 2 años
-Julio 2019	44	Teruel	Mujeres	147	5	De 2 a 3 años
-Julio 2019	44	Teruel	Mujeres	451	6	Más de 3 años
-Julio 2019	50	Zaragoza	Hombres	8069	1	Hasta 3 meses
-Julio 2019	50	Zaragoza	Hombres	2308	2	De 3 a 6 meses
-Julio 2019	50	Zaragoza	Hombres	2696	3	De 6 a 12 meses
-Julio 2019	50	Zaragoza	Hombres	2135	4	De 1 a 2 años
-Julio 2019	50	Zaragoza	Hombres	857	5	De 2 a 3 años
-Julio 2019	50	Zaragoza	Hombres	2718	6	Más de 3 años
-Julio 2019	50	Zaragoza	Mujeres	9629	1	Hasta 3 meses
-Julio 2019	50	Zaragoza	Mujeres	3390	2	De 3 a 6 meses
-Julio 2019	50	Zaragoza	Mujeres	4487	3	De 6 a 12 meses
-Julio 2019	50	Zaragoza	Mujeres	4025	4	De 1 a 2 años
-Julio 2019	50	Zaragoza	Mujeres	2085	5	De 2 a 3 años
-Julio 2019	50	Zaragoza	Mujeres	5715	6	Más de 3 años
-Junio 2019	22	Huesca	Hombres	1406	1	Hasta 3 meses
-Junio 2019	22	Huesca	Hombres	476	2	De 3 a 6 meses
-Junio 2019	22	Huesca	Hombres	422	3	De 6 a 12 meses
-Junio 2019	22	Huesca	Hombres	297	4	De 1 a 2 años
-Junio 2019	22	Huesca	Hombres	132	5	De 2 a 3 años
-Junio 2019	22	Huesca	Hombres	378	6	Más de 3 años
-Junio 2019	22	Huesca	Mujeres	1695	1	Hasta 3 meses
-Junio 2019	22	Huesca	Mujeres	641	2	De 3 a 6 meses
-Junio 2019	22	Huesca	Mujeres	666	3	De 6 a 12 meses
-Junio 2019	22	Huesca	Mujeres	537	4	De 1 a 2 años
-Junio 2019	22	Huesca	Mujeres	237	5	De 2 a 3 años
-Junio 2019	22	Huesca	Mujeres	649	6	Más de 3 años
-Junio 2019	44	Teruel	Hombres	929	1	Hasta 3 meses
-Junio 2019	44	Teruel	Hombres	320	2	De 3 a 6 meses
-Junio 2019	44	Teruel	Hombres	290	3	De 6 a 12 meses
-Junio 2019	44	Teruel	Hombres	199	4	De 1 a 2 años
-Junio 2019	44	Teruel	Hombres	69	5	De 2 a 3 años
-Junio 2019	44	Teruel	Hombres	246	6	Más de 3 años
-Junio 2019	44	Teruel	Mujeres	1061	1	Hasta 3 meses
-Junio 2019	44	Teruel	Mujeres	391	2	De 3 a 6 meses
-Junio 2019	44	Teruel	Mujeres	499	3	De 6 a 12 meses
-Junio 2019	44	Teruel	Mujeres	356	4	De 1 a 2 años
-Junio 2019	44	Teruel	Mujeres	158	5	De 2 a 3 años
-Junio 2019	44	Teruel	Mujeres	452	6	Más de 3 años
-Junio 2019	50	Zaragoza	Hombres	7320	1	Hasta 3 meses
-Junio 2019	50	Zaragoza	Hombres	2564	2	De 3 a 6 meses
-Junio 2019	50	Zaragoza	Hombres	2637	3	De 6 a 12 meses
-Junio 2019	50	Zaragoza	Hombres	2112	4	De 1 a 2 años
-Junio 2019	50	Zaragoza	Hombres	839	5	De 2 a 3 años
-Junio 2019	50	Zaragoza	Hombres	2724	6	Más de 3 años
-Junio 2019	50	Zaragoza	Mujeres	8549	1	Hasta 3 meses
-Junio 2019	50	Zaragoza	Mujeres	4079	2	De 3 a 6 meses
-Junio 2019	50	Zaragoza	Mujeres	4329	3	De 6 a 12 meses
-Junio 2019	50	Zaragoza	Mujeres	3983	4	De 1 a 2 años
-Junio 2019	50	Zaragoza	Mujeres	2088	5	De 2 a 3 años
-Junio 2019	50	Zaragoza	Mujeres	5778	6	Más de 3 años
-Mayo 2019	22	Huesca	Hombres	1439	1	Hasta 3 meses
-Mayo 2019	22	Huesca	Hombres	505	2	De 3 a 6 meses
-Mayo 2019	22	Huesca	Hombres	440	3	De 6 a 12 meses
-Mayo 2019	22	Huesca	Hombres	305	4	De 1 a 2 años
-Mayo 2019	22	Huesca	Hombres	132	5	De 2 a 3 años
-Mayo 2019	22	Huesca	Hombres	389	6	Más de 3 años
-Mayo 2019	22	Huesca	Mujeres	1743	1	Hasta 3 meses
-Mayo 2019	22	Huesca	Mujeres	685	2	De 3 a 6 meses
-Mayo 2019	22	Huesca	Mujeres	719	3	De 6 a 12 meses
-Mayo 2019	22	Huesca	Mujeres	554	4	De 1 a 2 años
-Mayo 2019	22	Huesca	Mujeres	234	5	De 2 a 3 años
-Mayo 2019	22	Huesca	Mujeres	663	6	Más de 3 años
-Mayo 2019	44	Teruel	Hombres	850	1	Hasta 3 meses
-Mayo 2019	44	Teruel	Hombres	318	2	De 3 a 6 meses
-Mayo 2019	44	Teruel	Hombres	310	3	De 6 a 12 meses
-Mayo 2019	44	Teruel	Hombres	186	4	De 1 a 2 años
-Mayo 2019	44	Teruel	Hombres	71	5	De 2 a 3 años
-Mayo 2019	44	Teruel	Hombres	244	6	Más de 3 años
-Mayo 2019	44	Teruel	Mujeres	1125	1	Hasta 3 meses
-Mayo 2019	44	Teruel	Mujeres	416	2	De 3 a 6 meses
-Mayo 2019	44	Teruel	Mujeres	550	3	De 6 a 12 meses
-Mayo 2019	44	Teruel	Mujeres	374	4	De 1 a 2 años
-Mayo 2019	44	Teruel	Mujeres	151	5	De 2 a 3 años
-Mayo 2019	44	Teruel	Mujeres	455	6	Más de 3 años
-Mayo 2019	50	Zaragoza	Hombres	7338	1	Hasta 3 meses
-Mayo 2019	50	Zaragoza	Hombres	2769	2	De 3 a 6 meses
-Mayo 2019	50	Zaragoza	Hombres	2872	3	De 6 a 12 meses
-Mayo 2019	50	Zaragoza	Hombres	2022	4	De 1 a 2 años
-Mayo 2019	50	Zaragoza	Hombres	842	5	De 2 a 3 años
-Mayo 2019	50	Zaragoza	Hombres	2754	6	Más de 3 años
-Mayo 2019	50	Zaragoza	Mujeres	8664	1	Hasta 3 meses
-Mayo 2019	50	Zaragoza	Mujeres	4188	2	De 3 a 6 meses
-Mayo 2019	50	Zaragoza	Mujeres	4585	3	De 6 a 12 meses
-Mayo 2019	50	Zaragoza	Mujeres	3970	4	De 1 a 2 años
-Mayo 2019	50	Zaragoza	Mujeres	2061	5	De 2 a 3 años
-Mayo 2019	50	Zaragoza	Mujeres	5808	6	Más de 3 años
-Abril 2019	22	Huesca	Hombres	1552	1	Hasta 3 meses
-Abril 2019	22	Huesca	Hombres	504	2	De 3 a 6 meses
-Abril 2019	22	Huesca	Hombres	442	3	De 6 a 12 meses
-Abril 2019	22	Huesca	Hombres	323	4	De 1 a 2 años
-Abril 2019	22	Huesca	Hombres	130	5	De 2 a 3 años
-Abril 2019	22	Huesca	Hombres	400	6	Más de 3 años
-Abril 2019	22	Huesca	Mujeres	1817	1	Hasta 3 meses
-Abril 2019	22	Huesca	Mujeres	677	2	De 3 a 6 meses
-Abril 2019	22	Huesca	Mujeres	798	3	De 6 a 12 meses
-Abril 2019	22	Huesca	Mujeres	567	4	De 1 a 2 años
-Abril 2019	22	Huesca	Mujeres	237	5	De 2 a 3 años
-Abril 2019	22	Huesca	Mujeres	675	6	Más de 3 años
-Abril 2019	44	Teruel	Hombres	926	1	Hasta 3 meses
-Abril 2019	44	Teruel	Hombres	344	2	De 3 a 6 meses
-Abril 2019	44	Teruel	Hombres	335	3	De 6 a 12 meses
-Abril 2019	44	Teruel	Hombres	194	4	De 1 a 2 años
-Abril 2019	44	Teruel	Hombres	74	5	De 2 a 3 años
-Abril 2019	44	Teruel	Hombres	242	6	Más de 3 años
-Abril 2019	44	Teruel	Mujeres	1206	1	Hasta 3 meses
-Abril 2019	44	Teruel	Mujeres	466	2	De 3 a 6 meses
-Abril 2019	44	Teruel	Mujeres	503	3	De 6 a 12 meses
-Abril 2019	44	Teruel	Mujeres	371	4	De 1 a 2 años
-Abril 2019	44	Teruel	Mujeres	155	5	De 2 a 3 años
-Abril 2019	44	Teruel	Mujeres	464	6	Más de 3 años
-Abril 2019	50	Zaragoza	Hombres	8268	1	Hasta 3 meses
-Abril 2019	50	Zaragoza	Hombres	3116	2	De 3 a 6 meses
-Abril 2019	50	Zaragoza	Hombres	2930	3	De 6 a 12 meses
-Abril 2019	50	Zaragoza	Hombres	2050	4	De 1 a 2 años
-Abril 2019	50	Zaragoza	Hombres	852	5	De 2 a 3 años
-Abril 2019	50	Zaragoza	Hombres	2820	6	Más de 3 años
-Abril 2019	50	Zaragoza	Mujeres	9306	1	Hasta 3 meses
-Abril 2019	50	Zaragoza	Mujeres	4352	2	De 3 a 6 meses
-Abril 2019	50	Zaragoza	Mujeres	4708	3	De 6 a 12 meses
-Abril 2019	50	Zaragoza	Mujeres	4001	4	De 1 a 2 años
-Abril 2019	50	Zaragoza	Mujeres	2068	5	De 2 a 3 años
-Abril 2019	50	Zaragoza	Mujeres	5877	6	Más de 3 años
-Marzo 2019	22	Huesca	Hombres	1623	1	Hasta 3 meses
-Marzo 2019	22	Huesca	Hombres	528	2	De 3 a 6 meses
-Marzo 2019	22	Huesca	Hombres	434	3	De 6 a 12 meses
-Marzo 2019	22	Huesca	Hombres	313	4	De 1 a 2 años
-Marzo 2019	22	Huesca	Hombres	143	5	De 2 a 3 años
-Marzo 2019	22	Huesca	Hombres	396	6	Más de 3 años
-Marzo 2019	22	Huesca	Mujeres	1902	1	Hasta 3 meses
-Marzo 2019	22	Huesca	Mujeres	803	2	De 3 a 6 meses
-Marzo 2019	22	Huesca	Mujeres	701	3	De 6 a 12 meses
-Marzo 2019	22	Huesca	Mujeres	563	4	De 1 a 2 años
-Marzo 2019	22	Huesca	Mujeres	230	5	De 2 a 3 años
-Marzo 2019	22	Huesca	Mujeres	687	6	Más de 3 años
-Marzo 2019	44	Teruel	Hombres	1019	1	Hasta 3 meses
-Marzo 2019	44	Teruel	Hombres	363	2	De 3 a 6 meses
-Marzo 2019	44	Teruel	Hombres	294	3	De 6 a 12 meses
-Marzo 2019	44	Teruel	Hombres	189	4	De 1 a 2 años
-Marzo 2019	44	Teruel	Hombres	76	5	De 2 a 3 años
-Marzo 2019	44	Teruel	Hombres	245	6	Más de 3 años
-Marzo 2019	44	Teruel	Mujeres	1242	1	Hasta 3 meses
-Marzo 2019	44	Teruel	Mujeres	531	2	De 3 a 6 meses
-Marzo 2019	44	Teruel	Mujeres	498	3	De 6 a 12 meses
-Marzo 2019	44	Teruel	Mujeres	364	4	De 1 a 2 años
-Marzo 2019	44	Teruel	Mujeres	155	5	De 2 a 3 años
-Marzo 2019	44	Teruel	Mujeres	473	6	Más de 3 años
-Marzo 2019	50	Zaragoza	Hombres	8850	1	Hasta 3 meses
-Marzo 2019	50	Zaragoza	Hombres	3207	2	De 3 a 6 meses
-Marzo 2019	50	Zaragoza	Hombres	2656	3	De 6 a 12 meses
-Marzo 2019	50	Zaragoza	Hombres	2061	4	De 1 a 2 años
-Marzo 2019	50	Zaragoza	Hombres	854	5	De 2 a 3 años
-Marzo 2019	50	Zaragoza	Hombres	2848	6	Más de 3 años
-Marzo 2019	50	Zaragoza	Mujeres	10495	1	Hasta 3 meses
-Marzo 2019	50	Zaragoza	Mujeres	4281	2	De 3 a 6 meses
-Marzo 2019	50	Zaragoza	Mujeres	4312	3	De 6 a 12 meses
-Marzo 2019	50	Zaragoza	Mujeres	4012	4	De 1 a 2 años
-Marzo 2019	50	Zaragoza	Mujeres	2097	5	De 2 a 3 años
-Marzo 2019	50	Zaragoza	Mujeres	5967	6	Más de 3 años
-Febrero 2019	22	Huesca	Hombres	1727	1	Hasta 3 meses
-Febrero 2019	22	Huesca	Hombres	613	2	De 3 a 6 meses
-Febrero 2019	22	Huesca	Hombres	384	3	De 6 a 12 meses
-Febrero 2019	22	Huesca	Hombres	332	4	De 1 a 2 años
-Febrero 2019	22	Huesca	Hombres	146	5	De 2 a 3 años
-Febrero 2019	22	Huesca	Hombres	397	6	Más de 3 años
-Febrero 2019	22	Huesca	Mujeres	1975	1	Hasta 3 meses
-Febrero 2019	22	Huesca	Mujeres	944	2	De 3 a 6 meses
-Febrero 2019	22	Huesca	Mujeres	617	3	De 6 a 12 meses
-Febrero 2019	22	Huesca	Mujeres	575	4	De 1 a 2 años
-Febrero 2019	22	Huesca	Mujeres	236	5	De 2 a 3 años
-Febrero 2019	22	Huesca	Mujeres	704	6	Más de 3 años
-Febrero 2019	44	Teruel	Hombres	1083	1	Hasta 3 meses
-Febrero 2019	44	Teruel	Hombres	435	2	De 3 a 6 meses
-Febrero 2019	44	Teruel	Hombres	269	3	De 6 a 12 meses
-Febrero 2019	44	Teruel	Hombres	201	4	De 1 a 2 años
-Febrero 2019	44	Teruel	Hombres	77	5	De 2 a 3 años
-Febrero 2019	44	Teruel	Hombres	251	6	Más de 3 años
-Febrero 2019	44	Teruel	Mujeres	1324	1	Hasta 3 meses
-Febrero 2019	44	Teruel	Mujeres	655	2	De 3 a 6 meses
-Febrero 2019	44	Teruel	Mujeres	401	3	De 6 a 12 meses
-Febrero 2019	44	Teruel	Mujeres	381	4	De 1 a 2 años
-Febrero 2019	44	Teruel	Mujeres	160	5	De 2 a 3 años
-Febrero 2019	44	Teruel	Mujeres	482	6	Más de 3 años
-Febrero 2019	50	Zaragoza	Hombres	9121	1	Hasta 3 meses
-Febrero 2019	50	Zaragoza	Hombres	3570	2	De 3 a 6 meses
-Febrero 2019	50	Zaragoza	Hombres	2399	3	De 6 a 12 meses
-Febrero 2019	50	Zaragoza	Hombres	2101	4	De 1 a 2 años
-Febrero 2019	50	Zaragoza	Hombres	861	5	De 2 a 3 años
-Febrero 2019	50	Zaragoza	Hombres	2921	6	Más de 3 años
-Febrero 2019	50	Zaragoza	Mujeres	10669	1	Hasta 3 meses
-Febrero 2019	50	Zaragoza	Mujeres	4910	2	De 3 a 6 meses
-Febrero 2019	50	Zaragoza	Mujeres	3796	3	De 6 a 12 meses
-Febrero 2019	50	Zaragoza	Mujeres	4114	4	De 1 a 2 años
-Febrero 2019	50	Zaragoza	Mujeres	2100	5	De 2 a 3 años
-Febrero 2019	50	Zaragoza	Mujeres	6031	6	Más de 3 años
-Enero 2019	22	Huesca	Hombres	1852	1	Hasta 3 meses
-Enero 2019	22	Huesca	Hombres	646	2	De 3 a 6 meses
-Enero 2019	22	Huesca	Hombres	372	3	De 6 a 12 meses
-Enero 2019	22	Huesca	Hombres	342	4	De 1 a 2 años
-Enero 2019	22	Huesca	Hombres	141	5	De 2 a 3 años
-Enero 2019	22	Huesca	Hombres	408	6	Más de 3 años
-Enero 2019	22	Huesca	Mujeres	2133	1	Hasta 3 meses
-Enero 2019	22	Huesca	Mujeres	978	2	De 3 a 6 meses
-Enero 2019	22	Huesca	Mujeres	647	3	De 6 a 12 meses
-Enero 2019	22	Huesca	Mujeres	605	4	De 1 a 2 años
-Enero 2019	22	Huesca	Mujeres	250	5	De 2 a 3 años
-Enero 2019	22	Huesca	Mujeres	726	6	Más de 3 años
-Enero 2019	44	Teruel	Hombres	1172	1	Hasta 3 meses
-Enero 2019	44	Teruel	Hombres	430	2	De 3 a 6 meses
-Enero 2019	44	Teruel	Hombres	255	3	De 6 a 12 meses
-Enero 2019	44	Teruel	Hombres	217	4	De 1 a 2 años
-Enero 2019	44	Teruel	Hombres	81	5	De 2 a 3 años
-Enero 2019	44	Teruel	Hombres	259	6	Más de 3 años
-Enero 2019	44	Teruel	Mujeres	1446	1	Hasta 3 meses
-Enero 2019	44	Teruel	Mujeres	629	2	De 3 a 6 meses
-Enero 2019	44	Teruel	Mujeres	406	3	De 6 a 12 meses
-Enero 2019	44	Teruel	Mujeres	390	4	De 1 a 2 años
-Enero 2019	44	Teruel	Mujeres	177	5	De 2 a 3 años
-Enero 2019	44	Teruel	Mujeres	491	6	Más de 3 años
-Enero 2019	50	Zaragoza	Hombres	9736	1	Hasta 3 meses
-Enero 2019	50	Zaragoza	Hombres	3521	2	De 3 a 6 meses
-Enero 2019	50	Zaragoza	Hombres	2379	3	De 6 a 12 meses
-Enero 2019	50	Zaragoza	Hombres	2146	4	De 1 a 2 años
-Enero 2019	50	Zaragoza	Hombres	904	5	De 2 a 3 años
-Enero 2019	50	Zaragoza	Hombres	2984	6	Más de 3 años
-Enero 2019	50	Zaragoza	Mujeres	11106	1	Hasta 3 meses
-Enero 2019	50	Zaragoza	Mujeres	4826	2	De 3 a 6 meses
-Enero 2019	50	Zaragoza	Mujeres	3876	3	De 6 a 12 meses
-Enero 2019	50	Zaragoza	Mujeres	4260	4	De 1 a 2 años
-Enero 2019	50	Zaragoza	Mujeres	2095	5	De 2 a 3 años
-Enero 2019	50	Zaragoza	Mujeres	6173	6	Más de 3 años
-Diciembre 2018	22	Huesca	Hombres	1763	1	Hasta 3 meses
-Diciembre 2018	22	Huesca	Hombres	563	2	De 3 a 6 meses
-Diciembre 2018	22	Huesca	Hombres	373	3	De 6 a 12 meses
-Diciembre 2018	22	Huesca	Hombres	341	4	De 1 a 2 años
-Diciembre 2018	22	Huesca	Hombres	140	5	De 2 a 3 años
-Diciembre 2018	22	Huesca	Hombres	417	6	Más de 3 años
-Diciembre 2018	22	Huesca	Mujeres	1969	1	Hasta 3 meses
-Diciembre 2018	22	Huesca	Mujeres	811	2	De 3 a 6 meses
-Diciembre 2018	22	Huesca	Mujeres	616	3	De 6 a 12 meses
-Diciembre 2018	22	Huesca	Mujeres	590	4	De 1 a 2 años
-Diciembre 2018	22	Huesca	Mujeres	252	5	De 2 a 3 años
-Diciembre 2018	22	Huesca	Mujeres	721	6	Más de 3 años
-Diciembre 2018	44	Teruel	Hombres	1182	1	Hasta 3 meses
-Diciembre 2018	44	Teruel	Hombres	371	2	De 3 a 6 meses
-Diciembre 2018	44	Teruel	Hombres	231	3	De 6 a 12 meses
-Diciembre 2018	44	Teruel	Hombres	219	4	De 1 a 2 años
-Diciembre 2018	44	Teruel	Hombres	69	5	De 2 a 3 años
-Diciembre 2018	44	Teruel	Hombres	262	6	Más de 3 años
-Diciembre 2018	44	Teruel	Mujeres	1301	1	Hasta 3 meses
-Diciembre 2018	44	Teruel	Mujeres	546	2	De 3 a 6 meses
-Diciembre 2018	44	Teruel	Mujeres	404	3	De 6 a 12 meses
-Diciembre 2018	44	Teruel	Mujeres	382	4	De 1 a 2 años
-Diciembre 2018	44	Teruel	Mujeres	177	5	De 2 a 3 años
-Diciembre 2018	44	Teruel	Mujeres	488	6	Más de 3 años
-Diciembre 2018	50	Zaragoza	Hombres	9650	1	Hasta 3 meses
-Diciembre 2018	50	Zaragoza	Hombres	3187	2	De 3 a 6 meses
-Diciembre 2018	50	Zaragoza	Hombres	2324	3	De 6 a 12 meses
-Diciembre 2018	50	Zaragoza	Hombres	2113	4	De 1 a 2 años
-Diciembre 2018	50	Zaragoza	Hombres	884	5	De 2 a 3 años
-Diciembre 2018	50	Zaragoza	Hombres	2999	6	Más de 3 años
-Diciembre 2018	50	Zaragoza	Mujeres	10301	1	Hasta 3 meses
-Diciembre 2018	50	Zaragoza	Mujeres	4213	2	De 3 a 6 meses
-Diciembre 2018	50	Zaragoza	Mujeres	3895	3	De 6 a 12 meses
-Diciembre 2018	50	Zaragoza	Mujeres	4200	4	De 1 a 2 años
-Diciembre 2018	50	Zaragoza	Mujeres	2027	5	De 2 a 3 años
-Diciembre 2018	50	Zaragoza	Mujeres	6198	6	Más de 3 años
-Noviembre 2018	22	Huesca	Hombres	1924	1	Hasta 3 meses
-Noviembre 2018	22	Huesca	Hombres	452	2	De 3 a 6 meses
-Noviembre 2018	22	Huesca	Hombres	365	3	De 6 a 12 meses
-Noviembre 2018	22	Huesca	Hombres	335	4	De 1 a 2 años
-Noviembre 2018	22	Huesca	Hombres	144	5	De 2 a 3 años
-Noviembre 2018	22	Huesca	Hombres	419	6	Más de 3 años
-Noviembre 2018	22	Huesca	Mujeres	2420	1	Hasta 3 meses
-Noviembre 2018	22	Huesca	Mujeres	620	2	De 3 a 6 meses
-Noviembre 2018	22	Huesca	Mujeres	611	3	De 6 a 12 meses
-Noviembre 2018	22	Huesca	Mujeres	609	4	De 1 a 2 años
-Noviembre 2018	22	Huesca	Mujeres	244	5	De 2 a 3 años
-Noviembre 2018	22	Huesca	Mujeres	733	6	Más de 3 años
-Noviembre 2018	44	Teruel	Hombres	1197	1	Hasta 3 meses
-Noviembre 2018	44	Teruel	Hombres	292	2	De 3 a 6 meses
-Noviembre 2018	44	Teruel	Hombres	205	3	De 6 a 12 meses
-Noviembre 2018	44	Teruel	Hombres	230	4	De 1 a 2 años
-Noviembre 2018	44	Teruel	Hombres	76	5	De 2 a 3 años
-Noviembre 2018	44	Teruel	Hombres	268	6	Más de 3 años
-Noviembre 2018	44	Teruel	Mujeres	1598	1	Hasta 3 meses
-Noviembre 2018	44	Teruel	Mujeres	382	2	De 3 a 6 meses
-Noviembre 2018	44	Teruel	Mujeres	382	3	De 6 a 12 meses
-Noviembre 2018	44	Teruel	Mujeres	388	4	De 1 a 2 años
-Noviembre 2018	44	Teruel	Mujeres	181	5	De 2 a 3 años
-Noviembre 2018	44	Teruel	Mujeres	488	6	Más de 3 años
-Noviembre 2018	50	Zaragoza	Hombres	9741	1	Hasta 3 meses
-Noviembre 2018	50	Zaragoza	Hombres	2624	2	De 3 a 6 meses
-Noviembre 2018	50	Zaragoza	Hombres	2193	3	De 6 a 12 meses
-Noviembre 2018	50	Zaragoza	Hombres	2057	4	De 1 a 2 años
-Noviembre 2018	50	Zaragoza	Hombres	883	5	De 2 a 3 años
-Noviembre 2018	50	Zaragoza	Hombres	3004	6	Más de 3 años
-Noviembre 2018	50	Zaragoza	Mujeres	11687	1	Hasta 3 meses
-Noviembre 2018	50	Zaragoza	Mujeres	3473	2	De 3 a 6 meses
-Noviembre 2018	50	Zaragoza	Mujeres	3827	3	De 6 a 12 meses
-Noviembre 2018	50	Zaragoza	Mujeres	4142	4	De 1 a 2 años
-Noviembre 2018	50	Zaragoza	Mujeres	2027	5	De 2 a 3 años
-Noviembre 2018	50	Zaragoza	Mujeres	6263	6	Más de 3 años
-Octubre 2018	22	Huesca	Hombres	1984	1	Hasta 3 meses
-Octubre 2018	22	Huesca	Hombres	402	2	De 3 a 6 meses
-Octubre 2018	22	Huesca	Hombres	366	3	De 6 a 12 meses
-Octubre 2018	22	Huesca	Hombres	348	4	De 1 a 2 años
-Octubre 2018	22	Huesca	Hombres	147	5	De 2 a 3 años
-Octubre 2018	22	Huesca	Hombres	420	6	Más de 3 años
-Octubre 2018	22	Huesca	Mujeres	2428	1	Hasta 3 meses
-Octubre 2018	22	Huesca	Mujeres	590	2	De 3 a 6 meses
-Octubre 2018	22	Huesca	Mujeres	640	3	De 6 a 12 meses
-Octubre 2018	22	Huesca	Mujeres	588	4	De 1 a 2 años
-Octubre 2018	22	Huesca	Mujeres	250	5	De 2 a 3 años
-Octubre 2018	22	Huesca	Mujeres	730	6	Más de 3 años
-Octubre 2018	44	Teruel	Hombres	1182	1	Hasta 3 meses
-Octubre 2018	44	Teruel	Hombres	279	2	De 3 a 6 meses
-Octubre 2018	44	Teruel	Hombres	200	3	De 6 a 12 meses
-Octubre 2018	44	Teruel	Hombres	227	4	De 1 a 2 años
-Octubre 2018	44	Teruel	Hombres	75	5	De 2 a 3 años
-Octubre 2018	44	Teruel	Hombres	264	6	Más de 3 años
-Octubre 2018	44	Teruel	Mujeres	1543	1	Hasta 3 meses
-Octubre 2018	44	Teruel	Mujeres	352	2	De 3 a 6 meses
-Octubre 2018	44	Teruel	Mujeres	391	3	De 6 a 12 meses
-Octubre 2018	44	Teruel	Mujeres	365	4	De 1 a 2 años
-Octubre 2018	44	Teruel	Mujeres	173	5	De 2 a 3 años
-Octubre 2018	44	Teruel	Mujeres	490	6	Más de 3 años
-Octubre 2018	50	Zaragoza	Hombres	9569	1	Hasta 3 meses
-Octubre 2018	50	Zaragoza	Hombres	2486	2	De 3 a 6 meses
-Octubre 2018	50	Zaragoza	Hombres	2266	3	De 6 a 12 meses
-Octubre 2018	50	Zaragoza	Hombres	2028	4	De 1 a 2 años
-Octubre 2018	50	Zaragoza	Hombres	917	5	De 2 a 3 años
-Octubre 2018	50	Zaragoza	Hombres	3052	6	Más de 3 años
-Octubre 2018	50	Zaragoza	Mujeres	11322	1	Hasta 3 meses
-Octubre 2018	50	Zaragoza	Mujeres	3379	2	De 3 a 6 meses
-Octubre 2018	50	Zaragoza	Mujeres	3920	3	De 6 a 12 meses
-Octubre 2018	50	Zaragoza	Mujeres	4154	4	De 1 a 2 años
-Octubre 2018	50	Zaragoza	Mujeres	2006	5	De 2 a 3 años
-Octubre 2018	50	Zaragoza	Mujeres	6311	6	Más de 3 años
-Septiembre 2018	22	Huesca	Hombres	1825	1	Hasta 3 meses
-Septiembre 2018	22	Huesca	Hombres	407	2	De 3 a 6 meses
-Septiembre 2018	22	Huesca	Hombres	404	3	De 6 a 12 meses
-Septiembre 2018	22	Huesca	Hombres	339	4	De 1 a 2 años
-Septiembre 2018	22	Huesca	Hombres	159	5	De 2 a 3 años
-Septiembre 2018	22	Huesca	Hombres	434	6	Más de 3 años
-Septiembre 2018	22	Huesca	Mujeres	2061	1	Hasta 3 meses
-Septiembre 2018	22	Huesca	Mujeres	585	2	De 3 a 6 meses
-Septiembre 2018	22	Huesca	Mujeres	668	3	De 6 a 12 meses
-Septiembre 2018	22	Huesca	Mujeres	557	4	De 1 a 2 años
-Septiembre 2018	22	Huesca	Mujeres	243	5	De 2 a 3 años
-Septiembre 2018	22	Huesca	Mujeres	738	6	Más de 3 años
-Septiembre 2018	44	Teruel	Hombres	1012	1	Hasta 3 meses
-Septiembre 2018	44	Teruel	Hombres	239	2	De 3 a 6 meses
-Septiembre 2018	44	Teruel	Hombres	223	3	De 6 a 12 meses
-Septiembre 2018	44	Teruel	Hombres	237	4	De 1 a 2 años
-Septiembre 2018	44	Teruel	Hombres	86	5	De 2 a 3 años
-Septiembre 2018	44	Teruel	Hombres	279	6	Más de 3 años
-Septiembre 2018	44	Teruel	Mujeres	1312	1	Hasta 3 meses
-Septiembre 2018	44	Teruel	Mujeres	343	2	De 3 a 6 meses
-Septiembre 2018	44	Teruel	Mujeres	406	3	De 6 a 12 meses
-Septiembre 2018	44	Teruel	Mujeres	369	4	De 1 a 2 años
-Septiembre 2018	44	Teruel	Mujeres	172	5	De 2 a 3 años
-Septiembre 2018	44	Teruel	Mujeres	496	6	Más de 3 años
-Septiembre 2018	50	Zaragoza	Hombres	8698	1	Hasta 3 meses
-Septiembre 2018	50	Zaragoza	Hombres	2347	2	De 3 a 6 meses
-Septiembre 2018	50	Zaragoza	Hombres	2464	3	De 6 a 12 meses
-Septiembre 2018	50	Zaragoza	Hombres	2062	4	De 1 a 2 años
-Septiembre 2018	50	Zaragoza	Hombres	962	5	De 2 a 3 años
-Septiembre 2018	50	Zaragoza	Hombres	3107	6	Más de 3 años
-Septiembre 2018	50	Zaragoza	Mujeres	10162	1	Hasta 3 meses
-Septiembre 2018	50	Zaragoza	Mujeres	3459	2	De 3 a 6 meses
-Septiembre 2018	50	Zaragoza	Mujeres	4171	3	De 6 a 12 meses
-Septiembre 2018	50	Zaragoza	Mujeres	4232	4	De 1 a 2 años
-Septiembre 2018	50	Zaragoza	Mujeres	2028	5	De 2 a 3 años
-Septiembre 2018	50	Zaragoza	Mujeres	6385	6	Más de 3 años
-Agosto 2018	22	Huesca	Hombres	1505	1	Hasta 3 meses
-Agosto 2018	22	Huesca	Hombres	374	2	De 3 a 6 meses
-Agosto 2018	22	Huesca	Hombres	436	3	De 6 a 12 meses
-Agosto 2018	22	Huesca	Hombres	321	4	De 1 a 2 años
-Agosto 2018	22	Huesca	Hombres	159	5	De 2 a 3 años
-Agosto 2018	22	Huesca	Hombres	449	6	Más de 3 años
-Agosto 2018	22	Huesca	Mujeres	1846	1	Hasta 3 meses
-Agosto 2018	22	Huesca	Mujeres	536	2	De 3 a 6 meses
-Agosto 2018	22	Huesca	Mujeres	721	3	De 6 a 12 meses
-Agosto 2018	22	Huesca	Mujeres	531	4	De 1 a 2 años
-Agosto 2018	22	Huesca	Mujeres	256	5	De 2 a 3 años
-Agosto 2018	22	Huesca	Mujeres	740	6	Más de 3 años
-Agosto 2018	44	Teruel	Hombres	1003	1	Hasta 3 meses
-Agosto 2018	44	Teruel	Hombres	217	2	De 3 a 6 meses
-Agosto 2018	44	Teruel	Hombres	264	3	De 6 a 12 meses
-Agosto 2018	44	Teruel	Hombres	212	4	De 1 a 2 años
-Agosto 2018	44	Teruel	Hombres	84	5	De 2 a 3 años
-Agosto 2018	44	Teruel	Hombres	286	6	Más de 3 años
-Agosto 2018	44	Teruel	Mujeres	1163	1	Hasta 3 meses
-Agosto 2018	44	Teruel	Mujeres	338	2	De 3 a 6 meses
-Agosto 2018	44	Teruel	Mujeres	479	3	De 6 a 12 meses
-Agosto 2018	44	Teruel	Mujeres	376	4	De 1 a 2 años
-Agosto 2018	44	Teruel	Mujeres	181	5	De 2 a 3 años
-Agosto 2018	44	Teruel	Mujeres	498	6	Más de 3 años
-Agosto 2018	50	Zaragoza	Hombres	8410	1	Hasta 3 meses
-Agosto 2018	50	Zaragoza	Hombres	2215	2	De 3 a 6 meses
-Agosto 2018	50	Zaragoza	Hombres	2650	3	De 6 a 12 meses
-Agosto 2018	50	Zaragoza	Hombres	2010	4	De 1 a 2 años
-Agosto 2018	50	Zaragoza	Hombres	991	5	De 2 a 3 años
-Agosto 2018	50	Zaragoza	Hombres	3125	6	Más de 3 años
-Agosto 2018	50	Zaragoza	Mujeres	9541	1	Hasta 3 meses
-Agosto 2018	50	Zaragoza	Mujeres	3319	2	De 3 a 6 meses
-Agosto 2018	50	Zaragoza	Mujeres	4584	3	De 6 a 12 meses
-Agosto 2018	50	Zaragoza	Mujeres	4195	4	De 1 a 2 años
-Agosto 2018	50	Zaragoza	Mujeres	2006	5	De 2 a 3 años
-Agosto 2018	50	Zaragoza	Mujeres	6449	6	Más de 3 años
-Julio 2018	22	Huesca	Hombres	1368	1	Hasta 3 meses
-Julio 2018	22	Huesca	Hombres	396	2	De 3 a 6 meses
-Julio 2018	22	Huesca	Hombres	452	3	De 6 a 12 meses
-Julio 2018	22	Huesca	Hombres	330	4	De 1 a 2 años
-Julio 2018	22	Huesca	Hombres	170	5	De 2 a 3 años
-Julio 2018	22	Huesca	Hombres	460	6	Más de 3 años
-Julio 2018	22	Huesca	Mujeres	1695	1	Hasta 3 meses
-Julio 2018	22	Huesca	Mujeres	578	2	De 3 a 6 meses
-Julio 2018	22	Huesca	Mujeres	707	3	De 6 a 12 meses
-Julio 2018	22	Huesca	Mujeres	532	4	De 1 a 2 años
-Julio 2018	22	Huesca	Mujeres	259	5	De 2 a 3 años
-Julio 2018	22	Huesca	Mujeres	734	6	Más de 3 años
-Julio 2018	44	Teruel	Hombres	912	1	Hasta 3 meses
-Julio 2018	44	Teruel	Hombres	201	2	De 3 a 6 meses
-Julio 2018	44	Teruel	Hombres	286	3	De 6 a 12 meses
-Julio 2018	44	Teruel	Hombres	214	4	De 1 a 2 años
-Julio 2018	44	Teruel	Hombres	83	5	De 2 a 3 años
-Julio 2018	44	Teruel	Hombres	288	6	Más de 3 años
-Julio 2018	44	Teruel	Mujeres	1059	1	Hasta 3 meses
-Julio 2018	44	Teruel	Mujeres	371	2	De 3 a 6 meses
-Julio 2018	44	Teruel	Mujeres	523	3	De 6 a 12 meses
-Julio 2018	44	Teruel	Mujeres	363	4	De 1 a 2 años
-Julio 2018	44	Teruel	Mujeres	188	5	De 2 a 3 años
-Julio 2018	44	Teruel	Mujeres	493	6	Más de 3 años
-Julio 2018	50	Zaragoza	Hombres	7449	1	Hasta 3 meses
-Julio 2018	50	Zaragoza	Hombres	2245	2	De 3 a 6 meses
-Julio 2018	50	Zaragoza	Hombres	2646	3	De 6 a 12 meses
-Julio 2018	50	Zaragoza	Hombres	2013	4	De 1 a 2 años
-Julio 2018	50	Zaragoza	Hombres	1024	5	De 2 a 3 años
-Julio 2018	50	Zaragoza	Hombres	3139	6	Más de 3 años
-Julio 2018	50	Zaragoza	Mujeres	9059	1	Hasta 3 meses
-Julio 2018	50	Zaragoza	Mujeres	3349	2	De 3 a 6 meses
-Julio 2018	50	Zaragoza	Mujeres	4551	3	De 6 a 12 meses
-Julio 2018	50	Zaragoza	Mujeres	4166	4	De 1 a 2 años
-Julio 2018	50	Zaragoza	Mujeres	2029	5	De 2 a 3 años
-Julio 2018	50	Zaragoza	Mujeres	6474	6	Más de 3 años
-Junio 2018	22	Huesca	Hombres	1376	1	Hasta 3 meses
-Junio 2018	22	Huesca	Hombres	438	2	De 3 a 6 meses
-Junio 2018	22	Huesca	Hombres	454	3	De 6 a 12 meses
-Junio 2018	22	Huesca	Hombres	323	4	De 1 a 2 años
-Junio 2018	22	Huesca	Hombres	165	5	De 2 a 3 años
-Junio 2018	22	Huesca	Hombres	470	6	Más de 3 años
-Junio 2018	22	Huesca	Mujeres	1600	1	Hasta 3 meses
-Junio 2018	22	Huesca	Mujeres	629	2	De 3 a 6 meses
-Junio 2018	22	Huesca	Mujeres	747	3	De 6 a 12 meses
-Junio 2018	22	Huesca	Mujeres	513	4	De 1 a 2 años
-Junio 2018	22	Huesca	Mujeres	263	5	De 2 a 3 años
-Junio 2018	22	Huesca	Mujeres	754	6	Más de 3 años
-Junio 2018	44	Teruel	Hombres	878	1	Hasta 3 meses
-Junio 2018	44	Teruel	Hombres	264	2	De 3 a 6 meses
-Junio 2018	44	Teruel	Hombres	276	3	De 6 a 12 meses
-Junio 2018	44	Teruel	Hombres	232	4	De 1 a 2 años
-Junio 2018	44	Teruel	Hombres	101	5	De 2 a 3 años
-Junio 2018	44	Teruel	Hombres	281	6	Más de 3 años
-Junio 2018	44	Teruel	Mujeres	1095	1	Hasta 3 meses
-Junio 2018	44	Teruel	Mujeres	444	2	De 3 a 6 meses
-Junio 2018	44	Teruel	Mujeres	538	3	De 6 a 12 meses
-Junio 2018	44	Teruel	Mujeres	372	4	De 1 a 2 años
-Junio 2018	44	Teruel	Mujeres	194	5	De 2 a 3 años
-Junio 2018	44	Teruel	Mujeres	505	6	Más de 3 años
-Junio 2018	50	Zaragoza	Hombres	6981	1	Hasta 3 meses
-Junio 2018	50	Zaragoza	Hombres	2514	2	De 3 a 6 meses
-Junio 2018	50	Zaragoza	Hombres	2593	3	De 6 a 12 meses
-Junio 2018	50	Zaragoza	Hombres	2055	4	De 1 a 2 años
-Junio 2018	50	Zaragoza	Hombres	1022	5	De 2 a 3 años
-Junio 2018	50	Zaragoza	Hombres	3175	6	Más de 3 años
-Junio 2018	50	Zaragoza	Mujeres	8743	1	Hasta 3 meses
-Junio 2018	50	Zaragoza	Mujeres	3810	2	De 3 a 6 meses
-Junio 2018	50	Zaragoza	Mujeres	4510	3	De 6 a 12 meses
-Junio 2018	50	Zaragoza	Mujeres	4164	4	De 1 a 2 años
-Junio 2018	50	Zaragoza	Mujeres	2062	5	De 2 a 3 años
-Junio 2018	50	Zaragoza	Mujeres	6503	6	Más de 3 años
-Mayo 2018	22	Huesca	Hombres	1480	1	Hasta 3 meses
-Mayo 2018	22	Huesca	Hombres	531	2	De 3 a 6 meses
-Mayo 2018	22	Huesca	Hombres	492	3	De 6 a 12 meses
-Mayo 2018	22	Huesca	Hombres	336	4	De 1 a 2 años
-Mayo 2018	22	Huesca	Hombres	163	5	De 2 a 3 años
-Mayo 2018	22	Huesca	Hombres	479	6	Más de 3 años
-Mayo 2018	22	Huesca	Mujeres	1752	1	Hasta 3 meses
-Mayo 2018	22	Huesca	Mujeres	708	2	De 3 a 6 meses
-Mayo 2018	22	Huesca	Mujeres	807	3	De 6 a 12 meses
-Mayo 2018	22	Huesca	Mujeres	528	4	De 1 a 2 años
-Mayo 2018	22	Huesca	Mujeres	259	5	De 2 a 3 años
-Mayo 2018	22	Huesca	Mujeres	764	6	Más de 3 años
-Mayo 2018	44	Teruel	Hombres	889	1	Hasta 3 meses
-Mayo 2018	44	Teruel	Hombres	309	2	De 3 a 6 meses
-Mayo 2018	44	Teruel	Hombres	336	3	De 6 a 12 meses
-Mayo 2018	44	Teruel	Hombres	241	4	De 1 a 2 años
-Mayo 2018	44	Teruel	Hombres	105	5	De 2 a 3 años
-Mayo 2018	44	Teruel	Hombres	290	6	Más de 3 años
-Mayo 2018	44	Teruel	Mujeres	1123	1	Hasta 3 meses
-Mayo 2018	44	Teruel	Mujeres	476	2	De 3 a 6 meses
-Mayo 2018	44	Teruel	Mujeres	596	3	De 6 a 12 meses
-Mayo 2018	44	Teruel	Mujeres	368	4	De 1 a 2 años
-Mayo 2018	44	Teruel	Mujeres	203	5	De 2 a 3 años
-Mayo 2018	44	Teruel	Mujeres	501	6	Más de 3 años
-Mayo 2018	50	Zaragoza	Hombres	7296	1	Hasta 3 meses
-Mayo 2018	50	Zaragoza	Hombres	2979	2	De 3 a 6 meses
-Mayo 2018	50	Zaragoza	Hombres	2913	3	De 6 a 12 meses
-Mayo 2018	50	Zaragoza	Hombres	2126	4	De 1 a 2 años
-Mayo 2018	50	Zaragoza	Hombres	1045	5	De 2 a 3 años
-Mayo 2018	50	Zaragoza	Hombres	3256	6	Más de 3 años
-Mayo 2018	50	Zaragoza	Mujeres	8982	1	Hasta 3 meses
-Mayo 2018	50	Zaragoza	Mujeres	4171	2	De 3 a 6 meses
-Mayo 2018	50	Zaragoza	Mujeres	4834	3	De 6 a 12 meses
-Mayo 2018	50	Zaragoza	Mujeres	4177	4	De 1 a 2 años
-Mayo 2018	50	Zaragoza	Mujeres	2115	5	De 2 a 3 años
-Mayo 2018	50	Zaragoza	Mujeres	6576	6	Más de 3 años
-Abril 2018	22	Huesca	Hombres	1686	1	Hasta 3 meses
-Abril 2018	22	Huesca	Hombres	585	2	De 3 a 6 meses
-Abril 2018	22	Huesca	Hombres	511	3	De 6 a 12 meses
-Abril 2018	22	Huesca	Hombres	342	4	De 1 a 2 años
-Abril 2018	22	Huesca	Hombres	169	5	De 2 a 3 años
-Abril 2018	22	Huesca	Hombres	480	6	Más de 3 años
-Abril 2018	22	Huesca	Mujeres	1945	1	Hasta 3 meses
-Abril 2018	22	Huesca	Mujeres	754	2	De 3 a 6 meses
-Abril 2018	22	Huesca	Mujeres	824	3	De 6 a 12 meses
-Abril 2018	22	Huesca	Mujeres	548	4	De 1 a 2 años
-Abril 2018	22	Huesca	Mujeres	268	5	De 2 a 3 años
-Abril 2018	22	Huesca	Mujeres	770	6	Más de 3 años
-Abril 2018	44	Teruel	Hombres	980	1	Hasta 3 meses
-Abril 2018	44	Teruel	Hombres	353	2	De 3 a 6 meses
-Abril 2018	44	Teruel	Hombres	370	3	De 6 a 12 meses
-Abril 2018	44	Teruel	Hombres	247	4	De 1 a 2 años
-Abril 2018	44	Teruel	Hombres	100	5	De 2 a 3 años
-Abril 2018	44	Teruel	Hombres	308	6	Más de 3 años
-Abril 2018	44	Teruel	Mujeres	1222	1	Hasta 3 meses
-Abril 2018	44	Teruel	Mujeres	536	2	De 3 a 6 meses
-Abril 2018	44	Teruel	Mujeres	555	3	De 6 a 12 meses
-Abril 2018	44	Teruel	Mujeres	383	4	De 1 a 2 años
-Abril 2018	44	Teruel	Mujeres	200	5	De 2 a 3 años
-Abril 2018	44	Teruel	Mujeres	510	6	Más de 3 años
-Abril 2018	50	Zaragoza	Hombres	8468	1	Hasta 3 meses
-Abril 2018	50	Zaragoza	Hombres	3209	2	De 3 a 6 meses
-Abril 2018	50	Zaragoza	Hombres	3086	3	De 6 a 12 meses
-Abril 2018	50	Zaragoza	Hombres	2166	4	De 1 a 2 años
-Abril 2018	50	Zaragoza	Hombres	1085	5	De 2 a 3 años
-Abril 2018	50	Zaragoza	Hombres	3311	6	Más de 3 años
-Abril 2018	50	Zaragoza	Mujeres	9858	1	Hasta 3 meses
-Abril 2018	50	Zaragoza	Mujeres	4537	2	De 3 a 6 meses
-Abril 2018	50	Zaragoza	Mujeres	4738	3	De 6 a 12 meses
-Abril 2018	50	Zaragoza	Mujeres	4242	4	De 1 a 2 años
-Abril 2018	50	Zaragoza	Mujeres	2126	5	De 2 a 3 años
-Abril 2018	50	Zaragoza	Mujeres	6642	6	Más de 3 años
-Marzo 2018	22	Huesca	Hombres	1708	1	Hasta 3 meses
-Marzo 2018	22	Huesca	Hombres	612	2	De 3 a 6 meses
-Marzo 2018	22	Huesca	Hombres	496	3	De 6 a 12 meses
-Marzo 2018	22	Huesca	Hombres	359	4	De 1 a 2 años
-Marzo 2018	22	Huesca	Hombres	170	5	De 2 a 3 años
-Marzo 2018	22	Huesca	Hombres	477	6	Más de 3 años
-Marzo 2018	22	Huesca	Mujeres	1842	1	Hasta 3 meses
-Marzo 2018	22	Huesca	Mujeres	844	2	De 3 a 6 meses
-Marzo 2018	22	Huesca	Mujeres	723	3	De 6 a 12 meses
-Marzo 2018	22	Huesca	Mujeres	554	4	De 1 a 2 años
-Marzo 2018	22	Huesca	Mujeres	281	5	De 2 a 3 años
-Marzo 2018	22	Huesca	Mujeres	784	6	Más de 3 años
-Marzo 2018	44	Teruel	Hombres	1060	1	Hasta 3 meses
-Marzo 2018	44	Teruel	Hombres	412	2	De 3 a 6 meses
-Marzo 2018	44	Teruel	Hombres	336	3	De 6 a 12 meses
-Marzo 2018	44	Teruel	Hombres	253	4	De 1 a 2 años
-Marzo 2018	44	Teruel	Hombres	101	5	De 2 a 3 años
-Marzo 2018	44	Teruel	Hombres	311	6	Más de 3 años
-Marzo 2018	44	Teruel	Mujeres	1255	1	Hasta 3 meses
-Marzo 2018	44	Teruel	Mujeres	586	2	De 3 a 6 meses
-Marzo 2018	44	Teruel	Mujeres	514	3	De 6 a 12 meses
-Marzo 2018	44	Teruel	Mujeres	373	4	De 1 a 2 años
-Marzo 2018	44	Teruel	Mujeres	209	5	De 2 a 3 años
-Marzo 2018	44	Teruel	Mujeres	512	6	Más de 3 años
-Marzo 2018	50	Zaragoza	Hombres	9131	1	Hasta 3 meses
-Marzo 2018	50	Zaragoza	Hombres	3469	2	De 3 a 6 meses
-Marzo 2018	50	Zaragoza	Hombres	2801	3	De 6 a 12 meses
-Marzo 2018	50	Zaragoza	Hombres	2228	4	De 1 a 2 años
-Marzo 2018	50	Zaragoza	Hombres	1084	5	De 2 a 3 años
-Marzo 2018	50	Zaragoza	Hombres	3376	6	Más de 3 años
-Marzo 2018	50	Zaragoza	Mujeres	10531	1	Hasta 3 meses
-Marzo 2018	50	Zaragoza	Mujeres	4589	2	De 3 a 6 meses
-Marzo 2018	50	Zaragoza	Mujeres	4511	3	De 6 a 12 meses
-Marzo 2018	50	Zaragoza	Mujeres	4340	4	De 1 a 2 años
-Marzo 2018	50	Zaragoza	Mujeres	2156	5	De 2 a 3 años
-Marzo 2018	50	Zaragoza	Mujeres	6719	6	Más de 3 años
-Febrero 2018	22	Huesca	Hombres	1763	1	Hasta 3 meses
-Febrero 2018	22	Huesca	Hombres	671	2	De 3 a 6 meses
-Febrero 2018	22	Huesca	Hombres	411	3	De 6 a 12 meses
-Febrero 2018	22	Huesca	Hombres	362	4	De 1 a 2 años
-Febrero 2018	22	Huesca	Hombres	166	5	De 2 a 3 años
-Febrero 2018	22	Huesca	Hombres	490	6	Más de 3 años
-Febrero 2018	22	Huesca	Mujeres	1970	1	Hasta 3 meses
-Febrero 2018	22	Huesca	Mujeres	1001	2	De 3 a 6 meses
-Febrero 2018	22	Huesca	Mujeres	581	3	De 6 a 12 meses
-Febrero 2018	22	Huesca	Mujeres	563	4	De 1 a 2 años
-Febrero 2018	22	Huesca	Mujeres	287	5	De 2 a 3 años
-Febrero 2018	22	Huesca	Mujeres	797	6	Más de 3 años
-Febrero 2018	44	Teruel	Hombres	1123	1	Hasta 3 meses
-Febrero 2018	44	Teruel	Hombres	483	2	De 3 a 6 meses
-Febrero 2018	44	Teruel	Hombres	283	3	De 6 a 12 meses
-Febrero 2018	44	Teruel	Hombres	260	4	De 1 a 2 años
-Febrero 2018	44	Teruel	Hombres	102	5	De 2 a 3 años
-Febrero 2018	44	Teruel	Hombres	312	6	Más de 3 años
-Febrero 2018	44	Teruel	Mujeres	1358	1	Hasta 3 meses
-Febrero 2018	44	Teruel	Mujeres	728	2	De 3 a 6 meses
-Febrero 2018	44	Teruel	Mujeres	422	3	De 6 a 12 meses
-Febrero 2018	44	Teruel	Mujeres	386	4	De 1 a 2 años
-Febrero 2018	44	Teruel	Mujeres	222	5	De 2 a 3 años
-Febrero 2018	44	Teruel	Mujeres	510	6	Más de 3 años
-Febrero 2018	50	Zaragoza	Hombres	9119	1	Hasta 3 meses
-Febrero 2018	50	Zaragoza	Hombres	3717	2	De 3 a 6 meses
-Febrero 2018	50	Zaragoza	Hombres	2471	3	De 6 a 12 meses
-Febrero 2018	50	Zaragoza	Hombres	2202	4	De 1 a 2 años
-Febrero 2018	50	Zaragoza	Hombres	1084	5	De 2 a 3 años
-Febrero 2018	50	Zaragoza	Hombres	3447	6	Más de 3 años
-Febrero 2018	50	Zaragoza	Mujeres	10711	1	Hasta 3 meses
-Febrero 2018	50	Zaragoza	Mujeres	5107	2	De 3 a 6 meses
-Febrero 2018	50	Zaragoza	Mujeres	3986	3	De 6 a 12 meses
-Febrero 2018	50	Zaragoza	Mujeres	4309	4	De 1 a 2 años
-Febrero 2018	50	Zaragoza	Mujeres	2185	5	De 2 a 3 años
-Febrero 2018	50	Zaragoza	Mujeres	6767	6	Más de 3 años
-Enero 2018	22	Huesca	Hombres	1948	1	Hasta 3 meses
-Enero 2018	22	Huesca	Hombres	698	2	De 3 a 6 meses
-Enero 2018	22	Huesca	Hombres	417	3	De 6 a 12 meses
-Enero 2018	22	Huesca	Hombres	389	4	De 1 a 2 años
-Enero 2018	22	Huesca	Hombres	172	5	De 2 a 3 años
-Enero 2018	22	Huesca	Hombres	515	6	Más de 3 años
-Enero 2018	22	Huesca	Mujeres	2086	1	Hasta 3 meses
-Enero 2018	22	Huesca	Mujeres	987	2	De 3 a 6 meses
-Enero 2018	22	Huesca	Mujeres	586	3	De 6 a 12 meses
-Enero 2018	22	Huesca	Mujeres	568	4	De 1 a 2 años
-Enero 2018	22	Huesca	Mujeres	293	5	De 2 a 3 años
-Enero 2018	22	Huesca	Mujeres	817	6	Más de 3 años
-Enero 2018	44	Teruel	Hombres	1235	1	Hasta 3 meses
-Enero 2018	44	Teruel	Hombres	538	2	De 3 a 6 meses
-Enero 2018	44	Teruel	Hombres	276	3	De 6 a 12 meses
-Enero 2018	44	Teruel	Hombres	261	4	De 1 a 2 años
-Enero 2018	44	Teruel	Hombres	110	5	De 2 a 3 años
-Enero 2018	44	Teruel	Hombres	323	6	Más de 3 años
-Enero 2018	44	Teruel	Mujeres	1547	1	Hasta 3 meses
-Enero 2018	44	Teruel	Mujeres	669	2	De 3 a 6 meses
-Enero 2018	44	Teruel	Mujeres	426	3	De 6 a 12 meses
-Enero 2018	44	Teruel	Mujeres	402	4	De 1 a 2 años
-Enero 2018	44	Teruel	Mujeres	238	5	De 2 a 3 años
-Enero 2018	44	Teruel	Mujeres	510	6	Más de 3 años
-Enero 2018	50	Zaragoza	Hombres	9515	1	Hasta 3 meses
-Enero 2018	50	Zaragoza	Hombres	3671	2	De 3 a 6 meses
-Enero 2018	50	Zaragoza	Hombres	2426	3	De 6 a 12 meses
-Enero 2018	50	Zaragoza	Hombres	2276	4	De 1 a 2 años
-Enero 2018	50	Zaragoza	Hombres	1148	5	De 2 a 3 años
-Enero 2018	50	Zaragoza	Hombres	3530	6	Más de 3 años
-Enero 2018	50	Zaragoza	Mujeres	11150	1	Hasta 3 meses
-Enero 2018	50	Zaragoza	Mujeres	4845	2	De 3 a 6 meses
-Enero 2018	50	Zaragoza	Mujeres	3985	3	De 6 a 12 meses
-Enero 2018	50	Zaragoza	Mujeres	4347	4	De 1 a 2 años
-Enero 2018	50	Zaragoza	Mujeres	2283	5	De 2 a 3 años
-Enero 2018	50	Zaragoza	Mujeres	6894	6	Más de 3 años
-Diciembre 2017	22	Huesca	Hombres	1858	1	Hasta 3 meses
-Diciembre 2017	22	Huesca	Hombres	660	2	De 3 a 6 meses
-Diciembre 2017	22	Huesca	Hombres	423	3	De 6 a 12 meses
-Diciembre 2017	22	Huesca	Hombres	398	4	De 1 a 2 años
-Diciembre 2017	22	Huesca	Hombres	185	5	De 2 a 3 años
-Diciembre 2017	22	Huesca	Hombres	518	6	Más de 3 años
-Diciembre 2017	22	Huesca	Mujeres	2042	1	Hasta 3 meses
-Diciembre 2017	22	Huesca	Mujeres	852	2	De 3 a 6 meses
-Diciembre 2017	22	Huesca	Mujeres	597	3	De 6 a 12 meses
-Diciembre 2017	22	Huesca	Mujeres	582	4	De 1 a 2 años
-Diciembre 2017	22	Huesca	Mujeres	305	5	De 2 a 3 años
-Diciembre 2017	22	Huesca	Mujeres	826	6	Más de 3 años
-Diciembre 2017	44	Teruel	Hombres	1267	1	Hasta 3 meses
-Diciembre 2017	44	Teruel	Hombres	435	2	De 3 a 6 meses
-Diciembre 2017	44	Teruel	Hombres	275	3	De 6 a 12 meses
-Diciembre 2017	44	Teruel	Hombres	240	4	De 1 a 2 años
-Diciembre 2017	44	Teruel	Hombres	114	5	De 2 a 3 años
-Diciembre 2017	44	Teruel	Hombres	326	6	Más de 3 años
-Diciembre 2017	44	Teruel	Mujeres	1476	1	Hasta 3 meses
-Diciembre 2017	44	Teruel	Mujeres	555	2	De 3 a 6 meses
-Diciembre 2017	44	Teruel	Mujeres	430	3	De 6 a 12 meses
-Diciembre 2017	44	Teruel	Mujeres	417	4	De 1 a 2 años
-Diciembre 2017	44	Teruel	Mujeres	257	5	De 2 a 3 años
-Diciembre 2017	44	Teruel	Mujeres	511	6	Más de 3 años
-Diciembre 2017	50	Zaragoza	Hombres	9870	1	Hasta 3 meses
-Diciembre 2017	50	Zaragoza	Hombres	3334	2	De 3 a 6 meses
-Diciembre 2017	50	Zaragoza	Hombres	2408	3	De 6 a 12 meses
-Diciembre 2017	50	Zaragoza	Hombres	2359	4	De 1 a 2 años
-Diciembre 2017	50	Zaragoza	Hombres	1157	5	De 2 a 3 años
-Diciembre 2017	50	Zaragoza	Hombres	3590	6	Más de 3 años
-Diciembre 2017	50	Zaragoza	Mujeres	10375	1	Hasta 3 meses
-Diciembre 2017	50	Zaragoza	Mujeres	4489	2	De 3 a 6 meses
-Diciembre 2017	50	Zaragoza	Mujeres	3985	3	De 6 a 12 meses
-Diciembre 2017	50	Zaragoza	Mujeres	4304	4	De 1 a 2 años
-Diciembre 2017	50	Zaragoza	Mujeres	2320	5	De 2 a 3 años
-Diciembre 2017	50	Zaragoza	Mujeres	6970	6	Más de 3 años
-Noviembre 2017	22	Huesca	Hombres	2114	1	Hasta 3 meses
-Noviembre 2017	22	Huesca	Hombres	518	2	De 3 a 6 meses
-Noviembre 2017	22	Huesca	Hombres	391	3	De 6 a 12 meses
-Noviembre 2017	22	Huesca	Hombres	404	4	De 1 a 2 años
-Noviembre 2017	22	Huesca	Hombres	195	5	De 2 a 3 años
-Noviembre 2017	22	Huesca	Hombres	523	6	Más de 3 años
-Noviembre 2017	22	Huesca	Mujeres	2607	1	Hasta 3 meses
-Noviembre 2017	22	Huesca	Mujeres	617	2	De 3 a 6 meses
-Noviembre 2017	22	Huesca	Mujeres	611	3	De 6 a 12 meses
-Noviembre 2017	22	Huesca	Mujeres	597	4	De 1 a 2 años
-Noviembre 2017	22	Huesca	Mujeres	299	5	De 2 a 3 años
-Noviembre 2017	22	Huesca	Mujeres	838	6	Más de 3 años
-Noviembre 2017	44	Teruel	Hombres	1334	1	Hasta 3 meses
-Noviembre 2017	44	Teruel	Hombres	334	2	De 3 a 6 meses
-Noviembre 2017	44	Teruel	Hombres	254	3	De 6 a 12 meses
-Noviembre 2017	44	Teruel	Hombres	244	4	De 1 a 2 años
-Noviembre 2017	44	Teruel	Hombres	116	5	De 2 a 3 años
-Noviembre 2017	44	Teruel	Hombres	336	6	Más de 3 años
-Noviembre 2017	44	Teruel	Mujeres	1759	1	Hasta 3 meses
-Noviembre 2017	44	Teruel	Mujeres	428	2	De 3 a 6 meses
-Noviembre 2017	44	Teruel	Mujeres	389	3	De 6 a 12 meses
-Noviembre 2017	44	Teruel	Mujeres	423	4	De 1 a 2 años
-Noviembre 2017	44	Teruel	Mujeres	283	5	De 2 a 3 años
-Noviembre 2017	44	Teruel	Mujeres	512	6	Más de 3 años
-Noviembre 2017	50	Zaragoza	Hombres	9876	1	Hasta 3 meses
-Noviembre 2017	50	Zaragoza	Hombres	2677	2	De 3 a 6 meses
-Noviembre 2017	50	Zaragoza	Hombres	2256	3	De 6 a 12 meses
-Noviembre 2017	50	Zaragoza	Hombres	2365	4	De 1 a 2 años
-Noviembre 2017	50	Zaragoza	Hombres	1170	5	De 2 a 3 años
-Noviembre 2017	50	Zaragoza	Hombres	3612	6	Más de 3 años
-Noviembre 2017	50	Zaragoza	Mujeres	11723	1	Hasta 3 meses
-Noviembre 2017	50	Zaragoza	Mujeres	3604	2	De 3 a 6 meses
-Noviembre 2017	50	Zaragoza	Mujeres	3907	3	De 6 a 12 meses
-Noviembre 2017	50	Zaragoza	Mujeres	4294	4	De 1 a 2 años
-Noviembre 2017	50	Zaragoza	Mujeres	2386	5	De 2 a 3 años
-Noviembre 2017	50	Zaragoza	Mujeres	6995	6	Más de 3 años
-Octubre 2017	22	Huesca	Hombres	2174	1	Hasta 3 meses
-Octubre 2017	22	Huesca	Hombres	491	2	De 3 a 6 meses
-Octubre 2017	22	Huesca	Hombres	404	3	De 6 a 12 meses
-Octubre 2017	22	Huesca	Hombres	423	4	De 1 a 2 años
-Octubre 2017	22	Huesca	Hombres	202	5	De 2 a 3 años
-Octubre 2017	22	Huesca	Hombres	539	6	Más de 3 años
-Octubre 2017	22	Huesca	Mujeres	2598	1	Hasta 3 meses
-Octubre 2017	22	Huesca	Mujeres	570	2	De 3 a 6 meses
-Octubre 2017	22	Huesca	Mujeres	637	3	De 6 a 12 meses
-Octubre 2017	22	Huesca	Mujeres	592	4	De 1 a 2 años
-Octubre 2017	22	Huesca	Mujeres	306	5	De 2 a 3 años
-Octubre 2017	22	Huesca	Mujeres	844	6	Más de 3 años
-Octubre 2017	44	Teruel	Hombres	1441	1	Hasta 3 meses
-Octubre 2017	44	Teruel	Hombres	316	2	De 3 a 6 meses
-Octubre 2017	44	Teruel	Hombres	270	3	De 6 a 12 meses
-Octubre 2017	44	Teruel	Hombres	249	4	De 1 a 2 años
-Octubre 2017	44	Teruel	Hombres	119	5	De 2 a 3 años
-Octubre 2017	44	Teruel	Hombres	350	6	Más de 3 años
-Octubre 2017	44	Teruel	Mujeres	1670	1	Hasta 3 meses
-Octubre 2017	44	Teruel	Mujeres	393	2	De 3 a 6 meses
-Octubre 2017	44	Teruel	Mujeres	393	3	De 6 a 12 meses
-Octubre 2017	44	Teruel	Mujeres	430	4	De 1 a 2 años
-Octubre 2017	44	Teruel	Mujeres	293	5	De 2 a 3 años
-Octubre 2017	44	Teruel	Mujeres	522	6	Más de 3 años
-Octubre 2017	50	Zaragoza	Hombres	10129	1	Hasta 3 meses
-Octubre 2017	50	Zaragoza	Hombres	2601	2	De 3 a 6 meses
-Octubre 2017	50	Zaragoza	Hombres	2346	3	De 6 a 12 meses
-Octubre 2017	50	Zaragoza	Hombres	2450	4	De 1 a 2 años
-Octubre 2017	50	Zaragoza	Hombres	1192	5	De 2 a 3 años
-Octubre 2017	50	Zaragoza	Hombres	3716	6	Más de 3 años
-Octubre 2017	50	Zaragoza	Mujeres	11421	1	Hasta 3 meses
-Octubre 2017	50	Zaragoza	Mujeres	3587	2	De 3 a 6 meses
-Octubre 2017	50	Zaragoza	Mujeres	4087	3	De 6 a 12 meses
-Octubre 2017	50	Zaragoza	Mujeres	4314	4	De 1 a 2 años
-Octubre 2017	50	Zaragoza	Mujeres	2434	5	De 2 a 3 años
-Octubre 2017	50	Zaragoza	Mujeres	7096	6	Más de 3 años
-Septiembre 2017	22	Huesca	Hombres	2045	1	Hasta 3 meses
-Septiembre 2017	22	Huesca	Hombres	452	2	De 3 a 6 meses
-Septiembre 2017	22	Huesca	Hombres	438	3	De 6 a 12 meses
-Septiembre 2017	22	Huesca	Hombres	432	4	De 1 a 2 años
-Septiembre 2017	22	Huesca	Hombres	189	5	De 2 a 3 años
-Septiembre 2017	22	Huesca	Hombres	552	6	Más de 3 años
-Septiembre 2017	22	Huesca	Mujeres	2233	1	Hasta 3 meses
-Septiembre 2017	22	Huesca	Mujeres	545	2	De 3 a 6 meses
-Septiembre 2017	22	Huesca	Mujeres	723	3	De 6 a 12 meses
-Septiembre 2017	22	Huesca	Mujeres	625	4	De 1 a 2 años
-Septiembre 2017	22	Huesca	Mujeres	299	5	De 2 a 3 años
-Septiembre 2017	22	Huesca	Mujeres	862	6	Más de 3 años
-Septiembre 2017	44	Teruel	Hombres	1188	1	Hasta 3 meses
-Septiembre 2017	44	Teruel	Hombres	282	2	De 3 a 6 meses
-Septiembre 2017	44	Teruel	Hombres	272	3	De 6 a 12 meses
-Septiembre 2017	44	Teruel	Hombres	264	4	De 1 a 2 años
-Septiembre 2017	44	Teruel	Hombres	125	5	De 2 a 3 años
-Septiembre 2017	44	Teruel	Hombres	359	6	Más de 3 años
-Septiembre 2017	44	Teruel	Mujeres	1372	1	Hasta 3 meses
-Septiembre 2017	44	Teruel	Mujeres	397	2	De 3 a 6 meses
-Septiembre 2017	44	Teruel	Mujeres	417	3	De 6 a 12 meses
-Septiembre 2017	44	Teruel	Mujeres	439	4	De 1 a 2 años
-Septiembre 2017	44	Teruel	Mujeres	288	5	De 2 a 3 años
-Septiembre 2017	44	Teruel	Mujeres	528	6	Más de 3 años
-Septiembre 2017	50	Zaragoza	Hombres	9036	1	Hasta 3 meses
-Septiembre 2017	50	Zaragoza	Hombres	2313	2	De 3 a 6 meses
-Septiembre 2017	50	Zaragoza	Hombres	2670	3	De 6 a 12 meses
-Septiembre 2017	50	Zaragoza	Hombres	2497	4	De 1 a 2 años
-Septiembre 2017	50	Zaragoza	Hombres	1184	5	De 2 a 3 años
-Septiembre 2017	50	Zaragoza	Hombres	3771	6	Más de 3 años
-Septiembre 2017	50	Zaragoza	Mujeres	10520	1	Hasta 3 meses
-Septiembre 2017	50	Zaragoza	Mujeres	3395	2	De 3 a 6 meses
-Septiembre 2017	50	Zaragoza	Mujeres	4480	3	De 6 a 12 meses
-Septiembre 2017	50	Zaragoza	Mujeres	4394	4	De 1 a 2 años
-Septiembre 2017	50	Zaragoza	Mujeres	2464	5	De 2 a 3 años
-Septiembre 2017	50	Zaragoza	Mujeres	7188	6	Más de 3 años
-Agosto 2017	22	Huesca	Hombres	1708	1	Hasta 3 meses
-Agosto 2017	22	Huesca	Hombres	392	2	De 3 a 6 meses
-Agosto 2017	22	Huesca	Hombres	475	3	De 6 a 12 meses
-Agosto 2017	22	Huesca	Hombres	426	4	De 1 a 2 años
-Agosto 2017	22	Huesca	Hombres	192	5	De 2 a 3 años
-Agosto 2017	22	Huesca	Hombres	561	6	Más de 3 años
-Agosto 2017	22	Huesca	Mujeres	1860	1	Hasta 3 meses
-Agosto 2017	22	Huesca	Mujeres	507	2	De 3 a 6 meses
-Agosto 2017	22	Huesca	Mujeres	766	3	De 6 a 12 meses
-Agosto 2017	22	Huesca	Mujeres	633	4	De 1 a 2 años
-Agosto 2017	22	Huesca	Mujeres	309	5	De 2 a 3 años
-Agosto 2017	22	Huesca	Mujeres	852	6	Más de 3 años
-Agosto 2017	44	Teruel	Hombres	1085	1	Hasta 3 meses
-Agosto 2017	44	Teruel	Hombres	253	2	De 3 a 6 meses
-Agosto 2017	44	Teruel	Hombres	307	3	De 6 a 12 meses
-Agosto 2017	44	Teruel	Hombres	264	4	De 1 a 2 años
-Agosto 2017	44	Teruel	Hombres	124	5	De 2 a 3 años
-Agosto 2017	44	Teruel	Hombres	361	6	Más de 3 años
-Agosto 2017	44	Teruel	Mujeres	1194	1	Hasta 3 meses
-Agosto 2017	44	Teruel	Mujeres	376	2	De 3 a 6 meses
-Agosto 2017	44	Teruel	Mujeres	469	3	De 6 a 12 meses
-Agosto 2017	44	Teruel	Mujeres	461	4	De 1 a 2 años
-Agosto 2017	44	Teruel	Mujeres	283	5	De 2 a 3 años
-Agosto 2017	44	Teruel	Mujeres	518	6	Más de 3 años
-Agosto 2017	50	Zaragoza	Hombres	8681	1	Hasta 3 meses
-Agosto 2017	50	Zaragoza	Hombres	2292	2	De 3 a 6 meses
-Agosto 2017	50	Zaragoza	Hombres	2836	3	De 6 a 12 meses
-Agosto 2017	50	Zaragoza	Hombres	2541	4	De 1 a 2 años
-Agosto 2017	50	Zaragoza	Hombres	1220	5	De 2 a 3 años
-Agosto 2017	50	Zaragoza	Hombres	3828	6	Más de 3 años
-Agosto 2017	50	Zaragoza	Mujeres	10026	1	Hasta 3 meses
-Agosto 2017	50	Zaragoza	Mujeres	3343	2	De 3 a 6 meses
-Agosto 2017	50	Zaragoza	Mujeres	4792	3	De 6 a 12 meses
-Agosto 2017	50	Zaragoza	Mujeres	4372	4	De 1 a 2 años
-Agosto 2017	50	Zaragoza	Mujeres	2490	5	De 2 a 3 años
-Agosto 2017	50	Zaragoza	Mujeres	7214	6	Más de 3 años
-Julio 2017	22	Huesca	Hombres	1508	1	Hasta 3 meses
-Julio 2017	22	Huesca	Hombres	412	2	De 3 a 6 meses
-Julio 2017	22	Huesca	Hombres	470	3	De 6 a 12 meses
-Julio 2017	22	Huesca	Hombres	418	4	De 1 a 2 años
-Julio 2017	22	Huesca	Hombres	188	5	De 2 a 3 años
-Julio 2017	22	Huesca	Hombres	576	6	Más de 3 años
-Julio 2017	22	Huesca	Mujeres	1647	1	Hasta 3 meses
-Julio 2017	22	Huesca	Mujeres	542	2	De 3 a 6 meses
-Julio 2017	22	Huesca	Mujeres	737	3	De 6 a 12 meses
-Julio 2017	22	Huesca	Mujeres	635	4	De 1 a 2 años
-Julio 2017	22	Huesca	Mujeres	316	5	De 2 a 3 años
-Julio 2017	22	Huesca	Mujeres	868	6	Más de 3 años
-Julio 2017	44	Teruel	Hombres	981	1	Hasta 3 meses
-Julio 2017	44	Teruel	Hombres	250	2	De 3 a 6 meses
-Julio 2017	44	Teruel	Hombres	337	3	De 6 a 12 meses
-Julio 2017	44	Teruel	Hombres	274	4	De 1 a 2 años
-Julio 2017	44	Teruel	Hombres	125	5	De 2 a 3 años
-Julio 2017	44	Teruel	Hombres	368	6	Más de 3 años
-Julio 2017	44	Teruel	Mujeres	1101	1	Hasta 3 meses
-Julio 2017	44	Teruel	Mujeres	386	2	De 3 a 6 meses
-Julio 2017	44	Teruel	Mujeres	489	3	De 6 a 12 meses
-Julio 2017	44	Teruel	Mujeres	474	4	De 1 a 2 años
-Julio 2017	44	Teruel	Mujeres	283	5	De 2 a 3 años
-Julio 2017	44	Teruel	Mujeres	519	6	Más de 3 años
-Julio 2017	50	Zaragoza	Hombres	8272	1	Hasta 3 meses
-Julio 2017	50	Zaragoza	Hombres	2320	2	De 3 a 6 meses
-Julio 2017	50	Zaragoza	Hombres	2917	3	De 6 a 12 meses
-Julio 2017	50	Zaragoza	Hombres	2575	4	De 1 a 2 años
-Julio 2017	50	Zaragoza	Hombres	1251	5	De 2 a 3 años
-Julio 2017	50	Zaragoza	Hombres	3890	6	Más de 3 años
-Julio 2017	50	Zaragoza	Mujeres	9595	1	Hasta 3 meses
-Julio 2017	50	Zaragoza	Mujeres	3455	2	De 3 a 6 meses
-Julio 2017	50	Zaragoza	Mujeres	4855	3	De 6 a 12 meses
-Julio 2017	50	Zaragoza	Mujeres	4384	4	De 1 a 2 años
-Julio 2017	50	Zaragoza	Mujeres	2477	5	De 2 a 3 años
-Julio 2017	50	Zaragoza	Mujeres	7316	6	Más de 3 años
-Junio 2017	22	Huesca	Hombres	1396	1	Hasta 3 meses
-Junio 2017	22	Huesca	Hombres	469	2	De 3 a 6 meses
-Junio 2017	22	Huesca	Hombres	461	3	De 6 a 12 meses
-Junio 2017	22	Huesca	Hombres	421	4	De 1 a 2 años
-Junio 2017	22	Huesca	Hombres	199	5	De 2 a 3 años
-Junio 2017	22	Huesca	Hombres	567	6	Más de 3 años
-Junio 2017	22	Huesca	Mujeres	1581	1	Hasta 3 meses
-Junio 2017	22	Huesca	Mujeres	687	2	De 3 a 6 meses
-Junio 2017	22	Huesca	Mujeres	748	3	De 6 a 12 meses
-Junio 2017	22	Huesca	Mujeres	646	4	De 1 a 2 años
-Junio 2017	22	Huesca	Mujeres	333	5	De 2 a 3 años
-Junio 2017	22	Huesca	Mujeres	880	6	Más de 3 años
-Junio 2017	44	Teruel	Hombres	926	1	Hasta 3 meses
-Junio 2017	44	Teruel	Hombres	313	2	De 3 a 6 meses
-Junio 2017	44	Teruel	Hombres	357	3	De 6 a 12 meses
-Junio 2017	44	Teruel	Hombres	292	4	De 1 a 2 años
-Junio 2017	44	Teruel	Hombres	126	5	De 2 a 3 años
-Junio 2017	44	Teruel	Hombres	371	6	Más de 3 años
-Junio 2017	44	Teruel	Mujeres	1130	1	Hasta 3 meses
-Junio 2017	44	Teruel	Mujeres	428	2	De 3 a 6 meses
-Junio 2017	44	Teruel	Mujeres	537	3	De 6 a 12 meses
-Junio 2017	44	Teruel	Mujeres	496	4	De 1 a 2 años
-Junio 2017	44	Teruel	Mujeres	280	5	De 2 a 3 años
-Junio 2017	44	Teruel	Mujeres	528	6	Más de 3 años
-Junio 2017	50	Zaragoza	Hombres	7292	1	Hasta 3 meses
-Junio 2017	50	Zaragoza	Hombres	2715	2	De 3 a 6 meses
-Junio 2017	50	Zaragoza	Hombres	2968	3	De 6 a 12 meses
-Junio 2017	50	Zaragoza	Hombres	2609	4	De 1 a 2 años
-Junio 2017	50	Zaragoza	Hombres	1255	5	De 2 a 3 años
-Junio 2017	50	Zaragoza	Hombres	3899	6	Más de 3 años
-Junio 2017	50	Zaragoza	Mujeres	8660	1	Hasta 3 meses
-Junio 2017	50	Zaragoza	Mujeres	3988	2	De 3 a 6 meses
-Junio 2017	50	Zaragoza	Mujeres	4701	3	De 6 a 12 meses
-Junio 2017	50	Zaragoza	Mujeres	4394	4	De 1 a 2 años
-Junio 2017	50	Zaragoza	Mujeres	2507	5	De 2 a 3 años
-Junio 2017	50	Zaragoza	Mujeres	7334	6	Más de 3 años
-Mayo 2017	22	Huesca	Hombres	1415	1	Hasta 3 meses
-Mayo 2017	22	Huesca	Hombres	544	2	De 3 a 6 meses
-Mayo 2017	22	Huesca	Hombres	533	3	De 6 a 12 meses
-Mayo 2017	22	Huesca	Hombres	443	4	De 1 a 2 años
-Mayo 2017	22	Huesca	Hombres	212	5	De 2 a 3 años
-Mayo 2017	22	Huesca	Hombres	570	6	Más de 3 años
-Mayo 2017	22	Huesca	Mujeres	1671	1	Hasta 3 meses
-Mayo 2017	22	Huesca	Mujeres	749	2	De 3 a 6 meses
-Mayo 2017	22	Huesca	Mujeres	822	3	De 6 a 12 meses
-Mayo 2017	22	Huesca	Mujeres	648	4	De 1 a 2 años
-Mayo 2017	22	Huesca	Mujeres	344	5	De 2 a 3 años
-Mayo 2017	22	Huesca	Mujeres	872	6	Más de 3 años
-Mayo 2017	44	Teruel	Hombres	876	1	Hasta 3 meses
-Mayo 2017	44	Teruel	Hombres	341	2	De 3 a 6 meses
-Mayo 2017	44	Teruel	Hombres	438	3	De 6 a 12 meses
-Mayo 2017	44	Teruel	Hombres	300	4	De 1 a 2 años
-Mayo 2017	44	Teruel	Hombres	128	5	De 2 a 3 años
-Mayo 2017	44	Teruel	Hombres	381	6	Más de 3 años
-Mayo 2017	44	Teruel	Mujeres	1165	1	Hasta 3 meses
-Mayo 2017	44	Teruel	Mujeres	469	2	De 3 a 6 meses
-Mayo 2017	44	Teruel	Mujeres	610	3	De 6 a 12 meses
-Mayo 2017	44	Teruel	Mujeres	495	4	De 1 a 2 años
-Mayo 2017	44	Teruel	Mujeres	291	5	De 2 a 3 años
-Mayo 2017	44	Teruel	Mujeres	531	6	Más de 3 años
-Mayo 2017	50	Zaragoza	Hombres	7344	1	Hasta 3 meses
-Mayo 2017	50	Zaragoza	Hombres	3026	2	De 3 a 6 meses
-Mayo 2017	50	Zaragoza	Hombres	3281	3	De 6 a 12 meses
-Mayo 2017	50	Zaragoza	Hombres	2702	4	De 1 a 2 años
-Mayo 2017	50	Zaragoza	Hombres	1278	5	De 2 a 3 años
-Mayo 2017	50	Zaragoza	Hombres	3972	6	Más de 3 años
-Mayo 2017	50	Zaragoza	Mujeres	8656	1	Hasta 3 meses
-Mayo 2017	50	Zaragoza	Mujeres	4280	2	De 3 a 6 meses
-Mayo 2017	50	Zaragoza	Mujeres	4955	3	De 6 a 12 meses
-Mayo 2017	50	Zaragoza	Mujeres	4502	4	De 1 a 2 años
-Mayo 2017	50	Zaragoza	Mujeres	2506	5	De 2 a 3 años
-Mayo 2017	50	Zaragoza	Mujeres	7412	6	Más de 3 años
-Abril 2017	22	Huesca	Hombres	1570	1	Hasta 3 meses
-Abril 2017	22	Huesca	Hombres	623	2	De 3 a 6 meses
-Abril 2017	22	Huesca	Hombres	591	3	De 6 a 12 meses
-Abril 2017	22	Huesca	Hombres	462	4	De 1 a 2 años
-Abril 2017	22	Huesca	Hombres	228	5	De 2 a 3 años
-Abril 2017	22	Huesca	Hombres	590	6	Más de 3 años
-Abril 2017	22	Huesca	Mujeres	1733	1	Hasta 3 meses
-Abril 2017	22	Huesca	Mujeres	831	2	De 3 a 6 meses
-Abril 2017	22	Huesca	Mujeres	832	3	De 6 a 12 meses
-Abril 2017	22	Huesca	Mujeres	682	4	De 1 a 2 años
-Abril 2017	22	Huesca	Mujeres	354	5	De 2 a 3 años
-Abril 2017	22	Huesca	Mujeres	885	6	Más de 3 años
-Abril 2017	44	Teruel	Hombres	985	1	Hasta 3 meses
-Abril 2017	44	Teruel	Hombres	441	2	De 3 a 6 meses
-Abril 2017	44	Teruel	Hombres	467	3	De 6 a 12 meses
-Abril 2017	44	Teruel	Hombres	318	4	De 1 a 2 años
-Abril 2017	44	Teruel	Hombres	146	5	De 2 a 3 años
-Abril 2017	44	Teruel	Hombres	386	6	Más de 3 años
-Abril 2017	44	Teruel	Mujeres	1189	1	Hasta 3 meses
-Abril 2017	44	Teruel	Mujeres	571	2	De 3 a 6 meses
-Abril 2017	44	Teruel	Mujeres	593	3	De 6 a 12 meses
-Abril 2017	44	Teruel	Mujeres	513	4	De 1 a 2 años
-Abril 2017	44	Teruel	Mujeres	296	5	De 2 a 3 años
-Abril 2017	44	Teruel	Mujeres	550	6	Más de 3 años
-Abril 2017	50	Zaragoza	Hombres	8511	1	Hasta 3 meses
-Abril 2017	50	Zaragoza	Hombres	3685	2	De 3 a 6 meses
-Abril 2017	50	Zaragoza	Hombres	3469	3	De 6 a 12 meses
-Abril 2017	50	Zaragoza	Hombres	2859	4	De 1 a 2 años
-Abril 2017	50	Zaragoza	Hombres	1330	5	De 2 a 3 años
-Abril 2017	50	Zaragoza	Hombres	4066	6	Más de 3 años
-Abril 2017	50	Zaragoza	Mujeres	9211	1	Hasta 3 meses
-Abril 2017	50	Zaragoza	Mujeres	4778	2	De 3 a 6 meses
-Abril 2017	50	Zaragoza	Mujeres	5063	3	De 6 a 12 meses
-Abril 2017	50	Zaragoza	Mujeres	4683	4	De 1 a 2 años
-Abril 2017	50	Zaragoza	Mujeres	2508	5	De 2 a 3 años
-Abril 2017	50	Zaragoza	Mujeres	7523	6	Más de 3 años
-Marzo 2017	22	Huesca	Hombres	1923	1	Hasta 3 meses
-Marzo 2017	22	Huesca	Hombres	659	2	De 3 a 6 meses
-Marzo 2017	22	Huesca	Hombres	588	3	De 6 a 12 meses
-Marzo 2017	22	Huesca	Hombres	483	4	De 1 a 2 años
-Marzo 2017	22	Huesca	Hombres	231	5	De 2 a 3 años
-Marzo 2017	22	Huesca	Hombres	596	6	Más de 3 años
-Marzo 2017	22	Huesca	Mujeres	2012	1	Hasta 3 meses
-Marzo 2017	22	Huesca	Mujeres	902	2	De 3 a 6 meses
-Marzo 2017	22	Huesca	Mujeres	767	3	De 6 a 12 meses
-Marzo 2017	22	Huesca	Mujeres	703	4	De 1 a 2 años
-Marzo 2017	22	Huesca	Mujeres	348	5	De 2 a 3 años
-Marzo 2017	22	Huesca	Mujeres	894	6	Más de 3 años
-Marzo 2017	44	Teruel	Hombres	1146	1	Hasta 3 meses
-Marzo 2017	44	Teruel	Hombres	534	2	De 3 a 6 meses
-Marzo 2017	44	Teruel	Hombres	441	3	De 6 a 12 meses
-Marzo 2017	44	Teruel	Hombres	326	4	De 1 a 2 años
-Marzo 2017	44	Teruel	Hombres	158	5	De 2 a 3 años
-Marzo 2017	44	Teruel	Hombres	411	6	Más de 3 años
-Marzo 2017	44	Teruel	Mujeres	1327	1	Hasta 3 meses
-Marzo 2017	44	Teruel	Mujeres	601	2	De 3 a 6 meses
-Marzo 2017	44	Teruel	Mujeres	547	3	De 6 a 12 meses
-Marzo 2017	44	Teruel	Mujeres	522	4	De 1 a 2 años
-Marzo 2017	44	Teruel	Mujeres	301	5	De 2 a 3 años
-Marzo 2017	44	Teruel	Mujeres	574	6	Más de 3 años
-Marzo 2017	50	Zaragoza	Hombres	9918	1	Hasta 3 meses
-Marzo 2017	50	Zaragoza	Hombres	3923	2	De 3 a 6 meses
-Marzo 2017	50	Zaragoza	Hombres	3195	3	De 6 a 12 meses
-Marzo 2017	50	Zaragoza	Hombres	2891	4	De 1 a 2 años
-Marzo 2017	50	Zaragoza	Hombres	1375	5	De 2 a 3 años
-Marzo 2017	50	Zaragoza	Hombres	4173	6	Más de 3 años
-Marzo 2017	50	Zaragoza	Mujeres	10701	1	Hasta 3 meses
-Marzo 2017	50	Zaragoza	Mujeres	4596	2	De 3 a 6 meses
-Marzo 2017	50	Zaragoza	Mujeres	4854	3	De 6 a 12 meses
-Marzo 2017	50	Zaragoza	Mujeres	4748	4	De 1 a 2 años
-Marzo 2017	50	Zaragoza	Mujeres	2566	5	De 2 a 3 años
-Marzo 2017	50	Zaragoza	Mujeres	7599	6	Más de 3 años
-Febrero 2017	22	Huesca	Hombres	1875	1	Hasta 3 meses
-Febrero 2017	22	Huesca	Hombres	791	2	De 3 a 6 meses
-Febrero 2017	22	Huesca	Hombres	526	3	De 6 a 12 meses
-Febrero 2017	22	Huesca	Hombres	504	4	De 1 a 2 años
-Febrero 2017	22	Huesca	Hombres	234	5	De 2 a 3 años
-Febrero 2017	22	Huesca	Hombres	619	6	Más de 3 años
-Febrero 2017	22	Huesca	Mujeres	2071	1	Hasta 3 meses
-Febrero 2017	22	Huesca	Mujeres	1041	2	De 3 a 6 meses
-Febrero 2017	22	Huesca	Mujeres	662	3	De 6 a 12 meses
-Febrero 2017	22	Huesca	Mujeres	707	4	De 1 a 2 años
-Febrero 2017	22	Huesca	Mujeres	376	5	De 2 a 3 años
-Febrero 2017	22	Huesca	Mujeres	896	6	Más de 3 años
-Febrero 2017	44	Teruel	Hombres	1261	1	Hasta 3 meses
-Febrero 2017	44	Teruel	Hombres	639	2	De 3 a 6 meses
-Febrero 2017	44	Teruel	Hombres	364	3	De 6 a 12 meses
-Febrero 2017	44	Teruel	Hombres	341	4	De 1 a 2 años
-Febrero 2017	44	Teruel	Hombres	167	5	De 2 a 3 años
-Febrero 2017	44	Teruel	Hombres	428	6	Más de 3 años
-Febrero 2017	44	Teruel	Mujeres	1300	1	Hasta 3 meses
-Febrero 2017	44	Teruel	Mujeres	754	2	De 3 a 6 meses
-Febrero 2017	44	Teruel	Mujeres	442	3	De 6 a 12 meses
-Febrero 2017	44	Teruel	Mujeres	543	4	De 1 a 2 años
-Febrero 2017	44	Teruel	Mujeres	308	5	De 2 a 3 años
-Febrero 2017	44	Teruel	Mujeres	571	6	Más de 3 años
-Febrero 2017	50	Zaragoza	Hombres	9980	1	Hasta 3 meses
-Febrero 2017	50	Zaragoza	Hombres	4330	2	De 3 a 6 meses
-Febrero 2017	50	Zaragoza	Hombres	2921	3	De 6 a 12 meses
-Febrero 2017	50	Zaragoza	Hombres	2954	4	De 1 a 2 años
-Febrero 2017	50	Zaragoza	Hombres	1414	5	De 2 a 3 años
-Febrero 2017	50	Zaragoza	Hombres	4281	6	Más de 3 años
-Febrero 2017	50	Zaragoza	Mujeres	11025	1	Hasta 3 meses
-Febrero 2017	50	Zaragoza	Mujeres	5319	2	De 3 a 6 meses
-Febrero 2017	50	Zaragoza	Mujeres	4304	3	De 6 a 12 meses
-Febrero 2017	50	Zaragoza	Mujeres	4823	4	De 1 a 2 años
-Febrero 2017	50	Zaragoza	Mujeres	2641	5	De 2 a 3 años
-Febrero 2017	50	Zaragoza	Mujeres	7681	6	Más de 3 años
-Enero 2017	22	Huesca	Hombres	2068	1	Hasta 3 meses
-Enero 2017	22	Huesca	Hombres	836	2	De 3 a 6 meses
-Enero 2017	22	Huesca	Hombres	518	3	De 6 a 12 meses
-Enero 2017	22	Huesca	Hombres	518	4	De 1 a 2 años
-Enero 2017	22	Huesca	Hombres	256	5	De 2 a 3 años
-Enero 2017	22	Huesca	Hombres	634	6	Más de 3 años
-Enero 2017	22	Huesca	Mujeres	2180	1	Hasta 3 meses
-Enero 2017	22	Huesca	Mujeres	1020	2	De 3 a 6 meses
-Enero 2017	22	Huesca	Mujeres	668	3	De 6 a 12 meses
-Enero 2017	22	Huesca	Mujeres	720	4	De 1 a 2 años
-Enero 2017	22	Huesca	Mujeres	400	5	De 2 a 3 años
-Enero 2017	22	Huesca	Mujeres	895	6	Más de 3 años
-Enero 2017	44	Teruel	Hombres	1499	1	Hasta 3 meses
-Enero 2017	44	Teruel	Hombres	599	2	De 3 a 6 meses
-Enero 2017	44	Teruel	Hombres	354	3	De 6 a 12 meses
-Enero 2017	44	Teruel	Hombres	363	4	De 1 a 2 años
-Enero 2017	44	Teruel	Hombres	175	5	De 2 a 3 años
-Enero 2017	44	Teruel	Hombres	444	6	Más de 3 años
-Enero 2017	44	Teruel	Mujeres	1515	1	Hasta 3 meses
-Enero 2017	44	Teruel	Mujeres	687	2	De 3 a 6 meses
-Enero 2017	44	Teruel	Mujeres	457	3	De 6 a 12 meses
-Enero 2017	44	Teruel	Mujeres	583	4	De 1 a 2 años
-Enero 2017	44	Teruel	Mujeres	308	5	De 2 a 3 años
-Enero 2017	44	Teruel	Mujeres	574	6	Más de 3 años
-Enero 2017	50	Zaragoza	Hombres	10952	1	Hasta 3 meses
-Enero 2017	50	Zaragoza	Hombres	4312	2	De 3 a 6 meses
-Enero 2017	50	Zaragoza	Hombres	2902	3	De 6 a 12 meses
-Enero 2017	50	Zaragoza	Hombres	3053	4	De 1 a 2 años
-Enero 2017	50	Zaragoza	Hombres	1469	5	De 2 a 3 años
-Enero 2017	50	Zaragoza	Hombres	4404	6	Más de 3 años
-Enero 2017	50	Zaragoza	Mujeres	11520	1	Hasta 3 meses
-Enero 2017	50	Zaragoza	Mujeres	5172	2	De 3 a 6 meses
-Enero 2017	50	Zaragoza	Mujeres	4311	3	De 6 a 12 meses
-Enero 2017	50	Zaragoza	Mujeres	5004	4	De 1 a 2 años
-Enero 2017	50	Zaragoza	Mujeres	2705	5	De 2 a 3 años
-Enero 2017	50	Zaragoza	Mujeres	7836	6	Más de 3 años
-Diciembre 2016	22	Huesca	Hombres	2025	1	Hasta 3 meses
-Diciembre 2016	22	Huesca	Hombres	711	2	De 3 a 6 meses
-Diciembre 2016	22	Huesca	Hombres	531	3	De 6 a 12 meses
-Diciembre 2016	22	Huesca	Hombres	523	4	De 1 a 2 años
-Diciembre 2016	22	Huesca	Hombres	255	5	De 2 a 3 años
-Diciembre 2016	22	Huesca	Hombres	645	6	Más de 3 años
-Diciembre 2016	22	Huesca	Mujeres	2082	1	Hasta 3 meses
-Diciembre 2016	22	Huesca	Mujeres	835	2	De 3 a 6 meses
-Diciembre 2016	22	Huesca	Mujeres	668	3	De 6 a 12 meses
-Diciembre 2016	22	Huesca	Mujeres	721	4	De 1 a 2 años
-Diciembre 2016	22	Huesca	Mujeres	407	5	De 2 a 3 años
-Diciembre 2016	22	Huesca	Mujeres	874	6	Más de 3 años
-Diciembre 2016	44	Teruel	Hombres	1493	1	Hasta 3 meses
-Diciembre 2016	44	Teruel	Hombres	524	2	De 3 a 6 meses
-Diciembre 2016	44	Teruel	Hombres	349	3	De 6 a 12 meses
-Diciembre 2016	44	Teruel	Hombres	369	4	De 1 a 2 años
-Diciembre 2016	44	Teruel	Hombres	167	5	De 2 a 3 años
-Diciembre 2016	44	Teruel	Hombres	446	6	Más de 3 años
-Diciembre 2016	44	Teruel	Mujeres	1437	1	Hasta 3 meses
-Diciembre 2016	44	Teruel	Mujeres	566	2	De 3 a 6 meses
-Diciembre 2016	44	Teruel	Mujeres	480	3	De 6 a 12 meses
-Diciembre 2016	44	Teruel	Mujeres	594	4	De 1 a 2 años
-Diciembre 2016	44	Teruel	Mujeres	292	5	De 2 a 3 años
-Diciembre 2016	44	Teruel	Mujeres	572	6	Más de 3 años
-Diciembre 2016	50	Zaragoza	Hombres	11407	1	Hasta 3 meses
-Diciembre 2016	50	Zaragoza	Hombres	3845	2	De 3 a 6 meses
-Diciembre 2016	50	Zaragoza	Hombres	2836	3	De 6 a 12 meses
-Diciembre 2016	50	Zaragoza	Hombres	3076	4	De 1 a 2 años
-Diciembre 2016	50	Zaragoza	Hombres	1520	5	De 2 a 3 años
-Diciembre 2016	50	Zaragoza	Hombres	4426	6	Más de 3 años
-Diciembre 2016	50	Zaragoza	Mujeres	10632	1	Hasta 3 meses
-Diciembre 2016	50	Zaragoza	Mujeres	4747	2	De 3 a 6 meses
-Diciembre 2016	50	Zaragoza	Mujeres	4322	3	De 6 a 12 meses
-Diciembre 2016	50	Zaragoza	Mujeres	5016	4	De 1 a 2 años
-Diciembre 2016	50	Zaragoza	Mujeres	2725	5	De 2 a 3 años
-Diciembre 2016	50	Zaragoza	Mujeres	7815	6	Más de 3 años
-Noviembre 2016	22	Huesca	Hombres	2404	1	Hasta 3 meses
-Noviembre 2016	22	Huesca	Hombres	566	2	De 3 a 6 meses
-Noviembre 2016	22	Huesca	Hombres	523	3	De 6 a 12 meses
-Noviembre 2016	22	Huesca	Hombres	549	4	De 1 a 2 años
-Noviembre 2016	22	Huesca	Hombres	270	5	De 2 a 3 años
-Noviembre 2016	22	Huesca	Hombres	645	6	Más de 3 años
-Noviembre 2016	22	Huesca	Mujeres	2608	1	Hasta 3 meses
-Noviembre 2016	22	Huesca	Mujeres	662	2	De 3 a 6 meses
-Noviembre 2016	22	Huesca	Mujeres	656	3	De 6 a 12 meses
-Noviembre 2016	22	Huesca	Mujeres	757	4	De 1 a 2 años
-Noviembre 2016	22	Huesca	Mujeres	403	5	De 2 a 3 años
-Noviembre 2016	22	Huesca	Mujeres	883	6	Más de 3 años
-Noviembre 2016	44	Teruel	Hombres	1637	1	Hasta 3 meses
-Noviembre 2016	44	Teruel	Hombres	423	2	De 3 a 6 meses
-Noviembre 2016	44	Teruel	Hombres	335	3	De 6 a 12 meses
-Noviembre 2016	44	Teruel	Hombres	373	4	De 1 a 2 años
-Noviembre 2016	44	Teruel	Hombres	173	5	De 2 a 3 años
-Noviembre 2016	44	Teruel	Hombres	469	6	Más de 3 años
-Noviembre 2016	44	Teruel	Mujeres	1805	1	Hasta 3 meses
-Noviembre 2016	44	Teruel	Mujeres	427	2	De 3 a 6 meses
-Noviembre 2016	44	Teruel	Mujeres	463	3	De 6 a 12 meses
-Noviembre 2016	44	Teruel	Mujeres	634	4	De 1 a 2 años
-Noviembre 2016	44	Teruel	Mujeres	288	5	De 2 a 3 años
-Noviembre 2016	44	Teruel	Mujeres	584	6	Más de 3 años
-Noviembre 2016	50	Zaragoza	Hombres	11596	1	Hasta 3 meses
-Noviembre 2016	50	Zaragoza	Hombres	3251	2	De 3 a 6 meses
-Noviembre 2016	50	Zaragoza	Hombres	2853	3	De 6 a 12 meses
-Noviembre 2016	50	Zaragoza	Hombres	3119	4	De 1 a 2 años
-Noviembre 2016	50	Zaragoza	Hombres	1539	5	De 2 a 3 años
-Noviembre 2016	50	Zaragoza	Hombres	4491	6	Más de 3 años
-Noviembre 2016	50	Zaragoza	Mujeres	12133	1	Hasta 3 meses
-Noviembre 2016	50	Zaragoza	Mujeres	3927	2	De 3 a 6 meses
-Noviembre 2016	50	Zaragoza	Mujeres	4216	3	De 6 a 12 meses
-Noviembre 2016	50	Zaragoza	Mujeres	5163	4	De 1 a 2 años
-Noviembre 2016	50	Zaragoza	Mujeres	2735	5	De 2 a 3 años
-Noviembre 2016	50	Zaragoza	Mujeres	7923	6	Más de 3 años
-Octubre 2016	22	Huesca	Hombres	2496	1	Hasta 3 meses
-Octubre 2016	22	Huesca	Hombres	524	2	De 3 a 6 meses
-Octubre 2016	22	Huesca	Hombres	543	3	De 6 a 12 meses
-Octubre 2016	22	Huesca	Hombres	545	4	De 1 a 2 años
-Octubre 2016	22	Huesca	Hombres	280	5	De 2 a 3 años
-Octubre 2016	22	Huesca	Hombres	659	6	Más de 3 años
-Octubre 2016	22	Huesca	Mujeres	2590	1	Hasta 3 meses
-Octubre 2016	22	Huesca	Mujeres	620	2	De 3 a 6 meses
-Octubre 2016	22	Huesca	Mujeres	688	3	De 6 a 12 meses
-Octubre 2016	22	Huesca	Mujeres	775	4	De 1 a 2 años
-Octubre 2016	22	Huesca	Mujeres	401	5	De 2 a 3 años
-Octubre 2016	22	Huesca	Mujeres	891	6	Más de 3 años
-Octubre 2016	44	Teruel	Hombres	1569	1	Hasta 3 meses
-Octubre 2016	44	Teruel	Hombres	374	2	De 3 a 6 meses
-Octubre 2016	44	Teruel	Hombres	349	3	De 6 a 12 meses
-Octubre 2016	44	Teruel	Hombres	366	4	De 1 a 2 años
-Octubre 2016	44	Teruel	Hombres	174	5	De 2 a 3 años
-Octubre 2016	44	Teruel	Hombres	466	6	Más de 3 años
-Octubre 2016	44	Teruel	Mujeres	1630	1	Hasta 3 meses
-Octubre 2016	44	Teruel	Mujeres	411	2	De 3 a 6 meses
-Octubre 2016	44	Teruel	Mujeres	484	3	De 6 a 12 meses
-Octubre 2016	44	Teruel	Mujeres	646	4	De 1 a 2 años
-Octubre 2016	44	Teruel	Mujeres	294	5	De 2 a 3 años
-Octubre 2016	44	Teruel	Mujeres	579	6	Más de 3 años
-Octubre 2016	50	Zaragoza	Hombres	11306	1	Hasta 3 meses
-Octubre 2016	50	Zaragoza	Hombres	3058	2	De 3 a 6 meses
-Octubre 2016	50	Zaragoza	Hombres	3052	3	De 6 a 12 meses
-Octubre 2016	50	Zaragoza	Hombres	3132	4	De 1 a 2 años
-Octubre 2016	50	Zaragoza	Hombres	1606	5	De 2 a 3 años
-Octubre 2016	50	Zaragoza	Hombres	4541	6	Más de 3 años
-Octubre 2016	50	Zaragoza	Mujeres	11884	1	Hasta 3 meses
-Octubre 2016	50	Zaragoza	Mujeres	3835	2	De 3 a 6 meses
-Octubre 2016	50	Zaragoza	Mujeres	4351	3	De 6 a 12 meses
-Octubre 2016	50	Zaragoza	Mujeres	5173	4	De 1 a 2 años
-Octubre 2016	50	Zaragoza	Mujeres	2815	5	De 2 a 3 años
-Octubre 2016	50	Zaragoza	Mujeres	7948	6	Más de 3 años
-Septiembre 2016	22	Huesca	Hombres	2313	1	Hasta 3 meses
-Septiembre 2016	22	Huesca	Hombres	538	2	De 3 a 6 meses
-Septiembre 2016	22	Huesca	Hombres	594	3	De 6 a 12 meses
-Septiembre 2016	22	Huesca	Hombres	562	4	De 1 a 2 años
-Septiembre 2016	22	Huesca	Hombres	289	5	De 2 a 3 años
-Septiembre 2016	22	Huesca	Hombres	679	6	Más de 3 años
-Septiembre 2016	22	Huesca	Mujeres	2337	1	Hasta 3 meses
-Septiembre 2016	22	Huesca	Mujeres	634	2	De 3 a 6 meses
-Septiembre 2016	22	Huesca	Mujeres	726	3	De 6 a 12 meses
-Septiembre 2016	22	Huesca	Mujeres	757	4	De 1 a 2 años
-Septiembre 2016	22	Huesca	Mujeres	420	5	De 2 a 3 años
-Septiembre 2016	22	Huesca	Mujeres	890	6	Más de 3 años
-Septiembre 2016	44	Teruel	Hombres	1375	1	Hasta 3 meses
-Septiembre 2016	44	Teruel	Hombres	329	2	De 3 a 6 meses
-Septiembre 2016	44	Teruel	Hombres	401	3	De 6 a 12 meses
-Septiembre 2016	44	Teruel	Hombres	378	4	De 1 a 2 años
-Septiembre 2016	44	Teruel	Hombres	189	5	De 2 a 3 años
-Septiembre 2016	44	Teruel	Hombres	474	6	Más de 3 años
-Septiembre 2016	44	Teruel	Mujeres	1439	1	Hasta 3 meses
-Septiembre 2016	44	Teruel	Mujeres	399	2	De 3 a 6 meses
-Septiembre 2016	44	Teruel	Mujeres	527	3	De 6 a 12 meses
-Septiembre 2016	44	Teruel	Mujeres	650	4	De 1 a 2 años
-Septiembre 2016	44	Teruel	Mujeres	290	5	De 2 a 3 años
-Septiembre 2016	44	Teruel	Mujeres	568	6	Más de 3 años
-Septiembre 2016	50	Zaragoza	Hombres	10501	1	Hasta 3 meses
-Septiembre 2016	50	Zaragoza	Hombres	2877	2	De 3 a 6 meses
-Septiembre 2016	50	Zaragoza	Hombres	3430	3	De 6 a 12 meses
-Septiembre 2016	50	Zaragoza	Hombres	3198	4	De 1 a 2 años
-Septiembre 2016	50	Zaragoza	Hombres	1632	5	De 2 a 3 años
-Septiembre 2016	50	Zaragoza	Hombres	4621	6	Más de 3 años
-Septiembre 2016	50	Zaragoza	Mujeres	11442	1	Hasta 3 meses
-Septiembre 2016	50	Zaragoza	Mujeres	3799	2	De 3 a 6 meses
-Septiembre 2016	50	Zaragoza	Mujeres	4725	3	De 6 a 12 meses
-Septiembre 2016	50	Zaragoza	Mujeres	5283	4	De 1 a 2 años
-Septiembre 2016	50	Zaragoza	Mujeres	2828	5	De 2 a 3 años
-Septiembre 2016	50	Zaragoza	Mujeres	8029	6	Más de 3 años
-Agosto 2016	22	Huesca	Hombres	1770	1	Hasta 3 meses
-Agosto 2016	22	Huesca	Hombres	519	2	De 3 a 6 meses
-Agosto 2016	22	Huesca	Hombres	616	3	De 6 a 12 meses
-Agosto 2016	22	Huesca	Hombres	589	4	De 1 a 2 años
-Agosto 2016	22	Huesca	Hombres	282	5	De 2 a 3 años
-Agosto 2016	22	Huesca	Hombres	700	6	Más de 3 años
-Agosto 2016	22	Huesca	Mujeres	1913	1	Hasta 3 meses
-Agosto 2016	22	Huesca	Mujeres	632	2	De 3 a 6 meses
-Agosto 2016	22	Huesca	Mujeres	819	3	De 6 a 12 meses
-Agosto 2016	22	Huesca	Mujeres	776	4	De 1 a 2 años
-Agosto 2016	22	Huesca	Mujeres	404	5	De 2 a 3 años
-Agosto 2016	22	Huesca	Mujeres	880	6	Más de 3 años
-Agosto 2016	44	Teruel	Hombres	1311	1	Hasta 3 meses
-Agosto 2016	44	Teruel	Hombres	335	2	De 3 a 6 meses
-Agosto 2016	44	Teruel	Hombres	443	3	De 6 a 12 meses
-Agosto 2016	44	Teruel	Hombres	417	4	De 1 a 2 años
-Agosto 2016	44	Teruel	Hombres	184	5	De 2 a 3 años
-Agosto 2016	44	Teruel	Hombres	484	6	Más de 3 años
-Agosto 2016	44	Teruel	Mujeres	1198	1	Hasta 3 meses
-Agosto 2016	44	Teruel	Mujeres	379	2	De 3 a 6 meses
-Agosto 2016	44	Teruel	Mujeres	623	3	De 6 a 12 meses
-Agosto 2016	44	Teruel	Mujeres	636	4	De 1 a 2 años
-Agosto 2016	44	Teruel	Mujeres	278	5	De 2 a 3 años
-Agosto 2016	44	Teruel	Mujeres	560	6	Más de 3 años
-Agosto 2016	50	Zaragoza	Hombres	9552	1	Hasta 3 meses
-Agosto 2016	50	Zaragoza	Hombres	2807	2	De 3 a 6 meses
-Agosto 2016	50	Zaragoza	Hombres	3689	3	De 6 a 12 meses
-Agosto 2016	50	Zaragoza	Hombres	3301	4	De 1 a 2 años
-Agosto 2016	50	Zaragoza	Hombres	1633	5	De 2 a 3 años
-Agosto 2016	50	Zaragoza	Hombres	4669	6	Más de 3 años
-Agosto 2016	50	Zaragoza	Mujeres	10347	1	Hasta 3 meses
-Agosto 2016	50	Zaragoza	Mujeres	3692	2	De 3 a 6 meses
-Agosto 2016	50	Zaragoza	Mujeres	5133	3	De 6 a 12 meses
-Agosto 2016	50	Zaragoza	Mujeres	5364	4	De 1 a 2 años
-Agosto 2016	50	Zaragoza	Mujeres	2891	5	De 2 a 3 años
-Agosto 2016	50	Zaragoza	Mujeres	8014	6	Más de 3 años
-Julio 2016	22	Huesca	Hombres	1576	1	Hasta 3 meses
-Julio 2016	22	Huesca	Hombres	579	2	De 3 a 6 meses
-Julio 2016	22	Huesca	Hombres	688	3	De 6 a 12 meses
-Julio 2016	22	Huesca	Hombres	593	4	De 1 a 2 años
-Julio 2016	22	Huesca	Hombres	290	5	De 2 a 3 años
-Julio 2016	22	Huesca	Hombres	715	6	Más de 3 años
-Julio 2016	22	Huesca	Mujeres	1798	1	Hasta 3 meses
-Julio 2016	22	Huesca	Mujeres	649	2	De 3 a 6 meses
-Julio 2016	22	Huesca	Mujeres	878	3	De 6 a 12 meses
-Julio 2016	22	Huesca	Mujeres	794	4	De 1 a 2 años
-Julio 2016	22	Huesca	Mujeres	423	5	De 2 a 3 años
-Julio 2016	22	Huesca	Mujeres	888	6	Más de 3 años
-Julio 2016	44	Teruel	Hombres	1181	1	Hasta 3 meses
-Julio 2016	44	Teruel	Hombres	375	2	De 3 a 6 meses
-Julio 2016	44	Teruel	Hombres	465	3	De 6 a 12 meses
-Julio 2016	44	Teruel	Hombres	440	4	De 1 a 2 años
-Julio 2016	44	Teruel	Hombres	184	5	De 2 a 3 años
-Julio 2016	44	Teruel	Hombres	492	6	Más de 3 años
-Julio 2016	44	Teruel	Mujeres	1169	1	Hasta 3 meses
-Julio 2016	44	Teruel	Mujeres	413	2	De 3 a 6 meses
-Julio 2016	44	Teruel	Mujeres	665	3	De 6 a 12 meses
-Julio 2016	44	Teruel	Mujeres	656	4	De 1 a 2 años
-Julio 2016	44	Teruel	Mujeres	281	5	De 2 a 3 años
-Julio 2016	44	Teruel	Mujeres	576	6	Más de 3 años
-Julio 2016	50	Zaragoza	Hombres	9039	1	Hasta 3 meses
-Julio 2016	50	Zaragoza	Hombres	2980	2	De 3 a 6 meses
-Julio 2016	50	Zaragoza	Hombres	3837	3	De 6 a 12 meses
-Julio 2016	50	Zaragoza	Hombres	3370	4	De 1 a 2 años
-Julio 2016	50	Zaragoza	Hombres	1681	5	De 2 a 3 años
-Julio 2016	50	Zaragoza	Hombres	4710	6	Más de 3 años
-Julio 2016	50	Zaragoza	Mujeres	9808	1	Hasta 3 meses
-Julio 2016	50	Zaragoza	Mujeres	3804	2	De 3 a 6 meses
-Julio 2016	50	Zaragoza	Mujeres	5328	3	De 6 a 12 meses
-Julio 2016	50	Zaragoza	Mujeres	5412	4	De 1 a 2 años
-Julio 2016	50	Zaragoza	Mujeres	2964	5	De 2 a 3 años
-Julio 2016	50	Zaragoza	Mujeres	8069	6	Más de 3 años
-Junio 2016	22	Huesca	Hombres	1716	1	Hasta 3 meses
-Junio 2016	22	Huesca	Hombres	637	2	De 3 a 6 meses
-Junio 2016	22	Huesca	Hombres	692	3	De 6 a 12 meses
-Junio 2016	22	Huesca	Hombres	620	4	De 1 a 2 años
-Junio 2016	22	Huesca	Hombres	302	5	De 2 a 3 años
-Junio 2016	22	Huesca	Hombres	731	6	Más de 3 años
-Junio 2016	22	Huesca	Mujeres	1812	1	Hasta 3 meses
-Junio 2016	22	Huesca	Mujeres	696	2	De 3 a 6 meses
-Junio 2016	22	Huesca	Mujeres	925	3	De 6 a 12 meses
-Junio 2016	22	Huesca	Mujeres	826	4	De 1 a 2 años
-Junio 2016	22	Huesca	Mujeres	438	5	De 2 a 3 años
-Junio 2016	22	Huesca	Mujeres	909	6	Más de 3 años
-Junio 2016	44	Teruel	Hombres	1182	1	Hasta 3 meses
-Junio 2016	44	Teruel	Hombres	429	2	De 3 a 6 meses
-Junio 2016	44	Teruel	Hombres	535	3	De 6 a 12 meses
-Junio 2016	44	Teruel	Hombres	444	4	De 1 a 2 años
-Junio 2016	44	Teruel	Hombres	201	5	De 2 a 3 años
-Junio 2016	44	Teruel	Hombres	491	6	Más de 3 años
-Junio 2016	44	Teruel	Mujeres	1208	1	Hasta 3 meses
-Junio 2016	44	Teruel	Mujeres	523	2	De 3 a 6 meses
-Junio 2016	44	Teruel	Mujeres	701	3	De 6 a 12 meses
-Junio 2016	44	Teruel	Mujeres	653	4	De 1 a 2 años
-Junio 2016	44	Teruel	Mujeres	303	5	De 2 a 3 años
-Junio 2016	44	Teruel	Mujeres	589	6	Más de 3 años
-Junio 2016	50	Zaragoza	Hombres	8281	1	Hasta 3 meses
-Junio 2016	50	Zaragoza	Hombres	3385	2	De 3 a 6 meses
-Junio 2016	50	Zaragoza	Hombres	4090	3	De 6 a 12 meses
-Junio 2016	50	Zaragoza	Hombres	3514	4	De 1 a 2 años
-Junio 2016	50	Zaragoza	Hombres	1709	5	De 2 a 3 años
-Junio 2016	50	Zaragoza	Hombres	4741	6	Más de 3 años
-Junio 2016	50	Zaragoza	Mujeres	9417	1	Hasta 3 meses
-Junio 2016	50	Zaragoza	Mujeres	4331	2	De 3 a 6 meses
-Junio 2016	50	Zaragoza	Mujeres	5410	3	De 6 a 12 meses
-Junio 2016	50	Zaragoza	Mujeres	5492	4	De 1 a 2 años
-Junio 2016	50	Zaragoza	Mujeres	3024	5	De 2 a 3 años
-Junio 2016	50	Zaragoza	Mujeres	8105	6	Más de 3 años
-Mayo 2016	22	Huesca	Hombres	1753	1	Hasta 3 meses
-Mayo 2016	22	Huesca	Hombres	745	2	De 3 a 6 meses
-Mayo 2016	22	Huesca	Hombres	817	3	De 6 a 12 meses
-Mayo 2016	22	Huesca	Hombres	662	4	De 1 a 2 años
-Mayo 2016	22	Huesca	Hombres	287	5	De 2 a 3 años
-Mayo 2016	22	Huesca	Hombres	734	6	Más de 3 años
-Mayo 2016	22	Huesca	Mujeres	1842	1	Hasta 3 meses
-Mayo 2016	22	Huesca	Mujeres	783	2	De 3 a 6 meses
-Mayo 2016	22	Huesca	Mujeres	1062	3	De 6 a 12 meses
-Mayo 2016	22	Huesca	Mujeres	861	4	De 1 a 2 años
-Mayo 2016	22	Huesca	Mujeres	456	5	De 2 a 3 años
-Mayo 2016	22	Huesca	Mujeres	929	6	Más de 3 años
-Mayo 2016	44	Teruel	Hombres	1138	1	Hasta 3 meses
-Mayo 2016	44	Teruel	Hombres	516	2	De 3 a 6 meses
-Mayo 2016	44	Teruel	Hombres	632	3	De 6 a 12 meses
-Mayo 2016	44	Teruel	Hombres	468	4	De 1 a 2 años
-Mayo 2016	44	Teruel	Hombres	212	5	De 2 a 3 años
-Mayo 2016	44	Teruel	Hombres	515	6	Más de 3 años
-Mayo 2016	44	Teruel	Mujeres	1239	1	Hasta 3 meses
-Mayo 2016	44	Teruel	Mujeres	522	2	De 3 a 6 meses
-Mayo 2016	44	Teruel	Mujeres	832	3	De 6 a 12 meses
-Mayo 2016	44	Teruel	Mujeres	666	4	De 1 a 2 años
-Mayo 2016	44	Teruel	Mujeres	305	5	De 2 a 3 años
-Mayo 2016	44	Teruel	Mujeres	591	6	Más de 3 años
-Mayo 2016	50	Zaragoza	Hombres	8693	1	Hasta 3 meses
-Mayo 2016	50	Zaragoza	Hombres	3968	2	De 3 a 6 meses
-Mayo 2016	50	Zaragoza	Hombres	4718	3	De 6 a 12 meses
-Mayo 2016	50	Zaragoza	Hombres	3607	4	De 1 a 2 años
-Mayo 2016	50	Zaragoza	Hombres	1795	5	De 2 a 3 años
-Mayo 2016	50	Zaragoza	Hombres	4867	6	Más de 3 años
-Mayo 2016	50	Zaragoza	Mujeres	9305	1	Hasta 3 meses
-Mayo 2016	50	Zaragoza	Mujeres	4672	2	De 3 a 6 meses
-Mayo 2016	50	Zaragoza	Mujeres	6057	3	De 6 a 12 meses
-Mayo 2016	50	Zaragoza	Mujeres	5587	4	De 1 a 2 años
-Mayo 2016	50	Zaragoza	Mujeres	3091	5	De 2 a 3 años
-Mayo 2016	50	Zaragoza	Mujeres	8159	6	Más de 3 años
-Abril 2016	22	Huesca	Hombres	2044	1	Hasta 3 meses
-Abril 2016	22	Huesca	Hombres	875	2	De 3 a 6 meses
-Abril 2016	22	Huesca	Hombres	892	3	De 6 a 12 meses
-Abril 2016	22	Huesca	Hombres	693	4	De 1 a 2 años
-Abril 2016	22	Huesca	Hombres	299	5	De 2 a 3 años
-Abril 2016	22	Huesca	Hombres	750	6	Más de 3 años
-Abril 2016	22	Huesca	Mujeres	1990	1	Hasta 3 meses
-Abril 2016	22	Huesca	Mujeres	910	2	De 3 a 6 meses
-Abril 2016	22	Huesca	Mujeres	1153	3	De 6 a 12 meses
-Abril 2016	22	Huesca	Mujeres	882	4	De 1 a 2 años
-Abril 2016	22	Huesca	Mujeres	472	5	De 2 a 3 años
-Abril 2016	22	Huesca	Mujeres	918	6	Más de 3 años
-Abril 2016	44	Teruel	Hombres	1237	1	Hasta 3 meses
-Abril 2016	44	Teruel	Hombres	692	2	De 3 a 6 meses
-Abril 2016	44	Teruel	Hombres	639	3	De 6 a 12 meses
-Abril 2016	44	Teruel	Hombres	485	4	De 1 a 2 años
-Abril 2016	44	Teruel	Hombres	217	5	De 2 a 3 años
-Abril 2016	44	Teruel	Hombres	516	6	Más de 3 años
-Abril 2016	44	Teruel	Mujeres	1247	1	Hasta 3 meses
-Abril 2016	44	Teruel	Mujeres	696	2	De 3 a 6 meses
-Abril 2016	44	Teruel	Mujeres	774	3	De 6 a 12 meses
-Abril 2016	44	Teruel	Mujeres	686	4	De 1 a 2 años
-Abril 2016	44	Teruel	Mujeres	301	5	De 2 a 3 años
-Abril 2016	44	Teruel	Mujeres	601	6	Más de 3 años
-Abril 2016	50	Zaragoza	Hombres	9838	1	Hasta 3 meses
-Abril 2016	50	Zaragoza	Hombres	4495	2	De 3 a 6 meses
-Abril 2016	50	Zaragoza	Hombres	4846	3	De 6 a 12 meses
-Abril 2016	50	Zaragoza	Hombres	3758	4	De 1 a 2 años
-Abril 2016	50	Zaragoza	Hombres	1849	5	De 2 a 3 años
-Abril 2016	50	Zaragoza	Hombres	4908	6	Más de 3 años
-Abril 2016	50	Zaragoza	Mujeres	9743	1	Hasta 3 meses
-Abril 2016	50	Zaragoza	Mujeres	5079	2	De 3 a 6 meses
-Abril 2016	50	Zaragoza	Mujeres	6167	3	De 6 a 12 meses
-Abril 2016	50	Zaragoza	Mujeres	5697	4	De 1 a 2 años
-Abril 2016	50	Zaragoza	Mujeres	3172	5	De 2 a 3 años
-Abril 2016	50	Zaragoza	Mujeres	8226	6	Más de 3 años
-Marzo 2016	22	Huesca	Hombres	2102	1	Hasta 3 meses
-Marzo 2016	22	Huesca	Hombres	895	2	De 3 a 6 meses
-Marzo 2016	22	Huesca	Hombres	823	3	De 6 a 12 meses
-Marzo 2016	22	Huesca	Hombres	713	4	De 1 a 2 años
-Marzo 2016	22	Huesca	Hombres	316	5	De 2 a 3 años
-Marzo 2016	22	Huesca	Hombres	760	6	Más de 3 años
-Marzo 2016	22	Huesca	Mujeres	1988	1	Hasta 3 meses
-Marzo 2016	22	Huesca	Mujeres	998	2	De 3 a 6 meses
-Marzo 2016	22	Huesca	Mujeres	987	3	De 6 a 12 meses
-Marzo 2016	22	Huesca	Mujeres	892	4	De 1 a 2 años
-Marzo 2016	22	Huesca	Mujeres	481	5	De 2 a 3 años
-Marzo 2016	22	Huesca	Mujeres	914	6	Más de 3 años
-Marzo 2016	44	Teruel	Hombres	1339	1	Hasta 3 meses
-Marzo 2016	44	Teruel	Hombres	825	2	De 3 a 6 meses
-Marzo 2016	44	Teruel	Hombres	539	3	De 6 a 12 meses
-Marzo 2016	44	Teruel	Hombres	506	4	De 1 a 2 años
-Marzo 2016	44	Teruel	Hombres	227	5	De 2 a 3 años
-Marzo 2016	44	Teruel	Hombres	525	6	Más de 3 años
-Marzo 2016	44	Teruel	Mujeres	1309	1	Hasta 3 meses
-Marzo 2016	44	Teruel	Mujeres	737	2	De 3 a 6 meses
-Marzo 2016	44	Teruel	Mujeres	683	3	De 6 a 12 meses
-Marzo 2016	44	Teruel	Mujeres	693	4	De 1 a 2 años
-Marzo 2016	44	Teruel	Mujeres	330	5	De 2 a 3 años
-Marzo 2016	44	Teruel	Mujeres	592	6	Más de 3 años
-Marzo 2016	50	Zaragoza	Hombres	10755	1	Hasta 3 meses
-Marzo 2016	50	Zaragoza	Hombres	5037	2	De 3 a 6 meses
-Marzo 2016	50	Zaragoza	Hombres	4256	3	De 6 a 12 meses
-Marzo 2016	50	Zaragoza	Hombres	3951	4	De 1 a 2 años
-Marzo 2016	50	Zaragoza	Hombres	1932	5	De 2 a 3 años
-Marzo 2016	50	Zaragoza	Hombres	4941	6	Más de 3 años
-Marzo 2016	50	Zaragoza	Mujeres	10482	1	Hasta 3 meses
-Marzo 2016	50	Zaragoza	Mujeres	5068	2	De 3 a 6 meses
-Marzo 2016	50	Zaragoza	Mujeres	5740	3	De 6 a 12 meses
-Marzo 2016	50	Zaragoza	Mujeres	5829	4	De 1 a 2 años
-Marzo 2016	50	Zaragoza	Mujeres	3306	5	De 2 a 3 años
-Marzo 2016	50	Zaragoza	Mujeres	8170	6	Más de 3 años
-Febrero 2016	22	Huesca	Hombres	2189	1	Hasta 3 meses
-Febrero 2016	22	Huesca	Hombres	1062	2	De 3 a 6 meses
-Febrero 2016	22	Huesca	Hombres	699	3	De 6 a 12 meses
-Febrero 2016	22	Huesca	Hombres	731	4	De 1 a 2 años
-Febrero 2016	22	Huesca	Hombres	319	5	De 2 a 3 años
-Febrero 2016	22	Huesca	Hombres	752	6	Más de 3 años
-Febrero 2016	22	Huesca	Mujeres	2156	1	Hasta 3 meses
-Febrero 2016	22	Huesca	Mujeres	1206	2	De 3 a 6 meses
-Febrero 2016	22	Huesca	Mujeres	795	3	De 6 a 12 meses
-Febrero 2016	22	Huesca	Mujeres	921	4	De 1 a 2 años
-Febrero 2016	22	Huesca	Mujeres	468	5	De 2 a 3 años
-Febrero 2016	22	Huesca	Mujeres	922	6	Más de 3 años
-Febrero 2016	44	Teruel	Hombres	1483	1	Hasta 3 meses
-Febrero 2016	44	Teruel	Hombres	804	2	De 3 a 6 meses
-Febrero 2016	44	Teruel	Hombres	485	3	De 6 a 12 meses
-Febrero 2016	44	Teruel	Hombres	515	4	De 1 a 2 años
-Febrero 2016	44	Teruel	Hombres	225	5	De 2 a 3 años
-Febrero 2016	44	Teruel	Hombres	527	6	Más de 3 años
-Febrero 2016	44	Teruel	Mujeres	1351	1	Hasta 3 meses
-Febrero 2016	44	Teruel	Mujeres	918	2	De 3 a 6 meses
-Febrero 2016	44	Teruel	Mujeres	572	3	De 6 a 12 meses
-Febrero 2016	44	Teruel	Mujeres	703	4	De 1 a 2 años
-Febrero 2016	44	Teruel	Mujeres	331	5	De 2 a 3 años
-Febrero 2016	44	Teruel	Mujeres	609	6	Más de 3 años
-Febrero 2016	50	Zaragoza	Hombres	10755	1	Hasta 3 meses
-Febrero 2016	50	Zaragoza	Hombres	5429	2	De 3 a 6 meses
-Febrero 2016	50	Zaragoza	Hombres	3684	3	De 6 a 12 meses
-Febrero 2016	50	Zaragoza	Hombres	3980	4	De 1 a 2 años
-Febrero 2016	50	Zaragoza	Hombres	2022	5	De 2 a 3 años
-Febrero 2016	50	Zaragoza	Hombres	4982	6	Más de 3 años
-Febrero 2016	50	Zaragoza	Mujeres	10726	1	Hasta 3 meses
-Febrero 2016	50	Zaragoza	Mujeres	5848	2	De 3 a 6 meses
-Febrero 2016	50	Zaragoza	Mujeres	5117	3	De 6 a 12 meses
-Febrero 2016	50	Zaragoza	Mujeres	5889	4	De 1 a 2 años
-Febrero 2016	50	Zaragoza	Mujeres	3358	5	De 2 a 3 años
-Febrero 2016	50	Zaragoza	Mujeres	8149	6	Más de 3 años
-Enero 2016	22	Huesca	Hombres	2285	1	Hasta 3 meses
-Enero 2016	22	Huesca	Hombres	1035	2	De 3 a 6 meses
-Enero 2016	22	Huesca	Hombres	637	3	De 6 a 12 meses
-Enero 2016	22	Huesca	Hombres	754	4	De 1 a 2 años
-Enero 2016	22	Huesca	Hombres	318	5	De 2 a 3 años
-Enero 2016	22	Huesca	Hombres	763	6	Más de 3 años
-Enero 2016	22	Huesca	Mujeres	2179	1	Hasta 3 meses
-Enero 2016	22	Huesca	Mujeres	1223	2	De 3 a 6 meses
-Enero 2016	22	Huesca	Mujeres	786	3	De 6 a 12 meses
-Enero 2016	22	Huesca	Mujeres	933	4	De 1 a 2 años
-Enero 2016	22	Huesca	Mujeres	472	5	De 2 a 3 años
-Enero 2016	22	Huesca	Mujeres	921	6	Más de 3 años
-Enero 2016	44	Teruel	Hombres	1687	1	Hasta 3 meses
-Enero 2016	44	Teruel	Hombres	720	2	De 3 a 6 meses
-Enero 2016	44	Teruel	Hombres	479	3	De 6 a 12 meses
-Enero 2016	44	Teruel	Hombres	509	4	De 1 a 2 años
-Enero 2016	44	Teruel	Hombres	240	5	De 2 a 3 años
-Enero 2016	44	Teruel	Hombres	526	6	Más de 3 años
-Enero 2016	44	Teruel	Mujeres	1559	1	Hasta 3 meses
-Enero 2016	44	Teruel	Mujeres	800	2	De 3 a 6 meses
-Enero 2016	44	Teruel	Mujeres	563	3	De 6 a 12 meses
-Enero 2016	44	Teruel	Mujeres	708	4	De 1 a 2 años
-Enero 2016	44	Teruel	Mujeres	318	5	De 2 a 3 años
-Enero 2016	44	Teruel	Mujeres	603	6	Más de 3 años
-Enero 2016	50	Zaragoza	Hombres	11198	1	Hasta 3 meses
-Enero 2016	50	Zaragoza	Hombres	5120	2	De 3 a 6 meses
-Enero 2016	50	Zaragoza	Hombres	3605	3	De 6 a 12 meses
-Enero 2016	50	Zaragoza	Hombres	3983	4	De 1 a 2 años
-Enero 2016	50	Zaragoza	Hombres	2079	5	De 2 a 3 años
-Enero 2016	50	Zaragoza	Hombres	4977	6	Más de 3 años
-Enero 2016	50	Zaragoza	Mujeres	11167	1	Hasta 3 meses
-Enero 2016	50	Zaragoza	Mujeres	5772	2	De 3 a 6 meses
-Enero 2016	50	Zaragoza	Mujeres	4954	3	De 6 a 12 meses
-Enero 2016	50	Zaragoza	Mujeres	5893	4	De 1 a 2 años
-Enero 2016	50	Zaragoza	Mujeres	3432	5	De 2 a 3 años
-Enero 2016	50	Zaragoza	Mujeres	8147	6	Más de 3 años
+October 2020	22	Huesca	Hombres	1796	1	Hasta 3 meses
+October 2020	22	Huesca	Hombres	740	2	De 3 a 6 meses
+October 2020	22	Huesca	Hombres	1079	3	De 6 a 12 meses
+October 2020	22	Huesca	Hombres	586	4	De 1 a 2 años
+October 2020	22	Huesca	Hombres	171	5	De 2 a 3 años
+October 2020	22	Huesca	Hombres	376	6	Más de 3 años
+October 2020	22	Huesca	Mujeres	1970	1	Hasta 3 meses
+October 2020	22	Huesca	Mujeres	770	2	De 3 a 6 meses
+October 2020	22	Huesca	Mujeres	1466	3	De 6 a 12 meses
+October 2020	22	Huesca	Mujeres	1082	4	De 1 a 2 años
+October 2020	22	Huesca	Mujeres	344	5	De 2 a 3 años
+October 2020	22	Huesca	Mujeres	669	6	Más de 3 años
+October 2020	44	Teruel	Hombres	973	1	Hasta 3 meses
+October 2020	44	Teruel	Hombres	466	2	De 3 a 6 meses
+October 2020	44	Teruel	Hombres	626	3	De 6 a 12 meses
+October 2020	44	Teruel	Hombres	373	4	De 1 a 2 años
+October 2020	44	Teruel	Hombres	111	5	De 2 a 3 años
+October 2020	44	Teruel	Hombres	236	6	Más de 3 años
+October 2020	44	Teruel	Mujeres	1094	1	Hasta 3 meses
+October 2020	44	Teruel	Mujeres	496	2	De 3 a 6 meses
+October 2020	44	Teruel	Mujeres	904	3	De 6 a 12 meses
+October 2020	44	Teruel	Mujeres	648	4	De 1 a 2 años
+October 2020	44	Teruel	Mujeres	234	5	De 2 a 3 años
+October 2020	44	Teruel	Mujeres	447	6	Más de 3 años
+October 2020	50	Zaragoza	Hombres	7264	1	Hasta 3 meses
+October 2020	50	Zaragoza	Hombres	3541	2	De 3 a 6 meses
+October 2020	50	Zaragoza	Hombres	5901	3	De 6 a 12 meses
+October 2020	50	Zaragoza	Hombres	3892	4	De 1 a 2 años
+October 2020	50	Zaragoza	Hombres	1310	5	De 2 a 3 años
+October 2020	50	Zaragoza	Hombres	2944	6	Más de 3 años
+October 2020	50	Zaragoza	Mujeres	7588	1	Hasta 3 meses
+October 2020	50	Zaragoza	Mujeres	3786	2	De 3 a 6 meses
+October 2020	50	Zaragoza	Mujeres	8216	3	De 6 a 12 meses
+October 2020	50	Zaragoza	Mujeres	6663	4	De 1 a 2 años
+October 2020	50	Zaragoza	Mujeres	2817	5	De 2 a 3 años
+October 2020	50	Zaragoza	Mujeres	6287	6	Más de 3 años
+June 2020	22	Huesca	Hombres	1353	1	Hasta 3 meses
+June 2020	22	Huesca	Hombres	1195	2	De 3 a 6 meses
+June 2020	22	Huesca	Hombres	733	3	De 6 a 12 meses
+June 2020	22	Huesca	Hombres	420	4	De 1 a 2 años
+June 2020	22	Huesca	Hombres	129	5	De 2 a 3 años
+June 2020	22	Huesca	Hombres	362	6	Más de 3 años
+June 2020	22	Huesca	Mujeres	1365	1	Hasta 3 meses
+June 2020	22	Huesca	Mujeres	1537	2	De 3 a 6 meses
+June 2020	22	Huesca	Mujeres	1155	3	De 6 a 12 meses
+June 2020	22	Huesca	Mujeres	774	4	De 1 a 2 años
+June 2020	22	Huesca	Mujeres	278	5	De 2 a 3 años
+June 2020	22	Huesca	Mujeres	621	6	Más de 3 años
+June 2020	44	Teruel	Hombres	928	1	Hasta 3 meses
+June 2020	44	Teruel	Hombres	778	2	De 3 a 6 meses
+June 2020	44	Teruel	Hombres	470	3	De 6 a 12 meses
+June 2020	44	Teruel	Hombres	289	4	De 1 a 2 años
+June 2020	44	Teruel	Hombres	100	5	De 2 a 3 años
+June 2020	44	Teruel	Hombres	234	6	Más de 3 años
+June 2020	44	Teruel	Mujeres	853	1	Hasta 3 meses
+June 2020	44	Teruel	Mujeres	947	2	De 3 a 6 meses
+June 2020	44	Teruel	Mujeres	778	3	De 6 a 12 meses
+June 2020	44	Teruel	Mujeres	490	4	De 1 a 2 años
+June 2020	44	Teruel	Mujeres	178	5	De 2 a 3 años
+June 2020	44	Teruel	Mujeres	433	6	Más de 3 años
+June 2020	50	Zaragoza	Hombres	7097	1	Hasta 3 meses
+June 2020	50	Zaragoza	Hombres	6555	2	De 3 a 6 meses
+June 2020	50	Zaragoza	Hombres	4626	3	De 6 a 12 meses
+June 2020	50	Zaragoza	Hombres	2761	4	De 1 a 2 años
+June 2020	50	Zaragoza	Hombres	1073	5	De 2 a 3 años
+June 2020	50	Zaragoza	Hombres	2795	6	Más de 3 años
+June 2020	50	Zaragoza	Mujeres	6696	1	Hasta 3 meses
+June 2020	50	Zaragoza	Mujeres	8303	2	De 3 a 6 meses
+June 2020	50	Zaragoza	Mujeres	6771	3	De 6 a 12 meses
+June 2020	50	Zaragoza	Mujeres	5064	4	De 1 a 2 años
+June 2020	50	Zaragoza	Mujeres	2361	5	De 2 a 3 años
+June 2020	50	Zaragoza	Mujeres	5958	6	Más de 3 años
+March 2017	22	Huesca	Hombres	1923	1	Hasta 3 meses
+March 2017	22	Huesca	Hombres	659	2	De 3 a 6 meses
+March 2017	22	Huesca	Hombres	588	3	De 6 a 12 meses
+March 2017	22	Huesca	Hombres	483	4	De 1 a 2 años
+March 2017	22	Huesca	Hombres	231	5	De 2 a 3 años
+March 2017	22	Huesca	Hombres	596	6	Más de 3 años
+March 2017	22	Huesca	Mujeres	2012	1	Hasta 3 meses
+March 2017	22	Huesca	Mujeres	902	2	De 3 a 6 meses
+March 2017	22	Huesca	Mujeres	767	3	De 6 a 12 meses
+March 2017	22	Huesca	Mujeres	703	4	De 1 a 2 años
+March 2017	22	Huesca	Mujeres	348	5	De 2 a 3 años
+March 2017	22	Huesca	Mujeres	894	6	Más de 3 años
+March 2017	44	Teruel	Hombres	1146	1	Hasta 3 meses
+March 2017	44	Teruel	Hombres	534	2	De 3 a 6 meses
+March 2017	44	Teruel	Hombres	441	3	De 6 a 12 meses
+March 2017	44	Teruel	Hombres	326	4	De 1 a 2 años
+March 2017	44	Teruel	Hombres	158	5	De 2 a 3 años
+March 2017	44	Teruel	Hombres	411	6	Más de 3 años
+March 2017	44	Teruel	Mujeres	1327	1	Hasta 3 meses
+March 2017	44	Teruel	Mujeres	601	2	De 3 a 6 meses
+March 2017	44	Teruel	Mujeres	547	3	De 6 a 12 meses
+March 2017	44	Teruel	Mujeres	522	4	De 1 a 2 años
+March 2017	44	Teruel	Mujeres	301	5	De 2 a 3 años
+March 2017	44	Teruel	Mujeres	574	6	Más de 3 años
+March 2017	50	Zaragoza	Hombres	9918	1	Hasta 3 meses
+March 2017	50	Zaragoza	Hombres	3923	2	De 3 a 6 meses
+March 2017	50	Zaragoza	Hombres	3195	3	De 6 a 12 meses
+March 2017	50	Zaragoza	Hombres	2891	4	De 1 a 2 años
+March 2017	50	Zaragoza	Hombres	1375	5	De 2 a 3 años
+March 2017	50	Zaragoza	Hombres	4173	6	Más de 3 años
+March 2017	50	Zaragoza	Mujeres	10701	1	Hasta 3 meses
+March 2017	50	Zaragoza	Mujeres	4596	2	De 3 a 6 meses
+March 2017	50	Zaragoza	Mujeres	4854	3	De 6 a 12 meses
+March 2017	50	Zaragoza	Mujeres	4748	4	De 1 a 2 años
+March 2017	50	Zaragoza	Mujeres	2566	5	De 2 a 3 años
+March 2017	50	Zaragoza	Mujeres	7599	6	Más de 3 años
+February 2017	22	Huesca	Hombres	1875	1	Hasta 3 meses
+February 2017	22	Huesca	Hombres	791	2	De 3 a 6 meses
+February 2017	22	Huesca	Hombres	526	3	De 6 a 12 meses
+February 2017	22	Huesca	Hombres	504	4	De 1 a 2 años
+February 2017	22	Huesca	Hombres	234	5	De 2 a 3 años
+February 2017	22	Huesca	Hombres	619	6	Más de 3 años
+February 2017	22	Huesca	Mujeres	2071	1	Hasta 3 meses
+February 2017	22	Huesca	Mujeres	1041	2	De 3 a 6 meses
+February 2017	22	Huesca	Mujeres	662	3	De 6 a 12 meses
+February 2017	22	Huesca	Mujeres	707	4	De 1 a 2 años
+February 2017	22	Huesca	Mujeres	376	5	De 2 a 3 años
+February 2017	22	Huesca	Mujeres	896	6	Más de 3 años
+February 2017	44	Teruel	Hombres	1261	1	Hasta 3 meses
+February 2017	44	Teruel	Hombres	639	2	De 3 a 6 meses
+February 2017	44	Teruel	Hombres	364	3	De 6 a 12 meses
+February 2017	44	Teruel	Hombres	341	4	De 1 a 2 años
+February 2017	44	Teruel	Hombres	167	5	De 2 a 3 años
+February 2017	44	Teruel	Hombres	428	6	Más de 3 años
+February 2017	44	Teruel	Mujeres	1300	1	Hasta 3 meses
+February 2017	44	Teruel	Mujeres	754	2	De 3 a 6 meses
+February 2017	44	Teruel	Mujeres	442	3	De 6 a 12 meses
+February 2017	44	Teruel	Mujeres	543	4	De 1 a 2 años
+February 2017	44	Teruel	Mujeres	308	5	De 2 a 3 años
+February 2017	44	Teruel	Mujeres	571	6	Más de 3 años
+February 2017	50	Zaragoza	Hombres	9980	1	Hasta 3 meses
+February 2017	50	Zaragoza	Hombres	4330	2	De 3 a 6 meses
+February 2017	50	Zaragoza	Hombres	2921	3	De 6 a 12 meses
+February 2017	50	Zaragoza	Hombres	2954	4	De 1 a 2 años
+February 2017	50	Zaragoza	Hombres	1414	5	De 2 a 3 años
+February 2017	50	Zaragoza	Hombres	4281	6	Más de 3 años
+February 2017	50	Zaragoza	Mujeres	11025	1	Hasta 3 meses
+February 2017	50	Zaragoza	Mujeres	5319	2	De 3 a 6 meses
+February 2017	50	Zaragoza	Mujeres	4304	3	De 6 a 12 meses
+February 2017	50	Zaragoza	Mujeres	4823	4	De 1 a 2 años
+February 2017	50	Zaragoza	Mujeres	2641	5	De 2 a 3 años
+February 2017	50	Zaragoza	Mujeres	7681	6	Más de 3 años
+May 2016	22	Huesca	Hombres	1753	1	Hasta 3 meses
+May 2016	22	Huesca	Hombres	745	2	De 3 a 6 meses
+May 2016	22	Huesca	Hombres	817	3	De 6 a 12 meses
+May 2016	22	Huesca	Hombres	662	4	De 1 a 2 años
+May 2016	22	Huesca	Hombres	287	5	De 2 a 3 años
+May 2016	22	Huesca	Hombres	734	6	Más de 3 años
+May 2016	22	Huesca	Mujeres	1842	1	Hasta 3 meses
+May 2016	22	Huesca	Mujeres	783	2	De 3 a 6 meses
+May 2016	22	Huesca	Mujeres	1062	3	De 6 a 12 meses
+May 2016	22	Huesca	Mujeres	861	4	De 1 a 2 años
+May 2016	22	Huesca	Mujeres	456	5	De 2 a 3 años
+May 2016	22	Huesca	Mujeres	929	6	Más de 3 años
+May 2016	44	Teruel	Hombres	1138	1	Hasta 3 meses
+May 2016	44	Teruel	Hombres	516	2	De 3 a 6 meses
+May 2016	44	Teruel	Hombres	632	3	De 6 a 12 meses
+May 2016	44	Teruel	Hombres	468	4	De 1 a 2 años
+May 2016	44	Teruel	Hombres	212	5	De 2 a 3 años
+May 2016	44	Teruel	Hombres	515	6	Más de 3 años
+May 2016	44	Teruel	Mujeres	1239	1	Hasta 3 meses
+May 2016	44	Teruel	Mujeres	522	2	De 3 a 6 meses
+May 2016	44	Teruel	Mujeres	832	3	De 6 a 12 meses
+May 2016	44	Teruel	Mujeres	666	4	De 1 a 2 años
+May 2016	44	Teruel	Mujeres	305	5	De 2 a 3 años
+May 2016	44	Teruel	Mujeres	591	6	Más de 3 años
+May 2016	50	Zaragoza	Hombres	8693	1	Hasta 3 meses
+May 2016	50	Zaragoza	Hombres	3968	2	De 3 a 6 meses
+May 2016	50	Zaragoza	Hombres	4718	3	De 6 a 12 meses
+May 2016	50	Zaragoza	Hombres	3607	4	De 1 a 2 años
+May 2016	50	Zaragoza	Hombres	1795	5	De 2 a 3 años
+May 2016	50	Zaragoza	Hombres	4867	6	Más de 3 años
+May 2016	50	Zaragoza	Mujeres	9305	1	Hasta 3 meses
+May 2016	50	Zaragoza	Mujeres	4672	2	De 3 a 6 meses
+May 2016	50	Zaragoza	Mujeres	6057	3	De 6 a 12 meses
+May 2016	50	Zaragoza	Mujeres	5587	4	De 1 a 2 años
+May 2016	50	Zaragoza	Mujeres	3091	5	De 2 a 3 años
+May 2016	50	Zaragoza	Mujeres	8159	6	Más de 3 años
+April 2016	22	Huesca	Hombres	2044	1	Hasta 3 meses
+April 2016	22	Huesca	Hombres	875	2	De 3 a 6 meses
+April 2016	22	Huesca	Hombres	892	3	De 6 a 12 meses
+April 2016	22	Huesca	Hombres	693	4	De 1 a 2 años
+April 2016	22	Huesca	Hombres	299	5	De 2 a 3 años
+April 2016	22	Huesca	Hombres	750	6	Más de 3 años
+April 2016	22	Huesca	Mujeres	1990	1	Hasta 3 meses
+April 2016	22	Huesca	Mujeres	910	2	De 3 a 6 meses
+April 2016	22	Huesca	Mujeres	1153	3	De 6 a 12 meses
+April 2016	22	Huesca	Mujeres	882	4	De 1 a 2 años
+April 2016	22	Huesca	Mujeres	472	5	De 2 a 3 años
+April 2016	22	Huesca	Mujeres	918	6	Más de 3 años
+April 2016	44	Teruel	Hombres	1237	1	Hasta 3 meses
+April 2016	44	Teruel	Hombres	692	2	De 3 a 6 meses
+April 2016	44	Teruel	Hombres	639	3	De 6 a 12 meses
+April 2016	44	Teruel	Hombres	485	4	De 1 a 2 años
+April 2016	44	Teruel	Hombres	217	5	De 2 a 3 años
+April 2016	44	Teruel	Hombres	516	6	Más de 3 años
+April 2016	44	Teruel	Mujeres	1247	1	Hasta 3 meses
+April 2016	44	Teruel	Mujeres	696	2	De 3 a 6 meses
+April 2016	44	Teruel	Mujeres	774	3	De 6 a 12 meses
+April 2016	44	Teruel	Mujeres	686	4	De 1 a 2 años
+April 2016	44	Teruel	Mujeres	301	5	De 2 a 3 años
+April 2016	44	Teruel	Mujeres	601	6	Más de 3 años
+April 2016	50	Zaragoza	Hombres	9838	1	Hasta 3 meses
+April 2016	50	Zaragoza	Hombres	4495	2	De 3 a 6 meses
+April 2016	50	Zaragoza	Hombres	4846	3	De 6 a 12 meses
+April 2016	50	Zaragoza	Hombres	3758	4	De 1 a 2 años
+April 2016	50	Zaragoza	Hombres	1849	5	De 2 a 3 años
+April 2016	50	Zaragoza	Hombres	4908	6	Más de 3 años
+April 2016	50	Zaragoza	Mujeres	9743	1	Hasta 3 meses
+April 2016	50	Zaragoza	Mujeres	5079	2	De 3 a 6 meses
+April 2016	50	Zaragoza	Mujeres	6167	3	De 6 a 12 meses
+April 2016	50	Zaragoza	Mujeres	5697	4	De 1 a 2 años
+April 2016	50	Zaragoza	Mujeres	3172	5	De 2 a 3 años
+April 2016	50	Zaragoza	Mujeres	8226	6	Más de 3 años
+March 2016	22	Huesca	Hombres	2102	1	Hasta 3 meses
+March 2016	22	Huesca	Hombres	895	2	De 3 a 6 meses
+March 2016	22	Huesca	Hombres	823	3	De 6 a 12 meses
+March 2016	22	Huesca	Hombres	713	4	De 1 a 2 años
+March 2016	22	Huesca	Hombres	316	5	De 2 a 3 años
+March 2016	22	Huesca	Hombres	760	6	Más de 3 años
+March 2016	22	Huesca	Mujeres	1988	1	Hasta 3 meses
+March 2016	22	Huesca	Mujeres	998	2	De 3 a 6 meses
+March 2016	22	Huesca	Mujeres	987	3	De 6 a 12 meses
+March 2016	22	Huesca	Mujeres	892	4	De 1 a 2 años
+March 2016	22	Huesca	Mujeres	481	5	De 2 a 3 años
+March 2016	22	Huesca	Mujeres	914	6	Más de 3 años
+March 2016	44	Teruel	Hombres	1339	1	Hasta 3 meses
+March 2016	44	Teruel	Hombres	825	2	De 3 a 6 meses
+March 2016	44	Teruel	Hombres	539	3	De 6 a 12 meses
+March 2016	44	Teruel	Hombres	506	4	De 1 a 2 años
+March 2016	44	Teruel	Hombres	227	5	De 2 a 3 años
+March 2016	44	Teruel	Hombres	525	6	Más de 3 años
+March 2016	44	Teruel	Mujeres	1309	1	Hasta 3 meses
+March 2016	44	Teruel	Mujeres	737	2	De 3 a 6 meses
+March 2016	44	Teruel	Mujeres	683	3	De 6 a 12 meses
+March 2016	44	Teruel	Mujeres	693	4	De 1 a 2 años
+March 2016	44	Teruel	Mujeres	330	5	De 2 a 3 años
+March 2016	44	Teruel	Mujeres	592	6	Más de 3 años
+March 2016	50	Zaragoza	Hombres	10755	1	Hasta 3 meses
+March 2016	50	Zaragoza	Hombres	5037	2	De 3 a 6 meses
+March 2016	50	Zaragoza	Hombres	4256	3	De 6 a 12 meses
+March 2016	50	Zaragoza	Hombres	3951	4	De 1 a 2 años
+March 2016	50	Zaragoza	Hombres	1932	5	De 2 a 3 años
+March 2016	50	Zaragoza	Hombres	4941	6	Más de 3 años
+March 2016	50	Zaragoza	Mujeres	10482	1	Hasta 3 meses
+March 2016	50	Zaragoza	Mujeres	5068	2	De 3 a 6 meses
+March 2016	50	Zaragoza	Mujeres	5740	3	De 6 a 12 meses
+March 2016	50	Zaragoza	Mujeres	5829	4	De 1 a 2 años
+March 2016	50	Zaragoza	Mujeres	3306	5	De 2 a 3 años
+March 2016	50	Zaragoza	Mujeres	8170	6	Más de 3 años
+February 2016	22	Huesca	Hombres	2189	1	Hasta 3 meses
+February 2016	22	Huesca	Hombres	1062	2	De 3 a 6 meses
+February 2016	22	Huesca	Hombres	699	3	De 6 a 12 meses
+February 2016	22	Huesca	Hombres	731	4	De 1 a 2 años
+February 2016	22	Huesca	Hombres	319	5	De 2 a 3 años
+February 2016	22	Huesca	Hombres	752	6	Más de 3 años
+February 2016	22	Huesca	Mujeres	2156	1	Hasta 3 meses
+February 2016	22	Huesca	Mujeres	1206	2	De 3 a 6 meses
+February 2016	22	Huesca	Mujeres	795	3	De 6 a 12 meses
+February 2016	22	Huesca	Mujeres	921	4	De 1 a 2 años
+February 2016	22	Huesca	Mujeres	468	5	De 2 a 3 años
+February 2016	22	Huesca	Mujeres	922	6	Más de 3 años
+February 2016	44	Teruel	Hombres	1483	1	Hasta 3 meses
+February 2016	44	Teruel	Hombres	804	2	De 3 a 6 meses
+February 2016	44	Teruel	Hombres	485	3	De 6 a 12 meses
+February 2016	44	Teruel	Hombres	515	4	De 1 a 2 años
+February 2016	44	Teruel	Hombres	225	5	De 2 a 3 años
+February 2016	44	Teruel	Hombres	527	6	Más de 3 años
+February 2016	44	Teruel	Mujeres	1351	1	Hasta 3 meses
+February 2016	44	Teruel	Mujeres	918	2	De 3 a 6 meses
+February 2016	44	Teruel	Mujeres	572	3	De 6 a 12 meses
+February 2016	44	Teruel	Mujeres	703	4	De 1 a 2 años
+February 2016	44	Teruel	Mujeres	331	5	De 2 a 3 años
+February 2016	44	Teruel	Mujeres	609	6	Más de 3 años
+February 2016	50	Zaragoza	Hombres	10755	1	Hasta 3 meses
+February 2016	50	Zaragoza	Hombres	5429	2	De 3 a 6 meses
+February 2016	50	Zaragoza	Hombres	3684	3	De 6 a 12 meses
+February 2016	50	Zaragoza	Hombres	3980	4	De 1 a 2 años
+February 2016	50	Zaragoza	Hombres	2022	5	De 2 a 3 años
+February 2016	50	Zaragoza	Hombres	4982	6	Más de 3 años
+February 2016	50	Zaragoza	Mujeres	10726	1	Hasta 3 meses
+February 2016	50	Zaragoza	Mujeres	5848	2	De 3 a 6 meses
+February 2016	50	Zaragoza	Mujeres	5117	3	De 6 a 12 meses
+February 2016	50	Zaragoza	Mujeres	5889	4	De 1 a 2 años
+February 2016	50	Zaragoza	Mujeres	3358	5	De 2 a 3 años
+February 2016	50	Zaragoza	Mujeres	8149	6	Más de 3 años
+January 2016	22	Huesca	Hombres	2285	1	Hasta 3 meses
+January 2016	22	Huesca	Hombres	1035	2	De 3 a 6 meses
+January 2016	22	Huesca	Hombres	637	3	De 6 a 12 meses
+January 2016	22	Huesca	Hombres	754	4	De 1 a 2 años
+January 2016	22	Huesca	Hombres	318	5	De 2 a 3 años
+January 2016	22	Huesca	Hombres	763	6	Más de 3 años
+January 2016	22	Huesca	Mujeres	2179	1	Hasta 3 meses
+January 2016	22	Huesca	Mujeres	1223	2	De 3 a 6 meses
+January 2016	22	Huesca	Mujeres	786	3	De 6 a 12 meses
+January 2016	22	Huesca	Mujeres	933	4	De 1 a 2 años
+January 2016	22	Huesca	Mujeres	472	5	De 2 a 3 años
+January 2016	22	Huesca	Mujeres	921	6	Más de 3 años
+January 2016	44	Teruel	Hombres	1687	1	Hasta 3 meses
+January 2016	44	Teruel	Hombres	720	2	De 3 a 6 meses
+January 2016	44	Teruel	Hombres	479	3	De 6 a 12 meses
+January 2016	44	Teruel	Hombres	509	4	De 1 a 2 años
+January 2016	44	Teruel	Hombres	240	5	De 2 a 3 años
+January 2016	44	Teruel	Hombres	526	6	Más de 3 años
+January 2016	44	Teruel	Mujeres	1559	1	Hasta 3 meses
+January 2016	44	Teruel	Mujeres	800	2	De 3 a 6 meses
+January 2016	44	Teruel	Mujeres	563	3	De 6 a 12 meses
+January 2016	44	Teruel	Mujeres	708	4	De 1 a 2 años
+January 2016	44	Teruel	Mujeres	318	5	De 2 a 3 años
+January 2016	44	Teruel	Mujeres	603	6	Más de 3 años
+January 2016	50	Zaragoza	Hombres	11198	1	Hasta 3 meses
+January 2016	50	Zaragoza	Hombres	5120	2	De 3 a 6 meses
+January 2016	50	Zaragoza	Hombres	3605	3	De 6 a 12 meses
+January 2016	50	Zaragoza	Hombres	3983	4	De 1 a 2 años
+January 2016	50	Zaragoza	Hombres	2079	5	De 2 a 3 años
+January 2016	50	Zaragoza	Hombres	4977	6	Más de 3 años
+January 2016	50	Zaragoza	Mujeres	11167	1	Hasta 3 meses
+January 2016	50	Zaragoza	Mujeres	5772	2	De 3 a 6 meses
+January 2016	50	Zaragoza	Mujeres	4954	3	De 6 a 12 meses
+January 2016	50	Zaragoza	Mujeres	5893	4	De 1 a 2 años
+January 2016	50	Zaragoza	Mujeres	3432	5	De 2 a 3 años
+January 2016	50	Zaragoza	Mujeres	8147	6	Más de 3 años
 Diciembre 2015	22	Huesca	Hombres	2242	1	Hasta 3 meses
 Diciembre 2015	22	Huesca	Hombres	911	2	De 3 a 6 meses
 Diciembre 2015	22	Huesca	Hombres	632	3	De 6 a 12 meses
