@@ -1,732 +1,732 @@
 Municipio código	Municipio nombre	Municipio montaña	Municipio zona desfavorecida	Municipio superficie, medida
-22001	Abiego	No es zona montañosa	Zona desfavorecida	38,2
-22002	Abizanda	Pirineos	No es zona desfavorecida	44,8
-22003	Adahuesca	Pirineos	No es zona desfavorecida	52,5
-22004	Agüero	Pirineos	No es zona desfavorecida	94,2
-22006	Aísa	Pirineos	No es zona desfavorecida	81
-22007	Albalate de Cinca	No es zona montañosa	No es zona desfavorecida	44,2
-22008	Albalatillo	No es zona montañosa	No es zona desfavorecida	9,1
-22009	Albelda	No es zona montañosa	No es zona desfavorecida	51,9
-22011	Albero Alto	No es zona montañosa	No es zona desfavorecida	19,3
-22012	Albero Bajo	No es zona montañosa	No es zona desfavorecida	22,2
-22013	Alberuela de Tubo	No es zona montañosa	No es zona desfavorecida	20,8
-22014	Alcalá de Gurrea	No es zona montañosa	No es zona desfavorecida	71,4
-22015	Alcalá del Obispo	No es zona montañosa	No es zona desfavorecida	47,8
-22016	Alcampell	No es zona montañosa	No es zona desfavorecida	58
-22017	Alcolea de Cinca	No es zona montañosa	No es zona desfavorecida	83,2
-22018	Alcubierre	No es zona montañosa	No es zona desfavorecida	115,3
-22019	Alerre	No es zona montañosa	No es zona desfavorecida	8,9
-22020	Alfántega	No es zona montañosa	No es zona desfavorecida	8,8
-22021	Almudévar	No es zona montañosa	No es zona desfavorecida	201,5
-22022	Almunia de San Juan	No es zona montañosa	No es zona desfavorecida	35,7
-22023	Almuniente	No es zona montañosa	No es zona desfavorecida	37,6
-22024	Alquézar	Pirineos	No es zona desfavorecida	32,4
-22025	Altorricón	No es zona montañosa	No es zona desfavorecida	32,4
-22027	Angüés	No es zona montañosa	No es zona desfavorecida	56,5
-22028	Ansó	Pirineos	No es zona desfavorecida	223,1
-22029	Antillón	No es zona montañosa	No es zona desfavorecida	22,4
-22032	Aragüés del Puerto	Pirineos	No es zona desfavorecida	64,4
-22035	Arén	Pirineos	No es zona desfavorecida	119,3
-22036	Argavieso	No es zona montañosa	No es zona desfavorecida	9,7
-22037	Arguis	Pirineos	No es zona desfavorecida	62,8
-22039	Ayerbe	No es zona montañosa	No es zona desfavorecida	63,9
-22040	Azanuy-Alins	No es zona montañosa	No es zona desfavorecida	51,2
-22041	Azara	No es zona montañosa	Zona desfavorecida	14,5
-22042	Azlor	No es zona montañosa	Zona desfavorecida	15,9
-22043	Baells	No es zona montañosa	No es zona desfavorecida	39,8
-22044	Bailo	Pirineos	No es zona desfavorecida	164,4
-22045	Baldellou	No es zona montañosa	No es zona desfavorecida	30,4
-22046	Ballobar	No es zona montañosa	No es zona desfavorecida	127,7
-22047	Banastás	No es zona montañosa	No es zona desfavorecida	4,7
+22001	Abiego	No es zona montañosa	Zona desfavorecida	38,19
+22002	Abizanda	Pirineos	No es zona desfavorecida	44,84
+22003	Adahuesca	Pirineos	No es zona desfavorecida	52,47
+22004	Agüero	Pirineos	No es zona desfavorecida	94,16
+22006	Aísa	Pirineos	No es zona desfavorecida	80,97
+22007	Albalate de Cinca	No es zona montañosa	No es zona desfavorecida	44,23
+22008	Albalatillo	No es zona montañosa	No es zona desfavorecida	9,15
+22009	Albelda	No es zona montañosa	No es zona desfavorecida	51,92
+22011	Albero Alto	No es zona montañosa	No es zona desfavorecida	19,28
+22012	Albero Bajo	No es zona montañosa	No es zona desfavorecida	22,22
+22013	Alberuela de Tubo	No es zona montañosa	No es zona desfavorecida	20,79
+22014	Alcalá de Gurrea	No es zona montañosa	No es zona desfavorecida	71,42
+22015	Alcalá del Obispo	No es zona montañosa	No es zona desfavorecida	47,85
+22016	Alcampell	No es zona montañosa	No es zona desfavorecida	58,0
+22017	Alcolea de Cinca	No es zona montañosa	No es zona desfavorecida	83,24
+22018	Alcubierre	No es zona montañosa	No es zona desfavorecida	115,32
+22019	Alerre	No es zona montañosa	No es zona desfavorecida	8,94
+22020	Alfántega	No es zona montañosa	No es zona desfavorecida	8,76
+22021	Almudévar	No es zona montañosa	No es zona desfavorecida	201,49
+22022	Almunia de San Juan	No es zona montañosa	No es zona desfavorecida	35,66
+22023	Almuniente	No es zona montañosa	No es zona desfavorecida	37,56
+22024	Alquézar	Pirineos	No es zona desfavorecida	32,36
+22025	Altorricón	No es zona montañosa	No es zona desfavorecida	32,41
+22027	Angüés	No es zona montañosa	No es zona desfavorecida	56,52
+22028	Ansó	Pirineos	No es zona desfavorecida	201,47
+22029	Antillón	No es zona montañosa	No es zona desfavorecida	22,41
+22032	Aragüés del Puerto	Pirineos	No es zona desfavorecida	64,44
+22035	Arén	Pirineos	No es zona desfavorecida	119,32
+22036	Argavieso	No es zona montañosa	No es zona desfavorecida	9,71
+22037	Arguis	Pirineos	No es zona desfavorecida	62,75
+22039	Ayerbe	No es zona montañosa	No es zona desfavorecida	63,89
+22040	Azanuy-Alins	No es zona montañosa	No es zona desfavorecida	51,17
+22041	Azara	No es zona montañosa	Zona desfavorecida	14,49
+22042	Azlor	No es zona montañosa	Zona desfavorecida	15,89
+22043	Baells	No es zona montañosa	No es zona desfavorecida	39,82
+22044	Bailo	Pirineos	No es zona desfavorecida	164,43
+22045	Baldellou	No es zona montañosa	No es zona desfavorecida	30,42
+22046	Ballobar	No es zona montañosa	No es zona desfavorecida	127,73
+22047	Banastás	No es zona montañosa	No es zona desfavorecida	4,66
 22048	Barbastro	No es zona montañosa	Zona desfavorecida	107,6
-22049	Barbués	No es zona montañosa	No es zona desfavorecida	19,6
-22050	Barbuñales	No es zona montañosa	Zona desfavorecida	18,7
-22051	Bárcabo	Pirineos	No es zona desfavorecida	87,9
-22052	Belver de Cinca	No es zona montañosa	No es zona desfavorecida	82,6
-22053	Benabarre	Pirineos	No es zona desfavorecida	157,1
-22054	Benasque	Pirineos	No es zona desfavorecida	233,6
-22055	Berbegal	No es zona montañosa	Zona desfavorecida	49
-22057	Bielsa	Pirineos	No es zona desfavorecida	202,4
-22058	Bierge	Pirineos	No es zona desfavorecida	145
-22059	Biescas	Pirineos	No es zona desfavorecida	189,1
-22060	Binaced	No es zona montañosa	No es zona desfavorecida	78,5
+22049	Barbués	No es zona montañosa	No es zona desfavorecida	19,59
+22050	Barbuñales	No es zona montañosa	Zona desfavorecida	18,75
+22051	Bárcabo	Pirineos	No es zona desfavorecida	87,92
+22052	Belver de Cinca	No es zona montañosa	No es zona desfavorecida	82,63
+22053	Benabarre	Pirineos	No es zona desfavorecida	157,14
+22054	Benasque	Pirineos	No es zona desfavorecida	233,2
+22055	Berbegal	No es zona montañosa	Zona desfavorecida	49,03
+22057	Bielsa	Pirineos	No es zona desfavorecida	202,41
+22058	Bierge	Pirineos	No es zona desfavorecida	145,03
+22059	Biescas	Pirineos	No es zona desfavorecida	189,09
+22060	Binaced	No es zona montañosa	No es zona desfavorecida	78,49
 22061	Binéfar	No es zona montañosa	No es zona desfavorecida	25,1
-22062	Bisaurri	Pirineos	No es zona desfavorecida	62,9
-22063	Biscarrués	No es zona montañosa	No es zona desfavorecida	30,2
+22062	Bisaurri	Pirineos	No es zona desfavorecida	63,19
+22063	Biscarrués	No es zona montañosa	No es zona desfavorecida	30,18
 22064	Blecua y Torres	No es zona montañosa	No es zona desfavorecida	36,2
-22066	Boltaña	Pirineos	No es zona desfavorecida	139,5
-22067	Bonansa	Pirineos	No es zona desfavorecida	37,3
-22068	Borau	Pirineos	No es zona desfavorecida	41,7
-22069	Broto	Pirineos	No es zona desfavorecida	128
-22072	Caldearenas	Pirineos	No es zona desfavorecida	192,3
-22074	Campo	Pirineos	No es zona desfavorecida	22,9
-22075	Camporrells	No es zona montañosa	No es zona desfavorecida	26,7
-22076	Canal de Berdún	Pirineos	No es zona desfavorecida	133,3
-22077	Candasnos	No es zona montañosa	No es zona desfavorecida	122,4
-22078	Canfranc	Pirineos	No es zona desfavorecida	71,6
+22066	Boltaña	Pirineos	No es zona desfavorecida	139,45
+22067	Bonansa	Pirineos	No es zona desfavorecida	37,29
+22068	Borau	Pirineos	No es zona desfavorecida	41,72
+22069	Broto	Pirineos	No es zona desfavorecida	128,05
+22072	Caldearenas	Pirineos	No es zona desfavorecida	192,31
+22074	Campo	Pirineos	No es zona desfavorecida	22,86
+22075	Camporrells	No es zona montañosa	No es zona desfavorecida	26,71
+22076	Canal de Berdún	Pirineos	No es zona desfavorecida	133,27
+22077	Candasnos	No es zona montañosa	No es zona desfavorecida	122,45
+22078	Canfranc	Pirineos	No es zona desfavorecida	71,56
 22079	Capdesaso	No es zona montañosa	No es zona desfavorecida	17,7
-22080	Capella	Pirineos	No es zona desfavorecida	60,7
-22081	Casbas de Huesca	Pirineos	No es zona desfavorecida	132,7
-22082	Castejón del Puente	No es zona montañosa	Zona desfavorecida	25,4
-22083	Castejón de Monegros	No es zona montañosa	No es zona desfavorecida	165,3
-22084	Castejón de Sos	Pirineos	No es zona desfavorecida	31,8
-22085	Castelflorite	No es zona montañosa	No es zona desfavorecida	34,8
-22086	Castiello de Jaca	Pirineos	No es zona desfavorecida	17,3
-22087	Castigaleu	Pirineos	No es zona desfavorecida	26,5
-22088	Castillazuelo	No es zona montañosa	Zona desfavorecida	15,3
-22089	Castillonroy	No es zona montañosa	No es zona desfavorecida	37,6
-22090	Colungo	Pirineos	No es zona desfavorecida	40,6
+22080	Capella	Pirineos	No es zona desfavorecida	60,71
+22081	Casbas de Huesca	Pirineos	No es zona desfavorecida	132,69
+22082	Castejón del Puente	No es zona montañosa	Zona desfavorecida	25,43
+22083	Castejón de Monegros	No es zona montañosa	No es zona desfavorecida	165,33
+22084	Castejón de Sos	Pirineos	No es zona desfavorecida	31,55
+22085	Castelflorite	No es zona montañosa	No es zona desfavorecida	34,76
+22086	Castiello de Jaca	Pirineos	No es zona desfavorecida	17,31
+22087	Castigaleu	Pirineos	No es zona desfavorecida	26,53
+22088	Castillazuelo	No es zona montañosa	Zona desfavorecida	15,32
+22089	Castillonroy	No es zona montañosa	No es zona desfavorecida	37,58
+22090	Colungo	Pirineos	No es zona desfavorecida	40,64
 22094	Chalamera	No es zona montañosa	No es zona desfavorecida	11,5
 22095	Chía	Pirineos	No es zona desfavorecida	26,1
-22096	Chimillas	No es zona montañosa	No es zona desfavorecida	10
-22099	Esplús	No es zona montañosa	No es zona desfavorecida	73
-22102	Estada	No es zona montañosa	Zona desfavorecida	15,9
-22103	Estadilla	No es zona montañosa	Zona desfavorecida	46,8
-22105	Estopiñán del Castillo	Pirineos	No es zona desfavorecida	88,7
-22106	Fago	Pirineos	No es zona desfavorecida	28,8
+22096	Chimillas	No es zona montañosa	No es zona desfavorecida	10,04
+22099	Esplús	No es zona montañosa	No es zona desfavorecida	73,0
+22102	Estada	No es zona montañosa	Zona desfavorecida	15,87
+22103	Estadilla	No es zona montañosa	Zona desfavorecida	50,39
+22105	Estopiñán del Castillo	Pirineos	No es zona desfavorecida	88,71
+22106	Fago	Pirineos	No es zona desfavorecida	50,37
 22107	Fanlo	Pirineos	No es zona desfavorecida	187,1
-22109	Fiscal	Pirineos	No es zona desfavorecida	170,1
-22110	Fonz	No es zona montañosa	Zona desfavorecida	55,5
-22111	Foradada del Toscar	Pirineos	No es zona desfavorecida	106,4
-22112	Fraga	No es zona montañosa	No es zona desfavorecida	437,6
-22113	Fueva (La)	Pirineos	No es zona desfavorecida	218,8
+22109	Fiscal	Pirineos	No es zona desfavorecida	170,06
+22110	Fonz	No es zona montañosa	Zona desfavorecida	51,86
+22111	Foradada del Toscar	Pirineos	No es zona desfavorecida	106,25
+22112	Fraga	No es zona montañosa	No es zona desfavorecida	437,64
+22113	Fueva (La)	Pirineos	No es zona desfavorecida	218,85
 22114	Gistaín	Pirineos	No es zona desfavorecida	75,9
-22115	Grado (El)	No es zona montañosa	Zona desfavorecida	63,8
-22116	Grañén	No es zona montañosa	No es zona desfavorecida	124
-22117	Graus	Pirineos	No es zona desfavorecida	299,8
-22119	Gurrea de Gállego	No es zona montañosa	No es zona desfavorecida	192
-22122	Hoz de Jaca	Pirineos	No es zona desfavorecida	12,5
-22124	Huerto	No es zona montañosa	No es zona desfavorecida	86,7
-22125	Huesca	No es zona montañosa	No es zona desfavorecida	161
-22126	Ibieca	No es zona montañosa	No es zona desfavorecida	14,9
-22127	Igriés	No es zona montañosa	No es zona desfavorecida	19,2
-22128	Ilche	No es zona montañosa	Zona desfavorecida	63,7
-22129	Isábena	Pirineos	No es zona desfavorecida	118,5
-22130	Jaca	Pirineos	No es zona desfavorecida	406,3
+22115	Grado (El)	No es zona montañosa	Zona desfavorecida	63,77
+22116	Grañén	No es zona montañosa	No es zona desfavorecida	123,98
+22117	Graus	Pirineos	No es zona desfavorecida	299,79
+22119	Gurrea de Gállego	No es zona montañosa	No es zona desfavorecida	191,97
+22122	Hoz de Jaca	Pirineos	No es zona desfavorecida	12,45
+22124	Huerto	No es zona montañosa	No es zona desfavorecida	86,72
+22125	Huesca	No es zona montañosa	No es zona desfavorecida	161,04
+22126	Ibieca	No es zona montañosa	No es zona desfavorecida	14,94
+22127	Igriés	No es zona montañosa	No es zona desfavorecida	19,17
+22128	Ilche	No es zona montañosa	Zona desfavorecida	63,72
+22129	Isábena	Pirineos	No es zona desfavorecida	118,53
+22130	Jaca	Pirineos	No es zona desfavorecida	406,34
 22131	Jasa	Pirineos	No es zona desfavorecida	8,9
-22133	Labuerda	Pirineos	No es zona desfavorecida	17,8
-22135	Laluenga	No es zona montañosa	Zona desfavorecida	36,5
-22136	Lalueza	No es zona montañosa	No es zona desfavorecida	88,2
+22133	Labuerda	Pirineos	No es zona desfavorecida	17,85
+22135	Laluenga	No es zona montañosa	Zona desfavorecida	36,47
+22136	Lalueza	No es zona montañosa	No es zona desfavorecida	88,19
 22137	Lanaja	No es zona montañosa	No es zona desfavorecida	183,7
-22139	Laperdiguera	No es zona montañosa	Zona desfavorecida	11,3
-22141	Lascellas-Ponzano	No es zona montañosa	Zona desfavorecida	27,3
-22142	Lascuarre	Pirineos	No es zona desfavorecida	31,9
-22143	Laspaúles	Pirineos	No es zona desfavorecida	81,6
-22144	Laspuña	Pirineos	No es zona desfavorecida	45,3
-22149	Loarre	Pirineos	No es zona desfavorecida	74,4
-22150	Loporzano	Pirineos	No es zona desfavorecida	169,3
-22151	Loscorrales	No es zona montañosa	No es zona desfavorecida	40,2
+22139	Laperdiguera	No es zona montañosa	Zona desfavorecida	11,32
+22141	Lascellas-Ponzano	No es zona montañosa	Zona desfavorecida	27,33
+22142	Lascuarre	Pirineos	No es zona desfavorecida	31,87
+22143	Laspaúles	Pirineos	No es zona desfavorecida	81,75
+22144	Laspuña	Pirineos	No es zona desfavorecida	45,29
+22149	Loarre	Pirineos	No es zona desfavorecida	74,42
+22150	Loporzano	Pirineos	No es zona desfavorecida	169,28
+22151	Loscorrales	No es zona montañosa	No es zona desfavorecida	40,25
 22155	Monesma y Cajigar	Pirineos	No es zona desfavorecida	62,6
-22156	Monflorite-Lascasas	No es zona montañosa	No es zona desfavorecida	29,2
-22157	Montanuy	Pirineos	No es zona desfavorecida	174,1
-22158	Monzón	No es zona montañosa	No es zona desfavorecida	155
-22160	Naval	Pirineos	No es zona desfavorecida	47,3
-22162	Novales	No es zona montañosa	No es zona desfavorecida	20,1
-22163	Nueno	Pirineos	No es zona desfavorecida	147,2
-22164	Olvena	No es zona montañosa	Zona desfavorecida	15,9
-22165	Ontiñena	No es zona montañosa	No es zona desfavorecida	137
-22167	Osso de Cinca	No es zona montañosa	No es zona desfavorecida	27,7
+22156	Monflorite-Lascasas	No es zona montañosa	No es zona desfavorecida	29,16
+22157	Montanuy	Pirineos	No es zona desfavorecida	174,2
+22158	Monzón	No es zona montañosa	No es zona desfavorecida	155,02
+22160	Naval	Pirineos	No es zona desfavorecida	47,32
+22162	Novales	No es zona montañosa	No es zona desfavorecida	20,08
+22163	Nueno	Pirineos	No es zona desfavorecida	147,24
+22164	Olvena	No es zona montañosa	Zona desfavorecida	15,89
+22165	Ontiñena	No es zona montañosa	No es zona desfavorecida	136,96
+22167	Osso de Cinca	No es zona montañosa	No es zona desfavorecida	27,66
 22168	Palo	Pirineos	No es zona desfavorecida	14,4
 22170	Panticosa	Pirineos	No es zona desfavorecida	95,9
 22172	Peñalba	No es zona montañosa	No es zona desfavorecida	156,7
-22173	Peñas de Riglos (Las)	Pirineos	No es zona desfavorecida	217,9
-22174	Peralta de Alcofea	No es zona montañosa	No es zona desfavorecida	116,1
-22175	Peralta de Calasanz	Pirineos	No es zona desfavorecida	114,9
+22173	Peñas de Riglos (Las)	Pirineos	No es zona desfavorecida	217,87
+22174	Peralta de Alcofea	No es zona montañosa	No es zona desfavorecida	116,14
+22175	Peralta de Calasanz	Pirineos	No es zona desfavorecida	114,88
 22176	Peraltilla	No es zona montañosa	Zona desfavorecida	16,2
-22177	Perarrúa	Pirineos	No es zona desfavorecida	30,1
-22178	Pertusa	No es zona montañosa	No es zona desfavorecida	29,4
-22181	Piracés	No es zona montañosa	No es zona desfavorecida	25,2
-22182	Plan	Pirineos	No es zona desfavorecida	92,5
-22184	Poleñino	No es zona montañosa	No es zona desfavorecida	33
-22186	Pozán de Vero	No es zona montañosa	Zona desfavorecida	14,8
-22187	Puebla de Castro (La)	Pirineos	No es zona desfavorecida	29,4
-22188	Puente de Montañana	Pirineos	No es zona desfavorecida	48,6
-22189	Puértolas	Pirineos	No es zona desfavorecida	100
-22190	Pueyo de Araguás (El)	Pirineos	No es zona desfavorecida	62,1
-22193	Pueyo de Santa Cruz	No es zona montañosa	No es zona desfavorecida	9,3
-22195	Quicena	No es zona montañosa	No es zona desfavorecida	9,7
-22197	Robres	No es zona montañosa	No es zona desfavorecida	64,3
-22199	Sabiñánigo	Pirineos	No es zona desfavorecida	586,8
-22200	Sahún	Pirineos	No es zona desfavorecida	72,9
-22201	Salas Altas	No es zona montañosa	Zona desfavorecida	20,7
-22202	Salas Bajas	No es zona montañosa	Zona desfavorecida	12,9
-22203	Salillas	No es zona montañosa	No es zona desfavorecida	28,3
-22204	Sallent de Gállego	Pirineos	No es zona desfavorecida	162,1
+22177	Perarrúa	Pirineos	No es zona desfavorecida	30,05
+22178	Pertusa	No es zona montañosa	No es zona desfavorecida	29,37
+22181	Piracés	No es zona montañosa	No es zona desfavorecida	25,15
+22182	Plan	Pirineos	No es zona desfavorecida	93,36
+22184	Poleñino	No es zona montañosa	No es zona desfavorecida	33,02
+22186	Pozán de Vero	No es zona montañosa	Zona desfavorecida	14,75
+22187	Puebla de Castro (La)	Pirineos	No es zona desfavorecida	29,39
+22188	Puente de Montañana	Pirineos	No es zona desfavorecida	48,56
+22189	Puértolas	Pirineos	No es zona desfavorecida	99,86
+22190	Pueyo de Araguás (El)	Pirineos	No es zona desfavorecida	61,84
+22193	Pueyo de Santa Cruz	No es zona montañosa	No es zona desfavorecida	9,29
+22195	Quicena	No es zona montañosa	No es zona desfavorecida	9,67
+22197	Robres	No es zona montañosa	No es zona desfavorecida	64,24
+22199	Sabiñánigo	Pirineos	No es zona desfavorecida	586,82
+22200	Sahún	Pirineos	No es zona desfavorecida	73,36
+22201	Salas Altas	No es zona montañosa	Zona desfavorecida	20,74
+22202	Salas Bajas	No es zona montañosa	Zona desfavorecida	12,93
+22203	Salillas	No es zona montañosa	No es zona desfavorecida	28,33
+22204	Sallent de Gállego	Pirineos	No es zona desfavorecida	162,14
 22205	San Esteban de Litera	No es zona montañosa	No es zona desfavorecida	71,9
-22206	Sangarrén	No es zona montañosa	No es zona desfavorecida	32,2
-22207	San Juan de Plan	Pirineos	No es zona desfavorecida	55,8
-22208	Santa Cilia	Pirineos	No es zona desfavorecida	28,1
-22209	Santa Cruz de la Serós	Pirineos	No es zona desfavorecida	27
-22212	Santaliestra y San Quílez	Pirineos	No es zona desfavorecida	23,3
-22213	Sariñena	No es zona montañosa	No es zona desfavorecida	275,6
-22214	Secastilla	Pirineos	No es zona desfavorecida	47,4
-22215	Seira	Pirineos	No es zona desfavorecida	69,2
-22217	Sena	No es zona montañosa	No es zona desfavorecida	104,7
-22218	Senés de Alcubierre	No es zona montañosa	No es zona desfavorecida	20,5
-22220	Sesa	No es zona montañosa	No es zona desfavorecida	30,8
-22221	Sesué	Pirineos	No es zona desfavorecida	5,2
-22222	Siétamo	No es zona montañosa	No es zona desfavorecida	49
-22223	Sopeira	Pirineos	No es zona desfavorecida	44,1
-22225	Tamarite de Litera	No es zona montañosa	No es zona desfavorecida	110,6
-22226	Tardienta	No es zona montañosa	No es zona desfavorecida	90,6
-22227	Tella-Sin	Pirineos	No es zona desfavorecida	90,3
-22228	Tierz	No es zona montañosa	No es zona desfavorecida	6,5
-22229	Tolva	Pirineos	No es zona desfavorecida	59
-22230	Torla-Ordesa	Pirineos	No es zona desfavorecida	185,2
-22232	Torralba de Aragón	No es zona montañosa	No es zona desfavorecida	40,4
-22233	Torre la Ribera	Pirineos	No es zona desfavorecida	32,1
+22206	Sangarrén	No es zona montañosa	No es zona desfavorecida	32,22
+22207	San Juan de Plan	Pirineos	No es zona desfavorecida	55,53
+22208	Santa Cilia	Pirineos	No es zona desfavorecida	28,08
+22209	Santa Cruz de la Serós	Pirineos	No es zona desfavorecida	26,96
+22212	Santaliestra y San Quílez	Pirineos	No es zona desfavorecida	23,34
+22213	Sariñena	No es zona montañosa	No es zona desfavorecida	275,57
+22214	Secastilla	Pirineos	No es zona desfavorecida	47,42
+22215	Seira	Pirineos	No es zona desfavorecida	69,4
+22217	Sena	No es zona montañosa	No es zona desfavorecida	104,69
+22218	Senés de Alcubierre	No es zona montañosa	No es zona desfavorecida	20,53
+22220	Sesa	No es zona montañosa	No es zona desfavorecida	30,84
+22221	Sesué	Pirineos	No es zona desfavorecida	5,35
+22222	Siétamo	No es zona montañosa	No es zona desfavorecida	48,98
+22223	Sopeira	Pirineos	No es zona desfavorecida	44,09
+22225	Tamarite de Litera	No es zona montañosa	No es zona desfavorecida	110,58
+22226	Tardienta	No es zona montañosa	No es zona desfavorecida	90,65
+22227	Tella-Sin	Pirineos	No es zona desfavorecida	89,51
+22228	Tierz	No es zona montañosa	No es zona desfavorecida	6,54
+22229	Tolva	Pirineos	No es zona desfavorecida	58,97
+22230	Torla-Ordesa	Pirineos	No es zona desfavorecida	370,41
+22232	Torralba de Aragón	No es zona montañosa	No es zona desfavorecida	40,39
+22233	Torre la Ribera	Pirineos	No es zona desfavorecida	32,06
 22234	Torrente de Cinca	No es zona montañosa	No es zona desfavorecida	56,8
-22235	Torres de Alcanadre	No es zona montañosa	No es zona desfavorecida	17,6
-22236	Torres de Barbués	No es zona montañosa	No es zona desfavorecida	13,9
-22239	Tramaced	No es zona montañosa	No es zona desfavorecida	15,4
+22235	Torres de Alcanadre	No es zona montañosa	No es zona desfavorecida	17,63
+22236	Torres de Barbués	No es zona montañosa	No es zona desfavorecida	13,94
+22239	Tramaced	No es zona montañosa	No es zona desfavorecida	15,42
 22242	Valfarta	No es zona montañosa	No es zona desfavorecida	33,2
-22243	Valle de Bardají	Pirineos	No es zona desfavorecida	45,5
-22244	Valle de Lierp	Pirineos	No es zona desfavorecida	32,8
-22245	Velilla de Cinca	No es zona montañosa	No es zona desfavorecida	16,5
-22246	Beranuy	Pirineos	No es zona desfavorecida	63,8
-22247	Viacamp y Litera	Pirineos	No es zona desfavorecida	107,7
-22248	Vicién	No es zona montañosa	No es zona desfavorecida	13,8
-22249	Villanova	Pirineos	No es zona desfavorecida	6,9
-22250	Villanúa	Pirineos	No es zona desfavorecida	58,2
-22251	Villanueva de Sigena	No es zona montañosa	No es zona desfavorecida	146,4
-22252	Yebra de Basa	Pirineos	No es zona desfavorecida	90,9
-22253	Yésero	Pirineos	No es zona desfavorecida	30,2
-22254	Zaidín	No es zona montañosa	No es zona desfavorecida	92,6
-22901	Valle de Hecho	Pirineos	No es zona desfavorecida	234,4
-22902	Puente la Reina de Jaca	Pirineos	No es zona desfavorecida	48,1
-22903	San Miguel del Cinca	No es zona montañosa	No es zona desfavorecida	106,5
-22904	Sotonera (La)	No es zona montañosa	No es zona desfavorecida	165,5
-22905	Lupiñén-Ortilla	No es zona montañosa	No es zona desfavorecida	110,1
-22906	Santa María de Dulcis	No es zona montañosa	Zona desfavorecida	27,2
-22907	Aínsa-Sobrarbe	Pirineos	No es zona desfavorecida	284,8
-22908	Hoz y Costeán	No es zona montañosa	Zona desfavorecida	57,5
-22909	Vencillón	No es zona montañosa	No es zona desfavorecida	10,4
+22243	Valle de Bardají	Pirineos	No es zona desfavorecida	45,48
+22244	Valle de Lierp	Pirineos	No es zona desfavorecida	32,76
+22245	Velilla de Cinca	No es zona montañosa	No es zona desfavorecida	16,54
+22246	Beranuy	Pirineos	No es zona desfavorecida	127,56
+22247	Viacamp y Litera	Pirineos	No es zona desfavorecida	107,74
+22248	Vicién	No es zona montañosa	No es zona desfavorecida	13,76
+22249	Villanova	Pirineos	No es zona desfavorecida	7,05
+22250	Villanúa	Pirineos	No es zona desfavorecida	58,19
+22251	Villanueva de Sigena	No es zona montañosa	No es zona desfavorecida	146,37
+22252	Yebra de Basa	Pirineos	No es zona desfavorecida	90,87
+22253	Yésero	Pirineos	No es zona desfavorecida	30,23
+22254	Zaidín	No es zona montañosa	No es zona desfavorecida	92,55
+22901	Valle de Hecho	Pirineos	No es zona desfavorecida	234,43
+22902	Puente la Reina de Jaca	Pirineos	No es zona desfavorecida	48,13
+22903	San Miguel del Cinca	No es zona montañosa	No es zona desfavorecida	106,49
+22904	Sotonera (La)	No es zona montañosa	No es zona desfavorecida	165,54
+22905	Lupiñén-Ortilla	No es zona montañosa	No es zona desfavorecida	110,08
+22906	Santa María de Dulcis	No es zona montañosa	Zona desfavorecida	27,16
+22907	Aínsa-Sobrarbe	Pirineos	No es zona desfavorecida	284,77
+22908	Hoz y Costeán	No es zona montañosa	Zona desfavorecida	57,48
+22909	Vencillón	No es zona montañosa	No es zona desfavorecida	10,37
 44001	Ababuj	Sistema Ibérico	No es zona desfavorecida	54,3
-44002	Abejuela	Sistema Ibérico	No es zona desfavorecida	86,7
-44003	Aguatón	Sistema Ibérico	No es zona desfavorecida	21,6
-44004	Aguaviva	Sistema Ibérico	No es zona desfavorecida	42,2
-44005	Aguilar del Alfambra	Sistema Ibérico	No es zona desfavorecida	39
+44002	Abejuela	Sistema Ibérico	No es zona desfavorecida	86,67
+44003	Aguatón	Sistema Ibérico	No es zona desfavorecida	21,64
+44004	Aguaviva	Sistema Ibérico	No es zona desfavorecida	42,15
+44005	Aguilar del Alfambra	Sistema Ibérico	No es zona desfavorecida	39,04
 44006	Alacón	No es zona montañosa	Zona desfavorecida	47,5
-44007	Alba	No es zona montañosa	Zona desfavorecida	69,5
-44008	Albalate del Arzobispo	No es zona montañosa	Zona desfavorecida	205,7
-44009	Albarracín	Sistema Ibérico	No es zona desfavorecida	452,7
-44010	Albentosa	Sistema Ibérico	No es zona desfavorecida	68
-44011	Alcaine	Sistema Ibérico	No es zona desfavorecida	57,4
-44012	Alcalá de la Selva	Sistema Ibérico	No es zona desfavorecida	105
-44013	Alcañiz	No es zona montañosa	Zona desfavorecida	472,1
+44007	Alba	No es zona montañosa	Zona desfavorecida	69,53
+44008	Albalate del Arzobispo	No es zona montañosa	Zona desfavorecida	205,69
+44009	Albarracín	Sistema Ibérico	No es zona desfavorecida	452,72
+44010	Albentosa	Sistema Ibérico	No es zona desfavorecida	68,0
+44011	Alcaine	Sistema Ibérico	No es zona desfavorecida	57,38
+44012	Alcalá de la Selva	Sistema Ibérico	No es zona desfavorecida	104,95
+44013	Alcañiz	No es zona montañosa	Zona desfavorecida	472,12
 44014	Alcorisa	No es zona montañosa	Zona desfavorecida	121,2
-44016	Alfambra	Sistema Ibérico	No es zona desfavorecida	122,4
-44017	Aliaga	Sistema Ibérico	No es zona desfavorecida	196,8
-44018	Almohaja	Sistema Ibérico	No es zona desfavorecida	25,6
-44019	Alobras	Sistema Ibérico	No es zona desfavorecida	30,7
-44020	Alpeñés	Sistema Ibérico	No es zona desfavorecida	28,6
-44021	Allepuz	Sistema Ibérico	No es zona desfavorecida	67,3
+44016	Alfambra	Sistema Ibérico	No es zona desfavorecida	122,44
+44017	Aliaga	Sistema Ibérico	No es zona desfavorecida	193,08
+44018	Almohaja	Sistema Ibérico	No es zona desfavorecida	25,55
+44019	Alobras	Sistema Ibérico	No es zona desfavorecida	30,72
+44020	Alpeñés	Sistema Ibérico	No es zona desfavorecida	28,62
+44021	Allepuz	Sistema Ibérico	No es zona desfavorecida	67,26
 44022	Alloza	Sistema Ibérico	No es zona desfavorecida	81,6
-44023	Allueva	Sistema Ibérico	No es zona desfavorecida	18,7
-44024	Anadón	Sistema Ibérico	No es zona desfavorecida	24,6
-44025	Andorra	No es zona montañosa	Zona desfavorecida	141,4
-44026	Arcos de las Salinas	Sistema Ibérico	No es zona desfavorecida	113
-44027	Arens de Lledó	No es zona montañosa	Zona desfavorecida	34,3
-44028	Argente	Sistema Ibérico	No es zona desfavorecida	69,2
-44029	Ariño	No es zona montañosa	Zona desfavorecida	81,9
-44031	Azaila	No es zona montañosa	Zona desfavorecida	81,4
-44032	Bádenas	Sistema Ibérico	No es zona desfavorecida	31,3
-44033	Báguena	Sistema Ibérico	No es zona desfavorecida	25,2
-44034	Bañón	No es zona montañosa	Zona desfavorecida	54,3
-44035	Barrachina	Sistema Ibérico	No es zona desfavorecida	24,9
-44036	Bea	Sistema Ibérico	No es zona desfavorecida	23,4
-44037	Beceite	Sistema Ibérico	No es zona desfavorecida	96,7
-44038	Belmonte de San José	Sistema Ibérico	No es zona desfavorecida	34
-44039	Bello	No es zona montañosa	Zona desfavorecida	52,5
-44040	Berge	Sistema Ibérico	No es zona desfavorecida	42,6
-44041	Bezas	Sistema Ibérico	No es zona desfavorecida	26,3
+44023	Allueva	Sistema Ibérico	No es zona desfavorecida	18,65
+44024	Anadón	Sistema Ibérico	No es zona desfavorecida	24,62
+44025	Andorra	No es zona montañosa	Zona desfavorecida	141,36
+44026	Arcos de las Salinas	Sistema Ibérico	No es zona desfavorecida	112,99
+44027	Arens de Lledó	No es zona montañosa	Zona desfavorecida	34,27
+44028	Argente	Sistema Ibérico	No es zona desfavorecida	62,58
+44029	Ariño	No es zona montañosa	Zona desfavorecida	81,93
+44031	Azaila	No es zona montañosa	Zona desfavorecida	81,44
+44032	Bádenas	Sistema Ibérico	No es zona desfavorecida	31,31
+44033	Báguena	Sistema Ibérico	No es zona desfavorecida	25,17
+44034	Bañón	No es zona montañosa	Zona desfavorecida	54,27
+44035	Barrachina	Sistema Ibérico	No es zona desfavorecida	24,86
+44036	Bea	Sistema Ibérico	No es zona desfavorecida	23,37
+44037	Beceite	Sistema Ibérico	No es zona desfavorecida	96,72
+44038	Belmonte de San José	Sistema Ibérico	No es zona desfavorecida	33,96
+44039	Bello	No es zona montañosa	Zona desfavorecida	52,49
+44040	Berge	Sistema Ibérico	No es zona desfavorecida	42,64
+44041	Bezas	Sistema Ibérico	No es zona desfavorecida	26,32
 44042	Blancas	Sistema Ibérico	No es zona desfavorecida	73,8
-44043	Blesa	No es zona montañosa	Zona desfavorecida	80,4
-44044	Bordón	Sistema Ibérico	No es zona desfavorecida	30
+44043	Blesa	No es zona montañosa	Zona desfavorecida	80,39
+44044	Bordón	Sistema Ibérico	No es zona desfavorecida	29,98
 44045	Bronchales	Sistema Ibérico	No es zona desfavorecida	59,6
-44046	Bueña	Sistema Ibérico	No es zona desfavorecida	40,7
-44047	Burbáguena	Sistema Ibérico	No es zona desfavorecida	39
-44048	Cabra de Mora	Sistema Ibérico	No es zona desfavorecida	34,3
-44049	Calaceite	No es zona montañosa	Zona desfavorecida	81,3
-44050	Calamocha	No es zona montañosa	Zona desfavorecida	316,6
-44051	Calanda	No es zona montañosa	Zona desfavorecida	112,2
-44052	Calomarde	Sistema Ibérico	No es zona desfavorecida	28,2
-44053	Camañas	Sistema Ibérico	No es zona desfavorecida	78,7
-44054	Camarena de la Sierra	Sistema Ibérico	No es zona desfavorecida	79,5
-44055	Camarillas	Sistema Ibérico	No es zona desfavorecida	50,5
-44056	Caminreal	No es zona montañosa	Zona desfavorecida	44,4
-44059	Cantavieja	Sistema Ibérico	No es zona desfavorecida	124,6
-44060	Cañada de Benatanduz	Sistema Ibérico	No es zona desfavorecida	34,9
-44061	Cañada de Verich (La)	Sistema Ibérico	No es zona desfavorecida	10,9
+44046	Bueña	Sistema Ibérico	No es zona desfavorecida	40,75
+44047	Burbáguena	Sistema Ibérico	No es zona desfavorecida	39,02
+44048	Cabra de Mora	Sistema Ibérico	No es zona desfavorecida	34,31
+44049	Calaceite	No es zona montañosa	Zona desfavorecida	81,33
+44050	Calamocha	No es zona montañosa	Zona desfavorecida	316,63
+44051	Calanda	No es zona montañosa	Zona desfavorecida	112,25
+44052	Calomarde	Sistema Ibérico	No es zona desfavorecida	28,18
+44053	Camañas	Sistema Ibérico	No es zona desfavorecida	78,67
+44054	Camarena de la Sierra	Sistema Ibérico	No es zona desfavorecida	79,54
+44055	Camarillas	Sistema Ibérico	No es zona desfavorecida	50,55
+44056	Caminreal	No es zona montañosa	Zona desfavorecida	44,39
+44059	Cantavieja	Sistema Ibérico	No es zona desfavorecida	124,56
+44060	Cañada de Benatanduz	Sistema Ibérico	No es zona desfavorecida	34,89
+44061	Cañada de Verich (La)	Sistema Ibérico	No es zona desfavorecida	10,86
 44062	Cañada Vellida	Sistema Ibérico	No es zona desfavorecida	23,3
-44063	Cañizar del Olivar	Sistema Ibérico	No es zona desfavorecida	18,5
-44064	Cascante del Río	Sistema Ibérico	No es zona desfavorecida	32,4
+44063	Cañizar del Olivar	Sistema Ibérico	No es zona desfavorecida	22,29
+44064	Cascante del Río	Sistema Ibérico	No es zona desfavorecida	32,38
 44065	Castejón de Tornos	No es zona montañosa	Zona desfavorecida	30,9
-44066	Castel de Cabra	Sistema Ibérico	No es zona desfavorecida	29,4
-44067	Castelnou	No es zona montañosa	Zona desfavorecida	37,1
-44068	Castelserás	No es zona montañosa	Zona desfavorecida	31,5
-44070	Castellar (El)	Sistema Ibérico	No es zona desfavorecida	50,3
-44071	Castellote	Sistema Ibérico	No es zona desfavorecida	233,2
-44074	Cedrillas	Sistema Ibérico	No es zona desfavorecida	73,6
-44075	Celadas	Sistema Ibérico	No es zona desfavorecida	100,5
-44076	Cella	No es zona montañosa	Zona desfavorecida	124,7
-44077	Cerollera (La)	Sistema Ibérico	No es zona desfavorecida	33,7
-44080	Codoñera (La)	No es zona montañosa	Zona desfavorecida	21
-44082	Corbalán	Sistema Ibérico	No es zona desfavorecida	82,4
-44084	Cortes de Aragón	No es zona montañosa	Zona desfavorecida	24,4
-44085	Cosa	Sistema Ibérico	No es zona desfavorecida	54,8
-44086	Cretas	No es zona montañosa	Zona desfavorecida	52,7
-44087	Crivillén	Sistema Ibérico	No es zona desfavorecida	42
-44088	Cuba (La)	Sistema Ibérico	No es zona desfavorecida	6,5
-44089	Cubla	Sistema Ibérico	No es zona desfavorecida	48,6
-44090	Cucalón	No es zona montañosa	Zona desfavorecida	31,9
-44092	Cuervo (El)	Sistema Ibérico	No es zona desfavorecida	20,8
-44093	Cuevas de Almudén	Sistema Ibérico	No es zona desfavorecida	35,8
-44094	Cuevas Labradas	Sistema Ibérico	No es zona desfavorecida	40,8
-44096	Ejulve	Sistema Ibérico	No es zona desfavorecida	109,5
-44097	Escorihuela	Sistema Ibérico	No es zona desfavorecida	57
-44099	Escucha	Sistema Ibérico	No es zona desfavorecida	41,6
-44100	Estercuel	Sistema Ibérico	No es zona desfavorecida	55,6
-44101	Ferreruela de Huerva	Sistema Ibérico	No es zona desfavorecida	20,4
-44102	Fonfría	Sistema Ibérico	No es zona desfavorecida	20,6
-44103	Formiche Alto	Sistema Ibérico	No es zona desfavorecida	78,2
-44105	Fórnoles	Sistema Ibérico	No es zona desfavorecida	32,6
-44106	Fortanete	Sistema Ibérico	No es zona desfavorecida	168,2
-44107	Foz-Calanda	Sistema Ibérico	No es zona desfavorecida	37,9
-44108	Fresneda (La)	No es zona montañosa	Zona desfavorecida	39,5
-44109	Frías de Albarracín	Sistema Ibérico	No es zona desfavorecida	50,8
-44110	Fuenferrada	Sistema Ibérico	No es zona desfavorecida	24,5
-44111	Fuentes Calientes	Sistema Ibérico	No es zona desfavorecida	25
-44112	Fuentes Claras	No es zona montañosa	Zona desfavorecida	36,9
-44113	Fuentes de Rubielos	Sistema Ibérico	No es zona desfavorecida	38,9
-44114	Fuentespalda	Sistema Ibérico	No es zona desfavorecida	39
-44115	Galve	Sistema Ibérico	No es zona desfavorecida	61,9
-44116	Gargallo	Sistema Ibérico	No es zona desfavorecida	30,1
+44066	Castel de Cabra	Sistema Ibérico	No es zona desfavorecida	29,44
+44067	Castelnou	No es zona montañosa	Zona desfavorecida	37,09
+44068	Castelserás	No es zona montañosa	Zona desfavorecida	31,52
+44070	Castellar (El)	Sistema Ibérico	No es zona desfavorecida	50,33
+44071	Castellote	Sistema Ibérico	No es zona desfavorecida	235,18
+44074	Cedrillas	Sistema Ibérico	No es zona desfavorecida	73,57
+44075	Celadas	Sistema Ibérico	No es zona desfavorecida	100,45
+44076	Cella	No es zona montañosa	Zona desfavorecida	124,68
+44077	Cerollera (La)	Sistema Ibérico	No es zona desfavorecida	33,75
+44080	Codoñera (La)	No es zona montañosa	Zona desfavorecida	20,97
+44082	Corbalán	Sistema Ibérico	No es zona desfavorecida	82,44
+44084	Cortes de Aragón	No es zona montañosa	Zona desfavorecida	24,43
+44085	Cosa	Sistema Ibérico	No es zona desfavorecida	54,81
+44086	Cretas	No es zona montañosa	Zona desfavorecida	52,66
+44087	Crivillén	Sistema Ibérico	No es zona desfavorecida	42,03
+44088	Cuba (La)	Sistema Ibérico	No es zona desfavorecida	6,51
+44089	Cubla	Sistema Ibérico	No es zona desfavorecida	48,63
+44090	Cucalón	No es zona montañosa	Zona desfavorecida	31,93
+44092	Cuervo (El)	Sistema Ibérico	No es zona desfavorecida	20,76
+44093	Cuevas de Almudén	Sistema Ibérico	No es zona desfavorecida	35,85
+44094	Cuevas Labradas	Sistema Ibérico	No es zona desfavorecida	40,81
+44096	Ejulve	Sistema Ibérico	No es zona desfavorecida	109,49
+44097	Escorihuela	Sistema Ibérico	No es zona desfavorecida	56,99
+44099	Escucha	Sistema Ibérico	No es zona desfavorecida	41,57
+44100	Estercuel	Sistema Ibérico	No es zona desfavorecida	55,59
+44101	Ferreruela de Huerva	Sistema Ibérico	No es zona desfavorecida	20,44
+44102	Fonfría	Sistema Ibérico	No es zona desfavorecida	20,58
+44103	Formiche Alto	Sistema Ibérico	No es zona desfavorecida	78,17
+44105	Fórnoles	Sistema Ibérico	No es zona desfavorecida	32,63
+44106	Fortanete	Sistema Ibérico	No es zona desfavorecida	168,21
+44107	Foz-Calanda	Sistema Ibérico	No es zona desfavorecida	37,87
+44108	Fresneda (La)	No es zona montañosa	Zona desfavorecida	39,48
+44109	Frías de Albarracín	Sistema Ibérico	No es zona desfavorecida	50,79
+44110	Fuenferrada	Sistema Ibérico	No es zona desfavorecida	24,53
+44111	Fuentes Calientes	Sistema Ibérico	No es zona desfavorecida	25,01
+44112	Fuentes Claras	No es zona montañosa	Zona desfavorecida	36,91
+44113	Fuentes de Rubielos	Sistema Ibérico	No es zona desfavorecida	38,91
+44114	Fuentespalda	Sistema Ibérico	No es zona desfavorecida	39,0
+44115	Galve	Sistema Ibérico	No es zona desfavorecida	61,88
+44116	Gargallo	Sistema Ibérico	No es zona desfavorecida	30,08
 44117	Gea de Albarracín	Sistema Ibérico	No es zona desfavorecida	57,5
 44118	Ginebrosa (La)	No es zona montañosa	Zona desfavorecida	80,1
-44119	Griegos	Sistema Ibérico	No es zona desfavorecida	31,8
-44120	Guadalaviar	Sistema Ibérico	No es zona desfavorecida	28,1
-44121	Gúdar	Sistema Ibérico	No es zona desfavorecida	60,8
-44122	Híjar	No es zona montañosa	Zona desfavorecida	165,4
-44123	Hinojosa de Jarque	Sistema Ibérico	No es zona desfavorecida	36,5
-44124	Hoz de la Vieja (La)	Sistema Ibérico	No es zona desfavorecida	43,7
-44125	Huesa del Común	No es zona montañosa	Zona desfavorecida	61,7
-44126	Iglesuela del Cid (La)	Sistema Ibérico	No es zona desfavorecida	40,3
-44127	Jabaloyas	Sistema Ibérico	No es zona desfavorecida	61,7
-44128	Jarque de la Val	Sistema Ibérico	No es zona desfavorecida	29,2
-44129	Jatiel	No es zona montañosa	Zona desfavorecida	10,8
+44119	Griegos	Sistema Ibérico	No es zona desfavorecida	31,77
+44120	Guadalaviar	Sistema Ibérico	No es zona desfavorecida	28,08
+44121	Gúdar	Sistema Ibérico	No es zona desfavorecida	60,77
+44122	Híjar	No es zona montañosa	Zona desfavorecida	165,36
+44123	Hinojosa de Jarque	Sistema Ibérico	No es zona desfavorecida	36,47
+44124	Hoz de la Vieja (La)	Sistema Ibérico	No es zona desfavorecida	43,73
+44125	Huesa del Común	No es zona montañosa	Zona desfavorecida	61,69
+44126	Iglesuela del Cid (La)	Sistema Ibérico	No es zona desfavorecida	40,29
+44127	Jabaloyas	Sistema Ibérico	No es zona desfavorecida	61,73
+44128	Jarque de la Val	Sistema Ibérico	No es zona desfavorecida	29,23
+44129	Jatiel	No es zona montañosa	Zona desfavorecida	10,84
 44130	Jorcas	Sistema Ibérico	No es zona desfavorecida	26,2
-44131	Josa	Sistema Ibérico	No es zona desfavorecida	28,2
-44132	Lagueruela	Sistema Ibérico	No es zona desfavorecida	26,3
-44133	Lanzuela	No es zona montañosa	Zona desfavorecida	14,2
-44135	Libros	Sistema Ibérico	No es zona desfavorecida	37,9
+44131	Josa	Sistema Ibérico	No es zona desfavorecida	28,23
+44132	Lagueruela	Sistema Ibérico	No es zona desfavorecida	26,32
+44133	Lanzuela	No es zona montañosa	Zona desfavorecida	14,22
+44135	Libros	Sistema Ibérico	No es zona desfavorecida	37,91
 44136	Lidón	Sistema Ibérico	No es zona desfavorecida	40,4
-44137	Linares de Mora	Sistema Ibérico	No es zona desfavorecida	116,3
-44138	Loscos	Sistema Ibérico	No es zona desfavorecida	71,8
-44141	Lledó	No es zona montañosa	Zona desfavorecida	15,6
-44142	Maicas	Sistema Ibérico	No es zona desfavorecida	24,7
-44143	Manzanera	Sistema Ibérico	No es zona desfavorecida	168,7
-44144	Martín del Río	Sistema Ibérico	No es zona desfavorecida	54,9
-44145	Mas de las Matas	No es zona montañosa	Zona desfavorecida	30
-44146	Mata de los Olmos (La)	No es zona montañosa	Zona desfavorecida	23,7
-44147	Mazaleón	No es zona montañosa	Zona desfavorecida	86,2
-44148	Mezquita de Jarque	Sistema Ibérico	No es zona desfavorecida	31,1
-44149	Mirambel	Sistema Ibérico	No es zona desfavorecida	45,5
-44150	Miravete de la Sierra	Sistema Ibérico	No es zona desfavorecida	36,5
-44151	Molinos	Sistema Ibérico	No es zona desfavorecida	79,6
-44152	Monforte de Moyuela	Sistema Ibérico	No es zona desfavorecida	47,7
-44153	Monreal del Campo	No es zona montañosa	Zona desfavorecida	89
-44154	Monroyo	Sistema Ibérico	No es zona desfavorecida	79,2
-44155	Montalbán	Sistema Ibérico	No es zona desfavorecida	82
-44156	Monteagudo del Castillo	Sistema Ibérico	No es zona desfavorecida	44,4
-44157	Monterde de Albarracín	Sistema Ibérico	No es zona desfavorecida	45,2
-44158	Mora de Rubielos	Sistema Ibérico	No es zona desfavorecida	166,2
-44159	Moscardón	Sistema Ibérico	No es zona desfavorecida	26,9
-44160	Mosqueruela	Sistema Ibérico	No es zona desfavorecida	265
+44137	Linares de Mora	Sistema Ibérico	No es zona desfavorecida	116,28
+44138	Loscos	Sistema Ibérico	No es zona desfavorecida	71,78
+44141	Lledó	No es zona montañosa	Zona desfavorecida	15,61
+44142	Maicas	Sistema Ibérico	No es zona desfavorecida	24,74
+44143	Manzanera	Sistema Ibérico	No es zona desfavorecida	168,66
+44144	Martín del Río	Sistema Ibérico	No es zona desfavorecida	54,88
+44145	Mas de las Matas	No es zona montañosa	Zona desfavorecida	29,99
+44146	Mata de los Olmos (La)	No es zona montañosa	Zona desfavorecida	23,73
+44147	Mazaleón	No es zona montañosa	Zona desfavorecida	86,25
+44148	Mezquita de Jarque	Sistema Ibérico	No es zona desfavorecida	31,14
+44149	Mirambel	Sistema Ibérico	No es zona desfavorecida	45,47
+44150	Miravete de la Sierra	Sistema Ibérico	No es zona desfavorecida	36,51
+44151	Molinos	Sistema Ibérico	No es zona desfavorecida	79,61
+44152	Monforte de Moyuela	Sistema Ibérico	No es zona desfavorecida	47,74
+44153	Monreal del Campo	No es zona montañosa	Zona desfavorecida	89,05
+44154	Monroyo	Sistema Ibérico	No es zona desfavorecida	79,23
+44155	Montalbán	Sistema Ibérico	No es zona desfavorecida	82,04
+44156	Monteagudo del Castillo	Sistema Ibérico	No es zona desfavorecida	44,36
+44157	Monterde de Albarracín	Sistema Ibérico	No es zona desfavorecida	45,21
+44158	Mora de Rubielos	Sistema Ibérico	No es zona desfavorecida	166,23
+44159	Moscardón	Sistema Ibérico	No es zona desfavorecida	26,93
+44160	Mosqueruela	Sistema Ibérico	No es zona desfavorecida	265,03
 44161	Muniesa	No es zona montañosa	Zona desfavorecida	129,8
-44163	Noguera de Albarracín	Sistema Ibérico	No es zona desfavorecida	47,4
-44164	Nogueras	Sistema Ibérico	No es zona desfavorecida	18,8
-44165	Nogueruelas	Sistema Ibérico	No es zona desfavorecida	99,5
-44167	Obón	Sistema Ibérico	No es zona desfavorecida	68,4
-44168	Odón	Sistema Ibérico	No es zona desfavorecida	74,2
-44169	Ojos Negros	Sistema Ibérico	No es zona desfavorecida	90,9
-44171	Olba	Sistema Ibérico	No es zona desfavorecida	21
-44172	Oliete	No es zona montañosa	Zona desfavorecida	85,5
-44173	Olmos (Los)	Sistema Ibérico	No es zona desfavorecida	44
-44174	Orihuela del Tremedal	Sistema Ibérico	No es zona desfavorecida	71,5
-44175	Orrios	Sistema Ibérico	No es zona desfavorecida	44,2
-44176	Palomar de Arroyos	Sistema Ibérico	No es zona desfavorecida	33,6
-44177	Pancrudo	Sistema Ibérico	No es zona desfavorecida	100,1
-44178	Parras de Castellote (Las)	Sistema Ibérico	No es zona desfavorecida	42,1
-44179	Peñarroya de Tastavins	Sistema Ibérico	No es zona desfavorecida	83,3
-44180	Peracense	Sistema Ibérico	No es zona desfavorecida	28,7
+44163	Noguera de Albarracín	Sistema Ibérico	No es zona desfavorecida	47,44
+44164	Nogueras	Sistema Ibérico	No es zona desfavorecida	18,85
+44165	Nogueruelas	Sistema Ibérico	No es zona desfavorecida	99,49
+44167	Obón	Sistema Ibérico	No es zona desfavorecida	68,38
+44168	Odón	Sistema Ibérico	No es zona desfavorecida	74,24
+44169	Ojos Negros	Sistema Ibérico	No es zona desfavorecida	90,92
+44171	Olba	Sistema Ibérico	No es zona desfavorecida	20,99
+44172	Oliete	No es zona montañosa	Zona desfavorecida	85,48
+44173	Olmos (Los)	Sistema Ibérico	No es zona desfavorecida	43,97
+44174	Orihuela del Tremedal	Sistema Ibérico	No es zona desfavorecida	71,52
+44175	Orrios	Sistema Ibérico	No es zona desfavorecida	44,23
+44176	Palomar de Arroyos	Sistema Ibérico	No es zona desfavorecida	33,62
+44177	Pancrudo	Sistema Ibérico	No es zona desfavorecida	100,12
+44178	Parras de Castellote (Las)	Sistema Ibérico	No es zona desfavorecida	42,13
+44179	Peñarroya de Tastavins	Sistema Ibérico	No es zona desfavorecida	83,28
+44180	Peracense	Sistema Ibérico	No es zona desfavorecida	28,66
 44181	Peralejos	Sistema Ibérico	No es zona desfavorecida	36,1
-44182	Perales del Alfambra	Sistema Ibérico	No es zona desfavorecida	104,2
-44183	Pitarque	Sistema Ibérico	No es zona desfavorecida	54,3
-44184	Plou	No es zona montañosa	Zona desfavorecida	17,2
+44182	Perales del Alfambra	Sistema Ibérico	No es zona desfavorecida	104,24
+44183	Pitarque	Sistema Ibérico	No es zona desfavorecida	54,35
+44184	Plou	No es zona montañosa	Zona desfavorecida	17,21
 44185	Pobo (El)	Sistema Ibérico	No es zona desfavorecida	63,6
-44187	Portellada (La)	No es zona montañosa	Zona desfavorecida	21,4
-44189	Pozondón	Sistema Ibérico	No es zona desfavorecida	67,6
-44190	Pozuel del Campo	Sistema Ibérico	No es zona desfavorecida	27,9
-44191	Puebla de Híjar (La)	No es zona montañosa	Zona desfavorecida	60,8
-44192	Puebla de Valverde (La)	Sistema Ibérico	No es zona desfavorecida	282,8
-44193	Puertomingalvo	Sistema Ibérico	No es zona desfavorecida	103,6
-44194	Ráfales	Sistema Ibérico	No es zona desfavorecida	35,6
-44195	Rillo	Sistema Ibérico	No es zona desfavorecida	53,3
-44196	Riodeva	Sistema Ibérico	No es zona desfavorecida	34,3
-44197	Ródenas	Sistema Ibérico	No es zona desfavorecida	44,3
+44187	Portellada (La)	No es zona montañosa	Zona desfavorecida	21,37
+44189	Pozondón	Sistema Ibérico	No es zona desfavorecida	67,64
+44190	Pozuel del Campo	Sistema Ibérico	No es zona desfavorecida	27,85
+44191	Puebla de Híjar (La)	No es zona montañosa	Zona desfavorecida	60,78
+44192	Puebla de Valverde (La)	Sistema Ibérico	No es zona desfavorecida	282,78
+44193	Puertomingalvo	Sistema Ibérico	No es zona desfavorecida	103,62
+44194	Ráfales	Sistema Ibérico	No es zona desfavorecida	35,61
+44195	Rillo	Sistema Ibérico	No es zona desfavorecida	53,31
+44196	Riodeva	Sistema Ibérico	No es zona desfavorecida	34,34
+44197	Ródenas	Sistema Ibérico	No es zona desfavorecida	44,26
 44198	Royuela	Sistema Ibérico	No es zona desfavorecida	32,5
-44199	Rubiales	Sistema Ibérico	No es zona desfavorecida	27,4
+44199	Rubiales	Sistema Ibérico	No es zona desfavorecida	27,42
 44200	Rubielos de la Cérida	Sistema Ibérico	No es zona desfavorecida	66,9
-44201	Rubielos de Mora	Sistema Ibérico	No es zona desfavorecida	63,7
-44203	Salcedillo	Sistema Ibérico	No es zona desfavorecida	16,9
-44204	Saldón	Sistema Ibérico	No es zona desfavorecida	28,4
+44201	Rubielos de Mora	Sistema Ibérico	No es zona desfavorecida	63,72
+44203	Salcedillo	Sistema Ibérico	No es zona desfavorecida	16,89
+44204	Saldón	Sistema Ibérico	No es zona desfavorecida	28,37
 44205	Samper de Calanda	No es zona montañosa	Zona desfavorecida	142,8
-44206	San Agustín	Sistema Ibérico	No es zona desfavorecida	56,6
-44207	San Martín del Río	Sistema Ibérico	No es zona desfavorecida	16,6
-44208	Santa Cruz de Nogueras	Sistema Ibérico	No es zona desfavorecida	15,2
-44209	Santa Eulalia	No es zona montañosa	Zona desfavorecida	81
-44210	Sarrión	Sistema Ibérico	No es zona desfavorecida	140,4
-44211	Segura de los Baños	Sistema Ibérico	No es zona desfavorecida	54,1
-44212	Seno	Sistema Ibérico	No es zona desfavorecida	17,9
-44213	Singra	No es zona montañosa	Zona desfavorecida	36,7
-44215	Terriente	Sistema Ibérico	No es zona desfavorecida	48
-44216	Teruel	No es zona montañosa	Zona desfavorecida	440,4
-44217	Toril y Masegoso	Sistema Ibérico	No es zona desfavorecida	30,7
-44218	Tormón	Sistema Ibérico	No es zona desfavorecida	29,3
-44219	Tornos	No es zona montañosa	Zona desfavorecida	49
+44206	San Agustín	Sistema Ibérico	No es zona desfavorecida	56,57
+44207	San Martín del Río	Sistema Ibérico	No es zona desfavorecida	16,58
+44208	Santa Cruz de Nogueras	Sistema Ibérico	No es zona desfavorecida	15,18
+44209	Santa Eulalia	No es zona montañosa	Zona desfavorecida	80,97
+44210	Sarrión	Sistema Ibérico	No es zona desfavorecida	140,44
+44211	Segura de los Baños	Sistema Ibérico	No es zona desfavorecida	54,15
+44212	Seno	Sistema Ibérico	No es zona desfavorecida	17,85
+44213	Singra	No es zona montañosa	Zona desfavorecida	36,72
+44215	Terriente	Sistema Ibérico	No es zona desfavorecida	47,98
+44216	Teruel	No es zona montañosa	Zona desfavorecida	440,41
+44217	Toril y Masegoso	Sistema Ibérico	No es zona desfavorecida	30,67
+44218	Tormón	Sistema Ibérico	No es zona desfavorecida	29,34
+44219	Tornos	No es zona montañosa	Zona desfavorecida	48,95
 44220	Torralba de los Sisones	Sistema Ibérico	No es zona desfavorecida	44,8
-44221	Torrecilla de Alcañiz	No es zona montañosa	Zona desfavorecida	26,8
-44222	Torrecilla del Rebollar	Sistema Ibérico	No es zona desfavorecida	63,4
-44223	Torre de Arcas	Sistema Ibérico	No es zona desfavorecida	34,3
-44224	Torre de las Arcas	Sistema Ibérico	No es zona desfavorecida	37,2
-44225	Torre del Compte	No es zona montañosa	Zona desfavorecida	19,5
-44226	Torrelacárcel	No es zona montañosa	Zona desfavorecida	35,5
-44227	Torre los Negros	Sistema Ibérico	No es zona desfavorecida	29,2
-44228	Torremocha de Jiloca	No es zona montañosa	Zona desfavorecida	33,9
-44229	Torres de Albarracín	Sistema Ibérico	No es zona desfavorecida	28,3
-44230	Torrevelilla	Sistema Ibérico	No es zona desfavorecida	33,4
-44231	Torrijas	Sistema Ibérico	No es zona desfavorecida	57,3
-44232	Torrijo del Campo	No es zona montañosa	Zona desfavorecida	44
-44234	Tramacastiel	Sistema Ibérico	No es zona desfavorecida	47,3
-44235	Tramacastilla	Sistema Ibérico	No es zona desfavorecida	24,8
-44236	Tronchón	Sistema Ibérico	No es zona desfavorecida	57,1
-44237	Urrea de Gaén	No es zona montañosa	Zona desfavorecida	41,1
-44238	Utrillas	Sistema Ibérico	No es zona desfavorecida	39,8
-44239	Valacloche	Sistema Ibérico	No es zona desfavorecida	15
-44240	Valbona	Sistema Ibérico	No es zona desfavorecida	40,7
-44241	Valdealgorfa	No es zona montañosa	Zona desfavorecida	46,9
-44243	Valdecuenca	Sistema Ibérico	No es zona desfavorecida	18,6
-44244	Valdelinares	Sistema Ibérico	No es zona desfavorecida	55,1
-44245	Valdeltormo	No es zona montañosa	Zona desfavorecida	16
-44246	Valderrobres	Sistema Ibérico	No es zona desfavorecida	124
-44247	Valjunquera	No es zona montañosa	Zona desfavorecida	41,8
-44249	Vallecillo (El)	Sistema Ibérico	No es zona desfavorecida	21,6
-44250	Veguillas de la Sierra	Sistema Ibérico	No es zona desfavorecida	13,7
-44251	Villafranca del Campo	No es zona montañosa	Zona desfavorecida	66,5
+44221	Torrecilla de Alcañiz	No es zona montañosa	Zona desfavorecida	26,76
+44222	Torrecilla del Rebollar	Sistema Ibérico	No es zona desfavorecida	63,45
+44223	Torre de Arcas	Sistema Ibérico	No es zona desfavorecida	34,28
+44224	Torre de las Arcas	Sistema Ibérico	No es zona desfavorecida	37,17
+44225	Torre del Compte	No es zona montañosa	Zona desfavorecida	19,46
+44226	Torrelacárcel	No es zona montañosa	Zona desfavorecida	35,54
+44227	Torre los Negros	Sistema Ibérico	No es zona desfavorecida	29,15
+44228	Torremocha de Jiloca	No es zona montañosa	Zona desfavorecida	33,94
+44229	Torres de Albarracín	Sistema Ibérico	No es zona desfavorecida	28,31
+44230	Torrevelilla	Sistema Ibérico	No es zona desfavorecida	33,44
+44231	Torrijas	Sistema Ibérico	No es zona desfavorecida	57,34
+44232	Torrijo del Campo	No es zona montañosa	Zona desfavorecida	44,04
+44234	Tramacastiel	Sistema Ibérico	No es zona desfavorecida	47,29
+44235	Tramacastilla	Sistema Ibérico	No es zona desfavorecida	24,81
+44236	Tronchón	Sistema Ibérico	No es zona desfavorecida	57,11
+44237	Urrea de Gaén	No es zona montañosa	Zona desfavorecida	41,12
+44238	Utrillas	Sistema Ibérico	No es zona desfavorecida	39,82
+44239	Valacloche	Sistema Ibérico	No es zona desfavorecida	15,02
+44240	Valbona	Sistema Ibérico	No es zona desfavorecida	40,72
+44241	Valdealgorfa	No es zona montañosa	Zona desfavorecida	46,93
+44243	Valdecuenca	Sistema Ibérico	No es zona desfavorecida	18,64
+44244	Valdelinares	Sistema Ibérico	No es zona desfavorecida	55,09
+44245	Valdeltormo	No es zona montañosa	Zona desfavorecida	16,0
+44246	Valderrobres	Sistema Ibérico	No es zona desfavorecida	124,04
+44247	Valjunquera	No es zona montañosa	Zona desfavorecida	41,84
+44249	Vallecillo (El)	Sistema Ibérico	No es zona desfavorecida	21,59
+44250	Veguillas de la Sierra	Sistema Ibérico	No es zona desfavorecida	13,67
+44251	Villafranca del Campo	No es zona montañosa	Zona desfavorecida	66,54
 44252	Villahermosa del Campo	No es zona montañosa	Zona desfavorecida	19,2
-44256	Villanueva del Rebollar de la Sierra	Sistema Ibérico	No es zona desfavorecida	19
-44257	Villar del Cobo	Sistema Ibérico	No es zona desfavorecida	54,1
-44258	Villar del Salz	Sistema Ibérico	No es zona desfavorecida	38,7
-44260	Villarluengo	Sistema Ibérico	No es zona desfavorecida	159,9
-44261	Villarquemado	Sistema Ibérico	No es zona desfavorecida	56,4
-44262	Villarroya de los Pinares	Sistema Ibérico	No es zona desfavorecida	66,4
-44263	Villastar	Sistema Ibérico	No es zona desfavorecida	39
-44264	Villel	Sistema Ibérico	No es zona desfavorecida	85,4
-44265	Vinaceite	No es zona montañosa	Zona desfavorecida	50,1
-44266	Visiedo	Sistema Ibérico	No es zona desfavorecida	48,9
-44267	Vivel del Río Martín	Sistema Ibérico	No es zona desfavorecida	51,2
+44256	Villanueva del Rebollar de la Sierra	Sistema Ibérico	No es zona desfavorecida	18,99
+44257	Villar del Cobo	Sistema Ibérico	No es zona desfavorecida	54,13
+44258	Villar del Salz	Sistema Ibérico	No es zona desfavorecida	38,69
+44260	Villarluengo	Sistema Ibérico	No es zona desfavorecida	157,89
+44261	Villarquemado	Sistema Ibérico	No es zona desfavorecida	56,43
+44262	Villarroya de los Pinares	Sistema Ibérico	No es zona desfavorecida	66,41
+44263	Villastar	Sistema Ibérico	No es zona desfavorecida	39,05
+44264	Villel	Sistema Ibérico	No es zona desfavorecida	85,38
+44265	Vinaceite	No es zona montañosa	Zona desfavorecida	50,08
+44266	Visiedo	Sistema Ibérico	No es zona desfavorecida	55,53
+44267	Vivel del Río Martín	Sistema Ibérico	No es zona desfavorecida	51,16
 44268	Zoma (La)	Sistema Ibérico	No es zona desfavorecida	14,5
-50001	Abanto	No es zona montañosa	Zona desfavorecida	63,8
+50001	Abanto	No es zona montañosa	Zona desfavorecida	63,84
 50002	Acered	No es zona montañosa	Zona desfavorecida	30,4
-50003	Agón	No es zona montañosa	No es zona desfavorecida	18,5
-50004	Aguarón	No es zona montañosa	Zona desfavorecida	36,6
-50005	Aguilón	No es zona montañosa	Zona desfavorecida	59,5
-50006	Ainzón	No es zona montañosa	No es zona desfavorecida	40,5
-50007	Aladrén	No es zona montañosa	Zona desfavorecida	21,1
-50008	Alagón	No es zona montañosa	No es zona desfavorecida	24,2
-50009	Alarba	No es zona montañosa	Zona desfavorecida	19
-50010	Alberite de San Juan	No es zona montañosa	No es zona desfavorecida	11,2
-50011	Albeta	No es zona montañosa	No es zona desfavorecida	2,7
-50012	Alborge	No es zona montañosa	Zona desfavorecida	4,8
-50013	Alcalá de Ebro	No es zona montañosa	No es zona desfavorecida	9,9
-50014	Alcalá de Moncayo	No es zona montañosa	No es zona desfavorecida	13,8
-50015	Alconchel de Ariza	No es zona montañosa	Zona desfavorecida	34,9
-50016	Aldehuela de Liestos	No es zona montañosa	Zona desfavorecida	38
-50017	Alfajarín	No es zona montañosa	No es zona desfavorecida	137,6
-50018	Alfamén	No es zona montañosa	Zona desfavorecida	102
-50019	Alforque	No es zona montañosa	Zona desfavorecida	10,6
-50020	Alhama de Aragón	No es zona montañosa	Zona desfavorecida	31,1
-50021	Almochuel	No es zona montañosa	Zona desfavorecida	32
-50022	Almolda (La)	No es zona montañosa	Zona desfavorecida	131,3
-50023	Almonacid de la Cuba	No es zona montañosa	Zona desfavorecida	55,2
-50024	Almonacid de la Sierra	No es zona montañosa	Zona desfavorecida	54,1
-50025	Almunia de Doña Godina (La)	No es zona montañosa	Zona desfavorecida	56,7
-50026	Alpartir	No es zona montañosa	Zona desfavorecida	27,1
-50027	Ambel	No es zona montañosa	No es zona desfavorecida	61,5
-50028	Anento	No es zona montañosa	Zona desfavorecida	21,5
-50029	Aniñón	No es zona montañosa	Zona desfavorecida	52,5
-50030	Añón de Moncayo	Moncayo	No es zona desfavorecida	64,2
+50003	Agón	No es zona montañosa	No es zona desfavorecida	18,52
+50004	Aguarón	No es zona montañosa	Zona desfavorecida	36,62
+50005	Aguilón	No es zona montañosa	Zona desfavorecida	59,45
+50006	Ainzón	No es zona montañosa	No es zona desfavorecida	40,46
+50007	Aladrén	No es zona montañosa	Zona desfavorecida	21,06
+50008	Alagón	No es zona montañosa	No es zona desfavorecida	24,22
+50009	Alarba	No es zona montañosa	Zona desfavorecida	19,0
+50010	Alberite de San Juan	No es zona montañosa	No es zona desfavorecida	11,23
+50011	Albeta	No es zona montañosa	No es zona desfavorecida	2,65
+50012	Alborge	No es zona montañosa	Zona desfavorecida	4,84
+50013	Alcalá de Ebro	No es zona montañosa	No es zona desfavorecida	9,87
+50014	Alcalá de Moncayo	No es zona montañosa	No es zona desfavorecida	13,76
+50015	Alconchel de Ariza	No es zona montañosa	Zona desfavorecida	34,85
+50016	Aldehuela de Liestos	No es zona montañosa	Zona desfavorecida	38,04
+50017	Alfajarín	No es zona montañosa	No es zona desfavorecida	137,57
+50018	Alfamén	No es zona montañosa	Zona desfavorecida	102,04
+50019	Alforque	No es zona montañosa	Zona desfavorecida	10,62
+50020	Alhama de Aragón	No es zona montañosa	Zona desfavorecida	31,14
+50021	Almochuel	No es zona montañosa	Zona desfavorecida	32,0
+50022	Almolda (La)	No es zona montañosa	Zona desfavorecida	131,33
+50023	Almonacid de la Cuba	No es zona montañosa	Zona desfavorecida	55,21
+50024	Almonacid de la Sierra	No es zona montañosa	Zona desfavorecida	54,12
+50025	Almunia de Doña Godina (La)	No es zona montañosa	Zona desfavorecida	56,65
+50026	Alpartir	No es zona montañosa	Zona desfavorecida	32,54
+50027	Ambel	No es zona montañosa	No es zona desfavorecida	61,46
+50028	Anento	No es zona montañosa	Zona desfavorecida	21,52
+50029	Aniñón	No es zona montañosa	Zona desfavorecida	52,46
+50030	Añón de Moncayo	Moncayo	No es zona desfavorecida	64,19
 50031	Aranda de Moncayo	No es zona montañosa	Zona desfavorecida	91,2
-50032	Arándiga	No es zona montañosa	Zona desfavorecida	50,2
-50033	Ardisa	No es zona montañosa	No es zona desfavorecida	27,3
-50034	Ariza	No es zona montañosa	Zona desfavorecida	103,1
-50035	Artieda	Pirineos	No es zona desfavorecida	13,6
-50036	Asín	No es zona montañosa	No es zona desfavorecida	18,5
-50037	Atea	No es zona montañosa	Zona desfavorecida	34,7
-50038	Ateca	No es zona montañosa	Zona desfavorecida	84,7
-50039	Azuara	No es zona montañosa	Zona desfavorecida	165,8
-50040	Badules	No es zona montañosa	Zona desfavorecida	20,1
-50041	Bagüés	Pirineos	No es zona desfavorecida	30,7
+50032	Arándiga	No es zona montañosa	Zona desfavorecida	50,22
+50033	Ardisa	No es zona montañosa	No es zona desfavorecida	27,28
+50034	Ariza	No es zona montañosa	Zona desfavorecida	103,08
+50035	Artieda	Pirineos	No es zona desfavorecida	13,57
+50036	Asín	No es zona montañosa	No es zona desfavorecida	18,47
+50037	Atea	No es zona montañosa	Zona desfavorecida	34,67
+50038	Ateca	No es zona montañosa	Zona desfavorecida	84,71
+50039	Azuara	No es zona montañosa	Zona desfavorecida	165,81
+50040	Badules	No es zona montañosa	Zona desfavorecida	20,09
+50041	Bagüés	Pirineos	No es zona desfavorecida	30,72
 50042	Balconchán	No es zona montañosa	Zona desfavorecida	19,4
-50043	Bárboles	No es zona montañosa	No es zona desfavorecida	15,7
-50044	Bardallur	No es zona montañosa	No es zona desfavorecida	27,3
-50045	Belchite	No es zona montañosa	Zona desfavorecida	273,7
-50046	Belmonte de Gracián	No es zona montañosa	Zona desfavorecida	43,7
-50047	Berdejo	No es zona montañosa	Zona desfavorecida	19,4
+50043	Bárboles	No es zona montañosa	No es zona desfavorecida	15,68
+50044	Bardallur	No es zona montañosa	No es zona desfavorecida	27,34
+50045	Belchite	No es zona montañosa	Zona desfavorecida	273,68
+50046	Belmonte de Gracián	No es zona montañosa	Zona desfavorecida	43,68
+50047	Berdejo	No es zona montañosa	Zona desfavorecida	19,39
 50048	Berrueco	No es zona montañosa	Zona desfavorecida	19,5
-50050	Bijuesca	No es zona montañosa	Zona desfavorecida	57,1
+50050	Bijuesca	No es zona montañosa	Zona desfavorecida	57,08
 50051	Biota	No es zona montañosa	No es zona desfavorecida	128,8
-50052	Bisimbre	No es zona montañosa	No es zona desfavorecida	11,2
-50053	Boquiñeni	No es zona montañosa	No es zona desfavorecida	18,9
-50054	Bordalba	No es zona montañosa	Zona desfavorecida	41,6
-50055	Borja	No es zona montañosa	No es zona desfavorecida	107,3
-50056	Botorrita	No es zona montañosa	No es zona desfavorecida	19,8
-50057	Brea de Aragón	No es zona montañosa	Zona desfavorecida	13,4
-50058	Bubierca	No es zona montañosa	Zona desfavorecida	29,5
-50059	Bujaraloz	No es zona montañosa	Zona desfavorecida	120,9
-50060	Bulbuente	No es zona montañosa	No es zona desfavorecida	25,4
-50061	Bureta	No es zona montañosa	No es zona desfavorecida	11,9
-50062	Burgo de Ebro (El)	No es zona montañosa	No es zona desfavorecida	24,9
-50063	Buste (El)	No es zona montañosa	No es zona desfavorecida	7,6
-50064	Cabañas de Ebro	No es zona montañosa	No es zona desfavorecida	8,5
-50065	Cabolafuente	No es zona montañosa	Zona desfavorecida	39,2
-50066	Cadrete	No es zona montañosa	No es zona desfavorecida	11,9
-50067	Calatayud	No es zona montañosa	Zona desfavorecida	154,2
-50068	Calatorao	No es zona montañosa	Zona desfavorecida	48,1
-50069	Calcena	Moncayo	No es zona desfavorecida	64,7
-50070	Calmarza	No es zona montañosa	Zona desfavorecida	28,1
-50071	Campillo de Aragón	No es zona montañosa	Zona desfavorecida	36,9
-50072	Carenas	No es zona montañosa	Zona desfavorecida	31,2
-50073	Cariñena	No es zona montañosa	Zona desfavorecida	82,5
-50074	Caspe	No es zona montañosa	Zona desfavorecida	503,2
-50075	Castejón de Alarba	No es zona montañosa	Zona desfavorecida	17,6
-50076	Castejón de las Armas	No es zona montañosa	Zona desfavorecida	16,2
-50077	Castejón de Valdejasa	No es zona montañosa	No es zona desfavorecida	110,1
-50078	Castiliscar	No es zona montañosa	No es zona desfavorecida	40,7
-50079	Cervera de la Cañada	No es zona montañosa	Zona desfavorecida	29,2
-50080	Cerveruela	No es zona montañosa	Zona desfavorecida	23,5
-50081	Cetina	No es zona montañosa	Zona desfavorecida	79,1
-50082	Cimballa	No es zona montañosa	Zona desfavorecida	31,9
-50083	Cinco Olivas	No es zona montañosa	Zona desfavorecida	2,3
+50052	Bisimbre	No es zona montañosa	No es zona desfavorecida	11,22
+50053	Boquiñeni	No es zona montañosa	No es zona desfavorecida	18,87
+50054	Bordalba	No es zona montañosa	Zona desfavorecida	41,58
+50055	Borja	No es zona montañosa	No es zona desfavorecida	107,29
+50056	Botorrita	No es zona montañosa	No es zona desfavorecida	19,81
+50057	Brea de Aragón	No es zona montañosa	Zona desfavorecida	13,38
+50058	Bubierca	No es zona montañosa	Zona desfavorecida	29,54
+50059	Bujaraloz	No es zona montañosa	Zona desfavorecida	120,92
+50060	Bulbuente	No es zona montañosa	No es zona desfavorecida	25,44
+50061	Bureta	No es zona montañosa	No es zona desfavorecida	11,91
+50062	Burgo de Ebro (El)	No es zona montañosa	No es zona desfavorecida	24,86
+50063	Buste (El)	No es zona montañosa	No es zona desfavorecida	7,61
+50064	Cabañas de Ebro	No es zona montañosa	No es zona desfavorecida	8,53
+50065	Cabolafuente	No es zona montañosa	Zona desfavorecida	39,24
+50066	Cadrete	No es zona montañosa	No es zona desfavorecida	11,86
+50067	Calatayud	No es zona montañosa	Zona desfavorecida	154,25
+50068	Calatorao	No es zona montañosa	Zona desfavorecida	48,15
+50069	Calcena	Moncayo	No es zona desfavorecida	64,74
+50070	Calmarza	No es zona montañosa	Zona desfavorecida	28,15
+50071	Campillo de Aragón	No es zona montañosa	Zona desfavorecida	36,86
+50072	Carenas	No es zona montañosa	Zona desfavorecida	31,22
+50073	Cariñena	No es zona montañosa	Zona desfavorecida	82,51
+50074	Caspe	No es zona montañosa	Zona desfavorecida	503,15
+50075	Castejón de Alarba	No es zona montañosa	Zona desfavorecida	17,56
+50076	Castejón de las Armas	No es zona montañosa	Zona desfavorecida	16,19
+50077	Castejón de Valdejasa	No es zona montañosa	No es zona desfavorecida	110,12
+50078	Castiliscar	No es zona montañosa	No es zona desfavorecida	40,68
+50079	Cervera de la Cañada	No es zona montañosa	Zona desfavorecida	29,22
+50080	Cerveruela	No es zona montañosa	Zona desfavorecida	23,49
+50081	Cetina	No es zona montañosa	Zona desfavorecida	78,76
+50082	Cimballa	No es zona montañosa	Zona desfavorecida	31,95
+50083	Cinco Olivas	No es zona montañosa	Zona desfavorecida	2,25
 50084	Clarés de Ribota	No es zona montañosa	Zona desfavorecida	18,7
-50085	Codo	No es zona montañosa	Zona desfavorecida	11,4
-50086	Codos	No es zona montañosa	Zona desfavorecida	62,7
-50087	Contamina	No es zona montañosa	Zona desfavorecida	13,7
-50088	Cosuenda	No es zona montañosa	Zona desfavorecida	31,7
-50089	Cuarte de Huerva	No es zona montañosa	No es zona desfavorecida	8,9
-50090	Cubel	No es zona montañosa	Zona desfavorecida	58,6
-50091	Cuerlas (Las)	No es zona montañosa	Zona desfavorecida	32,6
-50092	Chiprana	No es zona montañosa	Zona desfavorecida	39
-50093	Chodes	No es zona montañosa	Zona desfavorecida	16
-50094	Daroca	No es zona montañosa	Zona desfavorecida	52
-50095	Ejea de los Caballeros	No es zona montañosa	No es zona desfavorecida	609,9
-50096	Embid de Ariza	No es zona montañosa	Zona desfavorecida	41,3
-50098	Encinacorba	No es zona montañosa	Zona desfavorecida	36,7
-50099	Épila	No es zona montañosa	Zona desfavorecida	194,3
-50100	Erla	No es zona montañosa	No es zona desfavorecida	19
-50101	Escatrón	No es zona montañosa	Zona desfavorecida	94,6
-50102	Fabara	No es zona montañosa	Zona desfavorecida	101,6
-50104	Farlete	No es zona montañosa	No es zona desfavorecida	104,1
-50105	Fayón	No es zona montañosa	Zona desfavorecida	67,2
-50106	Fayos (Los)	No es zona montañosa	No es zona desfavorecida	3,9
-50107	Figueruelas	No es zona montañosa	No es zona desfavorecida	17
-50108	Fombuena	No es zona montañosa	Zona desfavorecida	26,4
-50109	Frago (El)	No es zona montañosa	No es zona desfavorecida	33,8
-50110	Frasno (El)	No es zona montañosa	Zona desfavorecida	48,6
-50111	Fréscano	No es zona montañosa	No es zona desfavorecida	18,4
-50113	Fuendejalón	No es zona montañosa	No es zona desfavorecida	75,8
+50085	Codo	No es zona montañosa	Zona desfavorecida	11,36
+50086	Codos	No es zona montañosa	Zona desfavorecida	62,69
+50087	Contamina	No es zona montañosa	Zona desfavorecida	14,02
+50088	Cosuenda	No es zona montañosa	Zona desfavorecida	31,68
+50089	Cuarte de Huerva	No es zona montañosa	No es zona desfavorecida	8,95
+50090	Cubel	No es zona montañosa	Zona desfavorecida	58,62
+50091	Cuerlas (Las)	No es zona montañosa	Zona desfavorecida	32,58
+50092	Chiprana	No es zona montañosa	Zona desfavorecida	38,98
+50093	Chodes	No es zona montañosa	Zona desfavorecida	15,97
+50094	Daroca	No es zona montañosa	Zona desfavorecida	52,05
+50095	Ejea de los Caballeros	No es zona montañosa	No es zona desfavorecida	609,92
+50096	Embid de Ariza	No es zona montañosa	Zona desfavorecida	41,26
+50098	Encinacorba	No es zona montañosa	Zona desfavorecida	36,74
+50099	Épila	No es zona montañosa	Zona desfavorecida	194,32
+50100	Erla	No es zona montañosa	No es zona desfavorecida	18,96
+50101	Escatrón	No es zona montañosa	Zona desfavorecida	94,64
+50102	Fabara	No es zona montañosa	Zona desfavorecida	101,63
+50104	Farlete	No es zona montañosa	No es zona desfavorecida	104,11
+50105	Fayón	No es zona montañosa	Zona desfavorecida	67,19
+50106	Fayos (Los)	No es zona montañosa	No es zona desfavorecida	3,88
+50107	Figueruelas	No es zona montañosa	No es zona desfavorecida	16,99
+50108	Fombuena	No es zona montañosa	Zona desfavorecida	26,37
+50109	Frago (El)	No es zona montañosa	No es zona desfavorecida	33,76
+50110	Frasno (El)	No es zona montañosa	Zona desfavorecida	48,64
+50111	Fréscano	No es zona montañosa	No es zona desfavorecida	18,41
+50113	Fuendejalón	No es zona montañosa	No es zona desfavorecida	75,83
 50114	Fuendetodos	No es zona montañosa	Zona desfavorecida	62,2
-50115	Fuentes de Ebro	No es zona montañosa	No es zona desfavorecida	141,7
-50116	Fuentes de Jiloca	No es zona montañosa	Zona desfavorecida	27,4
-50117	Gallocanta	No es zona montañosa	Zona desfavorecida	29,7
-50118	Gallur	No es zona montañosa	No es zona desfavorecida	41,7
-50119	Gelsa	No es zona montañosa	No es zona desfavorecida	72
-50120	Godojos	No es zona montañosa	Zona desfavorecida	16,8
-50121	Gotor	No es zona montañosa	Zona desfavorecida	15,5
-50122	Grisel	Moncayo	No es zona desfavorecida	14,5
-50123	Grisén	No es zona montañosa	No es zona desfavorecida	4,8
-50124	Herrera de los Navarros	No es zona montañosa	Zona desfavorecida	105
-50125	Ibdes	No es zona montañosa	Zona desfavorecida	56,3
-50126	Illueca	No es zona montañosa	Zona desfavorecida	24,9
-50128	Isuerre	Pirineos	No es zona desfavorecida	20,1
-50129	Jaraba	No es zona montañosa	Zona desfavorecida	42,8
-50130	Jarque de Moncayo	No es zona montañosa	Zona desfavorecida	43
-50131	Jaulín	No es zona montañosa	No es zona desfavorecida	46,1
-50132	Joyosa (La)	No es zona montañosa	No es zona desfavorecida	6,5
-50133	Lagata	No es zona montañosa	Zona desfavorecida	23,7
-50134	Langa del Castillo	No es zona montañosa	Zona desfavorecida	50,1
-50135	Layana	No es zona montañosa	Zona desfavorecida	3,7
+50115	Fuentes de Ebro	No es zona montañosa	No es zona desfavorecida	141,73
+50116	Fuentes de Jiloca	No es zona montañosa	Zona desfavorecida	27,35
+50117	Gallocanta	No es zona montañosa	Zona desfavorecida	29,71
+50118	Gallur	No es zona montañosa	No es zona desfavorecida	41,71
+50119	Gelsa	No es zona montañosa	No es zona desfavorecida	72,04
+50120	Godojos	No es zona montañosa	Zona desfavorecida	16,77
+50121	Gotor	No es zona montañosa	Zona desfavorecida	15,52
+50122	Grisel	Moncayo	No es zona desfavorecida	14,51
+50123	Grisén	No es zona montañosa	No es zona desfavorecida	4,75
+50124	Herrera de los Navarros	No es zona montañosa	Zona desfavorecida	105,01
+50125	Ibdes	No es zona montañosa	Zona desfavorecida	56,31
+50126	Illueca	No es zona montañosa	Zona desfavorecida	24,86
+50128	Isuerre	Pirineos	No es zona desfavorecida	20,05
+50129	Jaraba	No es zona montañosa	Zona desfavorecida	42,81
+50130	Jarque	No es zona montañosa	Zona desfavorecida	43,0
+50131	Jaulín	No es zona montañosa	No es zona desfavorecida	46,05
+50132	Joyosa (La)	No es zona montañosa	No es zona desfavorecida	6,52
+50133	Lagata	No es zona montañosa	Zona desfavorecida	23,65
+50134	Langa del Castillo	No es zona montañosa	Zona desfavorecida	50,13
+50135	Layana	No es zona montañosa	Zona desfavorecida	3,69
 50136	Lécera	No es zona montañosa	Zona desfavorecida	109,2
-50137	Leciñena	No es zona montañosa	No es zona desfavorecida	178,6
-50138	Lechón	No es zona montañosa	Zona desfavorecida	17,5
-50139	Letux	No es zona montañosa	Zona desfavorecida	30,1
+50137	Leciñena	No es zona montañosa	No es zona desfavorecida	178,64
+50138	Lechón	No es zona montañosa	Zona desfavorecida	17,46
+50139	Letux	No es zona montañosa	Zona desfavorecida	30,15
 50140	Litago	Moncayo	No es zona desfavorecida	15,3
-50141	Lituénigo	No es zona montañosa	No es zona desfavorecida	11,4
-50142	Lobera de Onsella	Pirineos	No es zona desfavorecida	32,2
-50143	Longares	No es zona montañosa	Zona desfavorecida	46
-50144	Longás	Pirineos	No es zona desfavorecida	49,2
-50146	Lucena de Jalón	No es zona montañosa	Zona desfavorecida	10,3
-50147	Luceni	No es zona montañosa	No es zona desfavorecida	27,1
-50148	Luesia	Pirineos	No es zona desfavorecida	126,8
+50141	Lituénigo	No es zona montañosa	No es zona desfavorecida	11,38
+50142	Lobera de Onsella	Pirineos	No es zona desfavorecida	32,18
+50143	Longares	No es zona montañosa	Zona desfavorecida	45,96
+50144	Longás	Pirineos	No es zona desfavorecida	49,23
+50146	Lucena de Jalón	No es zona montañosa	Zona desfavorecida	10,31
+50147	Luceni	No es zona montañosa	No es zona desfavorecida	27,08
+50148	Luesia	Pirineos	No es zona desfavorecida	126,83
 50149	Luesma	No es zona montañosa	Zona desfavorecida	29,4
-50150	Lumpiaque	No es zona montañosa	Zona desfavorecida	29,5
-50151	Luna	No es zona montañosa	No es zona desfavorecida	308,9
-50152	Maella	No es zona montañosa	Zona desfavorecida	174,9
-50153	Magallón	No es zona montañosa	No es zona desfavorecida	78,6
-50154	Mainar	No es zona montañosa	Zona desfavorecida	34
-50155	Malanquilla	No es zona montañosa	Zona desfavorecida	36,6
-50156	Maleján	No es zona montañosa	No es zona desfavorecida	0,1
-50157	Malón	No es zona montañosa	No es zona desfavorecida	5,7
-50159	Maluenda	No es zona montañosa	Zona desfavorecida	40,1
-50160	Mallén	No es zona montañosa	No es zona desfavorecida	37,4
-50161	Manchones	No es zona montañosa	Zona desfavorecida	26,8
-50162	Mara	No es zona montañosa	Zona desfavorecida	21,1
-50163	María de Huerva	No es zona montañosa	No es zona desfavorecida	108,1
-50164	Mediana de Aragón	No es zona montañosa	No es zona desfavorecida	90,6
-50165	Mequinenza	No es zona montañosa	Zona desfavorecida	307,2
-50166	Mesones de Isuela	No es zona montañosa	Zona desfavorecida	48,5
-50167	Mezalocha	No es zona montañosa	Zona desfavorecida	60,6
-50168	Mianos	Pirineos	No es zona desfavorecida	14,8
-50169	Miedes de Aragón	No es zona montañosa	Zona desfavorecida	55,4
-50170	Monegrillo	No es zona montañosa	No es zona desfavorecida	183,2
+50150	Lumpiaque	No es zona montañosa	Zona desfavorecida	29,55
+50151	Luna	No es zona montañosa	No es zona desfavorecida	308,93
+50152	Maella	No es zona montañosa	Zona desfavorecida	174,88
+50153	Magallón	No es zona montañosa	No es zona desfavorecida	78,61
+50154	Mainar	No es zona montañosa	Zona desfavorecida	34,02
+50155	Malanquilla	No es zona montañosa	Zona desfavorecida	36,63
+50156	Maleján	No es zona montañosa	No es zona desfavorecida	0,08
+50157	Malón	No es zona montañosa	No es zona desfavorecida	5,66
+50159	Maluenda	No es zona montañosa	Zona desfavorecida	40,09
+50160	Mallén	No es zona montañosa	No es zona desfavorecida	37,42
+50161	Manchones	No es zona montañosa	Zona desfavorecida	26,83
+50162	Mara	No es zona montañosa	Zona desfavorecida	21,09
+50163	María de Huerva	No es zona montañosa	No es zona desfavorecida	108,09
+50164	Mediana de Aragón	No es zona montañosa	No es zona desfavorecida	90,57
+50165	Mequinenza	No es zona montañosa	Zona desfavorecida	307,45
+50166	Mesones de Isuela	No es zona montañosa	Zona desfavorecida	48,55
+50167	Mezalocha	No es zona montañosa	Zona desfavorecida	60,64
+50168	Mianos	Pirineos	No es zona desfavorecida	14,82
+50169	Miedes de Aragón	No es zona montañosa	Zona desfavorecida	55,38
+50170	Monegrillo	No es zona montañosa	No es zona desfavorecida	183,16
 50171	Moneva	No es zona montañosa	Zona desfavorecida	61,4
-50172	Monreal de Ariza	No es zona montañosa	Zona desfavorecida	62,1
-50173	Monterde	No es zona montañosa	Zona desfavorecida	55,9
-50174	Montón	No es zona montañosa	Zona desfavorecida	17,6
-50175	Morata de Jalón	No es zona montañosa	Zona desfavorecida	45,9
-50176	Morata de Jiloca	No es zona montañosa	Zona desfavorecida	23,1
-50177	Morés	No es zona montañosa	Zona desfavorecida	21,5
+50172	Monreal de Ariza	No es zona montañosa	Zona desfavorecida	62,06
+50173	Monterde	No es zona montañosa	Zona desfavorecida	55,94
+50174	Montón	No es zona montañosa	Zona desfavorecida	17,59
+50175	Morata de Jalón	No es zona montañosa	Zona desfavorecida	45,87
+50176	Morata de Jiloca	No es zona montañosa	Zona desfavorecida	23,09
+50177	Morés	No es zona montañosa	Zona desfavorecida	21,46
 50178	Moros	No es zona montañosa	Zona desfavorecida	53,5
-50179	Moyuela	No es zona montañosa	Zona desfavorecida	42,8
-50180	Mozota	No es zona montañosa	No es zona desfavorecida	8,7
-50181	Muel	No es zona montañosa	Zona desfavorecida	79,2
-50182	Muela (La)	No es zona montañosa	No es zona desfavorecida	143,5
-50183	Munébrega	No es zona montañosa	Zona desfavorecida	41
-50184	Murero	No es zona montañosa	Zona desfavorecida	18,2
-50185	Murillo de Gállego	No es zona montañosa	No es zona desfavorecida	54,7
+50179	Moyuela	No es zona montañosa	Zona desfavorecida	42,76
+50180	Mozota	No es zona montañosa	No es zona desfavorecida	8,68
+50181	Muel	No es zona montañosa	Zona desfavorecida	79,17
+50182	Muela (La)	No es zona montañosa	No es zona desfavorecida	143,49
+50183	Munébrega	No es zona montañosa	Zona desfavorecida	40,99
+50184	Murero	No es zona montañosa	Zona desfavorecida	18,25
+50185	Murillo de Gállego	No es zona montañosa	No es zona desfavorecida	54,71
 50186	Navardún	No es zona montañosa	Zona desfavorecida	24,5
-50187	Nigüella	No es zona montañosa	Zona desfavorecida	30,4
-50188	Nombrevilla	No es zona montañosa	Zona desfavorecida	17,6
-50189	Nonaspe	No es zona montañosa	Zona desfavorecida	111,4
+50187	Nigüella	No es zona montañosa	Zona desfavorecida	30,42
+50188	Nombrevilla	No es zona montañosa	Zona desfavorecida	17,56
+50189	Nonaspe	No es zona montañosa	Zona desfavorecida	111,45
 50190	Novallas	No es zona montañosa	No es zona desfavorecida	11,4
-50191	Novillas	No es zona montañosa	No es zona desfavorecida	25,3
-50192	Nuévalos	No es zona montañosa	Zona desfavorecida	41,8
-50193	Nuez de Ebro	No es zona montañosa	No es zona desfavorecida	8,2
-50194	Olvés	No es zona montañosa	Zona desfavorecida	20,2
-50195	Orcajo	No es zona montañosa	Zona desfavorecida	28,4
-50196	Orera	No es zona montañosa	Zona desfavorecida	19,8
-50197	Orés	No es zona montañosa	No es zona desfavorecida	54,5
+50191	Novillas	No es zona montañosa	No es zona desfavorecida	25,28
+50192	Nuévalos	No es zona montañosa	Zona desfavorecida	41,84
+50193	Nuez de Ebro	No es zona montañosa	No es zona desfavorecida	8,21
+50194	Olvés	No es zona montañosa	Zona desfavorecida	20,18
+50195	Orcajo	No es zona montañosa	Zona desfavorecida	28,45
+50196	Orera	No es zona montañosa	Zona desfavorecida	19,82
+50197	Orés	No es zona montañosa	No es zona desfavorecida	54,52
 50198	Oseja	Moncayo	No es zona desfavorecida	12,5
-50199	Osera de Ebro	No es zona montañosa	No es zona desfavorecida	24,6
-50200	Paniza	No es zona montañosa	Zona desfavorecida	47,3
-50201	Paracuellos de Jiloca	No es zona montañosa	Zona desfavorecida	32
-50202	Paracuellos de la Ribera	No es zona montañosa	Zona desfavorecida	15
-50203	Pastriz	No es zona montañosa	No es zona desfavorecida	16,5
-50204	Pedrola	No es zona montañosa	No es zona desfavorecida	113,7
-50205	Pedrosas (Las)	No es zona montañosa	No es zona desfavorecida	18,3
-50206	Perdiguera	No es zona montañosa	No es zona desfavorecida	109,8
-50207	Piedratajada	No es zona montañosa	No es zona desfavorecida	22,5
-50208	Pina de Ebro	No es zona montañosa	No es zona desfavorecida	309,2
-50209	Pinseque	No es zona montañosa	No es zona desfavorecida	16,1
-50210	Pintanos (Los)	Pirineos	No es zona desfavorecida	79,6
-50211	Plasencia de Jalón	No es zona montañosa	Zona desfavorecida	34,8
-50212	Pleitas	No es zona montañosa	No es zona desfavorecida	2,1
-50213	Plenas	No es zona montañosa	Zona desfavorecida	37,9
-50214	Pomer	Moncayo	No es zona desfavorecida	33,1
-50215	Pozuel de Ariza	No es zona montañosa	Zona desfavorecida	22,6
-50216	Pozuelo de Aragón	No es zona montañosa	No es zona desfavorecida	32,1
-50217	Pradilla de Ebro	No es zona montañosa	No es zona desfavorecida	25,4
-50218	Puebla de Albortón	No es zona montañosa	Zona desfavorecida	76,3
-50219	Puebla de Alfindén (La)	No es zona montañosa	No es zona desfavorecida	17
-50220	Puendeluna	No es zona montañosa	No es zona desfavorecida	9,9
-50221	Purujosa	Moncayo	No es zona desfavorecida	35,4
-50222	Quinto	No es zona montañosa	No es zona desfavorecida	118,3
-50223	Remolinos	No es zona montañosa	No es zona desfavorecida	18,5
-50224	Retascón	No es zona montañosa	Zona desfavorecida	25,2
-50225	Ricla	No es zona montañosa	Zona desfavorecida	90,7
-50227	Romanos	No es zona montañosa	Zona desfavorecida	19,5
-50228	Rueda de Jalón	No es zona montañosa	Zona desfavorecida	107,4
-50229	Ruesca	No es zona montañosa	Zona desfavorecida	11,6
-50230	Sádaba	No es zona montañosa	No es zona desfavorecida	129,5
-50231	Salillas de Jalón	No es zona montañosa	Zona desfavorecida	2,5
-50232	Salvatierra de Esca	Pirineos	No es zona desfavorecida	81,2
-50233	Samper del Salz	No es zona montañosa	Zona desfavorecida	11,5
-50234	San Martín de la Virgen de Moncayo	Moncayo	No es zona desfavorecida	5,4
-50235	San Mateo de Gállego	No es zona montañosa	No es zona desfavorecida	71,6
-50236	Santa Cruz de Grío	No es zona montañosa	Zona desfavorecida	19,5
-50237	Santa Cruz de Moncayo	No es zona montañosa	No es zona desfavorecida	4
-50238	Santa Eulalia de Gállego	No es zona montañosa	No es zona desfavorecida	29,6
-50239	Santed	No es zona montañosa	Zona desfavorecida	17,8
-50240	Sástago	No es zona montañosa	Zona desfavorecida	301
-50241	Saviñán	No es zona montañosa	Zona desfavorecida	15,5
-50242	Sediles	No es zona montañosa	Zona desfavorecida	11,7
-50243	Sestrica	No es zona montañosa	Zona desfavorecida	40,9
-50244	Sierra de Luna	No es zona montañosa	No es zona desfavorecida	43,4
-50245	Sigüés	Pirineos	No es zona desfavorecida	101,8
-50246	Sisamón	No es zona montañosa	Zona desfavorecida	41,6
-50247	Sobradiel	No es zona montañosa	No es zona desfavorecida	12,1
-50248	Sos del Rey Católico	Pirineos	No es zona desfavorecida	216,6
-50249	Tabuenca	No es zona montañosa	No es zona desfavorecida	85,7
-50250	Talamantes	Moncayo	No es zona desfavorecida	46,9
-50251	Tarazona	No es zona montañosa	No es zona desfavorecida	244
-50252	Tauste	No es zona montañosa	No es zona desfavorecida	405,2
-50253	Terrer	No es zona montañosa	Zona desfavorecida	33,8
-50254	Tierga	No es zona montañosa	Zona desfavorecida	66,1
-50255	Tobed	No es zona montañosa	Zona desfavorecida	37,9
-50256	Torralba de los Frailes	No es zona montañosa	Zona desfavorecida	59,2
-50257	Torralba de Ribota	No es zona montañosa	Zona desfavorecida	32,5
-50258	Torralbilla	No es zona montañosa	Zona desfavorecida	25,9
-50259	Torrehermosa	No es zona montañosa	Zona desfavorecida	21,1
-50260	Torrelapaja	No es zona montañosa	Zona desfavorecida	15,7
-50261	Torrellas	No es zona montañosa	No es zona desfavorecida	2,5
-50262	Torres de Berrellén	No es zona montañosa	No es zona desfavorecida	53,8
-50263	Torrijo de la Cañada	No es zona montañosa	Zona desfavorecida	74,6
-50264	Tosos	No es zona montañosa	Zona desfavorecida	68,6
-50265	Trasmoz	No es zona montañosa	No es zona desfavorecida	18,3
-50266	Trasobares	Moncayo	No es zona desfavorecida	71,8
-50267	Uncastillo	Pirineos	No es zona desfavorecida	230,9
-50268	Undués de Lerda	Pirineos	No es zona desfavorecida	43
-50269	Urrea de Jalón	No es zona montañosa	Zona desfavorecida	25,6
-50270	Urriés	Pirineos	No es zona desfavorecida	37,3
-50271	Used	No es zona montañosa	Zona desfavorecida	85,3
-50272	Utebo	No es zona montañosa	No es zona desfavorecida	17,7
-50273	Valdehorna	No es zona montañosa	Zona desfavorecida	7,9
-50274	Val de San Martín	No es zona montañosa	Zona desfavorecida	25,7
-50275	Valmadrid	No es zona montañosa	Zona desfavorecida	50,6
-50276	Valpalmas	No es zona montañosa	No es zona desfavorecida	39,8
-50277	Valtorres	No es zona montañosa	Zona desfavorecida	3,3
-50278	Velilla de Ebro	No es zona montañosa	No es zona desfavorecida	59,8
+50199	Osera de Ebro	No es zona montañosa	No es zona desfavorecida	24,56
+50200	Paniza	No es zona montañosa	Zona desfavorecida	47,31
+50201	Paracuellos de Jiloca	No es zona montañosa	Zona desfavorecida	32,0
+50202	Paracuellos de la Ribera	No es zona montañosa	Zona desfavorecida	14,96
+50203	Pastriz	No es zona montañosa	No es zona desfavorecida	16,52
+50204	Pedrola	No es zona montañosa	No es zona desfavorecida	113,74
+50205	Pedrosas (Las)	No es zona montañosa	No es zona desfavorecida	18,26
+50206	Perdiguera	No es zona montañosa	No es zona desfavorecida	109,77
+50207	Piedratajada	No es zona montañosa	No es zona desfavorecida	22,66
+50208	Pina de Ebro	No es zona montañosa	No es zona desfavorecida	309,17
+50209	Pinseque	No es zona montañosa	No es zona desfavorecida	16,09
+50210	Pintanos (Los)	Pirineos	No es zona desfavorecida	79,64
+50211	Plasencia de Jalón	No es zona montañosa	Zona desfavorecida	34,77
+50212	Pleitas	No es zona montañosa	No es zona desfavorecida	2,14
+50213	Plenas	No es zona montañosa	Zona desfavorecida	37,95
+50214	Pomer	Moncayo	No es zona desfavorecida	33,11
+50215	Pozuel de Ariza	No es zona montañosa	Zona desfavorecida	22,63
+50216	Pozuelo de Aragón	No es zona montañosa	No es zona desfavorecida	32,11
+50217	Pradilla de Ebro	No es zona montañosa	No es zona desfavorecida	25,45
+50218	Puebla de Albortón	No es zona montañosa	Zona desfavorecida	76,31
+50219	Puebla de Alfindén (La)	No es zona montañosa	No es zona desfavorecida	17,03
+50220	Puendeluna	No es zona montañosa	No es zona desfavorecida	9,88
+50221	Purujosa	Moncayo	No es zona desfavorecida	35,43
+50222	Quinto	No es zona montañosa	No es zona desfavorecida	118,26
+50223	Remolinos	No es zona montañosa	No es zona desfavorecida	18,51
+50224	Retascón	No es zona montañosa	Zona desfavorecida	25,16
+50225	Ricla	No es zona montañosa	Zona desfavorecida	90,67
+50227	Romanos	No es zona montañosa	Zona desfavorecida	19,53
+50228	Rueda de Jalón	No es zona montañosa	Zona desfavorecida	107,37
+50229	Ruesca	No es zona montañosa	Zona desfavorecida	11,63
+50230	Sádaba	No es zona montañosa	No es zona desfavorecida	129,55
+50231	Salillas de Jalón	No es zona montañosa	Zona desfavorecida	2,51
+50232	Salvatierra de Esca	Pirineos	No es zona desfavorecida	81,24
+50233	Samper del Salz	No es zona montañosa	Zona desfavorecida	11,49
+50234	San Martín de la Virgen de Moncayo	Moncayo	No es zona desfavorecida	5,42
+50235	San Mateo de Gállego	No es zona montañosa	No es zona desfavorecida	71,62
+50236	Santa Cruz de Grío	No es zona montañosa	Zona desfavorecida	19,51
+50237	Santa Cruz de Moncayo	No es zona montañosa	No es zona desfavorecida	3,97
+50238	Santa Eulalia de Gállego	No es zona montañosa	No es zona desfavorecida	29,58
+50239	Santed	No es zona montañosa	Zona desfavorecida	17,81
+50240	Sástago	No es zona montañosa	Zona desfavorecida	300,99
+50241	Saviñán	No es zona montañosa	Zona desfavorecida	15,52
+50242	Sediles	No es zona montañosa	Zona desfavorecida	11,71
+50243	Sestrica	No es zona montañosa	Zona desfavorecida	40,88
+50244	Sierra de Luna	No es zona montañosa	No es zona desfavorecida	43,39
+50245	Sigüés	Pirineos	No es zona desfavorecida	101,77
+50246	Sisamón	No es zona montañosa	Zona desfavorecida	41,55
+50247	Sobradiel	No es zona montañosa	No es zona desfavorecida	12,06
+50248	Sos del Rey Católico	Pirineos	No es zona desfavorecida	216,62
+50249	Tabuenca	No es zona montañosa	No es zona desfavorecida	85,72
+50250	Talamantes	Moncayo	No es zona desfavorecida	46,94
+50251	Tarazona	No es zona montañosa	No es zona desfavorecida	244,01
+50252	Tauste	No es zona montañosa	No es zona desfavorecida	405,23
+50253	Terrer	No es zona montañosa	Zona desfavorecida	33,75
+50254	Tierga	No es zona montañosa	Zona desfavorecida	66,13
+50255	Tobed	No es zona montañosa	Zona desfavorecida	32,39
+50256	Torralba de los Frailes	No es zona montañosa	Zona desfavorecida	59,22
+50257	Torralba de Ribota	No es zona montañosa	Zona desfavorecida	32,53
+50258	Torralbilla	No es zona montañosa	Zona desfavorecida	25,86
+50259	Torrehermosa	No es zona montañosa	Zona desfavorecida	21,13
+50260	Torrelapaja	No es zona montañosa	Zona desfavorecida	15,68
+50261	Torrellas	No es zona montañosa	No es zona desfavorecida	2,53
+50262	Torres de Berrellén	No es zona montañosa	No es zona desfavorecida	53,81
+50263	Torrijo de la Cañada	No es zona montañosa	Zona desfavorecida	74,57
+50264	Tosos	No es zona montañosa	Zona desfavorecida	68,65
+50265	Trasmoz	No es zona montañosa	No es zona desfavorecida	18,26
+50266	Trasobares	Moncayo	No es zona desfavorecida	71,76
+50267	Uncastillo	Pirineos	No es zona desfavorecida	230,87
+50268	Undués de Lerda	Pirineos	No es zona desfavorecida	42,99
+50269	Urrea de Jalón	No es zona montañosa	Zona desfavorecida	25,64
+50270	Urriés	Pirineos	No es zona desfavorecida	37,27
+50271	Used	No es zona montañosa	Zona desfavorecida	85,29
+50272	Utebo	No es zona montañosa	No es zona desfavorecida	17,72
+50273	Valdehorna	No es zona montañosa	Zona desfavorecida	7,95
+50274	Val de San Martín	No es zona montañosa	Zona desfavorecida	25,66
+50275	Valmadrid	No es zona montañosa	Zona desfavorecida	50,57
+50276	Valpalmas	No es zona montañosa	No es zona desfavorecida	39,79
+50277	Valtorres	No es zona montañosa	Zona desfavorecida	3,29
+50278	Velilla de Ebro	No es zona montañosa	No es zona desfavorecida	59,79
 50279	Velilla de Jiloca	No es zona montañosa	Zona desfavorecida	10,4
-50280	Vera de Moncayo	No es zona montañosa	No es zona desfavorecida	27,7
-50281	Vierlas	No es zona montañosa	No es zona desfavorecida	2,7
-50282	Vilueña (La)	No es zona montañosa	Zona desfavorecida	8,6
-50283	Villadoz	No es zona montañosa	Zona desfavorecida	17,2
+50280	Vera de Moncayo	No es zona montañosa	No es zona desfavorecida	27,66
+50281	Vierlas	No es zona montañosa	No es zona desfavorecida	2,67
+50282	Vilueña (La)	No es zona montañosa	Zona desfavorecida	8,61
+50283	Villadoz	No es zona montañosa	Zona desfavorecida	17,18
 50284	Villafeliche	No es zona montañosa	Zona desfavorecida	22,5
-50285	Villafranca de Ebro	No es zona montañosa	No es zona desfavorecida	63,6
-50286	Villalba de Perejil	No es zona montañosa	Zona desfavorecida	13,3
-50287	Villalengua	No es zona montañosa	Zona desfavorecida	40,2
-50288	Villanueva de Gállego	No es zona montañosa	No es zona desfavorecida	76
-50289	Villanueva de Jiloca	No es zona montañosa	Zona desfavorecida	7,3
-50290	Villanueva de Huerva	No es zona montañosa	Zona desfavorecida	78,4
+50285	Villafranca de Ebro	No es zona montañosa	No es zona desfavorecida	63,64
+50286	Villalba de Perejil	No es zona montañosa	Zona desfavorecida	13,33
+50287	Villalengua	No es zona montañosa	Zona desfavorecida	40,16
+50288	Villanueva de Gállego	No es zona montañosa	No es zona desfavorecida	75,99
+50289	Villanueva de Jiloca	No es zona montañosa	Zona desfavorecida	7,35
+50290	Villanueva de Huerva	No es zona montañosa	Zona desfavorecida	78,38
 50291	Villar de los Navarros	No es zona montañosa	Zona desfavorecida	49,5
-50292	Villarreal de Huerva	No es zona montañosa	Zona desfavorecida	27,1
+50292	Villarreal de Huerva	No es zona montañosa	Zona desfavorecida	27,13
 50293	Villarroya de la Sierra	No es zona montañosa	Zona desfavorecida	91,6
-50294	Villarroya del Campo	No es zona montañosa	Zona desfavorecida	16,9
-50295	Vistabella	No es zona montañosa	Zona desfavorecida	21,8
-50296	Zaida (La)	No es zona montañosa	Zona desfavorecida	17,3
-50297	Zaragoza	No es zona montañosa	No es zona desfavorecida	973,7
-50298	Zuera	No es zona montañosa	No es zona desfavorecida	332,2
-50901	Biel	Pirineos	No es zona desfavorecida	130,7
-50902	Marracos	No es zona montañosa	No es zona desfavorecida	17,1
-50903	Villamayor de Gállego	No es zona montañosa	No es zona desfavorecida	89,4
+50294	Villarroya del Campo	No es zona montañosa	Zona desfavorecida	16,95
+50295	Vistabella	No es zona montañosa	Zona desfavorecida	21,82
+50296	Zaida (La)	No es zona montañosa	Zona desfavorecida	17,27
+50297	Zaragoza	No es zona montañosa	No es zona desfavorecida	973,78
+50298	Zuera	No es zona montañosa	No es zona desfavorecida	332,25
+50901	Biel	Pirineos	No es zona desfavorecida	130,73
+50902	Marracos	No es zona montañosa	No es zona desfavorecida	16,92
+50903	Villamayor de Gállego	No es zona montañosa	No es zona desfavorecida	89,36

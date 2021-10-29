@@ -1,13 +1,4 @@
 Año	Provincia código	Provincia nombre	Tasa bruta de saldo vegetativo	Tasa bruta de natalidad	Tasa bruta de mortalidad	Tasa global de fecundidad	Tasa bruta de nupcialidad
-2018	22	Huesca	-4,2	7,54	11,77	37,35	2,86
-2018	44	Teruel	-6,14	7,1	13,25	36,18	2,84
-2018	50	Zaragoza	-2,48	7,66	10,13	35,58	3,27
-2017	22	Huesca	-3,96	7,86	11,82	38,51	2,84
-2017	44	Teruel	-5,72	7,05	12,77	35,51	2,97
-2017	50	Zaragoza	-2,12	8,17	10,29	37,63	3,4
-2016	22	Huesca	-3,65	7,82	11,47	38,01	3,13
-2016	44	Teruel	-4,25	7,82	12,07	38,93	2,87
-2016	50	Zaragoza	-1,22	8,48	9,7	38,69	3,48
 2015	22	Huesca	-3,87	8,46	12,33	40,54	2,76
 2015	44	Teruel	-5,81	7,21	13,02	35,46	2,77
 2015	50	Zaragoza	-1,39	8,81	10,2	39,74	3,43
@@ -23,7 +14,7 @@ Año	Provincia código	Provincia nombre	Tasa bruta de saldo vegetativo	Tasa brut
 2011	22	Huesca	-2,42	8,53	10,96	38,92	2,8
 2011	44	Teruel	-3,62	8,34	11,96	39,04	2,77
 2011	50	Zaragoza	0,13	9,73	9,6	41,65	3,37
-2010	22	Huesca	-2,21	8,8	11	39,72	2,99
+2010	22	Huesca	-2,21	8,8	11,0	39,72	2,99
 2010	44	Teruel	-3,45	8,18	11,63	37,89	2,89
 2010	50	Zaragoza	0,76	10,04	9,27	42,49	3,49
 2009	22	Huesca	-1,79	9,14	10,93	40,81	3,07
@@ -43,7 +34,7 @@ Año	Provincia código	Provincia nombre	Tasa bruta de saldo vegetativo	Tasa brut
 2005	50	Zaragoza	-0,71	9,6	10,31	39,28	4,8
 2004	22	Huesca	-2,83	8,65	11,48	38,08	4,07
 2004	44	Teruel	-4,01	7,77	11,78	36,27	3,7
-2004	50	Zaragoza	-0,62	9,56	10,19	39	5,05
+2004	50	Zaragoza	-0,62	9,56	10,19	39,0	5,05
 2003	22	Huesca	-4,21	7,84	12,06	34,49	3,67
 2003	44	Teruel	-5,6	7,22	12,82	33,77	4,23
 2003	50	Zaragoza	-1,17	9,46	10,63	38,44	4,94

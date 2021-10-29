@@ -1,480 +1,4 @@
 Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	Cantidad
-2020	01	La Jacetania	Turismos	1	9618
-2020	01	La Jacetania	Camiones y furgonetas	3	3070
-2020	01	La Jacetania	Autobuses	4	68
-2020	01	La Jacetania	Tractores industriales	5	62
-2020	01	La Jacetania	Motocicletas	7	1257
-2020	01	La Jacetania	Ciclomotores	8	498
-2020	01	La Jacetania	Otros vehículos	9	624
-2020	02	Alto Gállego	Turismos	1	7414
-2020	02	Alto Gállego	Camiones y furgonetas	3	2332
-2020	02	Alto Gállego	Autobuses	4	6
-2020	02	Alto Gállego	Tractores industriales	5	110
-2020	02	Alto Gállego	Motocicletas	7	722
-2020	02	Alto Gállego	Ciclomotores	8	276
-2020	02	Alto Gállego	Otros vehículos	9	612
-2020	03	Sobrarbe	Turismos	1	4301
-2020	03	Sobrarbe	Camiones y furgonetas	3	2348
-2020	03	Sobrarbe	Autobuses	4	15
-2020	03	Sobrarbe	Tractores industriales	5	39
-2020	03	Sobrarbe	Motocicletas	7	463
-2020	03	Sobrarbe	Ciclomotores	8	239
-2020	03	Sobrarbe	Otros vehículos	9	590
-2020	04	La Ribagorza	Turismos	1	7132
-2020	04	La Ribagorza	Camiones y furgonetas	3	3585
-2020	04	La Ribagorza	Autobuses	4	13
-2020	04	La Ribagorza	Tractores industriales	5	180
-2020	04	La Ribagorza	Motocicletas	7	1151
-2020	04	La Ribagorza	Ciclomotores	8	401
-2020	04	La Ribagorza	Otros vehículos	9	960
-2020	05	Cinco Villas	Turismos	1	16715
-2020	05	Cinco Villas	Camiones y furgonetas	3	4975
-2020	05	Cinco Villas	Autobuses	4	36
-2020	05	Cinco Villas	Tractores industriales	5	335
-2020	05	Cinco Villas	Motocicletas	7	1449
-2020	05	Cinco Villas	Ciclomotores	8	1189
-2020	05	Cinco Villas	Otros vehículos	9	1486
-2020	06	Hoya de Huesca / Plana de Uesca	Turismos	1	34162
-2020	06	Hoya de Huesca / Plana de Uesca	Camiones y furgonetas	3	8675
-2020	06	Hoya de Huesca / Plana de Uesca	Autobuses	4	213
-2020	06	Hoya de Huesca / Plana de Uesca	Tractores industriales	5	240
-2020	06	Hoya de Huesca / Plana de Uesca	Motocicletas	7	4156
-2020	06	Hoya de Huesca / Plana de Uesca	Ciclomotores	8	2136
-2020	06	Hoya de Huesca / Plana de Uesca	Otros vehículos	9	1918
-2020	07	Somontano de Barbastro	Turismos	1	12747
-2020	07	Somontano de Barbastro	Camiones y furgonetas	3	3922
-2020	07	Somontano de Barbastro	Autobuses	4	13
-2020	07	Somontano de Barbastro	Tractores industriales	5	145
-2020	07	Somontano de Barbastro	Motocicletas	7	1956
-2020	07	Somontano de Barbastro	Ciclomotores	8	1340
-2020	07	Somontano de Barbastro	Otros vehículos	9	870
-2020	08	Cinca Medio	Turismos	1	12962
-2020	08	Cinca Medio	Camiones y furgonetas	3	3401
-2020	08	Cinca Medio	Autobuses	4	14
-2020	08	Cinca Medio	Tractores industriales	5	276
-2020	08	Cinca Medio	Motocicletas	7	1467
-2020	08	Cinca Medio	Ciclomotores	8	1173
-2020	08	Cinca Medio	Otros vehículos	9	1038
-2020	09	La Litera / La Llitera	Turismos	1	10976
-2020	09	La Litera / La Llitera	Camiones y furgonetas	3	3667
-2020	09	La Litera / La Llitera	Autobuses	4	20
-2020	09	La Litera / La Llitera	Tractores industriales	5	347
-2020	09	La Litera / La Llitera	Motocicletas	7	1261
-2020	09	La Litera / La Llitera	Ciclomotores	8	877
-2020	09	La Litera / La Llitera	Otros vehículos	9	1120
-2020	10	Los Monegros	Turismos	1	11839
-2020	10	Los Monegros	Camiones y furgonetas	3	3812
-2020	10	Los Monegros	Autobuses	4	3
-2020	10	Los Monegros	Tractores industriales	5	477
-2020	10	Los Monegros	Motocicletas	7	1238
-2020	10	Los Monegros	Ciclomotores	8	1159
-2020	10	Los Monegros	Otros vehículos	9	1795
-2020	11	Bajo Cinca / Baix Cinca	Turismos	1	13851
-2020	11	Bajo Cinca / Baix Cinca	Camiones y furgonetas	3	4269
-2020	11	Bajo Cinca / Baix Cinca	Autobuses	4	13
-2020	11	Bajo Cinca / Baix Cinca	Tractores industriales	5	365
-2020	11	Bajo Cinca / Baix Cinca	Motocicletas	7	1897
-2020	11	Bajo Cinca / Baix Cinca	Ciclomotores	8	1785
-2020	11	Bajo Cinca / Baix Cinca	Otros vehículos	9	1239
-2020	12	Tarazona y el Moncayo	Turismos	1	7328
-2020	12	Tarazona y el Moncayo	Camiones y furgonetas	3	1841
-2020	12	Tarazona y el Moncayo	Autobuses	4	52
-2020	12	Tarazona y el Moncayo	Tractores industriales	5	197
-2020	12	Tarazona y el Moncayo	Motocicletas	7	894
-2020	12	Tarazona y el Moncayo	Ciclomotores	8	923
-2020	12	Tarazona y el Moncayo	Otros vehículos	9	1002
-2020	13	Campo de Borja	Turismos	1	7668
-2020	13	Campo de Borja	Camiones y furgonetas	3	2048
-2020	13	Campo de Borja	Autobuses	4	10
-2020	13	Campo de Borja	Tractores industriales	5	52
-2020	13	Campo de Borja	Motocicletas	7	881
-2020	13	Campo de Borja	Ciclomotores	8	1067
-2020	13	Campo de Borja	Otros vehículos	9	443
-2020	14	Aranda	Turismos	1	3398
-2020	14	Aranda	Camiones y furgonetas	3	1266
-2020	14	Aranda	Autobuses	4	12
-2020	14	Aranda	Tractores industriales	5	26
-2020	14	Aranda	Motocicletas	7	304
-2020	14	Aranda	Ciclomotores	8	337
-2020	14	Aranda	Otros vehículos	9	178
-2020	15	Ribera Alta del Ebro	Turismos	1	15462
-2020	15	Ribera Alta del Ebro	Camiones y furgonetas	3	3344
-2020	15	Ribera Alta del Ebro	Autobuses	4	5
-2020	15	Ribera Alta del Ebro	Tractores industriales	5	950
-2020	15	Ribera Alta del Ebro	Motocicletas	7	1577
-2020	15	Ribera Alta del Ebro	Ciclomotores	8	1968
-2020	15	Ribera Alta del Ebro	Otros vehículos	9	2804
-2020	16	Valdejalón	Turismos	1	16251
-2020	16	Valdejalón	Camiones y furgonetas	3	4357
-2020	16	Valdejalón	Autobuses	4	12
-2020	16	Valdejalón	Tractores industriales	5	425
-2020	16	Valdejalón	Motocicletas	7	1411
-2020	16	Valdejalón	Ciclomotores	8	1536
-2020	16	Valdejalón	Otros vehículos	9	4034
-2020	17	Central	Turismos	1	313519
-2020	17	Central	Camiones y furgonetas	3	49357
-2020	17	Central	Autobuses	4	861
-2020	17	Central	Tractores industriales	5	2830
-2020	17	Central	Motocicletas	7	46132
-2020	17	Central	Ciclomotores	8	17348
-2020	17	Central	Otros vehículos	9	12262
-2020	18	Ribera Baja del Ebro	Turismos	1	4911
-2020	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1204
-2020	18	Ribera Baja del Ebro	Autobuses	4	0
-2020	18	Ribera Baja del Ebro	Tractores industriales	5	79
-2020	18	Ribera Baja del Ebro	Motocicletas	7	696
-2020	18	Ribera Baja del Ebro	Ciclomotores	8	881
-2020	18	Ribera Baja del Ebro	Otros vehículos	9	418
-2020	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Turismos	1	7112
-2020	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Camiones y furgonetas	3	2322
-2020	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Autobuses	4	2
-2020	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Tractores industriales	5	63
-2020	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Motocicletas	7	889
-2020	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Ciclomotores	8	1150
-2020	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros vehículos	9	541
-2020	20	Comunidad de Calatayud	Turismos	1	18756
-2020	20	Comunidad de Calatayud	Camiones y furgonetas	3	5815
-2020	20	Comunidad de Calatayud	Autobuses	4	34
-2020	20	Comunidad de Calatayud	Tractores industriales	5	403
-2020	20	Comunidad de Calatayud	Motocicletas	7	2127
-2020	20	Comunidad de Calatayud	Ciclomotores	8	1729
-2020	20	Comunidad de Calatayud	Otros vehículos	9	1385
-2020	21	Campo de Cariñena	Turismos	1	5669
-2020	21	Campo de Cariñena	Camiones y furgonetas	3	1628
-2020	21	Campo de Cariñena	Autobuses	4	0
-2020	21	Campo de Cariñena	Tractores industriales	5	40
-2020	21	Campo de Cariñena	Motocicletas	7	506
-2020	21	Campo de Cariñena	Ciclomotores	8	564
-2020	21	Campo de Cariñena	Otros vehículos	9	373
-2020	22	Campo de Belchite	Turismos	1	2608
-2020	22	Campo de Belchite	Camiones y furgonetas	3	781
-2020	22	Campo de Belchite	Autobuses	4	7
-2020	22	Campo de Belchite	Tractores industriales	5	28
-2020	22	Campo de Belchite	Motocicletas	7	276
-2020	22	Campo de Belchite	Ciclomotores	8	416
-2020	22	Campo de Belchite	Otros vehículos	9	211
-2020	23	Bajo Martín	Turismos	1	3552
-2020	23	Bajo Martín	Camiones y furgonetas	3	1140
-2020	23	Bajo Martín	Autobuses	4	0
-2020	23	Bajo Martín	Tractores industriales	5	274
-2020	23	Bajo Martín	Motocicletas	7	459
-2020	23	Bajo Martín	Ciclomotores	8	592
-2020	23	Bajo Martín	Otros vehículos	9	1352
-2020	24	Campo de Daroca	Turismos	1	4190
-2020	24	Campo de Daroca	Camiones y furgonetas	3	1386
-2020	24	Campo de Daroca	Autobuses	4	1
-2020	24	Campo de Daroca	Tractores industriales	5	126
-2020	24	Campo de Daroca	Motocicletas	7	420
-2020	24	Campo de Daroca	Ciclomotores	8	289
-2020	24	Campo de Daroca	Otros vehículos	9	373
-2020	25	Jiloca	Turismos	1	7274
-2020	25	Jiloca	Camiones y furgonetas	3	2284
-2020	25	Jiloca	Autobuses	4	6
-2020	25	Jiloca	Tractores industriales	5	96
-2020	25	Jiloca	Motocicletas	7	579
-2020	25	Jiloca	Ciclomotores	8	624
-2020	25	Jiloca	Otros vehículos	9	524
-2020	26	Cuencas Mineras	Turismos	1	4815
-2020	26	Cuencas Mineras	Camiones y furgonetas	3	1363
-2020	26	Cuencas Mineras	Autobuses	4	10
-2020	26	Cuencas Mineras	Tractores industriales	5	22
-2020	26	Cuencas Mineras	Motocicletas	7	445
-2020	26	Cuencas Mineras	Ciclomotores	8	361
-2020	26	Cuencas Mineras	Otros vehículos	9	327
-2020	27	Andorra-Sierra de Arcos	Turismos	1	5897
-2020	27	Andorra-Sierra de Arcos	Camiones y furgonetas	3	1595
-2020	27	Andorra-Sierra de Arcos	Autobuses	4	20
-2020	27	Andorra-Sierra de Arcos	Tractores industriales	5	64
-2020	27	Andorra-Sierra de Arcos	Motocicletas	7	637
-2020	27	Andorra-Sierra de Arcos	Ciclomotores	8	430
-2020	27	Andorra-Sierra de Arcos	Otros vehículos	9	352
-2020	28	Bajo Aragón	Turismos	1	15595
-2020	28	Bajo Aragón	Camiones y furgonetas	3	4547
-2020	28	Bajo Aragón	Autobuses	4	12
-2020	28	Bajo Aragón	Tractores industriales	5	335
-2020	28	Bajo Aragón	Motocicletas	7	2330
-2020	28	Bajo Aragón	Ciclomotores	8	1896
-2020	28	Bajo Aragón	Otros vehículos	9	1161
-2020	29	Comunidad de Teruel	Turismos	1	25510
-2020	29	Comunidad de Teruel	Camiones y furgonetas	3	6685
-2020	29	Comunidad de Teruel	Autobuses	4	41
-2020	29	Comunidad de Teruel	Tractores industriales	5	479
-2020	29	Comunidad de Teruel	Motocicletas	7	3059
-2020	29	Comunidad de Teruel	Ciclomotores	8	2036
-2020	29	Comunidad de Teruel	Otros vehículos	9	1619
-2020	30	Maestrazgo	Turismos	1	1894
-2020	30	Maestrazgo	Camiones y furgonetas	3	1347
-2020	30	Maestrazgo	Autobuses	4	1
-2020	30	Maestrazgo	Tractores industriales	5	361
-2020	30	Maestrazgo	Motocicletas	7	221
-2020	30	Maestrazgo	Ciclomotores	8	106
-2020	30	Maestrazgo	Otros vehículos	9	523
-2020	31	Sierra de Albarracín	Turismos	1	2590
-2020	31	Sierra de Albarracín	Camiones y furgonetas	3	1312
-2020	31	Sierra de Albarracín	Autobuses	4	2
-2020	31	Sierra de Albarracín	Tractores industriales	5	17
-2020	31	Sierra de Albarracín	Motocicletas	7	278
-2020	31	Sierra de Albarracín	Ciclomotores	8	209
-2020	31	Sierra de Albarracín	Otros vehículos	9	217
-2020	32	Gúdar-Javalambre	Turismos	1	4150
-2020	32	Gúdar-Javalambre	Camiones y furgonetas	3	2335
-2020	32	Gúdar-Javalambre	Autobuses	4	2
-2020	32	Gúdar-Javalambre	Tractores industriales	5	61
-2020	32	Gúdar-Javalambre	Motocicletas	7	337
-2020	32	Gúdar-Javalambre	Ciclomotores	8	388
-2020	32	Gúdar-Javalambre	Otros vehículos	9	565
-2020	33	Matarraña / Matarranya	Turismos	1	4639
-2020	33	Matarraña / Matarranya	Camiones y furgonetas	3	2406
-2020	33	Matarraña / Matarranya	Autobuses	4	6
-2020	33	Matarraña / Matarranya	Tractores industriales	5	94
-2020	33	Matarraña / Matarranya	Motocicletas	7	655
-2020	33	Matarraña / Matarranya	Ciclomotores	8	608
-2020	33	Matarraña / Matarranya	Otros vehículos	9	448
-2020	99	Sin clasificar	Turismos	1	35
-2020	99	Sin clasificar	Camiones y furgonetas	3	17
-2020	99	Sin clasificar	Autobuses	4	0
-2020	99	Sin clasificar	Tractores industriales	5	1
-2020	99	Sin clasificar	Motocicletas	7	1
-2020	99	Sin clasificar	Ciclomotores	8	1
-2020	99	Sin clasificar	Otros vehículos	9	2
-2019	01	La Jacetania	Turismos	1	9414
-2019	01	La Jacetania	Camiones y furgonetas	3	3063
-2019	01	La Jacetania	Autobuses	4	48
-2019	01	La Jacetania	Tractores industriales	5	62
-2019	01	La Jacetania	Motocicletas	7	1216
-2019	01	La Jacetania	Ciclomotores	8	505
-2019	01	La Jacetania	Otros vehículos	9	611
-2019	02	Alto Gállego	Turismos	1	7289
-2019	02	Alto Gállego	Camiones y furgonetas	3	2300
-2019	02	Alto Gállego	Autobuses	4	6
-2019	02	Alto Gállego	Tractores industriales	5	115
-2019	02	Alto Gállego	Motocicletas	7	693
-2019	02	Alto Gállego	Ciclomotores	8	273
-2019	02	Alto Gállego	Otros vehículos	9	600
-2019	03	Sobrarbe	Turismos	1	4237
-2019	03	Sobrarbe	Camiones y furgonetas	3	2338
-2019	03	Sobrarbe	Autobuses	4	15
-2019	03	Sobrarbe	Tractores industriales	5	39
-2019	03	Sobrarbe	Motocicletas	7	447
-2019	03	Sobrarbe	Ciclomotores	8	236
-2019	03	Sobrarbe	Otros vehículos	9	585
-2019	04	La Ribagorza	Turismos	1	7025
-2019	04	La Ribagorza	Camiones y furgonetas	3	3562
-2019	04	La Ribagorza	Autobuses	4	14
-2019	04	La Ribagorza	Tractores industriales	5	176
-2019	04	La Ribagorza	Motocicletas	7	1117
-2019	04	La Ribagorza	Ciclomotores	8	396
-2019	04	La Ribagorza	Otros vehículos	9	947
-2019	05	Cinco Villas	Turismos	1	16456
-2019	05	Cinco Villas	Camiones y furgonetas	3	4943
-2019	05	Cinco Villas	Autobuses	4	39
-2019	05	Cinco Villas	Tractores industriales	5	314
-2019	05	Cinco Villas	Motocicletas	7	1408
-2019	05	Cinco Villas	Ciclomotores	8	1205
-2019	05	Cinco Villas	Otros vehículos	9	1447
-2019	06	Hoya de Huesca / Plana de Uesca	Turismos	1	34080
-2019	06	Hoya de Huesca / Plana de Uesca	Camiones y furgonetas	3	8750
-2019	06	Hoya de Huesca / Plana de Uesca	Autobuses	4	248
-2019	06	Hoya de Huesca / Plana de Uesca	Tractores industriales	5	232
-2019	06	Hoya de Huesca / Plana de Uesca	Motocicletas	7	4024
-2019	06	Hoya de Huesca / Plana de Uesca	Ciclomotores	8	2172
-2019	06	Hoya de Huesca / Plana de Uesca	Otros vehículos	9	1849
-2019	07	Somontano de Barbastro	Turismos	1	12596
-2019	07	Somontano de Barbastro	Camiones y furgonetas	3	3948
-2019	07	Somontano de Barbastro	Autobuses	4	13
-2019	07	Somontano de Barbastro	Tractores industriales	5	139
-2019	07	Somontano de Barbastro	Motocicletas	7	1887
-2019	07	Somontano de Barbastro	Ciclomotores	8	1374
-2019	07	Somontano de Barbastro	Otros vehículos	9	822
-2019	08	Cinca Medio	Turismos	1	12793
-2019	08	Cinca Medio	Camiones y furgonetas	3	3360
-2019	08	Cinca Medio	Autobuses	4	13
-2019	08	Cinca Medio	Tractores industriales	5	258
-2019	08	Cinca Medio	Motocicletas	7	1408
-2019	08	Cinca Medio	Ciclomotores	8	1149
-2019	08	Cinca Medio	Otros vehículos	9	985
-2019	09	La Litera / La Llitera	Turismos	1	10869
-2019	09	La Litera / La Llitera	Camiones y furgonetas	3	3656
-2019	09	La Litera / La Llitera	Autobuses	4	17
-2019	09	La Litera / La Llitera	Tractores industriales	5	337
-2019	09	La Litera / La Llitera	Motocicletas	7	1197
-2019	09	La Litera / La Llitera	Ciclomotores	8	882
-2019	09	La Litera / La Llitera	Otros vehículos	9	1116
-2019	10	Los Monegros	Turismos	1	11736
-2019	10	Los Monegros	Camiones y furgonetas	3	3804
-2019	10	Los Monegros	Autobuses	4	3
-2019	10	Los Monegros	Tractores industriales	5	486
-2019	10	Los Monegros	Motocicletas	7	1224
-2019	10	Los Monegros	Ciclomotores	8	1158
-2019	10	Los Monegros	Otros vehículos	9	1712
-2019	11	Bajo Cinca / Baix Cinca	Turismos	1	13598
-2019	11	Bajo Cinca / Baix Cinca	Camiones y furgonetas	3	4297
-2019	11	Bajo Cinca / Baix Cinca	Autobuses	4	10
-2019	11	Bajo Cinca / Baix Cinca	Tractores industriales	5	376
-2019	11	Bajo Cinca / Baix Cinca	Motocicletas	7	1841
-2019	11	Bajo Cinca / Baix Cinca	Ciclomotores	8	1798
-2019	11	Bajo Cinca / Baix Cinca	Otros vehículos	9	1197
-2019	12	Tarazona y el Moncayo	Turismos	1	7224
-2019	12	Tarazona y el Moncayo	Camiones y furgonetas	3	1844
-2019	12	Tarazona y el Moncayo	Autobuses	4	49
-2019	12	Tarazona y el Moncayo	Tractores industriales	5	244
-2019	12	Tarazona y el Moncayo	Motocicletas	7	864
-2019	12	Tarazona y el Moncayo	Ciclomotores	8	918
-2019	12	Tarazona y el Moncayo	Otros vehículos	9	1057
-2019	13	Campo de Borja	Turismos	1	7560
-2019	13	Campo de Borja	Camiones y furgonetas	3	2074
-2019	13	Campo de Borja	Autobuses	4	12
-2019	13	Campo de Borja	Tractores industriales	5	42
-2019	13	Campo de Borja	Motocicletas	7	847
-2019	13	Campo de Borja	Ciclomotores	8	1066
-2019	13	Campo de Borja	Otros vehículos	9	437
-2019	14	Aranda	Turismos	1	3347
-2019	14	Aranda	Camiones y furgonetas	3	1273
-2019	14	Aranda	Autobuses	4	13
-2019	14	Aranda	Tractores industriales	5	24
-2019	14	Aranda	Motocicletas	7	305
-2019	14	Aranda	Ciclomotores	8	343
-2019	14	Aranda	Otros vehículos	9	179
-2019	15	Ribera Alta del Ebro	Turismos	1	15332
-2019	15	Ribera Alta del Ebro	Camiones y furgonetas	3	3378
-2019	15	Ribera Alta del Ebro	Autobuses	4	6
-2019	15	Ribera Alta del Ebro	Tractores industriales	5	1001
-2019	15	Ribera Alta del Ebro	Motocicletas	7	1524
-2019	15	Ribera Alta del Ebro	Ciclomotores	8	1978
-2019	15	Ribera Alta del Ebro	Otros vehículos	9	2736
-2019	16	Valdejalón	Turismos	1	15881
-2019	16	Valdejalón	Camiones y furgonetas	3	4359
-2019	16	Valdejalón	Autobuses	4	12
-2019	16	Valdejalón	Tractores industriales	5	447
-2019	16	Valdejalón	Motocicletas	7	1311
-2019	16	Valdejalón	Ciclomotores	8	1542
-2019	16	Valdejalón	Otros vehículos	9	3531
-2019	17	Central	Turismos	1	310667
-2019	17	Central	Camiones y furgonetas	3	49437
-2019	17	Central	Autobuses	4	869
-2019	17	Central	Tractores industriales	5	2805
-2019	17	Central	Motocicletas	7	44650
-2019	17	Central	Ciclomotores	8	17654
-2019	17	Central	Otros vehículos	9	11950
-2019	18	Ribera Baja del Ebro	Turismos	1	4868
-2019	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1198
-2019	18	Ribera Baja del Ebro	Autobuses	4	0
-2019	18	Ribera Baja del Ebro	Tractores industriales	5	77
-2019	18	Ribera Baja del Ebro	Motocicletas	7	667
-2019	18	Ribera Baja del Ebro	Ciclomotores	8	888
-2019	18	Ribera Baja del Ebro	Otros vehículos	9	404
-2019	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Turismos	1	7038
-2019	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Camiones y furgonetas	3	2373
-2019	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Autobuses	4	2
-2019	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Tractores industriales	5	57
-2019	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Motocicletas	7	849
-2019	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Ciclomotores	8	1152
-2019	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros vehículos	9	519
-2019	20	Comunidad de Calatayud	Turismos	1	18542
-2019	20	Comunidad de Calatayud	Camiones y furgonetas	3	5842
-2019	20	Comunidad de Calatayud	Autobuses	4	37
-2019	20	Comunidad de Calatayud	Tractores industriales	5	393
-2019	20	Comunidad de Calatayud	Motocicletas	7	2059
-2019	20	Comunidad de Calatayud	Ciclomotores	8	1758
-2019	20	Comunidad de Calatayud	Otros vehículos	9	1348
-2019	21	Campo de Cariñena	Turismos	1	5650
-2019	21	Campo de Cariñena	Camiones y furgonetas	3	1621
-2019	21	Campo de Cariñena	Autobuses	4	0
-2019	21	Campo de Cariñena	Tractores industriales	5	43
-2019	21	Campo de Cariñena	Motocicletas	7	492
-2019	21	Campo de Cariñena	Ciclomotores	8	558
-2019	21	Campo de Cariñena	Otros vehículos	9	367
-2019	22	Campo de Belchite	Turismos	1	2531
-2019	22	Campo de Belchite	Camiones y furgonetas	3	775
-2019	22	Campo de Belchite	Autobuses	4	7
-2019	22	Campo de Belchite	Tractores industriales	5	30
-2019	22	Campo de Belchite	Motocicletas	7	259
-2019	22	Campo de Belchite	Ciclomotores	8	411
-2019	22	Campo de Belchite	Otros vehículos	9	207
-2019	23	Bajo Martín	Turismos	1	3531
-2019	23	Bajo Martín	Camiones y furgonetas	3	1135
-2019	23	Bajo Martín	Autobuses	4	0
-2019	23	Bajo Martín	Tractores industriales	5	333
-2019	23	Bajo Martín	Motocicletas	7	453
-2019	23	Bajo Martín	Ciclomotores	8	596
-2019	23	Bajo Martín	Otros vehículos	9	1211
-2019	24	Campo de Daroca	Turismos	1	4223
-2019	24	Campo de Daroca	Camiones y furgonetas	3	1365
-2019	24	Campo de Daroca	Autobuses	4	1
-2019	24	Campo de Daroca	Tractores industriales	5	119
-2019	24	Campo de Daroca	Motocicletas	7	400
-2019	24	Campo de Daroca	Ciclomotores	8	290
-2019	24	Campo de Daroca	Otros vehículos	9	353
-2019	25	Jiloca	Turismos	1	7185
-2019	25	Jiloca	Camiones y furgonetas	3	2233
-2019	25	Jiloca	Autobuses	4	6
-2019	25	Jiloca	Tractores industriales	5	93
-2019	25	Jiloca	Motocicletas	7	558
-2019	25	Jiloca	Ciclomotores	8	627
-2019	25	Jiloca	Otros vehículos	9	510
-2019	26	Cuencas Mineras	Turismos	1	4769
-2019	26	Cuencas Mineras	Camiones y furgonetas	3	1361
-2019	26	Cuencas Mineras	Autobuses	4	9
-2019	26	Cuencas Mineras	Tractores industriales	5	21
-2019	26	Cuencas Mineras	Motocicletas	7	458
-2019	26	Cuencas Mineras	Ciclomotores	8	368
-2019	26	Cuencas Mineras	Otros vehículos	9	319
-2019	27	Andorra-Sierra de Arcos	Turismos	1	5857
-2019	27	Andorra-Sierra de Arcos	Camiones y furgonetas	3	1578
-2019	27	Andorra-Sierra de Arcos	Autobuses	4	19
-2019	27	Andorra-Sierra de Arcos	Tractores industriales	5	67
-2019	27	Andorra-Sierra de Arcos	Motocicletas	7	634
-2019	27	Andorra-Sierra de Arcos	Ciclomotores	8	440
-2019	27	Andorra-Sierra de Arcos	Otros vehículos	9	351
-2019	28	Bajo Aragón	Turismos	1	15269
-2019	28	Bajo Aragón	Camiones y furgonetas	3	4590
-2019	28	Bajo Aragón	Autobuses	4	11
-2019	28	Bajo Aragón	Tractores industriales	5	340
-2019	28	Bajo Aragón	Motocicletas	7	2235
-2019	28	Bajo Aragón	Ciclomotores	8	1862
-2019	28	Bajo Aragón	Otros vehículos	9	1137
-2019	29	Comunidad de Teruel	Turismos	1	25289
-2019	29	Comunidad de Teruel	Camiones y furgonetas	3	6615
-2019	29	Comunidad de Teruel	Autobuses	4	40
-2019	29	Comunidad de Teruel	Tractores industriales	5	466
-2019	29	Comunidad de Teruel	Motocicletas	7	2942
-2019	29	Comunidad de Teruel	Ciclomotores	8	2018
-2019	29	Comunidad de Teruel	Otros vehículos	9	1579
-2019	30	Maestrazgo	Turismos	1	1872
-2019	30	Maestrazgo	Camiones y furgonetas	3	1334
-2019	30	Maestrazgo	Autobuses	4	3
-2019	30	Maestrazgo	Tractores industriales	5	322
-2019	30	Maestrazgo	Motocicletas	7	208
-2019	30	Maestrazgo	Ciclomotores	8	106
-2019	30	Maestrazgo	Otros vehículos	9	503
-2019	31	Sierra de Albarracín	Turismos	1	2569
-2019	31	Sierra de Albarracín	Camiones y furgonetas	3	1292
-2019	31	Sierra de Albarracín	Autobuses	4	2
-2019	31	Sierra de Albarracín	Tractores industriales	5	14
-2019	31	Sierra de Albarracín	Motocicletas	7	254
-2019	31	Sierra de Albarracín	Ciclomotores	8	213
-2019	31	Sierra de Albarracín	Otros vehículos	9	207
-2019	32	Gúdar-Javalambre	Turismos	1	4088
-2019	32	Gúdar-Javalambre	Camiones y furgonetas	3	2307
-2019	32	Gúdar-Javalambre	Autobuses	4	2
-2019	32	Gúdar-Javalambre	Tractores industriales	5	62
-2019	32	Gúdar-Javalambre	Motocicletas	7	319
-2019	32	Gúdar-Javalambre	Ciclomotores	8	388
-2019	32	Gúdar-Javalambre	Otros vehículos	9	557
-2019	33	Matarraña / Matarranya	Turismos	1	4605
-2019	33	Matarraña / Matarranya	Camiones y furgonetas	3	2389
-2019	33	Matarraña / Matarranya	Autobuses	4	6
-2019	33	Matarraña / Matarranya	Tractores industriales	5	91
-2019	33	Matarraña / Matarranya	Motocicletas	7	622
-2019	33	Matarraña / Matarranya	Ciclomotores	8	613
-2019	33	Matarraña / Matarranya	Otros vehículos	9	432
-2019	99	Sin clasificar	Turismos	1	30
-2019	99	Sin clasificar	Camiones y furgonetas	3	16
-2019	99	Sin clasificar	Autobuses	4	0
-2019	99	Sin clasificar	Tractores industriales	5	1
-2019	99	Sin clasificar	Motocicletas	7	2
-2019	99	Sin clasificar	Ciclomotores	8	1
-2019	99	Sin clasificar	Otros vehículos	9	2
 2018	01	La Jacetania	Turismos	1	9202
 2018	01	La Jacetania	Camiones y furgonetas	3	3056
 2018	01	La Jacetania	Autobuses	4	52
@@ -587,13 +111,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2018	16	Valdejalón	Motocicletas	7	1278
 2018	16	Valdejalón	Ciclomotores	8	1561
 2018	16	Valdejalón	Otros vehículos	9	3325
-2018	17	Central	Turismos	1	306673
-2018	17	Central	Camiones y furgonetas	3	49448
-2018	17	Central	Autobuses	4	861
-2018	17	Central	Tractores industriales	5	2802
-2018	17	Central	Motocicletas	7	43194
-2018	17	Central	Ciclomotores	8	18011
-2018	17	Central	Otros vehículos	9	11550
+2018	17	D.C. Zaragoza	Turismos	1	306673
+2018	17	D.C. Zaragoza	Camiones y furgonetas	3	49448
+2018	17	D.C. Zaragoza	Autobuses	4	861
+2018	17	D.C. Zaragoza	Tractores industriales	5	2802
+2018	17	D.C. Zaragoza	Motocicletas	7	43194
+2018	17	D.C. Zaragoza	Ciclomotores	8	18011
+2018	17	D.C. Zaragoza	Otros vehículos	9	11550
 2018	18	Ribera Baja del Ebro	Turismos	1	4793
 2018	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1182
 2018	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -713,713 +237,6 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2018	99	Sin clasificar	Motocicletas	7	3
 2018	99	Sin clasificar	Ciclomotores	8	1
 2018	99	Sin clasificar	Otros vehículos	9	2
-2017	01	La Jacetania	Turismos	1	9135
-2017	01	La Jacetania	Camiones y furgonetas	3	2893
-2017	01	La Jacetania	Autobuses	4	52
-2017	01	La Jacetania	Tractores industriales	5	68
-2017	01	La Jacetania	Motocicletas	7	1117
-2017	01	La Jacetania	Ciclomotores	8	513
-2017	01	La Jacetania	Otros vehículos	9	593
-2017	02	Alto Gállego	Turismos	1	7093
-2017	02	Alto Gállego	Camiones y furgonetas	3	2211
-2017	02	Alto Gállego	Autobuses	4	6
-2017	02	Alto Gállego	Tractores industriales	5	115
-2017	02	Alto Gállego	Motocicletas	7	653
-2017	02	Alto Gállego	Ciclomotores	8	285
-2017	02	Alto Gállego	Otros vehículos	9	554
-2017	03	Sobrarbe	Turismos	1	4231
-2017	03	Sobrarbe	Camiones y furgonetas	3	2095
-2017	03	Sobrarbe	Autobuses	4	15
-2017	03	Sobrarbe	Tractores industriales	5	38
-2017	03	Sobrarbe	Motocicletas	7	420
-2017	03	Sobrarbe	Ciclomotores	8	239
-2017	03	Sobrarbe	Otros vehículos	9	526
-2017	04	La Ribagorza	Turismos	1	7101
-2017	04	La Ribagorza	Camiones y furgonetas	3	3185
-2017	04	La Ribagorza	Autobuses	4	12
-2017	04	La Ribagorza	Tractores industriales	5	142
-2017	04	La Ribagorza	Motocicletas	7	990
-2017	04	La Ribagorza	Ciclomotores	8	407
-2017	04	La Ribagorza	Otros vehículos	9	853
-2017	05	Cinco Villas	Turismos	1	16046
-2017	05	Cinco Villas	Camiones y furgonetas	3	4653
-2017	05	Cinco Villas	Autobuses	4	32
-2017	05	Cinco Villas	Tractores industriales	5	290
-2017	05	Cinco Villas	Motocicletas	7	1345
-2017	05	Cinco Villas	Ciclomotores	8	1236
-2017	05	Cinco Villas	Otros vehículos	9	1359
-2017	06	Hoya de Huesca / Plana de Uesca	Turismos	1	33032
-2017	06	Hoya de Huesca / Plana de Uesca	Camiones y furgonetas	3	8387
-2017	06	Hoya de Huesca / Plana de Uesca	Autobuses	4	239
-2017	06	Hoya de Huesca / Plana de Uesca	Tractores industriales	5	217
-2017	06	Hoya de Huesca / Plana de Uesca	Motocicletas	7	3780
-2017	06	Hoya de Huesca / Plana de Uesca	Ciclomotores	8	2237
-2017	06	Hoya de Huesca / Plana de Uesca	Otros vehículos	9	1735
-2017	07	Somontano de Barbastro	Turismos	1	12376
-2017	07	Somontano de Barbastro	Camiones y furgonetas	3	3720
-2017	07	Somontano de Barbastro	Autobuses	4	15
-2017	07	Somontano de Barbastro	Tractores industriales	5	134
-2017	07	Somontano de Barbastro	Motocicletas	7	1792
-2017	07	Somontano de Barbastro	Ciclomotores	8	1421
-2017	07	Somontano de Barbastro	Otros vehículos	9	778
-2017	08	Cinca Medio	Turismos	1	12242
-2017	08	Cinca Medio	Camiones y furgonetas	3	3221
-2017	08	Cinca Medio	Autobuses	4	13
-2017	08	Cinca Medio	Tractores industriales	5	251
-2017	08	Cinca Medio	Motocicletas	7	1299
-2017	08	Cinca Medio	Ciclomotores	8	1184
-2017	08	Cinca Medio	Otros vehículos	9	930
-2017	09	La Litera / La Llitera	Turismos	1	10525
-2017	09	La Litera / La Llitera	Camiones y furgonetas	3	3387
-2017	09	La Litera / La Llitera	Autobuses	4	16
-2017	09	La Litera / La Llitera	Tractores industriales	5	349
-2017	09	La Litera / La Llitera	Motocicletas	7	1141
-2017	09	La Litera / La Llitera	Ciclomotores	8	883
-2017	09	La Litera / La Llitera	Otros vehículos	9	955
-2017	10	Los Monegros	Turismos	1	11789
-2017	10	Los Monegros	Camiones y furgonetas	3	3553
-2017	10	Los Monegros	Autobuses	4	3
-2017	10	Los Monegros	Tractores industriales	5	512
-2017	10	Los Monegros	Motocicletas	7	1169
-2017	10	Los Monegros	Ciclomotores	8	1176
-2017	10	Los Monegros	Otros vehículos	9	1669
-2017	11	Bajo Cinca / Baix Cinca	Turismos	1	13026
-2017	11	Bajo Cinca / Baix Cinca	Camiones y furgonetas	3	4206
-2017	11	Bajo Cinca / Baix Cinca	Autobuses	4	7
-2017	11	Bajo Cinca / Baix Cinca	Tractores industriales	5	358
-2017	11	Bajo Cinca / Baix Cinca	Motocicletas	7	1751
-2017	11	Bajo Cinca / Baix Cinca	Ciclomotores	8	1800
-2017	11	Bajo Cinca / Baix Cinca	Otros vehículos	9	1187
-2017	12	Tarazona y el Moncayo	Turismos	1	7004
-2017	12	Tarazona y el Moncayo	Camiones y furgonetas	3	1801
-2017	12	Tarazona y el Moncayo	Autobuses	4	63
-2017	12	Tarazona y el Moncayo	Tractores industriales	5	339
-2017	12	Tarazona y el Moncayo	Motocicletas	7	814
-2017	12	Tarazona y el Moncayo	Ciclomotores	8	909
-2017	12	Tarazona y el Moncayo	Otros vehículos	9	1140
-2017	13	Campo de Borja	Turismos	1	8723
-2017	13	Campo de Borja	Camiones y furgonetas	3	2347
-2017	13	Campo de Borja	Autobuses	4	12
-2017	13	Campo de Borja	Tractores industriales	5	46
-2017	13	Campo de Borja	Motocicletas	7	795
-2017	13	Campo de Borja	Ciclomotores	8	1083
-2017	13	Campo de Borja	Otros vehículos	9	433
-2017	14	Aranda	Turismos	1	3339
-2017	14	Aranda	Camiones y furgonetas	3	1234
-2017	14	Aranda	Autobuses	4	15
-2017	14	Aranda	Tractores industriales	5	21
-2017	14	Aranda	Motocicletas	7	290
-2017	14	Aranda	Ciclomotores	8	353
-2017	14	Aranda	Otros vehículos	9	175
-2017	15	Ribera Alta del Ebro	Turismos	1	14824
-2017	15	Ribera Alta del Ebro	Camiones y furgonetas	3	3233
-2017	15	Ribera Alta del Ebro	Autobuses	4	5
-2017	15	Ribera Alta del Ebro	Tractores industriales	5	1033
-2017	15	Ribera Alta del Ebro	Motocicletas	7	1407
-2017	15	Ribera Alta del Ebro	Ciclomotores	8	2037
-2017	15	Ribera Alta del Ebro	Otros vehículos	9	2445
-2017	16	Valdejalón	Turismos	1	14936
-2017	16	Valdejalón	Camiones y furgonetas	3	4176
-2017	16	Valdejalón	Autobuses	4	5
-2017	16	Valdejalón	Tractores industriales	5	455
-2017	16	Valdejalón	Motocicletas	7	1222
-2017	16	Valdejalón	Ciclomotores	8	1575
-2017	16	Valdejalón	Otros vehículos	9	3004
-2017	17	Central	Turismos	1	302302
-2017	17	Central	Camiones y furgonetas	3	48906
-2017	17	Central	Autobuses	4	839
-2017	17	Central	Tractores industriales	5	2682
-2017	17	Central	Motocicletas	7	41822
-2017	17	Central	Ciclomotores	8	18589
-2017	17	Central	Otros vehículos	9	11286
-2017	18	Ribera Baja del Ebro	Turismos	1	4770
-2017	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1132
-2017	18	Ribera Baja del Ebro	Autobuses	4	0
-2017	18	Ribera Baja del Ebro	Tractores industriales	5	64
-2017	18	Ribera Baja del Ebro	Motocicletas	7	612
-2017	18	Ribera Baja del Ebro	Ciclomotores	8	905
-2017	18	Ribera Baja del Ebro	Otros vehículos	9	397
-2017	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Turismos	1	6703
-2017	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Camiones y furgonetas	3	2379
-2017	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Autobuses	4	4
-2017	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Tractores industriales	5	51
-2017	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Motocicletas	7	774
-2017	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Ciclomotores	8	1171
-2017	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros vehículos	9	467
-2017	20	Comunidad de Calatayud	Turismos	1	18129
-2017	20	Comunidad de Calatayud	Camiones y furgonetas	3	5648
-2017	20	Comunidad de Calatayud	Autobuses	4	36
-2017	20	Comunidad de Calatayud	Tractores industriales	5	380
-2017	20	Comunidad de Calatayud	Motocicletas	7	1931
-2017	20	Comunidad de Calatayud	Ciclomotores	8	1800
-2017	20	Comunidad de Calatayud	Otros vehículos	9	1260
-2017	21	Campo de Cariñena	Turismos	1	5453
-2017	21	Campo de Cariñena	Camiones y furgonetas	3	1580
-2017	21	Campo de Cariñena	Autobuses	4	0
-2017	21	Campo de Cariñena	Tractores industriales	5	37
-2017	21	Campo de Cariñena	Motocicletas	7	458
-2017	21	Campo de Cariñena	Ciclomotores	8	590
-2017	21	Campo de Cariñena	Otros vehículos	9	359
-2017	22	Campo de Belchite	Turismos	1	2509
-2017	22	Campo de Belchite	Camiones y furgonetas	3	765
-2017	22	Campo de Belchite	Autobuses	4	6
-2017	22	Campo de Belchite	Tractores industriales	5	34
-2017	22	Campo de Belchite	Motocicletas	7	230
-2017	22	Campo de Belchite	Ciclomotores	8	411
-2017	22	Campo de Belchite	Otros vehículos	9	200
-2017	23	Bajo Martín	Turismos	1	3405
-2017	23	Bajo Martín	Camiones y furgonetas	3	1136
-2017	23	Bajo Martín	Autobuses	4	0
-2017	23	Bajo Martín	Tractores industriales	5	402
-2017	23	Bajo Martín	Motocicletas	7	413
-2017	23	Bajo Martín	Ciclomotores	8	616
-2017	23	Bajo Martín	Otros vehículos	9	1031
-2017	24	Campo de Daroca	Turismos	1	4446
-2017	24	Campo de Daroca	Camiones y furgonetas	3	1254
-2017	24	Campo de Daroca	Autobuses	4	1
-2017	24	Campo de Daroca	Tractores industriales	5	75
-2017	24	Campo de Daroca	Motocicletas	7	390
-2017	24	Campo de Daroca	Ciclomotores	8	301
-2017	24	Campo de Daroca	Otros vehículos	9	308
-2017	25	Jiloca	Turismos	1	6996
-2017	25	Jiloca	Camiones y furgonetas	3	2120
-2017	25	Jiloca	Autobuses	4	7
-2017	25	Jiloca	Tractores industriales	5	108
-2017	25	Jiloca	Motocicletas	7	522
-2017	25	Jiloca	Ciclomotores	8	624
-2017	25	Jiloca	Otros vehículos	9	478
-2017	26	Cuencas Mineras	Turismos	1	4685
-2017	26	Cuencas Mineras	Camiones y furgonetas	3	1253
-2017	26	Cuencas Mineras	Autobuses	4	8
-2017	26	Cuencas Mineras	Tractores industriales	5	21
-2017	26	Cuencas Mineras	Motocicletas	7	433
-2017	26	Cuencas Mineras	Ciclomotores	8	376
-2017	26	Cuencas Mineras	Otros vehículos	9	295
-2017	27	Andorra-Sierra de Arcos	Turismos	1	5789
-2017	27	Andorra-Sierra de Arcos	Camiones y furgonetas	3	1500
-2017	27	Andorra-Sierra de Arcos	Autobuses	4	16
-2017	27	Andorra-Sierra de Arcos	Tractores industriales	5	67
-2017	27	Andorra-Sierra de Arcos	Motocicletas	7	597
-2017	27	Andorra-Sierra de Arcos	Ciclomotores	8	461
-2017	27	Andorra-Sierra de Arcos	Otros vehículos	9	336
-2017	28	Bajo Aragón	Turismos	1	14606
-2017	28	Bajo Aragón	Camiones y furgonetas	3	4405
-2017	28	Bajo Aragón	Autobuses	4	13
-2017	28	Bajo Aragón	Tractores industriales	5	318
-2017	28	Bajo Aragón	Motocicletas	7	1991
-2017	28	Bajo Aragón	Ciclomotores	8	1899
-2017	28	Bajo Aragón	Otros vehículos	9	1095
-2017	29	Comunidad de Teruel	Turismos	1	24525
-2017	29	Comunidad de Teruel	Camiones y furgonetas	3	6318
-2017	29	Comunidad de Teruel	Autobuses	4	38
-2017	29	Comunidad de Teruel	Tractores industriales	5	473
-2017	29	Comunidad de Teruel	Motocicletas	7	2675
-2017	29	Comunidad de Teruel	Ciclomotores	8	2097
-2017	29	Comunidad de Teruel	Otros vehículos	9	1483
-2017	30	Maestrazgo	Turismos	1	1886
-2017	30	Maestrazgo	Camiones y furgonetas	3	1000
-2017	30	Maestrazgo	Autobuses	4	0
-2017	30	Maestrazgo	Tractores industriales	5	129
-2017	30	Maestrazgo	Motocicletas	7	193
-2017	30	Maestrazgo	Ciclomotores	8	107
-2017	30	Maestrazgo	Otros vehículos	9	478
-2017	31	Sierra de Albarracín	Turismos	1	2575
-2017	31	Sierra de Albarracín	Camiones y furgonetas	3	1076
-2017	31	Sierra de Albarracín	Autobuses	4	2
-2017	31	Sierra de Albarracín	Tractores industriales	5	13
-2017	31	Sierra de Albarracín	Motocicletas	7	222
-2017	31	Sierra de Albarracín	Ciclomotores	8	225
-2017	31	Sierra de Albarracín	Otros vehículos	9	193
-2017	32	Gúdar-Javalambre	Turismos	1	4115
-2017	32	Gúdar-Javalambre	Camiones y furgonetas	3	2047
-2017	32	Gúdar-Javalambre	Autobuses	4	2
-2017	32	Gúdar-Javalambre	Tractores industriales	5	52
-2017	32	Gúdar-Javalambre	Motocicletas	7	297
-2017	32	Gúdar-Javalambre	Ciclomotores	8	401
-2017	32	Gúdar-Javalambre	Otros vehículos	9	517
-2017	33	Matarraña / Matarranya	Turismos	1	4443
-2017	33	Matarraña / Matarranya	Camiones y furgonetas	3	2276
-2017	33	Matarraña / Matarranya	Autobuses	4	6
-2017	33	Matarraña / Matarranya	Tractores industriales	5	77
-2017	33	Matarraña / Matarranya	Motocicletas	7	569
-2017	33	Matarraña / Matarranya	Ciclomotores	8	626
-2017	33	Matarraña / Matarranya	Otros vehículos	9	391
-2017	99	Sin clasificar	Turismos	1	18
-2017	99	Sin clasificar	Camiones y furgonetas	3	8
-2017	99	Sin clasificar	Autobuses	4	0
-2017	99	Sin clasificar	Tractores industriales	5	1
-2017	99	Sin clasificar	Motocicletas	7	3
-2017	99	Sin clasificar	Ciclomotores	8	0
-2017	99	Sin clasificar	Otros vehículos	9	1
-2016	01	La Jacetania	Turismos	1	8822
-2016	01	La Jacetania	Camiones y furgonetas	3	3055
-2016	01	La Jacetania	Autobuses	4	56
-2016	01	La Jacetania	Tractores industriales	5	65
-2016	01	La Jacetania	Motocicletas	7	1061
-2016	01	La Jacetania	Ciclomotores	8	520
-2016	01	La Jacetania	Otros vehículos	9	570
-2016	02	Alto Gállego	Turismos	1	6795
-2016	02	Alto Gállego	Camiones y furgonetas	3	2330
-2016	02	Alto Gállego	Autobuses	4	6
-2016	02	Alto Gállego	Tractores industriales	5	109
-2016	02	Alto Gállego	Motocicletas	7	638
-2016	02	Alto Gállego	Ciclomotores	8	284
-2016	02	Alto Gállego	Otros vehículos	9	536
-2016	03	Sobrarbe	Turismos	1	3917
-2016	03	Sobrarbe	Camiones y furgonetas	3	2270
-2016	03	Sobrarbe	Autobuses	4	14
-2016	03	Sobrarbe	Tractores industriales	5	38
-2016	03	Sobrarbe	Motocicletas	7	398
-2016	03	Sobrarbe	Ciclomotores	8	243
-2016	03	Sobrarbe	Otros vehículos	9	513
-2016	04	La Ribagorza	Turismos	1	6664
-2016	04	La Ribagorza	Camiones y furgonetas	3	3466
-2016	04	La Ribagorza	Autobuses	4	13
-2016	04	La Ribagorza	Tractores industriales	5	132
-2016	04	La Ribagorza	Motocicletas	7	935
-2016	04	La Ribagorza	Ciclomotores	8	407
-2016	04	La Ribagorza	Otros vehículos	9	820
-2016	05	Cinco Villas	Turismos	1	15361
-2016	05	Cinco Villas	Camiones y furgonetas	3	5020
-2016	05	Cinco Villas	Autobuses	4	35
-2016	05	Cinco Villas	Tractores industriales	5	271
-2016	05	Cinco Villas	Motocicletas	7	1304
-2016	05	Cinco Villas	Ciclomotores	8	1249
-2016	05	Cinco Villas	Otros vehículos	9	1305
-2016	06	Hoya de Huesca / Plana de Uesca	Turismos	1	32211
-2016	06	Hoya de Huesca / Plana de Uesca	Camiones y furgonetas	3	8717
-2016	06	Hoya de Huesca / Plana de Uesca	Autobuses	4	226
-2016	06	Hoya de Huesca / Plana de Uesca	Tractores industriales	5	222
-2016	06	Hoya de Huesca / Plana de Uesca	Motocicletas	7	3678
-2016	06	Hoya de Huesca / Plana de Uesca	Ciclomotores	8	2238
-2016	06	Hoya de Huesca / Plana de Uesca	Otros vehículos	9	1700
-2016	07	Somontano de Barbastro	Turismos	1	11930
-2016	07	Somontano de Barbastro	Camiones y furgonetas	3	3912
-2016	07	Somontano de Barbastro	Autobuses	4	15
-2016	07	Somontano de Barbastro	Tractores industriales	5	132
-2016	07	Somontano de Barbastro	Motocicletas	7	1743
-2016	07	Somontano de Barbastro	Ciclomotores	8	1452
-2016	07	Somontano de Barbastro	Otros vehículos	9	768
-2016	08	Cinca Medio	Turismos	1	11831
-2016	08	Cinca Medio	Camiones y furgonetas	3	3316
-2016	08	Cinca Medio	Autobuses	4	13
-2016	08	Cinca Medio	Tractores industriales	5	303
-2016	08	Cinca Medio	Motocicletas	7	1253
-2016	08	Cinca Medio	Ciclomotores	8	1191
-2016	08	Cinca Medio	Otros vehículos	9	987
-2016	09	La Litera / La Llitera	Turismos	1	10239
-2016	09	La Litera / La Llitera	Camiones y furgonetas	3	3473
-2016	09	La Litera / La Llitera	Autobuses	4	15
-2016	09	La Litera / La Llitera	Tractores industriales	5	234
-2016	09	La Litera / La Llitera	Motocicletas	7	1109
-2016	09	La Litera / La Llitera	Ciclomotores	8	887
-2016	09	La Litera / La Llitera	Otros vehículos	9	827
-2016	10	Los Monegros	Turismos	1	11326
-2016	10	Los Monegros	Camiones y furgonetas	3	3793
-2016	10	Los Monegros	Autobuses	4	4
-2016	10	Los Monegros	Tractores industriales	5	490
-2016	10	Los Monegros	Motocicletas	7	1150
-2016	10	Los Monegros	Ciclomotores	8	1191
-2016	10	Los Monegros	Otros vehículos	9	1592
-2016	11	Bajo Cinca / Baix Cinca	Turismos	1	12473
-2016	11	Bajo Cinca / Baix Cinca	Camiones y furgonetas	3	4385
-2016	11	Bajo Cinca / Baix Cinca	Autobuses	4	7
-2016	11	Bajo Cinca / Baix Cinca	Tractores industriales	5	357
-2016	11	Bajo Cinca / Baix Cinca	Motocicletas	7	1722
-2016	11	Bajo Cinca / Baix Cinca	Ciclomotores	8	1824
-2016	11	Bajo Cinca / Baix Cinca	Otros vehículos	9	1152
-2016	12	Tarazona y el Moncayo	Turismos	1	6801
-2016	12	Tarazona y el Moncayo	Camiones y furgonetas	3	1851
-2016	12	Tarazona y el Moncayo	Autobuses	4	64
-2016	12	Tarazona y el Moncayo	Tractores industriales	5	377
-2016	12	Tarazona y el Moncayo	Motocicletas	7	793
-2016	12	Tarazona y el Moncayo	Ciclomotores	8	915
-2016	12	Tarazona y el Moncayo	Otros vehículos	9	1175
-2016	13	Campo de Borja	Turismos	1	8163
-2016	13	Campo de Borja	Camiones y furgonetas	3	2412
-2016	13	Campo de Borja	Autobuses	4	12
-2016	13	Campo de Borja	Tractores industriales	5	48
-2016	13	Campo de Borja	Motocicletas	7	758
-2016	13	Campo de Borja	Ciclomotores	8	1102
-2016	13	Campo de Borja	Otros vehículos	9	423
-2016	14	Aranda	Turismos	1	3244
-2016	14	Aranda	Camiones y furgonetas	3	1322
-2016	14	Aranda	Autobuses	4	15
-2016	14	Aranda	Tractores industriales	5	20
-2016	14	Aranda	Motocicletas	7	281
-2016	14	Aranda	Ciclomotores	8	357
-2016	14	Aranda	Otros vehículos	9	170
-2016	15	Ribera Alta del Ebro	Turismos	1	14355
-2016	15	Ribera Alta del Ebro	Camiones y furgonetas	3	3332
-2016	15	Ribera Alta del Ebro	Autobuses	4	7
-2016	15	Ribera Alta del Ebro	Tractores industriales	5	991
-2016	15	Ribera Alta del Ebro	Motocicletas	7	1368
-2016	15	Ribera Alta del Ebro	Ciclomotores	8	2081
-2016	15	Ribera Alta del Ebro	Otros vehículos	9	2256
-2016	16	Valdejalón	Turismos	1	14359
-2016	16	Valdejalón	Camiones y furgonetas	3	4260
-2016	16	Valdejalón	Autobuses	4	5
-2016	16	Valdejalón	Tractores industriales	5	405
-2016	16	Valdejalón	Motocicletas	7	1184
-2016	16	Valdejalón	Ciclomotores	8	1615
-2016	16	Valdejalón	Otros vehículos	9	3024
-2016	17	Central	Turismos	1	295534
-2016	17	Central	Camiones y furgonetas	3	49923
-2016	17	Central	Autobuses	4	863
-2016	17	Central	Tractores industriales	5	2516
-2016	17	Central	Motocicletas	7	40802
-2016	17	Central	Ciclomotores	8	18998
-2016	17	Central	Otros vehículos	9	10968
-2016	18	Ribera Baja del Ebro	Turismos	1	4595
-2016	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1215
-2016	18	Ribera Baja del Ebro	Autobuses	4	0
-2016	18	Ribera Baja del Ebro	Tractores industriales	5	59
-2016	18	Ribera Baja del Ebro	Motocicletas	7	610
-2016	18	Ribera Baja del Ebro	Ciclomotores	8	918
-2016	18	Ribera Baja del Ebro	Otros vehículos	9	390
-2016	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Turismos	1	6502
-2016	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Camiones y furgonetas	3	2447
-2016	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Autobuses	4	5
-2016	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Tractores industriales	5	55
-2016	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Motocicletas	7	741
-2016	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Ciclomotores	8	1185
-2016	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros vehículos	9	461
-2016	20	Comunidad de Calatayud	Turismos	1	17661
-2016	20	Comunidad de Calatayud	Camiones y furgonetas	3	5871
-2016	20	Comunidad de Calatayud	Autobuses	4	37
-2016	20	Comunidad de Calatayud	Tractores industriales	5	369
-2016	20	Comunidad de Calatayud	Motocicletas	7	1873
-2016	20	Comunidad de Calatayud	Ciclomotores	8	1823
-2016	20	Comunidad de Calatayud	Otros vehículos	9	1218
-2016	21	Campo de Cariñena	Turismos	1	5280
-2016	21	Campo de Cariñena	Camiones y furgonetas	3	1632
-2016	21	Campo de Cariñena	Autobuses	4	0
-2016	21	Campo de Cariñena	Tractores industriales	5	36
-2016	21	Campo de Cariñena	Motocicletas	7	452
-2016	21	Campo de Cariñena	Ciclomotores	8	596
-2016	21	Campo de Cariñena	Otros vehículos	9	354
-2016	22	Campo de Belchite	Turismos	1	2412
-2016	22	Campo de Belchite	Camiones y furgonetas	3	804
-2016	22	Campo de Belchite	Autobuses	4	6
-2016	22	Campo de Belchite	Tractores industriales	5	34
-2016	22	Campo de Belchite	Motocicletas	7	226
-2016	22	Campo de Belchite	Ciclomotores	8	408
-2016	22	Campo de Belchite	Otros vehículos	9	191
-2016	23	Bajo Martín	Turismos	1	3316
-2016	23	Bajo Martín	Camiones y furgonetas	3	1174
-2016	23	Bajo Martín	Autobuses	4	5
-2016	23	Bajo Martín	Tractores industriales	5	426
-2016	23	Bajo Martín	Motocicletas	7	401
-2016	23	Bajo Martín	Ciclomotores	8	628
-2016	23	Bajo Martín	Otros vehículos	9	1015
-2016	24	Campo de Daroca	Turismos	1	4196
-2016	24	Campo de Daroca	Camiones y furgonetas	3	1275
-2016	24	Campo de Daroca	Autobuses	4	1
-2016	24	Campo de Daroca	Tractores industriales	5	76
-2016	24	Campo de Daroca	Motocicletas	7	389
-2016	24	Campo de Daroca	Ciclomotores	8	302
-2016	24	Campo de Daroca	Otros vehículos	9	310
-2016	25	Jiloca	Turismos	1	6800
-2016	25	Jiloca	Camiones y furgonetas	3	2236
-2016	25	Jiloca	Autobuses	4	6
-2016	25	Jiloca	Tractores industriales	5	111
-2016	25	Jiloca	Motocicletas	7	524
-2016	25	Jiloca	Ciclomotores	8	638
-2016	25	Jiloca	Otros vehículos	9	465
-2016	26	Cuencas Mineras	Turismos	1	4571
-2016	26	Cuencas Mineras	Camiones y furgonetas	3	1318
-2016	26	Cuencas Mineras	Autobuses	4	4
-2016	26	Cuencas Mineras	Tractores industriales	5	19
-2016	26	Cuencas Mineras	Motocicletas	7	406
-2016	26	Cuencas Mineras	Ciclomotores	8	382
-2016	26	Cuencas Mineras	Otros vehículos	9	290
-2016	27	Andorra-Sierra de Arcos	Turismos	1	5631
-2016	27	Andorra-Sierra de Arcos	Camiones y furgonetas	3	1578
-2016	27	Andorra-Sierra de Arcos	Autobuses	4	16
-2016	27	Andorra-Sierra de Arcos	Tractores industriales	5	63
-2016	27	Andorra-Sierra de Arcos	Motocicletas	7	579
-2016	27	Andorra-Sierra de Arcos	Ciclomotores	8	462
-2016	27	Andorra-Sierra de Arcos	Otros vehículos	9	325
-2016	28	Bajo Aragón	Turismos	1	14249
-2016	28	Bajo Aragón	Camiones y furgonetas	3	4485
-2016	28	Bajo Aragón	Autobuses	4	6
-2016	28	Bajo Aragón	Tractores industriales	5	301
-2016	28	Bajo Aragón	Motocicletas	7	1955
-2016	28	Bajo Aragón	Ciclomotores	8	1941
-2016	28	Bajo Aragón	Otros vehículos	9	1048
-2016	29	Comunidad de Teruel	Turismos	1	23733
-2016	29	Comunidad de Teruel	Camiones y furgonetas	3	6521
-2016	29	Comunidad de Teruel	Autobuses	4	41
-2016	29	Comunidad de Teruel	Tractores industriales	5	404
-2016	29	Comunidad de Teruel	Motocicletas	7	2518
-2016	29	Comunidad de Teruel	Ciclomotores	8	2126
-2016	29	Comunidad de Teruel	Otros vehículos	9	1392
-2016	30	Maestrazgo	Turismos	1	1748
-2016	30	Maestrazgo	Camiones y furgonetas	3	1091
-2016	30	Maestrazgo	Autobuses	4	0
-2016	30	Maestrazgo	Tractores industriales	5	113
-2016	30	Maestrazgo	Motocicletas	7	170
-2016	30	Maestrazgo	Ciclomotores	8	104
-2016	30	Maestrazgo	Otros vehículos	9	468
-2016	31	Sierra de Albarracín	Turismos	1	2336
-2016	31	Sierra de Albarracín	Camiones y furgonetas	3	1194
-2016	31	Sierra de Albarracín	Autobuses	4	2
-2016	31	Sierra de Albarracín	Tractores industriales	5	12
-2016	31	Sierra de Albarracín	Motocicletas	7	213
-2016	31	Sierra de Albarracín	Ciclomotores	8	225
-2016	31	Sierra de Albarracín	Otros vehículos	9	187
-2016	32	Gúdar-Javalambre	Turismos	1	3820
-2016	32	Gúdar-Javalambre	Camiones y furgonetas	3	2195
-2016	32	Gúdar-Javalambre	Autobuses	4	2
-2016	32	Gúdar-Javalambre	Tractores industriales	5	56
-2016	32	Gúdar-Javalambre	Motocicletas	7	287
-2016	32	Gúdar-Javalambre	Ciclomotores	8	407
-2016	32	Gúdar-Javalambre	Otros vehículos	9	538
-2016	33	Matarraña / Matarranya	Turismos	1	4239
-2016	33	Matarraña / Matarranya	Camiones y furgonetas	3	2368
-2016	33	Matarraña / Matarranya	Autobuses	4	11
-2016	33	Matarraña / Matarranya	Tractores industriales	5	66
-2016	33	Matarraña / Matarranya	Motocicletas	7	545
-2016	33	Matarraña / Matarranya	Ciclomotores	8	634
-2016	33	Matarraña / Matarranya	Otros vehículos	9	365
-2016	99	Sin clasificar	Turismos	1	18
-2016	99	Sin clasificar	Camiones y furgonetas	3	7
-2016	99	Sin clasificar	Autobuses	4	0
-2016	99	Sin clasificar	Tractores industriales	5	0
-2016	99	Sin clasificar	Motocicletas	7	3
-2016	99	Sin clasificar	Ciclomotores	8	0
-2016	99	Sin clasificar	Otros vehículos	9	1
-2015	01	La Jacetania	Turismos	1	8658
-2015	01	La Jacetania	Camiones y furgonetas	3	3080
-2015	01	La Jacetania	Autobuses	4	53
-2015	01	La Jacetania	Tractores industriales	5	66
-2015	01	La Jacetania	Motocicletas	7	1017
-2015	01	La Jacetania	Ciclomotores	8	522
-2015	01	La Jacetania	Otros vehículos	9	638
-2015	02	Alto Gállego	Turismos	1	6640
-2015	02	Alto Gállego	Camiones y furgonetas	3	2351
-2015	02	Alto Gállego	Autobuses	4	6
-2015	02	Alto Gállego	Tractores industriales	5	112
-2015	02	Alto Gállego	Motocicletas	7	632
-2015	02	Alto Gállego	Ciclomotores	8	289
-2015	02	Alto Gállego	Otros vehículos	9	558
-2015	03	Sobrarbe	Turismos	1	3836
-2015	03	Sobrarbe	Camiones y furgonetas	3	2251
-2015	03	Sobrarbe	Autobuses	4	14
-2015	03	Sobrarbe	Tractores industriales	5	37
-2015	03	Sobrarbe	Motocicletas	7	381
-2015	03	Sobrarbe	Ciclomotores	8	243
-2015	03	Sobrarbe	Otros vehículos	9	584
-2015	04	La Ribagorza	Turismos	1	6532
-2015	04	La Ribagorza	Camiones y furgonetas	3	3430
-2015	04	La Ribagorza	Autobuses	4	13
-2015	04	La Ribagorza	Tractores industriales	5	123
-2015	04	La Ribagorza	Motocicletas	7	902
-2015	04	La Ribagorza	Ciclomotores	8	406
-2015	04	La Ribagorza	Otros vehículos	9	993
-2015	05	Cinco Villas	Turismos	1	15075
-2015	05	Cinco Villas	Camiones y furgonetas	3	5073
-2015	05	Cinco Villas	Autobuses	4	34
-2015	05	Cinco Villas	Tractores industriales	5	256
-2015	05	Cinco Villas	Motocicletas	7	1248
-2015	05	Cinco Villas	Ciclomotores	8	1261
-2015	05	Cinco Villas	Otros vehículos	9	1587
-2015	06	Hoya de Huesca / Plana de Uesca	Turismos	1	31545
-2015	06	Hoya de Huesca / Plana de Uesca	Camiones y furgonetas	3	8666
-2015	06	Hoya de Huesca / Plana de Uesca	Autobuses	4	221
-2015	06	Hoya de Huesca / Plana de Uesca	Tractores industriales	5	219
-2015	06	Hoya de Huesca / Plana de Uesca	Motocicletas	7	3578
-2015	06	Hoya de Huesca / Plana de Uesca	Ciclomotores	8	2274
-2015	06	Hoya de Huesca / Plana de Uesca	Otros vehículos	9	1976
-2015	07	Somontano de Barbastro	Turismos	1	11795
-2015	07	Somontano de Barbastro	Camiones y furgonetas	3	3942
-2015	07	Somontano de Barbastro	Autobuses	4	15
-2015	07	Somontano de Barbastro	Tractores industriales	5	137
-2015	07	Somontano de Barbastro	Motocicletas	7	1702
-2015	07	Somontano de Barbastro	Ciclomotores	8	1504
-2015	07	Somontano de Barbastro	Otros vehículos	9	1128
-2015	08	Cinca Medio	Turismos	1	11536
-2015	08	Cinca Medio	Camiones y furgonetas	3	3315
-2015	08	Cinca Medio	Autobuses	4	14
-2015	08	Cinca Medio	Tractores industriales	5	313
-2015	08	Cinca Medio	Motocicletas	7	1212
-2015	08	Cinca Medio	Ciclomotores	8	1200
-2015	08	Cinca Medio	Otros vehículos	9	1249
-2015	09	La Litera / La Llitera	Turismos	1	10082
-2015	09	La Litera / La Llitera	Camiones y furgonetas	3	3480
-2015	09	La Litera / La Llitera	Autobuses	4	16
-2015	09	La Litera / La Llitera	Tractores industriales	5	227
-2015	09	La Litera / La Llitera	Motocicletas	7	1072
-2015	09	La Litera / La Llitera	Ciclomotores	8	903
-2015	09	La Litera / La Llitera	Otros vehículos	9	1067
-2015	10	Los Monegros	Turismos	1	11136
-2015	10	Los Monegros	Camiones y furgonetas	3	3776
-2015	10	Los Monegros	Autobuses	4	5
-2015	10	Los Monegros	Tractores industriales	5	489
-2015	10	Los Monegros	Motocicletas	7	1125
-2015	10	Los Monegros	Ciclomotores	8	1200
-2015	10	Los Monegros	Otros vehículos	9	1999
-2015	11	Bajo Cinca / Baix Cinca	Turismos	1	12160
-2015	11	Bajo Cinca / Baix Cinca	Camiones y furgonetas	3	4427
-2015	11	Bajo Cinca / Baix Cinca	Autobuses	4	7
-2015	11	Bajo Cinca / Baix Cinca	Tractores industriales	5	374
-2015	11	Bajo Cinca / Baix Cinca	Motocicletas	7	1672
-2015	11	Bajo Cinca / Baix Cinca	Ciclomotores	8	1845
-2015	11	Bajo Cinca / Baix Cinca	Otros vehículos	9	1469
-2015	12	Tarazona y el Moncayo	Turismos	1	6668
-2015	12	Tarazona y el Moncayo	Camiones y furgonetas	3	1883
-2015	12	Tarazona y el Moncayo	Autobuses	4	66
-2015	12	Tarazona y el Moncayo	Tractores industriales	5	447
-2015	12	Tarazona y el Moncayo	Motocicletas	7	776
-2015	12	Tarazona y el Moncayo	Ciclomotores	8	931
-2015	12	Tarazona y el Moncayo	Otros vehículos	9	1286
-2015	13	Campo de Borja	Turismos	1	7518
-2015	13	Campo de Borja	Camiones y furgonetas	3	2415
-2015	13	Campo de Borja	Autobuses	4	9
-2015	13	Campo de Borja	Tractores industriales	5	38
-2015	13	Campo de Borja	Motocicletas	7	744
-2015	13	Campo de Borja	Ciclomotores	8	1143
-2015	13	Campo de Borja	Otros vehículos	9	529
-2015	14	Aranda	Turismos	1	3200
-2015	14	Aranda	Camiones y furgonetas	3	1310
-2015	14	Aranda	Autobuses	4	15
-2015	14	Aranda	Tractores industriales	5	21
-2015	14	Aranda	Motocicletas	7	277
-2015	14	Aranda	Ciclomotores	8	363
-2015	14	Aranda	Otros vehículos	9	185
-2015	15	Ribera Alta del Ebro	Turismos	1	13891
-2015	15	Ribera Alta del Ebro	Camiones y furgonetas	3	3308
-2015	15	Ribera Alta del Ebro	Autobuses	4	11
-2015	15	Ribera Alta del Ebro	Tractores industriales	5	891
-2015	15	Ribera Alta del Ebro	Motocicletas	7	1323
-2015	15	Ribera Alta del Ebro	Ciclomotores	8	2116
-2015	15	Ribera Alta del Ebro	Otros vehículos	9	2136
-2015	16	Valdejalón	Turismos	1	13939
-2015	16	Valdejalón	Camiones y furgonetas	3	4284
-2015	16	Valdejalón	Autobuses	4	5
-2015	16	Valdejalón	Tractores industriales	5	354
-2015	16	Valdejalón	Motocicletas	7	1158
-2015	16	Valdejalón	Ciclomotores	8	1629
-2015	16	Valdejalón	Otros vehículos	9	2893
-2015	17	Central	Turismos	1	290147
-2015	17	Central	Camiones y furgonetas	3	50121
-2015	17	Central	Autobuses	4	844
-2015	17	Central	Tractores industriales	5	2289
-2015	17	Central	Motocicletas	7	39205
-2015	17	Central	Ciclomotores	8	19559
-2015	17	Central	Otros vehículos	9	11166
-2015	18	Ribera Baja del Ebro	Turismos	1	4528
-2015	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1240
-2015	18	Ribera Baja del Ebro	Autobuses	4	0
-2015	18	Ribera Baja del Ebro	Tractores industriales	5	63
-2015	18	Ribera Baja del Ebro	Motocicletas	7	599
-2015	18	Ribera Baja del Ebro	Ciclomotores	8	938
-2015	18	Ribera Baja del Ebro	Otros vehículos	9	456
-2015	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Turismos	1	6273
-2015	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Camiones y furgonetas	3	2444
-2015	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Autobuses	4	21
-2015	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Tractores industriales	5	54
-2015	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Motocicletas	7	710
-2015	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Ciclomotores	8	1203
-2015	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Otros vehículos	9	623
-2015	20	Comunidad de Calatayud	Turismos	1	17348
-2015	20	Comunidad de Calatayud	Camiones y furgonetas	3	5935
-2015	20	Comunidad de Calatayud	Autobuses	4	34
-2015	20	Comunidad de Calatayud	Tractores industriales	5	420
-2015	20	Comunidad de Calatayud	Motocicletas	7	1788
-2015	20	Comunidad de Calatayud	Ciclomotores	8	1851
-2015	20	Comunidad de Calatayud	Otros vehículos	9	1442
-2015	21	Campo de Cariñena	Turismos	1	5163
-2015	21	Campo de Cariñena	Camiones y furgonetas	3	1623
-2015	21	Campo de Cariñena	Autobuses	4	0
-2015	21	Campo de Cariñena	Tractores industriales	5	38
-2015	21	Campo de Cariñena	Motocicletas	7	444
-2015	21	Campo de Cariñena	Ciclomotores	8	595
-2015	21	Campo de Cariñena	Otros vehículos	9	461
-2015	22	Campo de Belchite	Turismos	1	2377
-2015	22	Campo de Belchite	Camiones y furgonetas	3	799
-2015	22	Campo de Belchite	Autobuses	4	5
-2015	22	Campo de Belchite	Tractores industriales	5	39
-2015	22	Campo de Belchite	Motocicletas	7	222
-2015	22	Campo de Belchite	Ciclomotores	8	416
-2015	22	Campo de Belchite	Otros vehículos	9	260
-2015	23	Bajo Martín	Turismos	1	3245
-2015	23	Bajo Martín	Camiones y furgonetas	3	1169
-2015	23	Bajo Martín	Autobuses	4	4
-2015	23	Bajo Martín	Tractores industriales	5	429
-2015	23	Bajo Martín	Motocicletas	7	378
-2015	23	Bajo Martín	Ciclomotores	8	647
-2015	23	Bajo Martín	Otros vehículos	9	978
-2015	24	Campo de Daroca	Turismos	1	3935
-2015	24	Campo de Daroca	Camiones y furgonetas	3	1242
-2015	24	Campo de Daroca	Autobuses	4	1
-2015	24	Campo de Daroca	Tractores industriales	5	75
-2015	24	Campo de Daroca	Motocicletas	7	384
-2015	24	Campo de Daroca	Ciclomotores	8	312
-2015	24	Campo de Daroca	Otros vehículos	9	417
-2015	25	Jiloca	Turismos	1	6723
-2015	25	Jiloca	Camiones y furgonetas	3	2222
-2015	25	Jiloca	Autobuses	4	7
-2015	25	Jiloca	Tractores industriales	5	111
-2015	25	Jiloca	Motocicletas	7	517
-2015	25	Jiloca	Ciclomotores	8	650
-2015	25	Jiloca	Otros vehículos	9	622
-2015	26	Cuencas Mineras	Turismos	1	4538
-2015	26	Cuencas Mineras	Camiones y furgonetas	3	1329
-2015	26	Cuencas Mineras	Autobuses	4	4
-2015	26	Cuencas Mineras	Tractores industriales	5	20
-2015	26	Cuencas Mineras	Motocicletas	7	384
-2015	26	Cuencas Mineras	Ciclomotores	8	392
-2015	26	Cuencas Mineras	Otros vehículos	9	329
-2015	27	Andorra-Sierra de Arcos	Turismos	1	5580
-2015	27	Andorra-Sierra de Arcos	Camiones y furgonetas	3	1597
-2015	27	Andorra-Sierra de Arcos	Autobuses	4	19
-2015	27	Andorra-Sierra de Arcos	Tractores industriales	5	62
-2015	27	Andorra-Sierra de Arcos	Motocicletas	7	566
-2015	27	Andorra-Sierra de Arcos	Ciclomotores	8	464
-2015	27	Andorra-Sierra de Arcos	Otros vehículos	9	366
-2015	28	Bajo Aragón	Turismos	1	13947
-2015	28	Bajo Aragón	Camiones y furgonetas	3	4590
-2015	28	Bajo Aragón	Autobuses	4	7
-2015	28	Bajo Aragón	Tractores industriales	5	289
-2015	28	Bajo Aragón	Motocicletas	7	1862
-2015	28	Bajo Aragón	Ciclomotores	8	1958
-2015	28	Bajo Aragón	Otros vehículos	9	1155
-2015	29	Comunidad de Teruel	Turismos	1	23274
-2015	29	Comunidad de Teruel	Camiones y furgonetas	3	6522
-2015	29	Comunidad de Teruel	Autobuses	4	42
-2015	29	Comunidad de Teruel	Tractores industriales	5	357
-2015	29	Comunidad de Teruel	Motocicletas	7	2375
-2015	29	Comunidad de Teruel	Ciclomotores	8	2155
-2015	29	Comunidad de Teruel	Otros vehículos	9	1552
-2015	30	Maestrazgo	Turismos	1	1701
-2015	30	Maestrazgo	Camiones y furgonetas	3	1075
-2015	30	Maestrazgo	Autobuses	4	0
-2015	30	Maestrazgo	Tractores industriales	5	18
-2015	30	Maestrazgo	Motocicletas	7	161
-2015	30	Maestrazgo	Ciclomotores	8	105
-2015	30	Maestrazgo	Otros vehículos	9	219
-2015	31	Sierra de Albarracín	Turismos	1	2291
-2015	31	Sierra de Albarracín	Camiones y furgonetas	3	1191
-2015	31	Sierra de Albarracín	Autobuses	4	2
-2015	31	Sierra de Albarracín	Tractores industriales	5	11
-2015	31	Sierra de Albarracín	Motocicletas	7	196
-2015	31	Sierra de Albarracín	Ciclomotores	8	228
-2015	31	Sierra de Albarracín	Otros vehículos	9	205
-2015	32	Gúdar-Javalambre	Turismos	1	3739
-2015	32	Gúdar-Javalambre	Camiones y furgonetas	3	2165
-2015	32	Gúdar-Javalambre	Autobuses	4	2
-2015	32	Gúdar-Javalambre	Tractores industriales	5	51
-2015	32	Gúdar-Javalambre	Motocicletas	7	281
-2015	32	Gúdar-Javalambre	Ciclomotores	8	410
-2015	32	Gúdar-Javalambre	Otros vehículos	9	587
-2015	33	Matarraña / Matarranya	Turismos	1	4079
-2015	33	Matarraña / Matarranya	Camiones y furgonetas	3	2396
-2015	33	Matarraña / Matarranya	Autobuses	4	11
-2015	33	Matarraña / Matarranya	Tractores industriales	5	63
-2015	33	Matarraña / Matarranya	Motocicletas	7	514
-2015	33	Matarraña / Matarranya	Ciclomotores	8	635
-2015	33	Matarraña / Matarranya	Otros vehículos	9	435
 2014	01	La Jacetania	Turismos	1	8580
 2014	01	La Jacetania	Camiones y furgonetas	3	3094
 2014	01	La Jacetania	Autobuses	4	49
@@ -1532,13 +349,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2014	16	Valdejalón	Motocicletas	7	1119
 2014	16	Valdejalón	Ciclomotores	8	1659
 2014	16	Valdejalón	Otros vehículos	9	2629
-2014	17	Central	Turismos	1	287137
-2014	17	Central	Camiones y furgonetas	3	50670
-2014	17	Central	Autobuses	4	840
-2014	17	Central	Tractores industriales	5	2272
-2014	17	Central	Motocicletas	7	37851
-2014	17	Central	Ciclomotores	8	20046
-2014	17	Central	Otros vehículos	9	11133
+2014	17	D.C. Zaragoza	Turismos	1	287137
+2014	17	D.C. Zaragoza	Camiones y furgonetas	3	50670
+2014	17	D.C. Zaragoza	Autobuses	4	840
+2014	17	D.C. Zaragoza	Tractores industriales	5	2272
+2014	17	D.C. Zaragoza	Motocicletas	7	37851
+2014	17	D.C. Zaragoza	Ciclomotores	8	20046
+2014	17	D.C. Zaragoza	Otros vehículos	9	11133
 2014	18	Ribera Baja del Ebro	Turismos	1	4482
 2014	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1275
 2014	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -1770,13 +587,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2013	16	Valdejalón	Motocicletas	7	1088
 2013	16	Valdejalón	Ciclomotores	8	1710
 2013	16	Valdejalón	Otros vehículos	9	2458
-2013	17	Central	Turismos	1	286875
-2013	17	Central	Camiones y furgonetas	3	51620
-2013	17	Central	Autobuses	4	847
-2013	17	Central	Tractores industriales	5	2207
-2013	17	Central	Motocicletas	7	36698
-2013	17	Central	Ciclomotores	8	20577
-2013	17	Central	Otros vehículos	9	11227
+2013	17	D.C. Zaragoza	Turismos	1	286875
+2013	17	D.C. Zaragoza	Camiones y furgonetas	3	51620
+2013	17	D.C. Zaragoza	Autobuses	4	847
+2013	17	D.C. Zaragoza	Tractores industriales	5	2207
+2013	17	D.C. Zaragoza	Motocicletas	7	36698
+2013	17	D.C. Zaragoza	Ciclomotores	8	20577
+2013	17	D.C. Zaragoza	Otros vehículos	9	11227
 2013	18	Ribera Baja del Ebro	Turismos	1	4506
 2013	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1281
 2013	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -2008,13 +825,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2012	16	Valdejalón	Motocicletas	7	1085
 2012	16	Valdejalón	Ciclomotores	8	1743
 2012	16	Valdejalón	Otros vehículos	9	2222
-2012	17	Central	Turismos	1	290209
-2012	17	Central	Camiones y furgonetas	3	53113
-2012	17	Central	Autobuses	4	902
-2012	17	Central	Tractores industriales	5	2262
-2012	17	Central	Motocicletas	7	36175
-2012	17	Central	Ciclomotores	8	21367
-2012	17	Central	Otros vehículos	9	11368
+2012	17	D.C. Zaragoza	Turismos	1	290209
+2012	17	D.C. Zaragoza	Camiones y furgonetas	3	53113
+2012	17	D.C. Zaragoza	Autobuses	4	902
+2012	17	D.C. Zaragoza	Tractores industriales	5	2262
+2012	17	D.C. Zaragoza	Motocicletas	7	36175
+2012	17	D.C. Zaragoza	Ciclomotores	8	21367
+2012	17	D.C. Zaragoza	Otros vehículos	9	11368
 2012	18	Ribera Baja del Ebro	Turismos	1	4555
 2012	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1328
 2012	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -2246,13 +1063,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2011	16	Valdejalón	Motocicletas	7	1080
 2011	16	Valdejalón	Ciclomotores	8	1809
 2011	16	Valdejalón	Otros vehículos	9	1860
-2011	17	Central	Turismos	1	290523
-2011	17	Central	Camiones y furgonetas	3	54684
-2011	17	Central	Autobuses	4	908
-2011	17	Central	Tractores industriales	5	2363
-2011	17	Central	Motocicletas	7	35355
-2011	17	Central	Ciclomotores	8	22087
-2011	17	Central	Otros vehículos	9	11832
+2011	17	D.C. Zaragoza	Turismos	1	290523
+2011	17	D.C. Zaragoza	Camiones y furgonetas	3	54684
+2011	17	D.C. Zaragoza	Autobuses	4	908
+2011	17	D.C. Zaragoza	Tractores industriales	5	2363
+2011	17	D.C. Zaragoza	Motocicletas	7	35355
+2011	17	D.C. Zaragoza	Ciclomotores	8	22087
+2011	17	D.C. Zaragoza	Otros vehículos	9	11832
 2011	18	Ribera Baja del Ebro	Turismos	1	4525
 2011	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1340
 2011	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -2484,13 +1301,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2010	16	Valdejalón	Motocicletas	7	1063
 2010	16	Valdejalón	Ciclomotores	8	1838
 2010	16	Valdejalón	Otros vehículos	9	1506
-2010	17	Central	Turismos	1	289658
-2010	17	Central	Camiones y furgonetas	3	55776
-2010	17	Central	Autobuses	4	928
-2010	17	Central	Tractores industriales	5	2477
-2010	17	Central	Motocicletas	7	34065
-2010	17	Central	Ciclomotores	8	22752
-2010	17	Central	Otros vehículos	9	11969
+2010	17	D.C. Zaragoza	Turismos	1	289658
+2010	17	D.C. Zaragoza	Camiones y furgonetas	3	55776
+2010	17	D.C. Zaragoza	Autobuses	4	928
+2010	17	D.C. Zaragoza	Tractores industriales	5	2477
+2010	17	D.C. Zaragoza	Motocicletas	7	34065
+2010	17	D.C. Zaragoza	Ciclomotores	8	22752
+2010	17	D.C. Zaragoza	Otros vehículos	9	11969
 2010	18	Ribera Baja del Ebro	Turismos	1	4488
 2010	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1346
 2010	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -2722,13 +1539,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2009	16	Valdejalón	Motocicletas	7	1020
 2009	16	Valdejalón	Ciclomotores	8	1886
 2009	16	Valdejalón	Otros vehículos	9	1246
-2009	17	Central	Turismos	1	288261
-2009	17	Central	Camiones y furgonetas	3	56585
-2009	17	Central	Autobuses	4	948
-2009	17	Central	Tractores industriales	5	2563
-2009	17	Central	Motocicletas	7	32686
-2009	17	Central	Ciclomotores	8	23415
-2009	17	Central	Otros vehículos	9	12164
+2009	17	D.C. Zaragoza	Turismos	1	288261
+2009	17	D.C. Zaragoza	Camiones y furgonetas	3	56585
+2009	17	D.C. Zaragoza	Autobuses	4	948
+2009	17	D.C. Zaragoza	Tractores industriales	5	2563
+2009	17	D.C. Zaragoza	Motocicletas	7	32686
+2009	17	D.C. Zaragoza	Ciclomotores	8	23415
+2009	17	D.C. Zaragoza	Otros vehículos	9	12164
 2009	18	Ribera Baja del Ebro	Turismos	1	4467
 2009	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1364
 2009	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -2960,13 +1777,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2008	16	Valdejalón	Motocicletas	7	948
 2008	16	Valdejalón	Ciclomotores	8	1904
 2008	16	Valdejalón	Otros vehículos	9	862
-2008	17	Central	Turismos	1	289465
-2008	17	Central	Camiones y furgonetas	3	57674
-2008	17	Central	Autobuses	4	990
-2008	17	Central	Tractores industriales	5	2732
-2008	17	Central	Motocicletas	7	31201
-2008	17	Central	Ciclomotores	8	24028
-2008	17	Central	Otros vehículos	9	12492
+2008	17	D.C. Zaragoza	Turismos	1	289465
+2008	17	D.C. Zaragoza	Camiones y furgonetas	3	57674
+2008	17	D.C. Zaragoza	Autobuses	4	990
+2008	17	D.C. Zaragoza	Tractores industriales	5	2732
+2008	17	D.C. Zaragoza	Motocicletas	7	31201
+2008	17	D.C. Zaragoza	Ciclomotores	8	24028
+2008	17	D.C. Zaragoza	Otros vehículos	9	12492
 2008	18	Ribera Baja del Ebro	Turismos	1	4419
 2008	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1366
 2008	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -3198,13 +2015,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2007	16	Valdejalón	Motocicletas	7	846
 2007	16	Valdejalón	Ciclomotores	8	1919
 2007	16	Valdejalón	Otros vehículos	9	784
-2007	17	Central	Turismos	1	285528
-2007	17	Central	Camiones y furgonetas	3	57713
-2007	17	Central	Autobuses	4	972
-2007	17	Central	Tractores industriales	5	2810
-2007	17	Central	Motocicletas	7	28019
-2007	17	Central	Ciclomotores	8	24075
-2007	17	Central	Otros vehículos	9	12362
+2007	17	D.C. Zaragoza	Turismos	1	285528
+2007	17	D.C. Zaragoza	Camiones y furgonetas	3	57713
+2007	17	D.C. Zaragoza	Autobuses	4	972
+2007	17	D.C. Zaragoza	Tractores industriales	5	2810
+2007	17	D.C. Zaragoza	Motocicletas	7	28019
+2007	17	D.C. Zaragoza	Ciclomotores	8	24075
+2007	17	D.C. Zaragoza	Otros vehículos	9	12362
 2007	18	Ribera Baja del Ebro	Turismos	1	4333
 2007	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1331
 2007	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -3436,13 +2253,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2006	16	Valdejalón	Motocicletas	7	747
 2006	16	Valdejalón	Ciclomotores	8	1880
 2006	16	Valdejalón	Otros vehículos	9	749
-2006	17	Central	Turismos	1	278715
-2006	17	Central	Camiones y furgonetas	3	54565
-2006	17	Central	Autobuses	4	942
-2006	17	Central	Tractores industriales	5	2723
-2006	17	Central	Motocicletas	7	24056
-2006	17	Central	Ciclomotores	8	23164
-2006	17	Central	Otros vehículos	9	11605
+2006	17	D.C. Zaragoza	Turismos	1	278715
+2006	17	D.C. Zaragoza	Camiones y furgonetas	3	54565
+2006	17	D.C. Zaragoza	Autobuses	4	942
+2006	17	D.C. Zaragoza	Tractores industriales	5	2723
+2006	17	D.C. Zaragoza	Motocicletas	7	24056
+2006	17	D.C. Zaragoza	Ciclomotores	8	23164
+2006	17	D.C. Zaragoza	Otros vehículos	9	11605
 2006	18	Ribera Baja del Ebro	Turismos	1	4266
 2006	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1295
 2006	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -3674,13 +2491,13 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2005	16	Valdejalón	Motocicletas	7	619
 2005	16	Valdejalón	Ciclomotores	8	1852
 2005	16	Valdejalón	Otros vehículos	9	650
-2005	17	Central	Turismos	1	268456
-2005	17	Central	Camiones y furgonetas	3	52077
-2005	17	Central	Autobuses	4	927
-2005	17	Central	Tractores industriales	5	2573
-2005	17	Central	Motocicletas	7	20593
-2005	17	Central	Ciclomotores	8	22410
-2005	17	Central	Otros vehículos	9	10317
+2005	17	D.C. Zaragoza	Turismos	1	268456
+2005	17	D.C. Zaragoza	Camiones y furgonetas	3	52077
+2005	17	D.C. Zaragoza	Autobuses	4	927
+2005	17	D.C. Zaragoza	Tractores industriales	5	2573
+2005	17	D.C. Zaragoza	Motocicletas	7	20593
+2005	17	D.C. Zaragoza	Ciclomotores	8	22410
+2005	17	D.C. Zaragoza	Otros vehículos	9	10317
 2005	18	Ribera Baja del Ebro	Turismos	1	4043
 2005	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1208
 2005	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -3896,12 +2713,12 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2004	16	Valdejalón	Tractores industriales	5	152
 2004	16	Valdejalón	Motocicletas	7	531
 2004	16	Valdejalón	Otros vehículos	9	492
-2004	17	Central	Turismos	1	261264
-2004	17	Central	Camiones y furgonetas	3	49392
-2004	17	Central	Autobuses	4	913
-2004	17	Central	Tractores industriales	5	2419
-2004	17	Central	Motocicletas	7	17939
-2004	17	Central	Otros vehículos	9	9046
+2004	17	D.C. Zaragoza	Turismos	1	261264
+2004	17	D.C. Zaragoza	Camiones y furgonetas	3	49392
+2004	17	D.C. Zaragoza	Autobuses	4	913
+2004	17	D.C. Zaragoza	Tractores industriales	5	2419
+2004	17	D.C. Zaragoza	Motocicletas	7	17939
+2004	17	D.C. Zaragoza	Otros vehículos	9	9046
 2004	18	Ribera Baja del Ebro	Turismos	1	3937
 2004	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1192
 2004	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -4100,12 +2917,12 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2003	16	Valdejalón	Tractores industriales	5	131
 2003	16	Valdejalón	Motocicletas	7	493
 2003	16	Valdejalón	Otros vehículos	9	386
-2003	17	Central	Turismos	1	253522
-2003	17	Central	Camiones y furgonetas	3	47293
-2003	17	Central	Autobuses	4	895
-2003	17	Central	Tractores industriales	5	2368
-2003	17	Central	Motocicletas	7	16833
-2003	17	Central	Otros vehículos	9	8173
+2003	17	D.C. Zaragoza	Turismos	1	253522
+2003	17	D.C. Zaragoza	Camiones y furgonetas	3	47293
+2003	17	D.C. Zaragoza	Autobuses	4	895
+2003	17	D.C. Zaragoza	Tractores industriales	5	2368
+2003	17	D.C. Zaragoza	Motocicletas	7	16833
+2003	17	D.C. Zaragoza	Otros vehículos	9	8173
 2003	18	Ribera Baja del Ebro	Turismos	1	3876
 2003	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1138
 2003	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -4304,12 +3121,12 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2002	16	Valdejalón	Tractores industriales	5	106
 2002	16	Valdejalón	Motocicletas	7	483
 2002	16	Valdejalón	Otros vehículos	9	302
-2002	17	Central	Turismos	1	254241
-2002	17	Central	Camiones y furgonetas	3	46512
-2002	17	Central	Autobuses	4	924
-2002	17	Central	Tractores industriales	5	2349
-2002	17	Central	Motocicletas	7	16961
-2002	17	Central	Otros vehículos	9	7633
+2002	17	D.C. Zaragoza	Turismos	1	254241
+2002	17	D.C. Zaragoza	Camiones y furgonetas	3	46512
+2002	17	D.C. Zaragoza	Autobuses	4	924
+2002	17	D.C. Zaragoza	Tractores industriales	5	2349
+2002	17	D.C. Zaragoza	Motocicletas	7	16961
+2002	17	D.C. Zaragoza	Otros vehículos	9	7633
 2002	18	Ribera Baja del Ebro	Turismos	1	3822
 2002	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1114
 2002	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -4508,12 +3325,12 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2001	16	Valdejalón	Tractores industriales	5	78
 2001	16	Valdejalón	Motocicletas	7	487
 2001	16	Valdejalón	Otros vehículos	9	275
-2001	17	Central	Turismos	1	249178
-2001	17	Central	Camiones y furgonetas	3	45353
-2001	17	Central	Autobuses	4	879
-2001	17	Central	Tractores industriales	5	2239
-2001	17	Central	Motocicletas	7	16484
-2001	17	Central	Otros vehículos	9	6859
+2001	17	D.C. Zaragoza	Turismos	1	249178
+2001	17	D.C. Zaragoza	Camiones y furgonetas	3	45353
+2001	17	D.C. Zaragoza	Autobuses	4	879
+2001	17	D.C. Zaragoza	Tractores industriales	5	2239
+2001	17	D.C. Zaragoza	Motocicletas	7	16484
+2001	17	D.C. Zaragoza	Otros vehículos	9	6859
 2001	18	Ribera Baja del Ebro	Turismos	1	3703
 2001	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1072
 2001	18	Ribera Baja del Ebro	Autobuses	4	0
@@ -4712,12 +3529,12 @@ Año	Comarca código	Comarca nombre	Tipo de vehículo	Tipo de vehículo (orden)	
 2000	16	Valdejalón	Tractores industriales	5	69
 2000	16	Valdejalón	Motocicletas	7	480
 2000	16	Valdejalón	Otros vehículos	9	246
-2000	17	Central	Turismos	1	243496
-2000	17	Central	Camiones y furgonetas	3	43798
-2000	17	Central	Autobuses	4	894
-2000	17	Central	Tractores industriales	5	2106
-2000	17	Central	Motocicletas	7	16014
-2000	17	Central	Otros vehículos	9	6188
+2000	17	D.C. Zaragoza	Turismos	1	243496
+2000	17	D.C. Zaragoza	Camiones y furgonetas	3	43798
+2000	17	D.C. Zaragoza	Autobuses	4	894
+2000	17	D.C. Zaragoza	Tractores industriales	5	2106
+2000	17	D.C. Zaragoza	Motocicletas	7	16014
+2000	17	D.C. Zaragoza	Otros vehículos	9	6188
 2000	18	Ribera Baja del Ebro	Turismos	1	3590
 2000	18	Ribera Baja del Ebro	Camiones y furgonetas	3	1049
 2000	18	Ribera Baja del Ebro	Autobuses	4	1

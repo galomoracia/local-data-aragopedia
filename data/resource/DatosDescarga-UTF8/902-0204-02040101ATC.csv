@@ -1,664 +1,4 @@
 Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
-01	La Jacetania	Externa	Hombres	2020	648
-01	La Jacetania	Externa	Mujeres	2020	542
-01	La Jacetania	Interna	Hombres	2020	48
-01	La Jacetania	Interna	Mujeres	2020	58
-02	Alto Gállego	Externa	Hombres	2020	489
-02	Alto Gállego	Externa	Mujeres	2020	383
-02	Alto Gállego	Interna	Hombres	2020	31
-02	Alto Gállego	Interna	Mujeres	2020	31
-03	Sobrarbe	Externa	Hombres	2020	266
-03	Sobrarbe	Externa	Mujeres	2020	234
-03	Sobrarbe	Interna	Hombres	2020	30
-03	Sobrarbe	Interna	Mujeres	2020	52
-04	La Ribagorza	Externa	Hombres	2020	401
-04	La Ribagorza	Externa	Mujeres	2020	414
-04	La Ribagorza	Interna	Hombres	2020	64
-04	La Ribagorza	Interna	Mujeres	2020	61
-05	Cinco Villas	Externa	Hombres	2020	603
-05	Cinco Villas	Externa	Mujeres	2020	499
-05	Cinco Villas	Interna	Hombres	2020	82
-05	Cinco Villas	Interna	Mujeres	2020	56
-06	Hoya de Huesca / Plana de Uesca	Externa	Hombres	2020	1242
-06	Hoya de Huesca / Plana de Uesca	Externa	Mujeres	2020	1109
-06	Hoya de Huesca / Plana de Uesca	Interna	Hombres	2020	498
-06	Hoya de Huesca / Plana de Uesca	Interna	Mujeres	2020	463
-07	Somontano de Barbastro	Externa	Hombres	2020	444
-07	Somontano de Barbastro	Externa	Mujeres	2020	419
-07	Somontano de Barbastro	Interna	Hombres	2020	93
-07	Somontano de Barbastro	Interna	Mujeres	2020	109
-08	Cinca Medio	Externa	Hombres	2020	507
-08	Cinca Medio	Externa	Mujeres	2020	389
-08	Cinca Medio	Interna	Hombres	2020	54
-08	Cinca Medio	Interna	Mujeres	2020	60
-09	La Litera / La Llitera	Externa	Hombres	2020	601
-09	La Litera / La Llitera	Externa	Mujeres	2020	366
-09	La Litera / La Llitera	Interna	Hombres	2020	83
-09	La Litera / La Llitera	Interna	Mujeres	2020	59
-10	Los Monegros	Externa	Hombres	2020	449
-10	Los Monegros	Externa	Mujeres	2020	430
-10	Los Monegros	Interna	Hombres	2020	54
-10	Los Monegros	Interna	Mujeres	2020	39
-11	Bajo Cinca / Baix Cinca	Externa	Hombres	2020	671
-11	Bajo Cinca / Baix Cinca	Externa	Mujeres	2020	396
-11	Bajo Cinca / Baix Cinca	Interna	Hombres	2020	49
-11	Bajo Cinca / Baix Cinca	Interna	Mujeres	2020	47
-12	Tarazona y el Moncayo	Externa	Hombres	2020	256
-12	Tarazona y el Moncayo	Externa	Mujeres	2020	242
-12	Tarazona y el Moncayo	Interna	Hombres	2020	62
-12	Tarazona y el Moncayo	Interna	Mujeres	2020	50
-13	Campo de Borja	Externa	Hombres	2020	311
-13	Campo de Borja	Externa	Mujeres	2020	247
-13	Campo de Borja	Interna	Hombres	2020	62
-13	Campo de Borja	Interna	Mujeres	2020	50
-14	Aranda	Externa	Hombres	2020	97
-14	Aranda	Externa	Mujeres	2020	85
-14	Aranda	Interna	Hombres	2020	7
-14	Aranda	Interna	Mujeres	2020	8
-15	Ribera Alta del Ebro	Externa	Hombres	2020	646
-15	Ribera Alta del Ebro	Externa	Mujeres	2020	639
-15	Ribera Alta del Ebro	Interna	Hombres	2020	67
-15	Ribera Alta del Ebro	Interna	Mujeres	2020	67
-16	Valdejalón	Externa	Hombres	2020	949
-16	Valdejalón	Externa	Mujeres	2020	758
-16	Valdejalón	Interna	Hombres	2020	133
-16	Valdejalón	Interna	Mujeres	2020	108
-17	Central	Externa	Hombres	2020	8878
-17	Central	Externa	Mujeres	2020	8181
-17	Central	Interna	Hombres	2020	2511
-17	Central	Interna	Mujeres	2020	2429
-18	Ribera Baja del Ebro	Externa	Hombres	2020	188
-18	Ribera Baja del Ebro	Externa	Mujeres	2020	172
-18	Ribera Baja del Ebro	Interna	Hombres	2020	3
-18	Ribera Baja del Ebro	Interna	Mujeres	2020	13
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Hombres	2020	632
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Mujeres	2020	323
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Hombres	2020	31
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Mujeres	2020	11
-20	Comunidad de Calatayud	Externa	Hombres	2020	940
-20	Comunidad de Calatayud	Externa	Mujeres	2020	727
-20	Comunidad de Calatayud	Interna	Hombres	2020	178
-20	Comunidad de Calatayud	Interna	Mujeres	2020	172
-21	Campo de Cariñena	Externa	Hombres	2020	266
-21	Campo de Cariñena	Externa	Mujeres	2020	209
-21	Campo de Cariñena	Interna	Hombres	2020	40
-21	Campo de Cariñena	Interna	Mujeres	2020	36
-22	Campo de Belchite	Externa	Hombres	2020	148
-22	Campo de Belchite	Externa	Mujeres	2020	144
-22	Campo de Belchite	Interna	Hombres	2020	7
-22	Campo de Belchite	Interna	Mujeres	2020	5
-23	Bajo Martín	Externa	Hombres	2020	180
-23	Bajo Martín	Externa	Mujeres	2020	108
-23	Bajo Martín	Interna	Hombres	2020	6
-23	Bajo Martín	Interna	Mujeres	2020	3
-24	Campo de Daroca	Externa	Hombres	2020	182
-24	Campo de Daroca	Externa	Mujeres	2020	159
-24	Campo de Daroca	Interna	Hombres	2020	24
-24	Campo de Daroca	Interna	Mujeres	2020	14
-25	Jiloca	Externa	Hombres	2020	383
-25	Jiloca	Externa	Mujeres	2020	311
-25	Jiloca	Interna	Hombres	2020	64
-25	Jiloca	Interna	Mujeres	2020	60
-26	Cuencas Mineras	Externa	Hombres	2020	167
-26	Cuencas Mineras	Externa	Mujeres	2020	144
-26	Cuencas Mineras	Interna	Hombres	2020	20
-26	Cuencas Mineras	Interna	Mujeres	2020	19
-27	Andorra-Sierra de Arcos	Externa	Hombres	2020	190
-27	Andorra-Sierra de Arcos	Externa	Mujeres	2020	159
-27	Andorra-Sierra de Arcos	Interna	Hombres	2020	10
-27	Andorra-Sierra de Arcos	Interna	Mujeres	2020	13
-28	Bajo Aragón	Externa	Hombres	2020	555
-28	Bajo Aragón	Externa	Mujeres	2020	496
-28	Bajo Aragón	Interna	Hombres	2020	77
-28	Bajo Aragón	Interna	Mujeres	2020	59
-29	Comunidad de Teruel	Externa	Hombres	2020	762
-29	Comunidad de Teruel	Externa	Mujeres	2020	744
-29	Comunidad de Teruel	Interna	Hombres	2020	211
-29	Comunidad de Teruel	Interna	Mujeres	2020	189
-30	Maestrazgo	Externa	Hombres	2020	97
-30	Maestrazgo	Externa	Mujeres	2020	96
-30	Maestrazgo	Interna	Hombres	2020	16
-30	Maestrazgo	Interna	Mujeres	2020	9
-31	Sierra de Albarracín	Externa	Hombres	2020	137
-31	Sierra de Albarracín	Externa	Mujeres	2020	125
-31	Sierra de Albarracín	Interna	Hombres	2020	21
-31	Sierra de Albarracín	Interna	Mujeres	2020	10
-32	Gúdar-Javalambre	Externa	Hombres	2020	337
-32	Gúdar-Javalambre	Externa	Mujeres	2020	273
-32	Gúdar-Javalambre	Interna	Hombres	2020	33
-32	Gúdar-Javalambre	Interna	Mujeres	2020	32
-33	Matarraña / Matarranya	Externa	Hombres	2020	244
-33	Matarraña / Matarranya	Externa	Mujeres	2020	190
-33	Matarraña / Matarranya	Interna	Hombres	2020	45
-33	Matarraña / Matarranya	Interna	Mujeres	2020	32
-01	La Jacetania	Externa	Hombres	2019	468
-01	La Jacetania	Externa	Mujeres	2019	448
-01	La Jacetania	Interna	Hombres	2019	63
-01	La Jacetania	Interna	Mujeres	2019	55
-02	Alto Gállego	Externa	Hombres	2019	300
-02	Alto Gállego	Externa	Mujeres	2019	290
-02	Alto Gállego	Interna	Hombres	2019	35
-02	Alto Gállego	Interna	Mujeres	2019	29
-03	Sobrarbe	Externa	Hombres	2019	193
-03	Sobrarbe	Externa	Mujeres	2019	220
-03	Sobrarbe	Interna	Hombres	2019	41
-03	Sobrarbe	Interna	Mujeres	2019	45
-04	La Ribagorza	Externa	Hombres	2019	322
-04	La Ribagorza	Externa	Mujeres	2019	299
-04	La Ribagorza	Interna	Hombres	2019	63
-04	La Ribagorza	Interna	Mujeres	2019	61
-05	Cinco Villas	Externa	Hombres	2019	560
-05	Cinco Villas	Externa	Mujeres	2019	499
-05	Cinco Villas	Interna	Hombres	2019	61
-05	Cinco Villas	Interna	Mujeres	2019	79
-06	Hoya de Huesca / Plana de Uesca	Externa	Hombres	2019	1375
-06	Hoya de Huesca / Plana de Uesca	Externa	Mujeres	2019	1413
-06	Hoya de Huesca / Plana de Uesca	Interna	Hombres	2019	303
-06	Hoya de Huesca / Plana de Uesca	Interna	Mujeres	2019	342
-07	Somontano de Barbastro	Externa	Hombres	2019	436
-07	Somontano de Barbastro	Externa	Mujeres	2019	461
-07	Somontano de Barbastro	Interna	Hombres	2019	80
-07	Somontano de Barbastro	Interna	Mujeres	2019	92
-08	Cinca Medio	Externa	Hombres	2019	602
-08	Cinca Medio	Externa	Mujeres	2019	473
-08	Cinca Medio	Interna	Hombres	2019	52
-08	Cinca Medio	Interna	Mujeres	2019	61
-09	La Litera / La Llitera	Externa	Hombres	2019	565
-09	La Litera / La Llitera	Externa	Mujeres	2019	381
-09	La Litera / La Llitera	Interna	Hombres	2019	58
-09	La Litera / La Llitera	Interna	Mujeres	2019	38
-10	Los Monegros	Externa	Hombres	2019	396
-10	Los Monegros	Externa	Mujeres	2019	370
-10	Los Monegros	Interna	Hombres	2019	70
-10	Los Monegros	Interna	Mujeres	2019	62
-11	Bajo Cinca / Baix Cinca	Externa	Hombres	2019	893
-11	Bajo Cinca / Baix Cinca	Externa	Mujeres	2019	498
-11	Bajo Cinca / Baix Cinca	Interna	Hombres	2019	69
-11	Bajo Cinca / Baix Cinca	Interna	Mujeres	2019	57
-12	Tarazona y el Moncayo	Externa	Hombres	2019	284
-12	Tarazona y el Moncayo	Externa	Mujeres	2019	270
-12	Tarazona y el Moncayo	Interna	Hombres	2019	50
-12	Tarazona y el Moncayo	Interna	Mujeres	2019	37
-13	Campo de Borja	Externa	Hombres	2019	250
-13	Campo de Borja	Externa	Mujeres	2019	237
-13	Campo de Borja	Interna	Hombres	2019	72
-13	Campo de Borja	Interna	Mujeres	2019	67
-14	Aranda	Externa	Hombres	2019	59
-14	Aranda	Externa	Mujeres	2019	71
-14	Aranda	Interna	Hombres	2019	20
-14	Aranda	Interna	Mujeres	2019	19
-15	Ribera Alta del Ebro	Externa	Hombres	2019	667
-15	Ribera Alta del Ebro	Externa	Mujeres	2019	630
-15	Ribera Alta del Ebro	Interna	Hombres	2019	82
-15	Ribera Alta del Ebro	Interna	Mujeres	2019	79
-16	Valdejalón	Externa	Hombres	2019	977
-16	Valdejalón	Externa	Mujeres	2019	783
-16	Valdejalón	Interna	Hombres	2019	124
-16	Valdejalón	Interna	Mujeres	2019	143
-17	Central	Externa	Hombres	2019	13611
-17	Central	Externa	Mujeres	2019	13158
-17	Central	Interna	Hombres	2019	2460
-17	Central	Interna	Mujeres	2019	2491
-18	Ribera Baja del Ebro	Externa	Hombres	2019	169
-18	Ribera Baja del Ebro	Externa	Mujeres	2019	167
-18	Ribera Baja del Ebro	Interna	Hombres	2019	14
-18	Ribera Baja del Ebro	Interna	Mujeres	2019	16
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Hombres	2019	675
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Mujeres	2019	324
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Hombres	2019	36
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Mujeres	2019	10
-20	Comunidad de Calatayud	Externa	Hombres	2019	1107
-20	Comunidad de Calatayud	Externa	Mujeres	2019	755
-20	Comunidad de Calatayud	Interna	Hombres	2019	225
-20	Comunidad de Calatayud	Interna	Mujeres	2019	195
-21	Campo de Cariñena	Externa	Hombres	2019	305
-21	Campo de Cariñena	Externa	Mujeres	2019	234
-21	Campo de Cariñena	Interna	Hombres	2019	32
-21	Campo de Cariñena	Interna	Mujeres	2019	21
-22	Campo de Belchite	Externa	Hombres	2019	124
-22	Campo de Belchite	Externa	Mujeres	2019	119
-22	Campo de Belchite	Interna	Hombres	2019	13
-22	Campo de Belchite	Interna	Mujeres	2019	5
-23	Bajo Martín	Externa	Hombres	2019	148
-23	Bajo Martín	Externa	Mujeres	2019	129
-23	Bajo Martín	Interna	Hombres	2019	15
-23	Bajo Martín	Interna	Mujeres	2019	16
-24	Campo de Daroca	Externa	Hombres	2019	172
-24	Campo de Daroca	Externa	Mujeres	2019	137
-24	Campo de Daroca	Interna	Hombres	2019	27
-24	Campo de Daroca	Interna	Mujeres	2019	24
-25	Jiloca	Externa	Hombres	2019	324
-25	Jiloca	Externa	Mujeres	2019	303
-25	Jiloca	Interna	Hombres	2019	55
-25	Jiloca	Interna	Mujeres	2019	68
-26	Cuencas Mineras	Externa	Hombres	2019	161
-26	Cuencas Mineras	Externa	Mujeres	2019	120
-26	Cuencas Mineras	Interna	Hombres	2019	35
-26	Cuencas Mineras	Interna	Mujeres	2019	38
-27	Andorra-Sierra de Arcos	Externa	Hombres	2019	162
-27	Andorra-Sierra de Arcos	Externa	Mujeres	2019	162
-27	Andorra-Sierra de Arcos	Interna	Hombres	2019	8
-27	Andorra-Sierra de Arcos	Interna	Mujeres	2019	13
-28	Bajo Aragón	Externa	Hombres	2019	593
-28	Bajo Aragón	Externa	Mujeres	2019	544
-28	Bajo Aragón	Interna	Hombres	2019	66
-28	Bajo Aragón	Interna	Mujeres	2019	84
-29	Comunidad de Teruel	Externa	Hombres	2019	1002
-29	Comunidad de Teruel	Externa	Mujeres	2019	934
-29	Comunidad de Teruel	Interna	Hombres	2019	172
-29	Comunidad de Teruel	Interna	Mujeres	2019	226
-30	Maestrazgo	Externa	Hombres	2019	91
-30	Maestrazgo	Externa	Mujeres	2019	61
-30	Maestrazgo	Interna	Hombres	2019	9
-30	Maestrazgo	Interna	Mujeres	2019	10
-31	Sierra de Albarracín	Externa	Hombres	2019	102
-31	Sierra de Albarracín	Externa	Mujeres	2019	107
-31	Sierra de Albarracín	Interna	Hombres	2019	14
-31	Sierra de Albarracín	Interna	Mujeres	2019	8
-32	Gúdar-Javalambre	Externa	Hombres	2019	204
-32	Gúdar-Javalambre	Externa	Mujeres	2019	219
-32	Gúdar-Javalambre	Interna	Hombres	2019	33
-32	Gúdar-Javalambre	Interna	Mujeres	2019	29
-33	Matarraña / Matarranya	Externa	Hombres	2019	195
-33	Matarraña / Matarranya	Externa	Mujeres	2019	165
-33	Matarraña / Matarranya	Interna	Hombres	2019	41
-33	Matarraña / Matarranya	Interna	Mujeres	2019	35
-01	La Jacetania	Externa	Hombres	2018	472
-01	La Jacetania	Externa	Mujeres	2018	487
-01	La Jacetania	Interna	Hombres	2018	53
-01	La Jacetania	Interna	Mujeres	2018	59
-02	Alto Gállego	Externa	Hombres	2018	310
-02	Alto Gállego	Externa	Mujeres	2018	312
-02	Alto Gállego	Interna	Hombres	2018	39
-02	Alto Gállego	Interna	Mujeres	2018	41
-03	Sobrarbe	Externa	Hombres	2018	186
-03	Sobrarbe	Externa	Mujeres	2018	188
-03	Sobrarbe	Interna	Hombres	2018	33
-03	Sobrarbe	Interna	Mujeres	2018	44
-04	La Ribagorza	Externa	Hombres	2018	308
-04	La Ribagorza	Externa	Mujeres	2018	301
-04	La Ribagorza	Interna	Hombres	2018	64
-04	La Ribagorza	Interna	Mujeres	2018	68
-05	Cinco Villas	Externa	Hombres	2018	576
-05	Cinco Villas	Externa	Mujeres	2018	466
-05	Cinco Villas	Interna	Hombres	2018	63
-05	Cinco Villas	Interna	Mujeres	2018	57
-06	Hoya de Huesca / Plana de Uesca	Externa	Hombres	2018	1345
-06	Hoya de Huesca / Plana de Uesca	Externa	Mujeres	2018	1378
-06	Hoya de Huesca / Plana de Uesca	Interna	Hombres	2018	329
-06	Hoya de Huesca / Plana de Uesca	Interna	Mujeres	2018	407
-07	Somontano de Barbastro	Externa	Hombres	2018	403
-07	Somontano de Barbastro	Externa	Mujeres	2018	418
-07	Somontano de Barbastro	Interna	Hombres	2018	86
-07	Somontano de Barbastro	Interna	Mujeres	2018	96
-08	Cinca Medio	Externa	Hombres	2018	512
-08	Cinca Medio	Externa	Mujeres	2018	451
-08	Cinca Medio	Interna	Hombres	2018	49
-08	Cinca Medio	Interna	Mujeres	2018	48
-09	La Litera / La Llitera	Externa	Hombres	2018	437
-09	La Litera / La Llitera	Externa	Mujeres	2018	356
-09	La Litera / La Llitera	Interna	Hombres	2018	60
-09	La Litera / La Llitera	Interna	Mujeres	2018	59
-10	Los Monegros	Externa	Hombres	2018	362
-10	Los Monegros	Externa	Mujeres	2018	373
-10	Los Monegros	Interna	Hombres	2018	60
-10	Los Monegros	Interna	Mujeres	2018	40
-11	Bajo Cinca / Baix Cinca	Externa	Hombres	2018	666
-11	Bajo Cinca / Baix Cinca	Externa	Mujeres	2018	477
-11	Bajo Cinca / Baix Cinca	Interna	Hombres	2018	80
-11	Bajo Cinca / Baix Cinca	Interna	Mujeres	2018	73
-12	Tarazona y el Moncayo	Externa	Hombres	2018	255
-12	Tarazona y el Moncayo	Externa	Mujeres	2018	218
-12	Tarazona y el Moncayo	Interna	Hombres	2018	33
-12	Tarazona y el Moncayo	Interna	Mujeres	2018	41
-13	Campo de Borja	Externa	Hombres	2018	249
-13	Campo de Borja	Externa	Mujeres	2018	246
-13	Campo de Borja	Interna	Hombres	2018	55
-13	Campo de Borja	Interna	Mujeres	2018	54
-14	Aranda	Externa	Hombres	2018	90
-14	Aranda	Externa	Mujeres	2018	93
-14	Aranda	Interna	Hombres	2018	13
-14	Aranda	Interna	Mujeres	2018	15
-15	Ribera Alta del Ebro	Externa	Hombres	2018	734
-15	Ribera Alta del Ebro	Externa	Mujeres	2018	636
-15	Ribera Alta del Ebro	Interna	Hombres	2018	79
-15	Ribera Alta del Ebro	Interna	Mujeres	2018	96
-16	Valdejalón	Externa	Hombres	2018	988
-16	Valdejalón	Externa	Mujeres	2018	797
-16	Valdejalón	Interna	Hombres	2018	102
-16	Valdejalón	Interna	Mujeres	2018	91
-17	Central	Externa	Hombres	2018	12349
-17	Central	Externa	Mujeres	2018	12580
-17	Central	Interna	Hombres	2018	2374
-17	Central	Interna	Mujeres	2018	2291
-18	Ribera Baja del Ebro	Externa	Hombres	2018	146
-18	Ribera Baja del Ebro	Externa	Mujeres	2018	166
-18	Ribera Baja del Ebro	Interna	Hombres	2018	6
-18	Ribera Baja del Ebro	Interna	Mujeres	2018	6
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Hombres	2018	569
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Mujeres	2018	298
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Hombres	2018	39
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Mujeres	2018	24
-20	Comunidad de Calatayud	Externa	Hombres	2018	1138
-20	Comunidad de Calatayud	Externa	Mujeres	2018	765
-20	Comunidad de Calatayud	Interna	Hombres	2018	225
-20	Comunidad de Calatayud	Interna	Mujeres	2018	215
-21	Campo de Cariñena	Externa	Hombres	2018	318
-21	Campo de Cariñena	Externa	Mujeres	2018	256
-21	Campo de Cariñena	Interna	Hombres	2018	24
-21	Campo de Cariñena	Interna	Mujeres	2018	23
-22	Campo de Belchite	Externa	Hombres	2018	159
-22	Campo de Belchite	Externa	Mujeres	2018	143
-22	Campo de Belchite	Interna	Hombres	2018	10
-22	Campo de Belchite	Interna	Mujeres	2018	15
-23	Bajo Martín	Externa	Hombres	2018	127
-23	Bajo Martín	Externa	Mujeres	2018	108
-23	Bajo Martín	Interna	Hombres	2018	14
-23	Bajo Martín	Interna	Mujeres	2018	15
-24	Campo de Daroca	Externa	Hombres	2018	176
-24	Campo de Daroca	Externa	Mujeres	2018	156
-24	Campo de Daroca	Interna	Hombres	2018	28
-24	Campo de Daroca	Interna	Mujeres	2018	21
-25	Jiloca	Externa	Hombres	2018	277
-25	Jiloca	Externa	Mujeres	2018	214
-25	Jiloca	Interna	Hombres	2018	66
-25	Jiloca	Interna	Mujeres	2018	50
-26	Cuencas Mineras	Externa	Hombres	2018	154
-26	Cuencas Mineras	Externa	Mujeres	2018	119
-26	Cuencas Mineras	Interna	Hombres	2018	25
-26	Cuencas Mineras	Interna	Mujeres	2018	20
-27	Andorra-Sierra de Arcos	Externa	Hombres	2018	159
-27	Andorra-Sierra de Arcos	Externa	Mujeres	2018	130
-27	Andorra-Sierra de Arcos	Interna	Hombres	2018	19
-27	Andorra-Sierra de Arcos	Interna	Mujeres	2018	17
-28	Bajo Aragón	Externa	Hombres	2018	559
-28	Bajo Aragón	Externa	Mujeres	2018	563
-28	Bajo Aragón	Interna	Hombres	2018	85
-28	Bajo Aragón	Interna	Mujeres	2018	89
-29	Comunidad de Teruel	Externa	Hombres	2018	935
-29	Comunidad de Teruel	Externa	Mujeres	2018	891
-29	Comunidad de Teruel	Interna	Hombres	2018	187
-29	Comunidad de Teruel	Interna	Mujeres	2018	198
-30	Maestrazgo	Externa	Hombres	2018	74
-30	Maestrazgo	Externa	Mujeres	2018	69
-30	Maestrazgo	Interna	Hombres	2018	5
-30	Maestrazgo	Interna	Mujeres	2018	7
-31	Sierra de Albarracín	Externa	Hombres	2018	138
-31	Sierra de Albarracín	Externa	Mujeres	2018	120
-31	Sierra de Albarracín	Interna	Hombres	2018	8
-31	Sierra de Albarracín	Interna	Mujeres	2018	3
-32	Gúdar-Javalambre	Externa	Hombres	2018	236
-32	Gúdar-Javalambre	Externa	Mujeres	2018	185
-32	Gúdar-Javalambre	Interna	Hombres	2018	35
-32	Gúdar-Javalambre	Interna	Mujeres	2018	26
-33	Matarraña / Matarranya	Externa	Hombres	2018	195
-33	Matarraña / Matarranya	Externa	Mujeres	2018	162
-33	Matarraña / Matarranya	Interna	Hombres	2018	32
-33	Matarraña / Matarranya	Interna	Mujeres	2018	29
-01	La Jacetania	Externa	Hombres	2017	375
-01	La Jacetania	Externa	Mujeres	2017	369
-01	La Jacetania	Interna	Hombres	2017	46
-01	La Jacetania	Interna	Mujeres	2017	52
-02	Alto Gállego	Externa	Hombres	2017	278
-02	Alto Gállego	Externa	Mujeres	2017	256
-02	Alto Gállego	Interna	Hombres	2017	30
-02	Alto Gállego	Interna	Mujeres	2017	26
-03	Sobrarbe	Externa	Hombres	2017	198
-03	Sobrarbe	Externa	Mujeres	2017	180
-03	Sobrarbe	Interna	Hombres	2017	52
-03	Sobrarbe	Interna	Mujeres	2017	39
-04	La Ribagorza	Externa	Hombres	2017	268
-04	La Ribagorza	Externa	Mujeres	2017	288
-04	La Ribagorza	Interna	Hombres	2017	55
-04	La Ribagorza	Interna	Mujeres	2017	68
-05	Cinco Villas	Externa	Hombres	2017	468
-05	Cinco Villas	Externa	Mujeres	2017	411
-05	Cinco Villas	Interna	Hombres	2017	51
-05	Cinco Villas	Interna	Mujeres	2017	65
-06	Hoya de Huesca / Plana de Uesca	Externa	Hombres	2017	1086
-06	Hoya de Huesca / Plana de Uesca	Externa	Mujeres	2017	1160
-06	Hoya de Huesca / Plana de Uesca	Interna	Hombres	2017	288
-06	Hoya de Huesca / Plana de Uesca	Interna	Mujeres	2017	314
-07	Somontano de Barbastro	Externa	Hombres	2017	357
-07	Somontano de Barbastro	Externa	Mujeres	2017	394
-07	Somontano de Barbastro	Interna	Hombres	2017	72
-07	Somontano de Barbastro	Interna	Mujeres	2017	84
-08	Cinca Medio	Externa	Hombres	2017	437
-08	Cinca Medio	Externa	Mujeres	2017	339
-08	Cinca Medio	Interna	Hombres	2017	48
-08	Cinca Medio	Interna	Mujeres	2017	55
-09	La Litera / La Llitera	Externa	Hombres	2017	414
-09	La Litera / La Llitera	Externa	Mujeres	2017	282
-09	La Litera / La Llitera	Interna	Hombres	2017	70
-09	La Litera / La Llitera	Interna	Mujeres	2017	57
-10	Los Monegros	Externa	Hombres	2017	304
-10	Los Monegros	Externa	Mujeres	2017	307
-10	Los Monegros	Interna	Hombres	2017	42
-10	Los Monegros	Interna	Mujeres	2017	41
-11	Bajo Cinca / Baix Cinca	Externa	Hombres	2017	592
-11	Bajo Cinca / Baix Cinca	Externa	Mujeres	2017	457
-11	Bajo Cinca / Baix Cinca	Interna	Hombres	2017	62
-11	Bajo Cinca / Baix Cinca	Interna	Mujeres	2017	61
-12	Tarazona y el Moncayo	Externa	Hombres	2017	223
-12	Tarazona y el Moncayo	Externa	Mujeres	2017	210
-12	Tarazona y el Moncayo	Interna	Hombres	2017	36
-12	Tarazona y el Moncayo	Interna	Mujeres	2017	36
-13	Campo de Borja	Externa	Hombres	2017	256
-13	Campo de Borja	Externa	Mujeres	2017	233
-13	Campo de Borja	Interna	Hombres	2017	60
-13	Campo de Borja	Interna	Mujeres	2017	38
-14	Aranda	Externa	Hombres	2017	62
-14	Aranda	Externa	Mujeres	2017	63
-14	Aranda	Interna	Hombres	2017	21
-14	Aranda	Interna	Mujeres	2017	15
-15	Ribera Alta del Ebro	Externa	Hombres	2017	562
-15	Ribera Alta del Ebro	Externa	Mujeres	2017	571
-15	Ribera Alta del Ebro	Interna	Hombres	2017	94
-15	Ribera Alta del Ebro	Interna	Mujeres	2017	82
-16	Valdejalón	Externa	Hombres	2017	905
-16	Valdejalón	Externa	Mujeres	2017	791
-16	Valdejalón	Interna	Hombres	2017	91
-16	Valdejalón	Interna	Mujeres	2017	90
-17	Central	Externa	Hombres	2017	10691
-17	Central	Externa	Mujeres	2017	10532
-17	Central	Interna	Hombres	2017	2231
-17	Central	Interna	Mujeres	2017	2334
-18	Ribera Baja del Ebro	Externa	Hombres	2017	116
-18	Ribera Baja del Ebro	Externa	Mujeres	2017	144
-18	Ribera Baja del Ebro	Interna	Hombres	2017	8
-18	Ribera Baja del Ebro	Interna	Mujeres	2017	14
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Hombres	2017	446
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Mujeres	2017	283
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Hombres	2017	34
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Mujeres	2017	21
-20	Comunidad de Calatayud	Externa	Hombres	2017	982
-20	Comunidad de Calatayud	Externa	Mujeres	2017	668
-20	Comunidad de Calatayud	Interna	Hombres	2017	202
-20	Comunidad de Calatayud	Interna	Mujeres	2017	183
-21	Campo de Cariñena	Externa	Hombres	2017	203
-21	Campo de Cariñena	Externa	Mujeres	2017	176
-21	Campo de Cariñena	Interna	Hombres	2017	9
-21	Campo de Cariñena	Interna	Mujeres	2017	14
-22	Campo de Belchite	Externa	Hombres	2017	95
-22	Campo de Belchite	Externa	Mujeres	2017	99
-22	Campo de Belchite	Interna	Hombres	2017	13
-22	Campo de Belchite	Interna	Mujeres	2017	12
-23	Bajo Martín	Externa	Hombres	2017	124
-23	Bajo Martín	Externa	Mujeres	2017	115
-23	Bajo Martín	Interna	Hombres	2017	16
-23	Bajo Martín	Interna	Mujeres	2017	10
-24	Campo de Daroca	Externa	Hombres	2017	116
-24	Campo de Daroca	Externa	Mujeres	2017	106
-24	Campo de Daroca	Interna	Hombres	2017	16
-24	Campo de Daroca	Interna	Mujeres	2017	22
-25	Jiloca	Externa	Hombres	2017	227
-25	Jiloca	Externa	Mujeres	2017	196
-25	Jiloca	Interna	Hombres	2017	53
-25	Jiloca	Interna	Mujeres	2017	57
-26	Cuencas Mineras	Externa	Hombres	2017	121
-26	Cuencas Mineras	Externa	Mujeres	2017	115
-26	Cuencas Mineras	Interna	Hombres	2017	39
-26	Cuencas Mineras	Interna	Mujeres	2017	19
-27	Andorra-Sierra de Arcos	Externa	Hombres	2017	148
-27	Andorra-Sierra de Arcos	Externa	Mujeres	2017	138
-27	Andorra-Sierra de Arcos	Interna	Hombres	2017	25
-27	Andorra-Sierra de Arcos	Interna	Mujeres	2017	26
-28	Bajo Aragón	Externa	Hombres	2017	481
-28	Bajo Aragón	Externa	Mujeres	2017	464
-28	Bajo Aragón	Interna	Hombres	2017	75
-28	Bajo Aragón	Interna	Mujeres	2017	95
-29	Comunidad de Teruel	Externa	Hombres	2017	750
-29	Comunidad de Teruel	Externa	Mujeres	2017	832
-29	Comunidad de Teruel	Interna	Hombres	2017	169
-29	Comunidad de Teruel	Interna	Mujeres	2017	155
-30	Maestrazgo	Externa	Hombres	2017	60
-30	Maestrazgo	Externa	Mujeres	2017	70
-30	Maestrazgo	Interna	Hombres	2017	15
-30	Maestrazgo	Interna	Mujeres	2017	5
-31	Sierra de Albarracín	Externa	Hombres	2017	117
-31	Sierra de Albarracín	Externa	Mujeres	2017	82
-31	Sierra de Albarracín	Interna	Hombres	2017	12
-31	Sierra de Albarracín	Interna	Mujeres	2017	10
-32	Gúdar-Javalambre	Externa	Hombres	2017	185
-32	Gúdar-Javalambre	Externa	Mujeres	2017	164
-32	Gúdar-Javalambre	Interna	Hombres	2017	27
-32	Gúdar-Javalambre	Interna	Mujeres	2017	15
-33	Matarraña / Matarranya	Externa	Hombres	2017	178
-33	Matarraña / Matarranya	Externa	Mujeres	2017	146
-33	Matarraña / Matarranya	Interna	Hombres	2017	39
-33	Matarraña / Matarranya	Interna	Mujeres	2017	43
-01	La Jacetania	Externa	Hombres	2016	394
-01	La Jacetania	Externa	Mujeres	2016	377
-01	La Jacetania	Interna	Hombres	2016	42
-01	La Jacetania	Interna	Mujeres	2016	57
-02	Alto Gállego	Externa	Hombres	2016	247
-02	Alto Gállego	Externa	Mujeres	2016	233
-02	Alto Gállego	Interna	Hombres	2016	37
-02	Alto Gállego	Interna	Mujeres	2016	25
-03	Sobrarbe	Externa	Hombres	2016	152
-03	Sobrarbe	Externa	Mujeres	2016	130
-03	Sobrarbe	Interna	Hombres	2016	35
-03	Sobrarbe	Interna	Mujeres	2016	29
-04	La Ribagorza	Externa	Hombres	2016	278
-04	La Ribagorza	Externa	Mujeres	2016	248
-04	La Ribagorza	Interna	Hombres	2016	80
-04	La Ribagorza	Interna	Mujeres	2016	70
-05	Cinco Villas	Externa	Hombres	2016	445
-05	Cinco Villas	Externa	Mujeres	2016	358
-05	Cinco Villas	Interna	Hombres	2016	58
-05	Cinco Villas	Interna	Mujeres	2016	61
-06	Hoya de Huesca / Plana de Uesca	Externa	Hombres	2016	967
-06	Hoya de Huesca / Plana de Uesca	Externa	Mujeres	2016	965
-06	Hoya de Huesca / Plana de Uesca	Interna	Hombres	2016	286
-06	Hoya de Huesca / Plana de Uesca	Interna	Mujeres	2016	271
-07	Somontano de Barbastro	Externa	Hombres	2016	296
-07	Somontano de Barbastro	Externa	Mujeres	2016	360
-07	Somontano de Barbastro	Interna	Hombres	2016	68
-07	Somontano de Barbastro	Interna	Mujeres	2016	70
-08	Cinca Medio	Externa	Hombres	2016	407
-08	Cinca Medio	Externa	Mujeres	2016	316
-08	Cinca Medio	Interna	Hombres	2016	56
-08	Cinca Medio	Interna	Mujeres	2016	55
-09	La Litera / La Llitera	Externa	Hombres	2016	354
-09	La Litera / La Llitera	Externa	Mujeres	2016	233
-09	La Litera / La Llitera	Interna	Hombres	2016	50
-09	La Litera / La Llitera	Interna	Mujeres	2016	47
-10	Los Monegros	Externa	Hombres	2016	262
-10	Los Monegros	Externa	Mujeres	2016	277
-10	Los Monegros	Interna	Hombres	2016	31
-10	Los Monegros	Interna	Mujeres	2016	34
-11	Bajo Cinca / Baix Cinca	Externa	Hombres	2016	593
-11	Bajo Cinca / Baix Cinca	Externa	Mujeres	2016	446
-11	Bajo Cinca / Baix Cinca	Interna	Hombres	2016	55
-11	Bajo Cinca / Baix Cinca	Interna	Mujeres	2016	44
-12	Tarazona y el Moncayo	Externa	Hombres	2016	158
-12	Tarazona y el Moncayo	Externa	Mujeres	2016	168
-12	Tarazona y el Moncayo	Interna	Hombres	2016	37
-12	Tarazona y el Moncayo	Interna	Mujeres	2016	49
-13	Campo de Borja	Externa	Hombres	2016	186
-13	Campo de Borja	Externa	Mujeres	2016	174
-13	Campo de Borja	Interna	Hombres	2016	53
-13	Campo de Borja	Interna	Mujeres	2016	49
-14	Aranda	Externa	Hombres	2016	62
-14	Aranda	Externa	Mujeres	2016	62
-14	Aranda	Interna	Hombres	2016	16
-14	Aranda	Interna	Mujeres	2016	19
-15	Ribera Alta del Ebro	Externa	Hombres	2016	546
-15	Ribera Alta del Ebro	Externa	Mujeres	2016	600
-15	Ribera Alta del Ebro	Interna	Hombres	2016	70
-15	Ribera Alta del Ebro	Interna	Mujeres	2016	82
-16	Valdejalón	Externa	Hombres	2016	736
-16	Valdejalón	Externa	Mujeres	2016	586
-16	Valdejalón	Interna	Hombres	2016	86
-16	Valdejalón	Interna	Mujeres	2016	84
-17	Central	Externa	Hombres	2016	9731
-17	Central	Externa	Mujeres	2016	9664
-17	Central	Interna	Hombres	2016	2162
-17	Central	Interna	Mujeres	2016	2269
-18	Ribera Baja del Ebro	Externa	Hombres	2016	125
-18	Ribera Baja del Ebro	Externa	Mujeres	2016	125
-18	Ribera Baja del Ebro	Interna	Hombres	2016	3
-18	Ribera Baja del Ebro	Interna	Mujeres	2016	7
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Hombres	2016	377
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Externa	Mujeres	2016	239
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Hombres	2016	29
-19	Bajo Aragón-Caspe / Baix Aragó-Casp	Interna	Mujeres	2016	11
-20	Comunidad de Calatayud	Externa	Hombres	2016	856
-20	Comunidad de Calatayud	Externa	Mujeres	2016	645
-20	Comunidad de Calatayud	Interna	Hombres	2016	205
-20	Comunidad de Calatayud	Interna	Mujeres	2016	188
-21	Campo de Cariñena	Externa	Hombres	2016	185
-21	Campo de Cariñena	Externa	Mujeres	2016	177
-21	Campo de Cariñena	Interna	Hombres	2016	14
-21	Campo de Cariñena	Interna	Mujeres	2016	16
-22	Campo de Belchite	Externa	Hombres	2016	85
-22	Campo de Belchite	Externa	Mujeres	2016	68
-22	Campo de Belchite	Interna	Hombres	2016	11
-22	Campo de Belchite	Interna	Mujeres	2016	4
-23	Bajo Martín	Externa	Hombres	2016	107
-23	Bajo Martín	Externa	Mujeres	2016	90
-23	Bajo Martín	Interna	Hombres	2016	11
-23	Bajo Martín	Interna	Mujeres	2016	7
-24	Campo de Daroca	Externa	Hombres	2016	111
-24	Campo de Daroca	Externa	Mujeres	2016	96
-24	Campo de Daroca	Interna	Hombres	2016	21
-24	Campo de Daroca	Interna	Mujeres	2016	16
-25	Jiloca	Externa	Hombres	2016	194
-25	Jiloca	Externa	Mujeres	2016	144
-25	Jiloca	Interna	Hombres	2016	56
-25	Jiloca	Interna	Mujeres	2016	45
-26	Cuencas Mineras	Externa	Hombres	2016	116
-26	Cuencas Mineras	Externa	Mujeres	2016	95
-26	Cuencas Mineras	Interna	Hombres	2016	32
-26	Cuencas Mineras	Interna	Mujeres	2016	26
-27	Andorra-Sierra de Arcos	Externa	Hombres	2016	144
-27	Andorra-Sierra de Arcos	Externa	Mujeres	2016	138
-27	Andorra-Sierra de Arcos	Interna	Hombres	2016	9
-27	Andorra-Sierra de Arcos	Interna	Mujeres	2016	15
-28	Bajo Aragón	Externa	Hombres	2016	429
-28	Bajo Aragón	Externa	Mujeres	2016	406
-28	Bajo Aragón	Interna	Hombres	2016	75
-28	Bajo Aragón	Interna	Mujeres	2016	59
-29	Comunidad de Teruel	Externa	Hombres	2016	633
-29	Comunidad de Teruel	Externa	Mujeres	2016	639
-29	Comunidad de Teruel	Interna	Hombres	2016	163
-29	Comunidad de Teruel	Interna	Mujeres	2016	157
-30	Maestrazgo	Externa	Hombres	2016	62
-30	Maestrazgo	Externa	Mujeres	2016	54
-30	Maestrazgo	Interna	Hombres	2016	6
-30	Maestrazgo	Interna	Mujeres	2016	7
-31	Sierra de Albarracín	Externa	Hombres	2016	94
-31	Sierra de Albarracín	Externa	Mujeres	2016	85
-31	Sierra de Albarracín	Interna	Hombres	2016	11
-31	Sierra de Albarracín	Interna	Mujeres	2016	8
-32	Gúdar-Javalambre	Externa	Hombres	2016	166
-32	Gúdar-Javalambre	Externa	Mujeres	2016	146
-32	Gúdar-Javalambre	Interna	Hombres	2016	22
-32	Gúdar-Javalambre	Interna	Mujeres	2016	29
-33	Matarraña / Matarranya	Externa	Hombres	2016	143
-33	Matarraña / Matarranya	Externa	Mujeres	2016	163
-33	Matarraña / Matarranya	Interna	Hombres	2016	28
-33	Matarraña / Matarranya	Interna	Mujeres	2016	36
 01	La Jacetania	Externa	Hombres	2015	359
 01	La Jacetania	Externa	Mujeres	2015	335
 01	La Jacetania	Interna	Hombres	2015	50
@@ -723,10 +63,10 @@ Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
 16	Valdejalón	Externa	Mujeres	2015	635
 16	Valdejalón	Interna	Hombres	2015	87
 16	Valdejalón	Interna	Mujeres	2015	110
-17	Central	Externa	Hombres	2015	9009
-17	Central	Externa	Mujeres	2015	8708
-17	Central	Interna	Hombres	2015	2420
-17	Central	Interna	Mujeres	2015	2407
+17	D.C. Zaragoza	Externa	Hombres	2015	9009
+17	D.C. Zaragoza	Externa	Mujeres	2015	8708
+17	D.C. Zaragoza	Interna	Hombres	2015	2420
+17	D.C. Zaragoza	Interna	Mujeres	2015	2407
 18	Ribera Baja del Ebro	Externa	Hombres	2015	122
 18	Ribera Baja del Ebro	Externa	Mujeres	2015	114
 18	Ribera Baja del Ebro	Interna	Hombres	2015	11
@@ -855,10 +195,10 @@ Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
 16	Valdejalón	Externa	Mujeres	2014	562
 16	Valdejalón	Interna	Hombres	2014	104
 16	Valdejalón	Interna	Mujeres	2014	98
-17	Central	Externa	Hombres	2014	9164
-17	Central	Externa	Mujeres	2014	8076
-17	Central	Interna	Hombres	2014	2253
-17	Central	Interna	Mujeres	2014	2293
+17	D.C. Zaragoza	Externa	Hombres	2014	9164
+17	D.C. Zaragoza	Externa	Mujeres	2014	8076
+17	D.C. Zaragoza	Interna	Hombres	2014	2253
+17	D.C. Zaragoza	Interna	Mujeres	2014	2293
 18	Ribera Baja del Ebro	Externa	Hombres	2014	131
 18	Ribera Baja del Ebro	Externa	Mujeres	2014	146
 18	Ribera Baja del Ebro	Interna	Hombres	2014	9
@@ -987,10 +327,10 @@ Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
 16	Valdejalón	Externa	Mujeres	2013	563
 16	Valdejalón	Interna	Hombres	2013	103
 16	Valdejalón	Interna	Mujeres	2013	87
-17	Central	Externa	Hombres	2013	8617
-17	Central	Externa	Mujeres	2013	7933
-17	Central	Interna	Hombres	2013	2576
-17	Central	Interna	Mujeres	2013	2557
+17	D.C. Zaragoza	Externa	Hombres	2013	8617
+17	D.C. Zaragoza	Externa	Mujeres	2013	7933
+17	D.C. Zaragoza	Interna	Hombres	2013	2576
+17	D.C. Zaragoza	Interna	Mujeres	2013	2557
 18	Ribera Baja del Ebro	Externa	Hombres	2013	144
 18	Ribera Baja del Ebro	Externa	Mujeres	2013	125
 18	Ribera Baja del Ebro	Interna	Hombres	2013	7
@@ -1119,10 +459,10 @@ Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
 16	Valdejalón	Externa	Mujeres	2012	629
 16	Valdejalón	Interna	Hombres	2012	73
 16	Valdejalón	Interna	Mujeres	2012	73
-17	Central	Externa	Hombres	2012	8818
-17	Central	Externa	Mujeres	2012	8285
-17	Central	Interna	Hombres	2012	2352
-17	Central	Interna	Mujeres	2012	2367
+17	D.C. Zaragoza	Externa	Hombres	2012	8818
+17	D.C. Zaragoza	Externa	Mujeres	2012	8285
+17	D.C. Zaragoza	Interna	Hombres	2012	2352
+17	D.C. Zaragoza	Interna	Mujeres	2012	2367
 18	Ribera Baja del Ebro	Externa	Hombres	2012	128
 18	Ribera Baja del Ebro	Externa	Mujeres	2012	119
 18	Ribera Baja del Ebro	Interna	Hombres	2012	12
@@ -1251,10 +591,10 @@ Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
 16	Valdejalón	Externa	Mujeres	2011	626
 16	Valdejalón	Interna	Hombres	2011	96
 16	Valdejalón	Interna	Mujeres	2011	84
-17	Central	Externa	Hombres	2011	10188
-17	Central	Externa	Mujeres	2011	10495
-17	Central	Interna	Hombres	2011	2522
-17	Central	Interna	Mujeres	2011	2414
+17	D.C. Zaragoza	Externa	Hombres	2011	10188
+17	D.C. Zaragoza	Externa	Mujeres	2011	10495
+17	D.C. Zaragoza	Interna	Hombres	2011	2522
+17	D.C. Zaragoza	Interna	Mujeres	2011	2414
 18	Ribera Baja del Ebro	Externa	Hombres	2011	187
 18	Ribera Baja del Ebro	Externa	Mujeres	2011	157
 18	Ribera Baja del Ebro	Interna	Hombres	2011	12
@@ -1383,10 +723,10 @@ Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
 16	Valdejalón	Externa	Mujeres	2010	589
 16	Valdejalón	Interna	Hombres	2010	90
 16	Valdejalón	Interna	Mujeres	2010	96
-17	Central	Externa	Hombres	2010	9251
-17	Central	Externa	Mujeres	2010	9784
-17	Central	Interna	Hombres	2010	2559
-17	Central	Interna	Mujeres	2010	2569
+17	D.C. Zaragoza	Externa	Hombres	2010	9251
+17	D.C. Zaragoza	Externa	Mujeres	2010	9784
+17	D.C. Zaragoza	Interna	Hombres	2010	2559
+17	D.C. Zaragoza	Interna	Mujeres	2010	2569
 18	Ribera Baja del Ebro	Externa	Hombres	2010	143
 18	Ribera Baja del Ebro	Externa	Mujeres	2010	121
 18	Ribera Baja del Ebro	Interna	Hombres	2010	16
@@ -1515,10 +855,10 @@ Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
 16	Valdejalón	Externa	Mujeres	2009	702
 16	Valdejalón	Interna	Hombres	2009	90
 16	Valdejalón	Interna	Mujeres	2009	110
-17	Central	Externa	Hombres	2009	9947
-17	Central	Externa	Mujeres	2009	10000
-17	Central	Interna	Hombres	2009	2613
-17	Central	Interna	Mujeres	2009	2535
+17	D.C. Zaragoza	Externa	Hombres	2009	9947
+17	D.C. Zaragoza	Externa	Mujeres	2009	10000
+17	D.C. Zaragoza	Interna	Hombres	2009	2613
+17	D.C. Zaragoza	Interna	Mujeres	2009	2535
 18	Ribera Baja del Ebro	Externa	Hombres	2009	174
 18	Ribera Baja del Ebro	Externa	Mujeres	2009	170
 18	Ribera Baja del Ebro	Interna	Hombres	2009	12
@@ -1647,10 +987,10 @@ Comarca código	Comarca nombre	Tipo variación	Sexo	Año	Variaciones
 16	Valdejalón	Externa	Mujeres	2008	925
 16	Valdejalón	Interna	Hombres	2008	129
 16	Valdejalón	Interna	Mujeres	2008	114
-17	Central	Externa	Hombres	2008	14508
-17	Central	Externa	Mujeres	2008	12687
-17	Central	Interna	Hombres	2008	2481
-17	Central	Interna	Mujeres	2008	2438
+17	D.C. Zaragoza	Externa	Hombres	2008	14508
+17	D.C. Zaragoza	Externa	Mujeres	2008	12687
+17	D.C. Zaragoza	Interna	Hombres	2008	2481
+17	D.C. Zaragoza	Interna	Mujeres	2008	2438
 18	Ribera Baja del Ebro	Externa	Hombres	2008	176
 18	Ribera Baja del Ebro	Externa	Mujeres	2008	145
 18	Ribera Baja del Ebro	Interna	Hombres	2008	4

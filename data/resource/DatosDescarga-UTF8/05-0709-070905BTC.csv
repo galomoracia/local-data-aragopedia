@@ -1,72 +1,1138 @@
 Año	Nº Accidentes	División (2 dígitos) Código	División (2 dígitos) Descripción	Comarca Código	Comarca Nombre
-2008	2661	45	Construcción	17	Central
-2008	731	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	Central
-2008	633	29	Industria de la construción de maquinaria y equipo mecánico	17	Central
-2008	621	60	Transporte terrestre; transporte por tuberías	17	Central
-2008	471	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	Central
-2008	386	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	17	Central
-2008	351	75	Administración pública, defensa y seguridad social obligatoria	17	Central
-2008	319	34	Fabricación de vehículos de motor, remolques y semirremolques	15	Ribera Alta del Ebro
-2008	309	45	Construcción	06	Hoya de Huesca / Plana de Uesca
-2008	305	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	17	Central
-2008	237	55	Hostelería	17	Central
-2007	3143	45	Construcción	17	Central
-2007	943	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	Central
-2007	785	29	Industria de la construción de maquinaria y equipo mecánico	17	Central
-2007	678	60	Transporte terrestre; transporte por tuberías	17	Central
-2007	558	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	Central
-2007	446	45	Construcción	06	Hoya de Huesca / Plana de Uesca
-2007	367	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	17	Central
-2007	322	75	Administración pública, defensa y seguridad social obligatoria	17	Central
-2007	282	36	Fabricación de muebles; otras industrias manufactureras	17	Central
-2007	203	55	Hostelería	17	Central
-2006	2876	45	Construcción	17	Central
-2006	877	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	Central
-2006	815	29	Industria de la construción de maquinaria y equipo mecánico	17	Central
-2006	631	60	Transporte terrestre; transporte por tuberías	17	Central
-2006	577	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	Central
-2006	412	45	Construcción	06	Hoya de Huesca / Plana de Uesca
-2006	411	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	17	Central
-2006	303	75	Administración pública, defensa y seguridad social obligatoria	17	Central
-2006	208	15	Industria de productos alimenticios y bebidas	17	Central
-2006	197	55	Hostelería	17	Central
-2006	183	31	Fabricación de maquinaria y material eléctrico	17	Central
-2006	10	31	Fabricación de maquinaria y material eléctrico	12	Tarazona y el Moncayo
-2006	10	31	Fabricación de maquinaria y material eléctrico	20	Comunidad de Calatayud
-2006	8	31	Fabricación de maquinaria y material eléctrico	16	Valdejalón
-2006	4	31	Fabricación de maquinaria y material eléctrico	05	Cinco Villas
-2006	4	31	Fabricación de maquinaria y material eléctrico	08	Cinca Medio
-2005	2620	45	Construcción	17	Central
-2005	799	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	Central
-2005	758	29	Industria de la construción de maquinaria y equipo mecánico	17	Central
-2005	595	60	Transporte terrestre; transporte por tuberías	17	Central
-2005	545	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	Central
-2005	455	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	17	Central
-2005	372	45	Construcción	06	Hoya de Huesca / Plana de Uesca
-2005	286	75	Administración pública, defensa y seguridad social obligatoria	17	Central
-2005	272	36	Fabricación de muebles; otras industrias manufactureras	17	Central
-2005	172	45	Construcción	05	Cinco Villas
-2004	2432	45	Construcción	17	Central
-2004	822	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	Central
-2004	799	29	Industria de la construción de maquinaria y equipo mecánico	17	Central
-2004	615	60	Transporte terrestre; transporte por tuberías	17	Central
-2004	521	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	Central
-2004	377	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	17	Central
-2004	295	45	Construcción	06	Hoya de Huesca / Plana de Uesca
-2004	290	75	Administración pública, defensa y seguridad social obligatoria	17	Central
-2004	278	34	Fabricación de vehículos de motor, remolques y semirremolques	15	Ribera Alta del Ebro
-2004	214	74	Otras actividades empresariales	17	Central
-2004	193	55	Hostelería	17	Central
-2003	2447	45	Construcción	17	Central
-2003	819	29	Industria de la construción de maquinaria y equipo mecánico	17	Central
-2003	817	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	Central
-2003	606	60	Transporte terrestre; transporte por tuberías	17	Central
-2003	519	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	Central
-2003	388	45	Construcción	06	Hoya de Huesca / Plana de Uesca
-2003	297	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	17	Central
-2003	280	74	Otras actividades empresariales	17	Central
-2003	280	75	Administración pública, defensa y seguridad social obligatoria	17	Central
-2003	274	34	Fabricación de vehículos de motor, remolques y semirremolques	17	Central
-2003	229	15	Industria de productos alimenticios y bebidas	17	Central
-2003	162	45	Construcción	29	Comunidad de Teruel
-2003	156	45	Construcción	05	Cinco Villas
+2008,0	2661	45	Construcción	17	D.C. Zaragoza
+2008,0	731	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	D.C. Zaragoza
+2008,0	633	29	Industria de la construción de maquinaria y equipo mecánico	17	D.C. Zaragoza
+2008,0	621	60	Transporte terrestre; transporte por tuberías	17	D.C. Zaragoza
+2008,0	471	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	D.C. Zaragoza
+2008,0	319	34	Fabricación de vehículos de motor, remolques y semirremolques	15	Ribera Alta del Ebro
+2008,0	309	45	Construcción	06	Hoya de Huesca / Plana de Uesca
+2008,0	176	10	Extracción y aglomeración de antracita, hulla, lignito y turba	27	Andorra-Sierra de Arcos
+2008,0	173	45	Construcción	05	Cinco Villas
+2008,0	144	45	Construcción	15	Ribera Alta del Ebro
+2008,0	137	45	Construcción	20	Comunidad de Calatayud
+2008,0	135	45	Construcción	NC	Municipio del centro de trabajo fuera de Aragón
+2008,0	130	45	Construcción	29	Comunidad de Teruel
+2008,0	125	45	Construcción	08	Cinca Medio
+2008,0	115	45	Construcción	28	Bajo Aragón
+2008,0	112	34	Fabricación de vehículos de motor, remolques y semirremolques	26	Cuencas Mineras
+2008,0	104	45	Construcción	07	Somontano de Barbastro
+2008,0	99	45	Construcción	01	La Jacetania
+2008,0	94	45	Construcción	09	La Litera / La Llitera
+2008,0	94	45	Construcción	16	Valdejalón
+2008,0	92	45	Construcción	11	Bajo Cinca / Baix Cinca
+2008,0	84	45	Construcción	02	Alto Gállego
+2008,0	82	28	Fabricación de productos metálicos, excepto maquinaria y equipo	16	Valdejalón
+2008,0	80	45	Construcción	10	Los Monegros
+2008,0	68	45	Construcción	12	Tarazona y el Moncayo
+2008,0	67	45	Construcción	13	Campo de Borja
+2008,0	66	28	Fabricación de productos metálicos, excepto maquinaria y equipo	15	Ribera Alta del Ebro
+2008,0	63	45	Construcción	04	La Ribagorza
+2008,0	63	28	Fabricación de productos metálicos, excepto maquinaria y equipo	06	Hoya de Huesca / Plana de Uesca
+2008,0	62	29	Industria de la construción de maquinaria y equipo mecánico	16	Valdejalón
+2008,0	61	45	Construcción	27	Andorra-Sierra de Arcos
+2008,0	59	15	Industria de productos alimenticios y bebidas	09	La Litera / La Llitera
+2008,0	58	60	Transporte terrestre; transporte por tuberías	15	Ribera Alta del Ebro
+2008,0	57	63	Actividades anexas a los transportes; actividades de agencias de viajes	15	Ribera Alta del Ebro
+2008,0	54	34	Fabricación de vehículos de motor, remolques y semirremolques	16	Valdejalón
+2008,0	51	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	05	Cinco Villas
+2008,0	49	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	11	Bajo Cinca / Baix Cinca
+2008,0	49	26	Fabricación de otros productos minerales no metálicos	28	Bajo Aragón
+2008,0	48	26	Fabricación de otros productos minerales no metálicos	05	Cinco Villas
+2008,0	46	45	Construcción	03	Sobrarbe
+2008,0	46	29	Industria de la construción de maquinaria y equipo mecánico	08	Cinca Medio
+2008,0	46	45	Construcción	25	Jiloca
+2008,0	46	34	Fabricación de vehículos de motor, remolques y semirremolques	29	Comunidad de Teruel
+2008,0	44	29	Industria de la construción de maquinaria y equipo mecánico	06	Hoya de Huesca / Plana de Uesca
+2008,0	43	75	Administración pública, defensa y seguridad social obligatoria	06	Hoya de Huesca / Plana de Uesca
+2008,0	38	15	Industria de productos alimenticios y bebidas	25	Jiloca
+2008,0	37	26	Fabricación de otros productos minerales no metálicos	23	Bajo Martín
+2008,0	36	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	29	Comunidad de Teruel
+2008,0	35	26	Fabricación de otros productos minerales no metálicos	06	Hoya de Huesca / Plana de Uesca
+2008,0	35	28	Fabricación de productos metálicos, excepto maquinaria y equipo	08	Cinca Medio
+2008,0	35	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	16	Valdejalón
+2008,0	35	45	Construcción	18	Ribera Baja del Ebro
+2008,0	35	45	Construcción	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2008,0	34	15	Industria de productos alimenticios y bebidas	21	Campo de Cariñena
+2008,0	34	26	Fabricación de otros productos minerales no metálicos	29	Comunidad de Teruel
+2008,0	30	29	Industria de la construción de maquinaria y equipo mecánico	07	Somontano de Barbastro
+2008,0	30	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	13	Campo de Borja
+2008,0	29	15	Industria de productos alimenticios y bebidas	13	Campo de Borja
+2008,0	28	24	Industria química	08	Cinca Medio
+2008,0	28	14	Extracción de minerales no metálicos ni energéticos	20	Comunidad de Calatayud
+2008,0	27	29	Industria de la construción de maquinaria y equipo mecánico	05	Cinco Villas
+2008,0	27	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	09	La Litera / La Llitera
+2008,0	26	55	Hostelería	02	Alto Gállego
+2008,0	26	15	Industria de productos alimenticios y bebidas	07	Somontano de Barbastro
+2008,0	26	26	Fabricación de otros productos minerales no metálicos	08	Cinca Medio
+2008,0	26	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2008,0	26	45	Construcción	33	Matarraña / Matarranya
+2008,0	25	15	Industria de productos alimenticios y bebidas	05	Cinco Villas
+2008,0	25	60	Transporte terrestre; transporte por tuberías	05	Cinco Villas
+2008,0	25	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	07	Somontano de Barbastro
+2008,0	25	25	Fabricacion de productos de caucho y materias plasticas	13	Campo de Borja
+2008,0	25	45	Construcción	32	Gúdar-Javalambre
+2008,0	24	28	Fabricación de productos metálicos, excepto maquinaria y equipo	07	Somontano de Barbastro
+2008,0	24	28	Fabricación de productos metálicos, excepto maquinaria y equipo	20	Comunidad de Calatayud
+2008,0	24	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	21	Campo de Cariñena
+2008,0	23	28	Fabricación de productos metálicos, excepto maquinaria y equipo	11	Bajo Cinca / Baix Cinca
+2008,0	23	36	Fabricación de muebles; otras industrias manufactureras	21	Campo de Cariñena
+2008,0	23	75	Administración pública, defensa y seguridad social obligatoria	24	Campo de Daroca
+2008,0	23	28	Fabricación de productos metálicos, excepto maquinaria y equipo	28	Bajo Aragón
+2008,0	22	60	Transporte terrestre; transporte por tuberías	11	Bajo Cinca / Baix Cinca
+2008,0	22	75	Administración pública, defensa y seguridad social obligatoria	29	Comunidad de Teruel
+2008,0	21	60	Transporte terrestre; transporte por tuberías	01	La Jacetania
+2008,0	21	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	20	Comunidad de Calatayud
+2008,0	19	92	Actividades recreativas, culturales y deportivas	04	La Ribagorza
+2008,0	19	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	10	Los Monegros
+2008,0	19	34	Fabricación de vehículos de motor, remolques y semirremolques	13	Campo de Borja
+2008,0	19	15	Industria de productos alimenticios y bebidas	20	Comunidad de Calatayud
+2008,0	19	60	Transporte terrestre; transporte por tuberías	28	Bajo Aragón
+2008,0	18	75	Administración pública, defensa y seguridad social obligatoria	01	La Jacetania
+2008,0	18	45	Construcción	14	Aranda
+2008,0	17	60	Transporte terrestre; transporte por tuberías	09	La Litera / La Llitera
+2008,0	17	45	Construcción	23	Bajo Martín
+2008,0	17	60	Transporte terrestre; transporte por tuberías	27	Andorra-Sierra de Arcos
+2008,0	17	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	28	Bajo Aragón
+2008,0	16	29	Industria de la construción de maquinaria y equipo mecánico	11	Bajo Cinca / Baix Cinca
+2008,0	16	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	12	Tarazona y el Moncayo
+2008,0	16	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2008,0	16	27	Metalurgia	25	Jiloca
+2008,0	16	26	Fabricación de otros productos minerales no metálicos	27	Andorra-Sierra de Arcos
+2008,0	16	28	Fabricación de productos metálicos, excepto maquinaria y equipo	NC	Municipio del centro de trabajo fuera de Aragón
+2008,0	15	28	Fabricación de productos metálicos, excepto maquinaria y equipo	09	La Litera / La Llitera
+2008,0	15	29	Industria de la construción de maquinaria y equipo mecánico	09	La Litera / La Llitera
+2008,0	15	71	Alquiler de maquinaria y equipo sin operario, de efectos personales y enseres domesticos	09	La Litera / La Llitera
+2008,0	15	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	21	Campo de Cariñena
+2008,0	14	92	Actividades recreativas, culturales y deportivas	02	Alto Gállego
+2008,0	14	75	Administración pública, defensa y seguridad social obligatoria	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2008,0	14	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	25	Jiloca
+2008,0	14	45	Construcción	31	Sierra de Albarracín
+2008,0	14	15	Industria de productos alimenticios y bebidas	33	Matarraña / Matarranya
+2008,0	13	31	Fabricación de maquinaria y material eléctrico	12	Tarazona y el Moncayo
+2008,0	13	45	Construcción	21	Campo de Cariñena
+2008,0	13	60	Transporte terrestre; transporte por tuberías	23	Bajo Martín
+2008,0	13	29	Industria de la construción de maquinaria y equipo mecánico	NC	Municipio del centro de trabajo fuera de Aragón
+2008,0	12	55	Hostelería	04	La Ribagorza
+2008,0	12	15	Industria de productos alimenticios y bebidas	10	Los Monegros
+2008,0	12	28	Fabricación de productos metálicos, excepto maquinaria y equipo	12	Tarazona y el Moncayo
+2008,0	12	28	Fabricación de productos metálicos, excepto maquinaria y equipo	26	Cuencas Mineras
+2008,0	12	45	Construcción	26	Cuencas Mineras
+2008,0	12	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2008,0	11	55	Hostelería	01	La Jacetania
+2008,0	11	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	12	Tarazona y el Moncayo
+2008,0	11	75	Administración pública, defensa y seguridad social obligatoria	12	Tarazona y el Moncayo
+2008,0	11	19	Preparación curtido y acabado del cuero; fabricación de artículos de marroquinería y viaje; artículos de guarnicionería talabartería y zapatería	14	Aranda
+2008,0	11	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	18	Ribera Baja del Ebro
+2008,0	11	28	Fabricación de productos metálicos, excepto maquinaria y equipo	18	Ribera Baja del Ebro
+2008,0	11	26	Fabricación de otros productos minerales no metálicos	25	Jiloca
+2008,0	10	45	Construcción	30	Maestrazgo
+2008,0	9	28	Fabricación de productos metálicos, excepto maquinaria y equipo	02	Alto Gállego
+2008,0	9	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	04	La Ribagorza
+2008,0	9	29	Industria de la construción de maquinaria y equipo mecánico	10	Los Monegros
+2008,0	9	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	10	Los Monegros
+2008,0	9	24	Industria química	26	Cuencas Mineras
+2008,0	9	75	Administración pública, defensa y seguridad social obligatoria	26	Cuencas Mineras
+2008,0	8	55	Hostelería	03	Sobrarbe
+2008,0	8	75	Administración pública, defensa y seguridad social obligatoria	04	La Ribagorza
+2008,0	8	29	Industria de la construción de maquinaria y equipo mecánico	18	Ribera Baja del Ebro
+2008,0	8	15	Industria de productos alimenticios y bebidas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2008,0	8	15	Industria de productos alimenticios y bebidas	32	Gúdar-Javalambre
+2008,0	7	92	Actividades recreativas, culturales y deportivas	01	La Jacetania
+2008,0	7	26	Fabricación de otros productos minerales no metálicos	18	Ribera Baja del Ebro
+2008,0	7	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	23	Bajo Martín
+2008,0	7	45	Construcción	24	Campo de Daroca
+2008,0	7	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	31	Sierra de Albarracín
+2008,0	7	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	32	Gúdar-Javalambre
+2008,0	7	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	NC	Municipio del centro de trabajo fuera de Aragón
+2008,0	6	60	Transporte terrestre; transporte por tuberías	02	Alto Gállego
+2008,0	6	71	Alquiler de maquinaria y equipo sin operario, de efectos personales y enseres domesticos	02	Alto Gállego
+2008,0	6	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	32	Gúdar-Javalambre
+2008,0	6	75	Administración pública, defensa y seguridad social obligatoria	32	Gúdar-Javalambre
+2008,0	6	92	Actividades recreativas, culturales y deportivas	32	Gúdar-Javalambre
+2008,0	6	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2008,0	6	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	NC	Municipio del centro de trabajo fuera de Aragón
+2008,0	5	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	22	Campo de Belchite
+2008,0	5	60	Transporte terrestre; transporte por tuberías	22	Campo de Belchite
+2008,0	5	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	24	Campo de Daroca
+2008,0	5	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	30	Maestrazgo
+2008,0	5	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	33	Matarraña / Matarranya
+2008,0	4	75	Administración pública, defensa y seguridad social obligatoria	03	Sobrarbe
+2008,0	4	13	Extracción de minerales metálicos	14	Aranda
+2008,0	4	28	Fabricación de productos metálicos, excepto maquinaria y equipo	14	Aranda
+2008,0	4	26	Fabricación de otros productos minerales no metálicos	22	Campo de Belchite
+2008,0	4	45	Construcción	22	Campo de Belchite
+2008,0	4	27	Metalurgia	23	Bajo Martín
+2008,0	4	28	Fabricación de productos metálicos, excepto maquinaria y equipo	23	Bajo Martín
+2008,0	4	15	Industria de productos alimenticios y bebidas	24	Campo de Daroca
+2008,0	4	14	Extracción de minerales no metálicos ni energéticos	27	Andorra-Sierra de Arcos
+2008,0	3	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	03	Sobrarbe
+2008,0	3	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	14	Aranda
+2008,0	3	75	Administración pública, defensa y seguridad social obligatoria	14	Aranda
+2008,0	3	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2008,0	2	14	Extracción de minerales no metálicos ni energéticos	03	Sobrarbe
+2008,0	2	15	Industria de productos alimenticios y bebidas	03	Sobrarbe
+2008,0	2	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	03	Sobrarbe
+2008,0	2	63	Actividades anexas a los transportes; actividades de agencias de viajes	03	Sobrarbe
+2008,0	2	14	Extracción de minerales no metálicos ni energéticos	22	Campo de Belchite
+2008,0	2	31	Fabricación de maquinaria y material eléctrico	22	Campo de Belchite
+2008,0	2	15	Industria de productos alimenticios y bebidas	30	Maestrazgo
+2008,0	2	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2008,0	2	60	Transporte terrestre; transporte por tuberías	31	Sierra de Albarracín
+2008,0	1	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	24	Campo de Daroca
+2008,0	1	27	Metalurgia	24	Campo de Daroca
+2008,0	1	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	24	Campo de Daroca
+2008,0	1	60	Transporte terrestre; transporte por tuberías	24	Campo de Daroca
+2008,0	1	74	Otras actividades empresariales	24	Campo de Daroca
+2008,0	1	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2008,0	1	14	Extracción de minerales no metálicos ni energéticos	30	Maestrazgo
+2008,0	1	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	30	Maestrazgo
+2008,0	1	55	Hostelería	30	Maestrazgo
+2008,0	1	75	Administración pública, defensa y seguridad social obligatoria	30	Maestrazgo
+2008,0	1	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2008,0	1	36	Fabricación de muebles; otras industrias manufactureras	31	Sierra de Albarracín
+2008,0	1	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	31	Sierra de Albarracín
+2008,0	1	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	31	Sierra de Albarracín
+2008,0	1	55	Hostelería	31	Sierra de Albarracín
+2007,0	3143	45	Construcción	17	D.C. Zaragoza
+2007,0	943	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	D.C. Zaragoza
+2007,0	785	29	Industria de la construción de maquinaria y equipo mecánico	17	D.C. Zaragoza
+2007,0	678	60	Transporte terrestre; transporte por tuberías	17	D.C. Zaragoza
+2007,0	558	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	D.C. Zaragoza
+2007,0	446	45	Construcción	06	Hoya de Huesca / Plana de Uesca
+2007,0	357	34	Fabricación de vehículos de motor, remolques y semirremolques	15	Ribera Alta del Ebro
+2007,0	185	45	Construcción	05	Cinco Villas
+2007,0	183	45	Construcción	15	Ribera Alta del Ebro
+2007,0	175	10	Extracción y aglomeración de antracita, hulla, lignito y turba	27	Andorra-Sierra de Arcos
+2007,0	155	45	Construcción	NC	Municipio del centro de trabajo fuera de Aragón
+2007,0	143	45	Construcción	08	Cinca Medio
+2007,0	140	45	Construcción	20	Comunidad de Calatayud
+2007,0	139	45	Construcción	02	Alto Gállego
+2007,0	137	45	Construcción	28	Bajo Aragón
+2007,0	136	45	Construcción	29	Comunidad de Teruel
+2007,0	132	45	Construcción	16	Valdejalón
+2007,0	128	45	Construcción	07	Somontano de Barbastro
+2007,0	122	45	Construcción	11	Bajo Cinca / Baix Cinca
+2007,0	103	45	Construcción	09	La Litera / La Llitera
+2007,0	94	45	Construcción	10	Los Monegros
+2007,0	92	28	Fabricación de productos metálicos, excepto maquinaria y equipo	15	Ribera Alta del Ebro
+2007,0	91	45	Construcción	01	La Jacetania
+2007,0	84	34	Fabricación de vehículos de motor, remolques y semirremolques	16	Valdejalón
+2007,0	81	28	Fabricación de productos metálicos, excepto maquinaria y equipo	06	Hoya de Huesca / Plana de Uesca
+2007,0	71	45	Construcción	13	Campo de Borja
+2007,0	69	28	Fabricación de productos metálicos, excepto maquinaria y equipo	16	Valdejalón
+2007,0	66	45	Construcción	12	Tarazona y el Moncayo
+2007,0	63	15	Industria de productos alimenticios y bebidas	09	La Litera / La Llitera
+2007,0	62	45	Construcción	04	La Ribagorza
+2007,0	60	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	05	Cinco Villas
+2007,0	60	45	Construcción	27	Andorra-Sierra de Arcos
+2007,0	57	26	Fabricación de otros productos minerales no metálicos	28	Bajo Aragón
+2007,0	56	34	Fabricación de vehículos de motor, remolques y semirremolques	26	Cuencas Mineras
+2007,0	55	60	Transporte terrestre; transporte por tuberías	06	Hoya de Huesca / Plana de Uesca
+2007,0	54	26	Fabricación de otros productos minerales no metálicos	05	Cinco Villas
+2007,0	54	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	06	Hoya de Huesca / Plana de Uesca
+2007,0	51	29	Industria de la construción de maquinaria y equipo mecánico	06	Hoya de Huesca / Plana de Uesca
+2007,0	51	63	Actividades anexas a los transportes; actividades de agencias de viajes	15	Ribera Alta del Ebro
+2007,0	50	28	Fabricación de productos metálicos, excepto maquinaria y equipo	08	Cinca Medio
+2007,0	50	45	Construcción	25	Jiloca
+2007,0	49	45	Construcción	18	Ribera Baja del Ebro
+2007,0	49	45	Construcción	32	Gúdar-Javalambre
+2007,0	48	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2007,0	47	60	Transporte terrestre; transporte por tuberías	16	Valdejalón
+2007,0	45	60	Transporte terrestre; transporte por tuberías	15	Ribera Alta del Ebro
+2007,0	44	15	Industria de productos alimenticios y bebidas	21	Campo de Cariñena
+2007,0	44	45	Construcción	23	Bajo Martín
+2007,0	42	45	Construcción	03	Sobrarbe
+2007,0	42	29	Industria de la construción de maquinaria y equipo mecánico	16	Valdejalón
+2007,0	42	45	Construcción	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2007,0	41	45	Construcción	21	Campo de Cariñena
+2007,0	41	60	Transporte terrestre; transporte por tuberías	23	Bajo Martín
+2007,0	41	75	Administración pública, defensa y seguridad social obligatoria	29	Comunidad de Teruel
+2007,0	39	29	Industria de la construción de maquinaria y equipo mecánico	08	Cinca Medio
+2007,0	38	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	29	Comunidad de Teruel
+2007,0	35	15	Industria de productos alimenticios y bebidas	05	Cinco Villas
+2007,0	34	29	Industria de la construción de maquinaria y equipo mecánico	05	Cinco Villas
+2007,0	33	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	11	Bajo Cinca / Baix Cinca
+2007,0	33	34	Fabricación de vehículos de motor, remolques y semirremolques	29	Comunidad de Teruel
+2007,0	33	60	Transporte terrestre; transporte por tuberías	29	Comunidad de Teruel
+2007,0	32	28	Fabricación de productos metálicos, excepto maquinaria y equipo	11	Bajo Cinca / Baix Cinca
+2007,0	32	36	Fabricación de muebles; otras industrias manufactureras	21	Campo de Cariñena
+2007,0	31	28	Fabricación de productos metálicos, excepto maquinaria y equipo	13	Campo de Borja
+2007,0	31	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	20	Comunidad de Calatayud
+2007,0	28	26	Fabricación de otros productos minerales no metálicos	23	Bajo Martín
+2007,0	28	28	Fabricación de productos metálicos, excepto maquinaria y equipo	28	Bajo Aragón
+2007,0	27	15	Industria de productos alimenticios y bebidas	07	Somontano de Barbastro
+2007,0	27	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	13	Campo de Borja
+2007,0	27	75	Administración pública, defensa y seguridad social obligatoria	20	Comunidad de Calatayud
+2007,0	27	15	Industria de productos alimenticios y bebidas	25	Jiloca
+2007,0	26	26	Fabricación de otros productos minerales no metálicos	08	Cinca Medio
+2007,0	26	34	Fabricación de vehículos de motor, remolques y semirremolques	13	Campo de Borja
+2007,0	26	60	Transporte terrestre; transporte por tuberías	20	Comunidad de Calatayud
+2007,0	25	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	20	Comunidad de Calatayud
+2007,0	25	28	Fabricación de productos metálicos, excepto maquinaria y equipo	26	Cuencas Mineras
+2007,0	24	60	Transporte terrestre; transporte por tuberías	08	Cinca Medio
+2007,0	24	71	Alquiler de maquinaria y equipo sin operario, de efectos personales y enseres domesticos	09	La Litera / La Llitera
+2007,0	24	15	Industria de productos alimenticios y bebidas	13	Campo de Borja
+2007,0	24	25	Fabricacion de productos de caucho y materias plasticas	13	Campo de Borja
+2007,0	23	28	Fabricación de productos metálicos, excepto maquinaria y equipo	07	Somontano de Barbastro
+2007,0	23	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	10	Los Monegros
+2007,0	23	15	Industria de productos alimenticios y bebidas	11	Bajo Cinca / Baix Cinca
+2007,0	23	29	Industria de la construción de maquinaria y equipo mecánico	11	Bajo Cinca / Baix Cinca
+2007,0	23	60	Transporte terrestre; transporte por tuberías	11	Bajo Cinca / Baix Cinca
+2007,0	22	60	Transporte terrestre; transporte por tuberías	01	La Jacetania
+2007,0	22	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	07	Somontano de Barbastro
+2007,0	22	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	09	La Litera / La Llitera
+2007,0	22	28	Fabricación de productos metálicos, excepto maquinaria y equipo	09	La Litera / La Llitera
+2007,0	21	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	07	Somontano de Barbastro
+2007,0	21	60	Transporte terrestre; transporte por tuberías	28	Bajo Aragón
+2007,0	21	45	Construcción	33	Matarraña / Matarranya
+2007,0	20	27	Metalurgia	25	Jiloca
+2007,0	20	60	Transporte terrestre; transporte por tuberías	27	Andorra-Sierra de Arcos
+2007,0	20	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	28	Bajo Aragón
+2007,0	20	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	28	Bajo Aragón
+2007,0	18	60	Transporte terrestre; transporte por tuberías	02	Alto Gállego
+2007,0	18	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	12	Tarazona y el Moncayo
+2007,0	18	19	Preparación curtido y acabado del cuero; fabricación de artículos de marroquinería y viaje; artículos de guarnicionería talabartería y zapatería	14	Aranda
+2007,0	18	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	21	Campo de Cariñena
+2007,0	16	15	Industria de productos alimenticios y bebidas	10	Los Monegros
+2007,0	16	28	Fabricación de productos metálicos, excepto maquinaria y equipo	18	Ribera Baja del Ebro
+2007,0	15	55	Hostelería	02	Alto Gállego
+2007,0	15	45	Construcción	26	Cuencas Mineras
+2007,0	15	26	Fabricación de otros productos minerales no metálicos	27	Andorra-Sierra de Arcos
+2007,0	14	28	Fabricación de productos metálicos, excepto maquinaria y equipo	12	Tarazona y el Moncayo
+2007,0	14	34	Fabricación de vehículos de motor, remolques y semirremolques	12	Tarazona y el Moncayo
+2007,0	14	15	Industria de productos alimenticios y bebidas	33	Matarraña / Matarranya
+2007,0	13	45	Construcción	14	Aranda
+2007,0	12	60	Transporte terrestre; transporte por tuberías	04	La Ribagorza
+2007,0	12	28	Fabricación de productos metálicos, excepto maquinaria y equipo	10	Los Monegros
+2007,0	12	45	Construcción	31	Sierra de Albarracín
+2007,0	12	28	Fabricación de productos metálicos, excepto maquinaria y equipo	NC	Municipio del centro de trabajo fuera de Aragón
+2007,0	12	60	Transporte terrestre; transporte por tuberías	NC	Municipio del centro de trabajo fuera de Aragón
+2007,0	11	75	Administración pública, defensa y seguridad social obligatoria	12	Tarazona y el Moncayo
+2007,0	11	24	Industria química	18	Ribera Baja del Ebro
+2007,0	11	26	Fabricación de otros productos minerales no metálicos	21	Campo de Cariñena
+2007,0	11	45	Construcción	24	Campo de Daroca
+2007,0	11	75	Administración pública, defensa y seguridad social obligatoria	24	Campo de Daroca
+2007,0	11	24	Industria química	26	Cuencas Mineras
+2007,0	11	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2007,0	10	55	Hostelería	01	La Jacetania
+2007,0	10	75	Administración pública, defensa y seguridad social obligatoria	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2007,0	10	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	25	Jiloca
+2007,0	10	27	Metalurgia	26	Cuencas Mineras
+2007,0	10	75	Administración pública, defensa y seguridad social obligatoria	26	Cuencas Mineras
+2007,0	10	45	Construcción	30	Maestrazgo
+2007,0	9	75	Administración pública, defensa y seguridad social obligatoria	01	La Jacetania
+2007,0	9	14	Extracción de minerales no metálicos ni energéticos	04	La Ribagorza
+2007,0	9	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	23	Bajo Martín
+2007,0	9	15	Industria de productos alimenticios y bebidas	32	Gúdar-Javalambre
+2007,0	9	15	Industria de productos alimenticios y bebidas	NC	Municipio del centro de trabajo fuera de Aragón
+2007,0	8	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	01	La Jacetania
+2007,0	8	92	Actividades recreativas, culturales y deportivas	04	La Ribagorza
+2007,0	8	34	Fabricación de vehículos de motor, remolques y semirremolques	10	Los Monegros
+2007,0	8	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	18	Ribera Baja del Ebro
+2007,0	8	45	Construcción	22	Campo de Belchite
+2007,0	8	14	Extracción de minerales no metálicos ni energéticos	25	Jiloca
+2007,0	8	21	Industria del papel	27	Andorra-Sierra de Arcos
+2007,0	7	28	Fabricación de productos metálicos, excepto maquinaria y equipo	02	Alto Gállego
+2007,0	7	92	Actividades recreativas, culturales y deportivas	02	Alto Gállego
+2007,0	7	75	Administración pública, defensa y seguridad social obligatoria	04	La Ribagorza
+2007,0	6	26	Fabricación de otros productos minerales no metálicos	18	Ribera Baja del Ebro
+2007,0	6	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	18	Ribera Baja del Ebro
+2007,0	6	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2007,0	6	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	24	Campo de Daroca
+2007,0	6	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	24	Campo de Daroca
+2007,0	6	34	Fabricación de vehículos de motor, remolques y semirremolques	24	Campo de Daroca
+2007,0	6	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	NC	Municipio del centro de trabajo fuera de Aragón
+2007,0	6	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	NC	Municipio del centro de trabajo fuera de Aragón
+2007,0	6	63	Actividades anexas a los transportes; actividades de agencias de viajes	NC	Municipio del centro de trabajo fuera de Aragón
+2007,0	6	85	Actividades sanitarias y veterinarias, servicio social	NC	Municipio del centro de trabajo fuera de Aragón
+2007,0	5	75	Administración pública, defensa y seguridad social obligatoria	14	Aranda
+2007,0	5	60	Transporte terrestre; transporte por tuberías	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2007,0	4	55	Hostelería	03	Sobrarbe
+2007,0	4	75	Administración pública, defensa y seguridad social obligatoria	03	Sobrarbe
+2007,0	4	28	Fabricación de productos metálicos, excepto maquinaria y equipo	14	Aranda
+2007,0	4	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	14	Aranda
+2007,0	4	60	Transporte terrestre; transporte por tuberías	14	Aranda
+2007,0	4	31	Fabricación de maquinaria y material eléctrico	22	Campo de Belchite
+2007,0	4	24	Industria química	23	Bajo Martín
+2007,0	4	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	23	Bajo Martín
+2007,0	4	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2007,0	4	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	31	Sierra de Albarracín
+2007,0	4	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	32	Gúdar-Javalambre
+2007,0	4	75	Administración pública, defensa y seguridad social obligatoria	32	Gúdar-Javalambre
+2007,0	4	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	33	Matarraña / Matarranya
+2007,0	4	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	33	Matarraña / Matarranya
+2007,0	3	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	03	Sobrarbe
+2007,0	3	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	03	Sobrarbe
+2007,0	3	26	Fabricación de otros productos minerales no metálicos	22	Campo de Belchite
+2007,0	3	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2007,0	3	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2007,0	3	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	32	Gúdar-Javalambre
+2007,0	3	55	Hostelería	32	Gúdar-Javalambre
+2007,0	2	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	22	Campo de Belchite
+2007,0	2	34	Fabricación de vehículos de motor, remolques y semirremolques	22	Campo de Belchite
+2007,0	2	14	Extracción de minerales no metálicos ni energéticos	30	Maestrazgo
+2007,0	2	60	Transporte terrestre; transporte por tuberías	30	Maestrazgo
+2007,0	2	75	Administración pública, defensa y seguridad social obligatoria	30	Maestrazgo
+2007,0	1	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2007,0	1	36	Fabricación de muebles; otras industrias manufactureras	31	Sierra de Albarracín
+2007,0	1	55	Hostelería	31	Sierra de Albarracín
+2007,0	1	75	Administración pública, defensa y seguridad social obligatoria	31	Sierra de Albarracín
+2007,0	1	80	Educación	31	Sierra de Albarracín
+2006,0	2876	45	Construcción	17	D.C. Zaragoza
+2006,0	877	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	D.C. Zaragoza
+2006,0	815	29	Industria de la construción de maquinaria y equipo mecánico	17	D.C. Zaragoza
+2006,0	631	60	Transporte terrestre; transporte por tuberías	17	D.C. Zaragoza
+2006,0	577	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	D.C. Zaragoza
+2006,0	412	45	Construcción	06	Hoya de Huesca / Plana de Uesca
+2006,0	267	34	Fabricación de vehículos de motor, remolques y semirremolques	15	Ribera Alta del Ebro
+2006,0	189	45	Construcción	05	Cinco Villas
+2006,0	146	10	Extracción y aglomeración de antracita, hulla, lignito y turba	27	Andorra-Sierra de Arcos
+2006,0	144	45	Construcción	08	Cinca Medio
+2006,0	136	45	Construcción	15	Ribera Alta del Ebro
+2006,0	132	45	Construcción	02	Alto Gállego
+2006,0	132	45	Construcción	29	Comunidad de Teruel
+2006,0	132	45	Construcción	NC	Municipio del centro de trabajo fuera de Aragón
+2006,0	126	45	Construcción	01	La Jacetania
+2006,0	125	45	Construcción	16	Valdejalón
+2006,0	120	45	Construcción	28	Bajo Aragón
+2006,0	105	45	Construcción	07	Somontano de Barbastro
+2006,0	104	45	Construcción	11	Bajo Cinca / Baix Cinca
+2006,0	89	28	Fabricación de productos metálicos, excepto maquinaria y equipo	06	Hoya de Huesca / Plana de Uesca
+2006,0	87	28	Fabricación de productos metálicos, excepto maquinaria y equipo	15	Ribera Alta del Ebro
+2006,0	86	34	Fabricación de vehículos de motor, remolques y semirremolques	16	Valdejalón
+2006,0	85	45	Construcción	20	Comunidad de Calatayud
+2006,0	78	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	05	Cinco Villas
+2006,0	74	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	16	Valdejalón
+2006,0	69	45	Construcción	09	La Litera / La Llitera
+2006,0	66	28	Fabricación de productos metálicos, excepto maquinaria y equipo	16	Valdejalón
+2006,0	62	15	Industria de productos alimenticios y bebidas	09	La Litera / La Llitera
+2006,0	62	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	13	Campo de Borja
+2006,0	62	45	Construcción	21	Campo de Cariñena
+2006,0	59	45	Construcción	12	Tarazona y el Moncayo
+2006,0	58	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	11	Bajo Cinca / Baix Cinca
+2006,0	57	45	Construcción	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2006,0	56	45	Construcción	04	La Ribagorza
+2006,0	56	60	Transporte terrestre; transporte por tuberías	15	Ribera Alta del Ebro
+2006,0	55	45	Construcción	10	Los Monegros
+2006,0	53	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	06	Hoya de Huesca / Plana de Uesca
+2006,0	51	29	Industria de la construción de maquinaria y equipo mecánico	06	Hoya de Huesca / Plana de Uesca
+2006,0	51	45	Construcción	27	Andorra-Sierra de Arcos
+2006,0	50	45	Construcción	13	Campo de Borja
+2006,0	49	26	Fabricación de otros productos minerales no metálicos	05	Cinco Villas
+2006,0	49	60	Transporte terrestre; transporte por tuberías	06	Hoya de Huesca / Plana de Uesca
+2006,0	46	26	Fabricación de otros productos minerales no metálicos	28	Bajo Aragón
+2006,0	44	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	29	Comunidad de Teruel
+2006,0	43	25	Fabricacion de productos de caucho y materias plasticas	16	Valdejalón
+2006,0	42	45	Construcción	32	Gúdar-Javalambre
+2006,0	41	29	Industria de la construción de maquinaria y equipo mecánico	05	Cinco Villas
+2006,0	41	28	Fabricación de productos metálicos, excepto maquinaria y equipo	08	Cinca Medio
+2006,0	41	28	Fabricación de productos metálicos, excepto maquinaria y equipo	11	Bajo Cinca / Baix Cinca
+2006,0	40	45	Construcción	25	Jiloca
+2006,0	39	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2006,0	36	45	Construcción	18	Ribera Baja del Ebro
+2006,0	35	63	Actividades anexas a los transportes; actividades de agencias de viajes	15	Ribera Alta del Ebro
+2006,0	33	29	Industria de la construción de maquinaria y equipo mecánico	07	Somontano de Barbastro
+2006,0	33	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	20	Comunidad de Calatayud
+2006,0	33	36	Fabricación de muebles; otras industrias manufactureras	21	Campo de Cariñena
+2006,0	33	28	Fabricación de productos metálicos, excepto maquinaria y equipo	26	Cuencas Mineras
+2006,0	33	34	Fabricación de vehículos de motor, remolques y semirremolques	26	Cuencas Mineras
+2006,0	31	15	Industria de productos alimenticios y bebidas	11	Bajo Cinca / Baix Cinca
+2006,0	31	15	Industria de productos alimenticios y bebidas	21	Campo de Cariñena
+2006,0	31	34	Fabricación de vehículos de motor, remolques y semirremolques	29	Comunidad de Teruel
+2006,0	30	60	Transporte terrestre; transporte por tuberías	01	La Jacetania
+2006,0	30	60	Transporte terrestre; transporte por tuberías	08	Cinca Medio
+2006,0	30	75	Administración pública, defensa y seguridad social obligatoria	20	Comunidad de Calatayud
+2006,0	28	45	Construcción	03	Sobrarbe
+2006,0	28	24	Industria química	08	Cinca Medio
+2006,0	28	29	Industria de la construción de maquinaria y equipo mecánico	08	Cinca Medio
+2006,0	27	15	Industria de productos alimenticios y bebidas	05	Cinco Villas
+2006,0	27	15	Industria de productos alimenticios y bebidas	13	Campo de Borja
+2006,0	27	45	Construcción	23	Bajo Martín
+2006,0	27	75	Administración pública, defensa y seguridad social obligatoria	29	Comunidad de Teruel
+2006,0	26	15	Industria de productos alimenticios y bebidas	25	Jiloca
+2006,0	26	45	Construcción	33	Matarraña / Matarranya
+2006,0	25	19	Preparación curtido y acabado del cuero; fabricación de artículos de marroquinería y viaje; artículos de guarnicionería talabartería y zapatería	07	Somontano de Barbastro
+2006,0	25	25	Fabricacion de productos de caucho y materias plasticas	13	Campo de Borja
+2006,0	25	25	Fabricacion de productos de caucho y materias plasticas	28	Bajo Aragón
+2006,0	24	60	Transporte terrestre; transporte por tuberías	02	Alto Gállego
+2006,0	24	45	Construcción	14	Aranda
+2006,0	24	26	Fabricación de otros productos minerales no metálicos	23	Bajo Martín
+2006,0	24	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	28	Bajo Aragón
+2006,0	23	71	Alquiler de maquinaria y equipo sin operario, de efectos personales y enseres domesticos	09	La Litera / La Llitera
+2006,0	23	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	21	Campo de Cariñena
+2006,0	23	60	Transporte terrestre; transporte por tuberías	27	Andorra-Sierra de Arcos
+2006,0	23	28	Fabricación de productos metálicos, excepto maquinaria y equipo	NC	Municipio del centro de trabajo fuera de Aragón
+2006,0	22	15	Industria de productos alimenticios y bebidas	07	Somontano de Barbastro
+2006,0	22	60	Transporte terrestre; transporte por tuberías	11	Bajo Cinca / Baix Cinca
+2006,0	22	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	20	Comunidad de Calatayud
+2006,0	22	60	Transporte terrestre; transporte por tuberías	20	Comunidad de Calatayud
+2006,0	22	27	Metalurgia	25	Jiloca
+2006,0	22	45	Construcción	26	Cuencas Mineras
+2006,0	21	28	Fabricación de productos metálicos, excepto maquinaria y equipo	13	Campo de Borja
+2006,0	21	60	Transporte terrestre; transporte por tuberías	23	Bajo Martín
+2006,0	21	15	Industria de productos alimenticios y bebidas	33	Matarraña / Matarranya
+2006,0	20	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	09	La Litera / La Llitera
+2006,0	20	28	Fabricación de productos metálicos, excepto maquinaria y equipo	09	La Litera / La Llitera
+2006,0	19	75	Administración pública, defensa y seguridad social obligatoria	01	La Jacetania
+2006,0	19	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	10	Los Monegros
+2006,0	19	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	12	Tarazona y el Moncayo
+2006,0	19	28	Fabricación de productos metálicos, excepto maquinaria y equipo	18	Ribera Baja del Ebro
+2006,0	19	15	Industria de productos alimenticios y bebidas	29	Comunidad de Teruel
+2006,0	19	60	Transporte terrestre; transporte por tuberías	29	Comunidad de Teruel
+2006,0	18	14	Extracción de minerales no metálicos ni energéticos	28	Bajo Aragón
+2006,0	17	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	07	Somontano de Barbastro
+2006,0	17	26	Fabricación de otros productos minerales no metálicos	21	Campo de Cariñena
+2006,0	17	26	Fabricación de otros productos minerales no metálicos	27	Andorra-Sierra de Arcos
+2006,0	15	55	Hostelería	02	Alto Gállego
+2006,0	15	28	Fabricación de productos metálicos, excepto maquinaria y equipo	12	Tarazona y el Moncayo
+2006,0	15	45	Construcción	22	Campo de Belchite
+2006,0	14	74	Otras actividades empresariales	NC	Municipio del centro de trabajo fuera de Aragón
+2006,0	13	75	Administración pública, defensa y seguridad social obligatoria	04	La Ribagorza
+2006,0	13	35	Fabricación de otro material de transporte	12	Tarazona y el Moncayo
+2006,0	13	60	Transporte terrestre; transporte por tuberías	12	Tarazona y el Moncayo
+2006,0	12	75	Administración pública, defensa y seguridad social obligatoria	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2006,0	12	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	25	Jiloca
+2006,0	12	24	Industria química	26	Cuencas Mineras
+2006,0	12	45	Construcción	31	Sierra de Albarracín
+2006,0	11	24	Industria química	18	Ribera Baja del Ebro
+2006,0	11	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	32	Gúdar-Javalambre
+2006,0	11	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	NC	Municipio del centro de trabajo fuera de Aragón
+2006,0	10	55	Hostelería	01	La Jacetania
+2006,0	10	34	Fabricación de vehículos de motor, remolques y semirremolques	10	Los Monegros
+2006,0	10	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	10	Los Monegros
+2006,0	10	19	Preparación curtido y acabado del cuero; fabricación de artículos de marroquinería y viaje; artículos de guarnicionería talabartería y zapatería	14	Aranda
+2006,0	10	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	18	Ribera Baja del Ebro
+2006,0	10	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2006,0	10	45	Construcción	24	Campo de Daroca
+2006,0	9	60	Transporte terrestre; transporte por tuberías	04	La Ribagorza
+2006,0	9	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	18	Ribera Baja del Ebro
+2006,0	9	15	Industria de productos alimenticios y bebidas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2006,0	9	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2006,0	9	29	Industria de la construción de maquinaria y equipo mecánico	NC	Municipio del centro de trabajo fuera de Aragón
+2006,0	9	70	Actividades inmobiliarias	NC	Municipio del centro de trabajo fuera de Aragón
+2006,0	8	24	Industria química	02	Alto Gállego
+2006,0	8	93	Actividades diversas de servicios personales	02	Alto Gállego
+2006,0	8	55	Hostelería	03	Sobrarbe
+2006,0	8	75	Administración pública, defensa y seguridad social obligatoria	10	Los Monegros
+2006,0	8	75	Administración pública, defensa y seguridad social obligatoria	24	Campo de Daroca
+2006,0	8	14	Extracción de minerales no metálicos ni energéticos	25	Jiloca
+2006,0	8	26	Fabricación de otros productos minerales no metálicos	25	Jiloca
+2006,0	7	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	01	La Jacetania
+2006,0	7	14	Extracción de minerales no metálicos ni energéticos	04	La Ribagorza
+2006,0	7	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	04	La Ribagorza
+2006,0	7	75	Administración pública, defensa y seguridad social obligatoria	26	Cuencas Mineras
+2006,0	7	45	Construcción	30	Maestrazgo
+2006,0	6	15	Industria de productos alimenticios y bebidas	24	Campo de Daroca
+2006,0	6	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	32	Gúdar-Javalambre
+2006,0	5	14	Extracción de minerales no metálicos ni energéticos	03	Sobrarbe
+2006,0	5	21	Industria del papel	27	Andorra-Sierra de Arcos
+2006,0	5	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2006,0	5	15	Industria de productos alimenticios y bebidas	32	Gúdar-Javalambre
+2006,0	4	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	03	Sobrarbe
+2006,0	4	60	Transporte terrestre; transporte por tuberías	14	Aranda
+2006,0	4	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	22	Campo de Belchite
+2006,0	4	24	Industria química	23	Bajo Martín
+2006,0	4	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2006,0	4	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	31	Sierra de Albarracín
+2006,0	4	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	32	Gúdar-Javalambre
+2006,0	4	24	Industria química	32	Gúdar-Javalambre
+2006,0	4	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2006,0	3	13	Extracción de minerales metálicos	14	Aranda
+2006,0	3	28	Fabricación de productos metálicos, excepto maquinaria y equipo	14	Aranda
+2006,0	3	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	14	Aranda
+2006,0	3	75	Administración pública, defensa y seguridad social obligatoria	14	Aranda
+2006,0	3	31	Fabricación de maquinaria y material eléctrico	22	Campo de Belchite
+2006,0	3	34	Fabricación de vehículos de motor, remolques y semirremolques	22	Campo de Belchite
+2006,0	3	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	23	Bajo Martín
+2006,0	3	21	Industria del papel	23	Bajo Martín
+2006,0	3	60	Transporte terrestre; transporte por tuberías	30	Maestrazgo
+2006,0	2	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	03	Sobrarbe
+2006,0	2	75	Administración pública, defensa y seguridad social obligatoria	03	Sobrarbe
+2006,0	2	92	Actividades recreativas, culturales y deportivas	03	Sobrarbe
+2006,0	2	26	Fabricación de otros productos minerales no metálicos	22	Campo de Belchite
+2006,0	2	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	22	Campo de Belchite
+2006,0	2	60	Transporte terrestre; transporte por tuberías	22	Campo de Belchite
+2006,0	2	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	24	Campo de Daroca
+2006,0	2	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	30	Maestrazgo
+2006,0	2	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	33	Matarraña / Matarranya
+2006,0	2	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	33	Matarraña / Matarranya
+2006,0	2	70	Actividades inmobiliarias	33	Matarraña / Matarranya
+2006,0	2	31	Fabricación de maquinaria y material eléctrico	NC	Municipio del centro de trabajo fuera de Aragón
+2006,0	1	28	Fabricación de productos metálicos, excepto maquinaria y equipo	24	Campo de Daroca
+2006,0	1	34	Fabricación de vehículos de motor, remolques y semirremolques	24	Campo de Daroca
+2006,0	1	55	Hostelería	24	Campo de Daroca
+2006,0	1	60	Transporte terrestre; transporte por tuberías	24	Campo de Daroca
+2006,0	1	91	Actividades asociativas	24	Campo de Daroca
+2006,0	1	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2006,0	1	14	Extracción de minerales no metálicos ni energéticos	31	Sierra de Albarracín
+2006,0	1	29	Industria de la construción de maquinaria y equipo mecánico	31	Sierra de Albarracín
+2006,0	1	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	31	Sierra de Albarracín
+2006,0	1	60	Transporte terrestre; transporte por tuberías	31	Sierra de Albarracín
+2006,0	1	75	Administración pública, defensa y seguridad social obligatoria	31	Sierra de Albarracín
+2006,0	1	80	Educación	31	Sierra de Albarracín
+2005,0	2620	45	Construcción	17	D.C. Zaragoza
+2005,0	799	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	D.C. Zaragoza
+2005,0	758	29	Industria de la construción de maquinaria y equipo mecánico	17	D.C. Zaragoza
+2005,0	595	60	Transporte terrestre; transporte por tuberías	17	D.C. Zaragoza
+2005,0	545	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	D.C. Zaragoza
+2005,0	372	45	Construcción	06	Hoya de Huesca / Plana de Uesca
+2005,0	226	34	Fabricación de vehículos de motor, remolques y semirremolques	15	Ribera Alta del Ebro
+2005,0	172	45	Construcción	05	Cinco Villas
+2005,0	159	45	Construcción	01	La Jacetania
+2005,0	136	45	Construcción	29	Comunidad de Teruel
+2005,0	124	45	Construcción	15	Ribera Alta del Ebro
+2005,0	123	45	Construcción	02	Alto Gállego
+2005,0	122	45	Construcción	28	Bajo Aragón
+2005,0	117	10	Extracción y aglomeración de antracita, hulla, lignito y turba	27	Andorra-Sierra de Arcos
+2005,0	111	45	Construcción	16	Valdejalón
+2005,0	109	45	Construcción	NC	Municipio del centro de trabajo fuera de Aragón
+2005,0	103	45	Construcción	20	Comunidad de Calatayud
+2005,0	93	34	Fabricación de vehículos de motor, remolques y semirremolques	16	Valdejalón
+2005,0	90	45	Construcción	08	Cinca Medio
+2005,0	85	45	Construcción	11	Bajo Cinca / Baix Cinca
+2005,0	82	45	Construcción	07	Somontano de Barbastro
+2005,0	77	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	13	Campo de Borja
+2005,0	76	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	05	Cinco Villas
+2005,0	74	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	16	Valdejalón
+2005,0	73	45	Construcción	10	Los Monegros
+2005,0	68	29	Industria de la construción de maquinaria y equipo mecánico	06	Hoya de Huesca / Plana de Uesca
+2005,0	67	28	Fabricación de productos metálicos, excepto maquinaria y equipo	06	Hoya de Huesca / Plana de Uesca
+2005,0	64	28	Fabricación de productos metálicos, excepto maquinaria y equipo	15	Ribera Alta del Ebro
+2005,0	63	34	Fabricación de vehículos de motor, remolques y semirremolques	26	Cuencas Mineras
+2005,0	61	45	Construcción	09	La Litera / La Llitera
+2005,0	59	15	Industria de productos alimenticios y bebidas	09	La Litera / La Llitera
+2005,0	56	26	Fabricación de otros productos minerales no metálicos	05	Cinco Villas
+2005,0	55	60	Transporte terrestre; transporte por tuberías	15	Ribera Alta del Ebro
+2005,0	53	75	Administración pública, defensa y seguridad social obligatoria	06	Hoya de Huesca / Plana de Uesca
+2005,0	52	45	Construcción	13	Campo de Borja
+2005,0	51	28	Fabricación de productos metálicos, excepto maquinaria y equipo	16	Valdejalón
+2005,0	50	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2005,0	49	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	29	Comunidad de Teruel
+2005,0	47	45	Construcción	32	Gúdar-Javalambre
+2005,0	46	60	Transporte terrestre; transporte por tuberías	16	Valdejalón
+2005,0	46	15	Industria de productos alimenticios y bebidas	25	Jiloca
+2005,0	44	45	Construcción	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2005,0	43	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	11	Bajo Cinca / Baix Cinca
+2005,0	42	29	Industria de la construción de maquinaria y equipo mecánico	05	Cinco Villas
+2005,0	42	26	Fabricación de otros productos minerales no metálicos	28	Bajo Aragón
+2005,0	40	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	06	Hoya de Huesca / Plana de Uesca
+2005,0	40	15	Industria de productos alimenticios y bebidas	21	Campo de Cariñena
+2005,0	38	45	Construcción	04	La Ribagorza
+2005,0	38	45	Construcción	23	Bajo Martín
+2005,0	38	45	Construcción	25	Jiloca
+2005,0	35	25	Fabricacion de productos de caucho y materias plasticas	13	Campo de Borja
+2005,0	34	45	Construcción	03	Sobrarbe
+2005,0	33	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	20	Comunidad de Calatayud
+2005,0	33	45	Construcción	21	Campo de Cariñena
+2005,0	31	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	29	Comunidad de Teruel
+2005,0	30	34	Fabricación de vehículos de motor, remolques y semirremolques	13	Campo de Borja
+2005,0	30	63	Actividades anexas a los transportes; actividades de agencias de viajes	15	Ribera Alta del Ebro
+2005,0	30	60	Transporte terrestre; transporte por tuberías	28	Bajo Aragón
+2005,0	29	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	05	Cinco Villas
+2005,0	29	75	Administración pública, defensa y seguridad social obligatoria	05	Cinco Villas
+2005,0	29	45	Construcción	12	Tarazona y el Moncayo
+2005,0	28	24	Industria química	08	Cinca Medio
+2005,0	28	29	Industria de la construción de maquinaria y equipo mecánico	08	Cinca Medio
+2005,0	28	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	09	La Litera / La Llitera
+2005,0	27	28	Fabricación de productos metálicos, excepto maquinaria y equipo	08	Cinca Medio
+2005,0	27	36	Fabricación de muebles; otras industrias manufactureras	21	Campo de Cariñena
+2005,0	27	28	Fabricación de productos metálicos, excepto maquinaria y equipo	26	Cuencas Mineras
+2005,0	26	15	Industria de productos alimenticios y bebidas	20	Comunidad de Calatayud
+2005,0	26	45	Construcción	27	Andorra-Sierra de Arcos
+2005,0	26	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	28	Bajo Aragón
+2005,0	25	60	Transporte terrestre; transporte por tuberías	23	Bajo Martín
+2005,0	24	60	Transporte terrestre; transporte por tuberías	01	La Jacetania
+2005,0	24	26	Fabricación de otros productos minerales no metálicos	21	Campo de Cariñena
+2005,0	24	26	Fabricación de otros productos minerales no metálicos	23	Bajo Martín
+2005,0	24	60	Transporte terrestre; transporte por tuberías	29	Comunidad de Teruel
+2005,0	23	29	Industria de la construción de maquinaria y equipo mecánico	07	Somontano de Barbastro
+2005,0	23	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	10	Los Monegros
+2005,0	23	27	Metalurgia	25	Jiloca
+2005,0	23	75	Administración pública, defensa y seguridad social obligatoria	29	Comunidad de Teruel
+2005,0	23	45	Construcción	33	Matarraña / Matarranya
+2005,0	23	60	Transporte terrestre; transporte por tuberías	NC	Municipio del centro de trabajo fuera de Aragón
+2005,0	22	60	Transporte terrestre; transporte por tuberías	11	Bajo Cinca / Baix Cinca
+2005,0	21	15	Industria de productos alimenticios y bebidas	07	Somontano de Barbastro
+2005,0	21	60	Transporte terrestre; transporte por tuberías	20	Comunidad de Calatayud
+2005,0	20	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	09	La Litera / La Llitera
+2005,0	20	28	Fabricación de productos metálicos, excepto maquinaria y equipo	11	Bajo Cinca / Baix Cinca
+2005,0	19	75	Administración pública, defensa y seguridad social obligatoria	01	La Jacetania
+2005,0	19	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	07	Somontano de Barbastro
+2005,0	19	26	Fabricación de otros productos minerales no metálicos	08	Cinca Medio
+2005,0	19	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	12	Tarazona y el Moncayo
+2005,0	19	28	Fabricación de productos metálicos, excepto maquinaria y equipo	18	Ribera Baja del Ebro
+2005,0	19	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	28	Bajo Aragón
+2005,0	19	15	Industria de productos alimenticios y bebidas	33	Matarraña / Matarranya
+2005,0	18	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	11	Bajo Cinca / Baix Cinca
+2005,0	18	75	Administración pública, defensa y seguridad social obligatoria	11	Bajo Cinca / Baix Cinca
+2005,0	18	75	Administración pública, defensa y seguridad social obligatoria	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2005,0	18	28	Fabricación de productos metálicos, excepto maquinaria y equipo	20	Comunidad de Calatayud
+2005,0	18	26	Fabricación de otros productos minerales no metálicos	27	Andorra-Sierra de Arcos
+2005,0	17	28	Fabricación de productos metálicos, excepto maquinaria y equipo	13	Campo de Borja
+2005,0	17	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	21	Campo de Cariñena
+2005,0	17	60	Transporte terrestre; transporte por tuberías	27	Andorra-Sierra de Arcos
+2005,0	16	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	25	Jiloca
+2005,0	15	60	Transporte terrestre; transporte por tuberías	02	Alto Gállego
+2005,0	15	24	Industria química	18	Ribera Baja del Ebro
+2005,0	15	45	Construcción	26	Cuencas Mineras
+2005,0	14	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	18	Ribera Baja del Ebro
+2005,0	14	45	Construcción	18	Ribera Baja del Ebro
+2005,0	13	60	Transporte terrestre; transporte por tuberías	09	La Litera / La Llitera
+2005,0	13	71	Alquiler de maquinaria y equipo sin operario, de efectos personales y enseres domesticos	09	La Litera / La Llitera
+2005,0	13	75	Administración pública, defensa y seguridad social obligatoria	09	La Litera / La Llitera
+2005,0	13	45	Construcción	24	Campo de Daroca
+2005,0	13	28	Fabricación de productos metálicos, excepto maquinaria y equipo	NC	Municipio del centro de trabajo fuera de Aragón
+2005,0	12	27	Metalurgia	07	Somontano de Barbastro
+2005,0	12	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	07	Somontano de Barbastro
+2005,0	12	75	Administración pública, defensa y seguridad social obligatoria	12	Tarazona y el Moncayo
+2005,0	12	45	Construcción	14	Aranda
+2005,0	12	45	Construcción	30	Maestrazgo
+2005,0	11	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	01	La Jacetania
+2005,0	11	28	Fabricación de productos metálicos, excepto maquinaria y equipo	02	Alto Gállego
+2005,0	11	15	Industria de productos alimenticios y bebidas	10	Los Monegros
+2005,0	11	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	12	Tarazona y el Moncayo
+2005,0	11	31	Fabricación de maquinaria y material eléctrico	12	Tarazona y el Moncayo
+2005,0	11	34	Fabricación de vehículos de motor, remolques y semirremolques	NC	Municipio del centro de trabajo fuera de Aragón
+2005,0	10	55	Hostelería	02	Alto Gállego
+2005,0	10	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	10	Los Monegros
+2005,0	10	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2005,0	10	45	Construcción	22	Campo de Belchite
+2005,0	10	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	24	Campo de Daroca
+2005,0	10	75	Administración pública, defensa y seguridad social obligatoria	24	Campo de Daroca
+2005,0	9	15	Industria de productos alimenticios y bebidas	18	Ribera Baja del Ebro
+2005,0	9	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	18	Ribera Baja del Ebro
+2005,0	9	21	Industria del papel	27	Andorra-Sierra de Arcos
+2005,0	9	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	NC	Municipio del centro de trabajo fuera de Aragón
+2005,0	8	55	Hostelería	01	La Jacetania
+2005,0	8	55	Hostelería	03	Sobrarbe
+2005,0	8	14	Extracción de minerales no metálicos ni energéticos	04	La Ribagorza
+2005,0	8	75	Administración pública, defensa y seguridad social obligatoria	04	La Ribagorza
+2005,0	8	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	10	Los Monegros
+2005,0	8	60	Transporte terrestre; transporte por tuberías	10	Los Monegros
+2005,0	8	19	Preparación curtido y acabado del cuero; fabricación de artículos de marroquinería y viaje; artículos de guarnicionería talabartería y zapatería	14	Aranda
+2005,0	8	26	Fabricación de otros productos minerales no metálicos	25	Jiloca
+2005,0	8	75	Administración pública, defensa y seguridad social obligatoria	26	Cuencas Mineras
+2005,0	8	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2005,0	7	15	Industria de productos alimenticios y bebidas	04	La Ribagorza
+2005,0	7	55	Hostelería	04	La Ribagorza
+2005,0	7	60	Transporte terrestre; transporte por tuberías	04	La Ribagorza
+2005,0	7	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2005,0	7	24	Industria química	26	Cuencas Mineras
+2005,0	6	92	Actividades recreativas, culturales y deportivas	02	Alto Gállego
+2005,0	6	28	Fabricación de productos metálicos, excepto maquinaria y equipo	23	Bajo Martín
+2005,0	6	45	Construcción	31	Sierra de Albarracín
+2005,0	6	15	Industria de productos alimenticios y bebidas	32	Gúdar-Javalambre
+2005,0	6	60	Transporte terrestre; transporte por tuberías	32	Gúdar-Javalambre
+2005,0	5	75	Administración pública, defensa y seguridad social obligatoria	03	Sobrarbe
+2005,0	5	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	14	Aranda
+2005,0	5	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	22	Campo de Belchite
+2005,0	5	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	23	Bajo Martín
+2005,0	5	15	Industria de productos alimenticios y bebidas	24	Campo de Daroca
+2005,0	5	92	Actividades recreativas, culturales y deportivas	32	Gúdar-Javalambre
+2005,0	4	26	Fabricación de otros productos minerales no metálicos	22	Campo de Belchite
+2005,0	4	75	Administración pública, defensa y seguridad social obligatoria	22	Campo de Belchite
+2005,0	4	91	Actividades asociativas	24	Campo de Daroca
+2005,0	4	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	30	Maestrazgo
+2005,0	4	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	32	Gúdar-Javalambre
+2005,0	4	24	Industria química	32	Gúdar-Javalambre
+2005,0	4	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2005,0	3	14	Extracción de minerales no metálicos ni energéticos	03	Sobrarbe
+2005,0	3	75	Administración pública, defensa y seguridad social obligatoria	14	Aranda
+2005,0	3	29	Industria de la construción de maquinaria y equipo mecánico	22	Campo de Belchite
+2005,0	3	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2005,0	3	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	31	Sierra de Albarracín
+2005,0	3	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	33	Matarraña / Matarranya
+2005,0	2	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	03	Sobrarbe
+2005,0	2	15	Industria de productos alimenticios y bebidas	03	Sobrarbe
+2005,0	2	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	03	Sobrarbe
+2005,0	2	92	Actividades recreativas, culturales y deportivas	03	Sobrarbe
+2005,0	2	13	Extracción de minerales metálicos	14	Aranda
+2005,0	2	17	Industria textil	14	Aranda
+2005,0	2	21	Industria del papel	14	Aranda
+2005,0	2	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2005,0	2	80	Educación	31	Sierra de Albarracín
+2005,0	1	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2005,0	1	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	30	Maestrazgo
+2005,0	1	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	30	Maestrazgo
+2005,0	1	60	Transporte terrestre; transporte por tuberías	30	Maestrazgo
+2005,0	1	75	Administración pública, defensa y seguridad social obligatoria	30	Maestrazgo
+2005,0	1	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2005,0	1	29	Industria de la construción de maquinaria y equipo mecánico	31	Sierra de Albarracín
+2005,0	1	36	Fabricación de muebles; otras industrias manufactureras	31	Sierra de Albarracín
+2004,0	2432	45	Construcción	17	D.C. Zaragoza
+2004,0	822	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	D.C. Zaragoza
+2004,0	799	29	Industria de la construción de maquinaria y equipo mecánico	17	D.C. Zaragoza
+2004,0	615	60	Transporte terrestre; transporte por tuberías	17	D.C. Zaragoza
+2004,0	521	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	D.C. Zaragoza
+2004,0	295	45	Construcción	06	Hoya de Huesca / Plana de Uesca
+2004,0	278	34	Fabricación de vehículos de motor, remolques y semirremolques	15	Ribera Alta del Ebro
+2004,0	175	45	Construcción	05	Cinco Villas
+2004,0	145	45	Construcción	29	Comunidad de Teruel
+2004,0	123	45	Construcción	28	Bajo Aragón
+2004,0	122	10	Extracción y aglomeración de antracita, hulla, lignito y turba	27	Andorra-Sierra de Arcos
+2004,0	115	45	Construcción	01	La Jacetania
+2004,0	110	45	Construcción	NC	Municipio del centro de trabajo fuera de Aragón
+2004,0	95	45	Construcción	16	Valdejalón
+2004,0	91	34	Fabricación de vehículos de motor, remolques y semirremolques	16	Valdejalón
+2004,0	89	45	Construcción	07	Somontano de Barbastro
+2004,0	86	45	Construcción	02	Alto Gállego
+2004,0	83	45	Construcción	08	Cinca Medio
+2004,0	82	28	Fabricación de productos metálicos, excepto maquinaria y equipo	15	Ribera Alta del Ebro
+2004,0	80	45	Construcción	20	Comunidad de Calatayud
+2004,0	74	45	Construcción	15	Ribera Alta del Ebro
+2004,0	68	15	Industria de productos alimenticios y bebidas	09	La Litera / La Llitera
+2004,0	67	28	Fabricación de productos metálicos, excepto maquinaria y equipo	06	Hoya de Huesca / Plana de Uesca
+2004,0	67	60	Transporte terrestre; transporte por tuberías	15	Ribera Alta del Ebro
+2004,0	65	45	Construcción	11	Bajo Cinca / Baix Cinca
+2004,0	64	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	05	Cinco Villas
+2004,0	60	26	Fabricación de otros productos minerales no metálicos	06	Hoya de Huesca / Plana de Uesca
+2004,0	57	45	Construcción	13	Campo de Borja
+2004,0	56	29	Industria de la construción de maquinaria y equipo mecánico	06	Hoya de Huesca / Plana de Uesca
+2004,0	56	28	Fabricación de productos metálicos, excepto maquinaria y equipo	16	Valdejalón
+2004,0	55	45	Construcción	10	Los Monegros
+2004,0	54	45	Construcción	32	Gúdar-Javalambre
+2004,0	51	45	Construcción	04	La Ribagorza
+2004,0	47	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	29	Comunidad de Teruel
+2004,0	45	45	Construcción	09	La Litera / La Llitera
+2004,0	44	29	Industria de la construción de maquinaria y equipo mecánico	05	Cinco Villas
+2004,0	44	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	16	Valdejalón
+2004,0	44	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	20	Comunidad de Calatayud
+2004,0	44	15	Industria de productos alimenticios y bebidas	25	Jiloca
+2004,0	43	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	11	Bajo Cinca / Baix Cinca
+2004,0	41	75	Administración pública, defensa y seguridad social obligatoria	06	Hoya de Huesca / Plana de Uesca
+2004,0	41	45	Construcción	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2004,0	41	34	Fabricación de vehículos de motor, remolques y semirremolques	26	Cuencas Mineras
+2004,0	38	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2004,0	37	29	Industria de la construción de maquinaria y equipo mecánico	07	Somontano de Barbastro
+2004,0	37	36	Fabricación de muebles; otras industrias manufactureras	21	Campo de Cariñena
+2004,0	37	60	Transporte terrestre; transporte por tuberías	23	Bajo Martín
+2004,0	36	45	Construcción	12	Tarazona y el Moncayo
+2004,0	36	15	Industria de productos alimenticios y bebidas	21	Campo de Cariñena
+2004,0	35	15	Industria de productos alimenticios y bebidas	05	Cinco Villas
+2004,0	35	60	Transporte terrestre; transporte por tuberías	20	Comunidad de Calatayud
+2004,0	34	45	Construcción	27	Andorra-Sierra de Arcos
+2004,0	33	28	Fabricación de productos metálicos, excepto maquinaria y equipo	08	Cinca Medio
+2004,0	33	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	13	Campo de Borja
+2004,0	31	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	09	La Litera / La Llitera
+2004,0	31	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	20	Comunidad de Calatayud
+2004,0	31	45	Construcción	25	Jiloca
+2004,0	29	26	Fabricación de otros productos minerales no metálicos	15	Ribera Alta del Ebro
+2004,0	29	25	Fabricacion de productos de caucho y materias plasticas	16	Valdejalón
+2004,0	29	45	Construcción	21	Campo de Cariñena
+2004,0	28	75	Administración pública, defensa y seguridad social obligatoria	29	Comunidad de Teruel
+2004,0	27	19	Preparación curtido y acabado del cuero; fabricación de artículos de marroquinería y viaje; artículos de guarnicionería talabartería y zapatería	14	Aranda
+2004,0	27	26	Fabricación de otros productos minerales no metálicos	28	Bajo Aragón
+2004,0	26	26	Fabricación de otros productos minerales no metálicos	05	Cinco Villas
+2004,0	26	34	Fabricación de vehículos de motor, remolques y semirremolques	13	Campo de Borja
+2004,0	26	15	Industria de productos alimenticios y bebidas	20	Comunidad de Calatayud
+2004,0	26	26	Fabricación de otros productos minerales no metálicos	23	Bajo Martín
+2004,0	26	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	29	Comunidad de Teruel
+2004,0	25	60	Transporte terrestre; transporte por tuberías	01	La Jacetania
+2004,0	24	45	Construcción	03	Sobrarbe
+2004,0	24	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	10	Los Monegros
+2004,0	24	15	Industria de productos alimenticios y bebidas	13	Campo de Borja
+2004,0	24	34	Fabricación de vehículos de motor, remolques y semirremolques	29	Comunidad de Teruel
+2004,0	24	60	Transporte terrestre; transporte por tuberías	29	Comunidad de Teruel
+2004,0	22	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	07	Somontano de Barbastro
+2004,0	22	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2004,0	21	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	07	Somontano de Barbastro
+2004,0	21	24	Industria química	08	Cinca Medio
+2004,0	21	60	Transporte terrestre; transporte por tuberías	28	Bajo Aragón
+2004,0	20	29	Industria de la construción de maquinaria y equipo mecánico	08	Cinca Medio
+2004,0	20	60	Transporte terrestre; transporte por tuberías	11	Bajo Cinca / Baix Cinca
+2004,0	20	25	Fabricacion de productos de caucho y materias plasticas	12	Tarazona y el Moncayo
+2004,0	20	34	Fabricación de vehículos de motor, remolques y semirremolques	12	Tarazona y el Moncayo
+2004,0	20	27	Metalurgia	25	Jiloca
+2004,0	20	45	Construcción	26	Cuencas Mineras
+2004,0	19	60	Transporte terrestre; transporte por tuberías	08	Cinca Medio
+2004,0	19	28	Fabricación de productos metálicos, excepto maquinaria y equipo	12	Tarazona y el Moncayo
+2004,0	19	28	Fabricación de productos metálicos, excepto maquinaria y equipo	13	Campo de Borja
+2004,0	19	75	Administración pública, defensa y seguridad social obligatoria	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2004,0	19	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	25	Jiloca
+2004,0	19	28	Fabricación de productos metálicos, excepto maquinaria y equipo	NC	Municipio del centro de trabajo fuera de Aragón
+2004,0	18	45	Construcción	14	Aranda
+2004,0	18	26	Fabricación de otros productos minerales no metálicos	21	Campo de Cariñena
+2004,0	17	15	Industria de productos alimenticios y bebidas	07	Somontano de Barbastro
+2004,0	17	28	Fabricación de productos metálicos, excepto maquinaria y equipo	11	Bajo Cinca / Baix Cinca
+2004,0	17	27	Metalurgia	26	Cuencas Mineras
+2004,0	17	60	Transporte terrestre; transporte por tuberías	27	Andorra-Sierra de Arcos
+2004,0	16	34	Fabricación de vehículos de motor, remolques y semirremolques	09	La Litera / La Llitera
+2004,0	16	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	11	Bajo Cinca / Baix Cinca
+2004,0	16	15	Industria de productos alimenticios y bebidas	28	Bajo Aragón
+2004,0	15	75	Administración pública, defensa y seguridad social obligatoria	01	La Jacetania
+2004,0	15	28	Fabricación de productos metálicos, excepto maquinaria y equipo	09	La Litera / La Llitera
+2004,0	15	28	Fabricación de productos metálicos, excepto maquinaria y equipo	18	Ribera Baja del Ebro
+2004,0	15	45	Construcción	33	Matarraña / Matarranya
+2004,0	14	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	21	Campo de Cariñena
+2004,0	14	45	Construcción	24	Campo de Daroca
+2004,0	14	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	NC	Municipio del centro de trabajo fuera de Aragón
+2004,0	14	60	Transporte terrestre; transporte por tuberías	NC	Municipio del centro de trabajo fuera de Aragón
+2004,0	13	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	10	Los Monegros
+2004,0	13	45	Construcción	23	Bajo Martín
+2004,0	12	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	01	La Jacetania
+2004,0	12	55	Hostelería	01	La Jacetania
+2004,0	12	60	Transporte terrestre; transporte por tuberías	02	Alto Gállego
+2004,0	12	60	Transporte terrestre; transporte por tuberías	04	La Ribagorza
+2004,0	12	31	Fabricación de maquinaria y material eléctrico	12	Tarazona y el Moncayo
+2004,0	12	45	Construcción	18	Ribera Baja del Ebro
+2004,0	12	15	Industria de productos alimenticios y bebidas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2004,0	12	26	Fabricación de otros productos minerales no metálicos	27	Andorra-Sierra de Arcos
+2004,0	12	26	Fabricación de otros productos minerales no metálicos	NC	Municipio del centro de trabajo fuera de Aragón
+2004,0	11	24	Industria química	02	Alto Gállego
+2004,0	11	26	Fabricación de otros productos minerales no metálicos	18	Ribera Baja del Ebro
+2004,0	11	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	28	Bajo Aragón
+2004,0	10	15	Industria de productos alimenticios y bebidas	04	La Ribagorza
+2004,0	9	15	Industria de productos alimenticios y bebidas	10	Los Monegros
+2004,0	9	29	Industria de la construción de maquinaria y equipo mecánico	10	Los Monegros
+2004,0	9	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	10	Los Monegros
+2004,0	9	15	Industria de productos alimenticios y bebidas	32	Gúdar-Javalambre
+2004,0	9	15	Industria de productos alimenticios y bebidas	33	Matarraña / Matarranya
+2004,0	8	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	02	Alto Gállego
+2004,0	8	14	Extracción de minerales no metálicos ni energéticos	04	La Ribagorza
+2004,0	8	24	Industria química	18	Ribera Baja del Ebro
+2004,0	8	75	Administración pública, defensa y seguridad social obligatoria	26	Cuencas Mineras
+2004,0	7	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	18	Ribera Baja del Ebro
+2004,0	7	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	18	Ribera Baja del Ebro
+2004,0	7	15	Industria de productos alimenticios y bebidas	23	Bajo Martín
+2004,0	7	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	24	Campo de Daroca
+2004,0	7	24	Industria química	32	Gúdar-Javalambre
+2004,0	6	28	Fabricación de productos metálicos, excepto maquinaria y equipo	02	Alto Gállego
+2004,0	6	75	Administración pública, defensa y seguridad social obligatoria	02	Alto Gállego
+2004,0	6	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	04	La Ribagorza
+2004,0	6	55	Hostelería	04	La Ribagorza
+2004,0	6	85	Actividades sanitarias y veterinarias, servicio social	04	La Ribagorza
+2004,0	6	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	25	Jiloca
+2004,0	6	28	Fabricación de productos metálicos, excepto maquinaria y equipo	26	Cuencas Mineras
+2004,0	6	45	Construcción	30	Maestrazgo
+2004,0	6	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	31	Sierra de Albarracín
+2004,0	6	60	Transporte terrestre; transporte por tuberías	32	Gúdar-Javalambre
+2004,0	5	13	Extracción de minerales metálicos	14	Aranda
+2004,0	5	75	Administración pública, defensa y seguridad social obligatoria	24	Campo de Daroca
+2004,0	5	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	31	Sierra de Albarracín
+2004,0	5	45	Construcción	31	Sierra de Albarracín
+2004,0	5	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2004,0	4	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	22	Campo de Belchite
+2004,0	4	15	Industria de productos alimenticios y bebidas	24	Campo de Daroca
+2004,0	4	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	24	Campo de Daroca
+2004,0	4	40	Producción y distribución de energía eléctrica, gas, vapor y agua caliente	27	Andorra-Sierra de Arcos
+2004,0	4	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	30	Maestrazgo
+2004,0	4	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2004,0	3	75	Administración pública, defensa y seguridad social obligatoria	03	Sobrarbe
+2004,0	3	21	Industria del papel	14	Aranda
+2004,0	3	75	Administración pública, defensa y seguridad social obligatoria	14	Aranda
+2004,0	3	90	Actividades de saneamiento público	14	Aranda
+2004,0	3	75	Administración pública, defensa y seguridad social obligatoria	22	Campo de Belchite
+2004,0	3	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	23	Bajo Martín
+2004,0	3	74	Otras actividades empresariales	31	Sierra de Albarracín
+2004,0	3	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	32	Gúdar-Javalambre
+2004,0	3	55	Hostelería	32	Gúdar-Javalambre
+2004,0	3	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	33	Matarraña / Matarranya
+2004,0	2	14	Extracción de minerales no metálicos ni energéticos	03	Sobrarbe
+2004,0	2	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	03	Sobrarbe
+2004,0	2	55	Hostelería	03	Sobrarbe
+2004,0	2	14	Extracción de minerales no metálicos ni energéticos	22	Campo de Belchite
+2004,0	2	29	Industria de la construción de maquinaria y equipo mecánico	22	Campo de Belchite
+2004,0	2	31	Fabricación de maquinaria y material eléctrico	22	Campo de Belchite
+2004,0	2	45	Construcción	22	Campo de Belchite
+2004,0	2	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2004,0	2	15	Industria de productos alimenticios y bebidas	30	Maestrazgo
+2004,0	2	55	Hostelería	30	Maestrazgo
+2004,0	2	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2004,0	2	31	Fabricación de maquinaria y material eléctrico	33	Matarraña / Matarranya
+2004,0	2	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	33	Matarraña / Matarranya
+2004,0	2	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	33	Matarraña / Matarranya
+2004,0	2	73	Investigacion y desarrollo	33	Matarraña / Matarranya
+2004,0	2	75	Administración pública, defensa y seguridad social obligatoria	33	Matarraña / Matarranya
+2003,0	2447	45	Construcción	17	D.C. Zaragoza
+2003,0	819	29	Industria de la construción de maquinaria y equipo mecánico	17	D.C. Zaragoza
+2003,0	817	28	Fabricación de productos metálicos, excepto maquinaria y equipo	17	D.C. Zaragoza
+2003,0	606	60	Transporte terrestre; transporte por tuberías	17	D.C. Zaragoza
+2003,0	519	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	17	D.C. Zaragoza
+2003,0	388	45	Construcción	06	Hoya de Huesca / Plana de Uesca
+2003,0	247	34	Fabricación de vehículos de motor, remolques y semirremolques	15	Ribera Alta del Ebro
+2003,0	162	45	Construcción	29	Comunidad de Teruel
+2003,0	156	45	Construcción	05	Cinco Villas
+2003,0	122	10	Extracción y aglomeración de antracita, hulla, lignito y turba	27	Andorra-Sierra de Arcos
+2003,0	121	45	Construcción	28	Bajo Aragón
+2003,0	111	45	Construcción	15	Ribera Alta del Ebro
+2003,0	108	28	Fabricación de productos metálicos, excepto maquinaria y equipo	15	Ribera Alta del Ebro
+2003,0	105	45	Construcción	01	La Jacetania
+2003,0	92	45	Construcción	16	Valdejalón
+2003,0	84	45	Construcción	NC	Municipio del centro de trabajo fuera de Aragón
+2003,0	82	45	Construcción	20	Comunidad de Calatayud
+2003,0	81	45	Construcción	08	Cinca Medio
+2003,0	80	45	Construcción	11	Bajo Cinca / Baix Cinca
+2003,0	78	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	13	Campo de Borja
+2003,0	72	45	Construcción	12	Tarazona y el Moncayo
+2003,0	70	15	Industria de productos alimenticios y bebidas	09	La Litera / La Llitera
+2003,0	69	45	Construcción	02	Alto Gállego
+2003,0	69	34	Fabricación de vehículos de motor, remolques y semirremolques	16	Valdejalón
+2003,0	69	45	Construcción	27	Andorra-Sierra de Arcos
+2003,0	66	45	Construcción	07	Somontano de Barbastro
+2003,0	65	60	Transporte terrestre; transporte por tuberías	15	Ribera Alta del Ebro
+2003,0	62	45	Construcción	10	Los Monegros
+2003,0	62	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	11	Bajo Cinca / Baix Cinca
+2003,0	61	28	Fabricación de productos metálicos, excepto maquinaria y equipo	06	Hoya de Huesca / Plana de Uesca
+2003,0	60	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	16	Valdejalón
+2003,0	60	34	Fabricación de vehículos de motor, remolques y semirremolques	26	Cuencas Mineras
+2003,0	58	26	Fabricación de otros productos minerales no metálicos	28	Bajo Aragón
+2003,0	55	45	Construcción	04	La Ribagorza
+2003,0	55	45	Construcción	09	La Litera / La Llitera
+2003,0	54	29	Industria de la construción de maquinaria y equipo mecánico	06	Hoya de Huesca / Plana de Uesca
+2003,0	53	15	Industria de productos alimenticios y bebidas	25	Jiloca
+2003,0	51	26	Fabricación de otros productos minerales no metálicos	06	Hoya de Huesca / Plana de Uesca
+2003,0	49	29	Industria de la construción de maquinaria y equipo mecánico	05	Cinco Villas
+2003,0	45	28	Fabricación de productos metálicos, excepto maquinaria y equipo	08	Cinca Medio
+2003,0	44	15	Industria de productos alimenticios y bebidas	05	Cinco Villas
+2003,0	44	26	Fabricación de otros productos minerales no metálicos	05	Cinco Villas
+2003,0	42	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	05	Cinco Villas
+2003,0	39	28	Fabricación de productos metálicos, excepto maquinaria y equipo	16	Valdejalón
+2003,0	39	45	Construcción	25	Jiloca
+2003,0	38	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	29	Comunidad de Teruel
+2003,0	36	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	06	Hoya de Huesca / Plana de Uesca
+2003,0	36	75	Administración pública, defensa y seguridad social obligatoria	29	Comunidad de Teruel
+2003,0	35	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2003,0	34	45	Construcción	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2003,0	34	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	20	Comunidad de Calatayud
+2003,0	34	34	Fabricación de vehículos de motor, remolques y semirremolques	29	Comunidad de Teruel
+2003,0	31	29	Industria de la construción de maquinaria y equipo mecánico	07	Somontano de Barbastro
+2003,0	31	45	Construcción	13	Campo de Borja
+2003,0	30	15	Industria de productos alimenticios y bebidas	07	Somontano de Barbastro
+2003,0	30	26	Fabricación de otros productos minerales no metálicos	15	Ribera Alta del Ebro
+2003,0	30	15	Industria de productos alimenticios y bebidas	21	Campo de Cariñena
+2003,0	29	29	Industria de la construción de maquinaria y equipo mecánico	08	Cinca Medio
+2003,0	29	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	29	Comunidad de Teruel
+2003,0	28	26	Fabricación de otros productos minerales no metálicos	08	Cinca Medio
+2003,0	28	60	Transporte terrestre; transporte por tuberías	11	Bajo Cinca / Baix Cinca
+2003,0	28	45	Construcción	21	Campo de Cariñena
+2003,0	28	45	Construcción	32	Gúdar-Javalambre
+2003,0	27	60	Transporte terrestre; transporte por tuberías	16	Valdejalón
+2003,0	26	60	Transporte terrestre; transporte por tuberías	20	Comunidad de Calatayud
+2003,0	25	60	Transporte terrestre; transporte por tuberías	23	Bajo Martín
+2003,0	24	28	Fabricación de productos metálicos, excepto maquinaria y equipo	20	Comunidad de Calatayud
+2003,0	24	36	Fabricación de muebles; otras industrias manufactureras	21	Campo de Cariñena
+2003,0	24	60	Transporte terrestre; transporte por tuberías	27	Andorra-Sierra de Arcos
+2003,0	23	60	Transporte terrestre; transporte por tuberías	02	Alto Gállego
+2003,0	23	34	Fabricación de vehículos de motor, remolques y semirremolques	13	Campo de Borja
+2003,0	23	15	Industria de productos alimenticios y bebidas	20	Comunidad de Calatayud
+2003,0	23	26	Fabricación de otros productos minerales no metálicos	23	Bajo Martín
+2003,0	22	60	Transporte terrestre; transporte por tuberías	01	La Jacetania
+2003,0	22	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	09	La Litera / La Llitera
+2003,0	22	19	Preparación curtido y acabado del cuero; fabricación de artículos de marroquinería y viaje; artículos de guarnicionería talabartería y zapatería	14	Aranda
+2003,0	22	26	Fabricación de otros productos minerales no metálicos	21	Campo de Cariñena
+2003,0	22	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	28	Bajo Aragón
+2003,0	21	28	Fabricación de productos metálicos, excepto maquinaria y equipo	11	Bajo Cinca / Baix Cinca
+2003,0	21	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	21	Campo de Cariñena
+2003,0	20	25	Fabricacion de productos de caucho y materias plasticas	12	Tarazona y el Moncayo
+2003,0	20	15	Industria de productos alimenticios y bebidas	13	Campo de Borja
+2003,0	20	45	Construcción	18	Ribera Baja del Ebro
+2003,0	20	34	Fabricación de vehículos de motor, remolques y semirremolques	25	Jiloca
+2003,0	20	15	Industria de productos alimenticios y bebidas	28	Bajo Aragón
+2003,0	20	74	Otras actividades empresariales	28	Bajo Aragón
+2003,0	19	75	Administración pública, defensa y seguridad social obligatoria	07	Somontano de Barbastro
+2003,0	19	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	10	Los Monegros
+2003,0	19	25	Fabricacion de productos de caucho y materias plasticas	13	Campo de Borja
+2003,0	18	45	Construcción	03	Sobrarbe
+2003,0	18	24	Industria química	07	Somontano de Barbastro
+2003,0	18	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	07	Somontano de Barbastro
+2003,0	18	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	11	Bajo Cinca / Baix Cinca
+2003,0	18	45	Construcción	24	Campo de Daroca
+2003,0	17	60	Transporte terrestre; transporte por tuberías	08	Cinca Medio
+2003,0	17	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	12	Tarazona y el Moncayo
+2003,0	17	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2003,0	15	75	Administración pública, defensa y seguridad social obligatoria	01	La Jacetania
+2003,0	15	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2003,0	15	75	Administración pública, defensa y seguridad social obligatoria	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2003,0	14	52	Comercio al por menor, excepto el comercio de vehículos de motor, motocicletas y ciclomotores; reparación de efectos personales y enseres domést icos	09	La Litera / La Llitera
+2003,0	14	28	Fabricación de productos metálicos, excepto maquinaria y equipo	12	Tarazona y el Moncayo
+2003,0	14	31	Fabricación de maquinaria y material eléctrico	12	Tarazona y el Moncayo
+2003,0	14	60	Transporte terrestre; transporte por tuberías	12	Tarazona y el Moncayo
+2003,0	14	45	Construcción	23	Bajo Martín
+2003,0	14	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	25	Jiloca
+2003,0	14	45	Construcción	26	Cuencas Mineras
+2003,0	13	14	Extracción de minerales no metálicos ni energéticos	04	La Ribagorza
+2003,0	13	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	09	La Litera / La Llitera
+2003,0	13	28	Fabricación de productos metálicos, excepto maquinaria y equipo	18	Ribera Baja del Ebro
+2003,0	13	45	Construcción	33	Matarraña / Matarranya
+2003,0	13	60	Transporte terrestre; transporte por tuberías	NC	Municipio del centro de trabajo fuera de Aragón
+2003,0	12	34	Fabricación de vehículos de motor, remolques y semirremolques	10	Los Monegros
+2003,0	12	28	Fabricación de productos metálicos, excepto maquinaria y equipo	26	Cuencas Mineras
+2003,0	12	15	Industria de productos alimenticios y bebidas	33	Matarraña / Matarranya
+2003,0	11	26	Fabricación de otros productos minerales no metálicos	10	Los Monegros
+2003,0	11	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	18	Ribera Baja del Ebro
+2003,0	11	29	Industria de la construción de maquinaria y equipo mecánico	NC	Municipio del centro de trabajo fuera de Aragón
+2003,0	11	74	Otras actividades empresariales	NC	Municipio del centro de trabajo fuera de Aragón
+2003,0	10	55	Hostelería	03	Sobrarbe
+2003,0	10	60	Transporte terrestre; transporte por tuberías	04	La Ribagorza
+2003,0	10	45	Construcción	14	Aranda
+2003,0	10	26	Fabricación de otros productos minerales no metálicos	27	Andorra-Sierra de Arcos
+2003,0	10	74	Otras actividades empresariales	27	Andorra-Sierra de Arcos
+2003,0	9	15	Industria de productos alimenticios y bebidas	10	Los Monegros
+2003,0	9	26	Fabricación de otros productos minerales no metálicos	18	Ribera Baja del Ebro
+2003,0	9	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	18	Ribera Baja del Ebro
+2003,0	9	26	Fabricación de otros productos minerales no metálicos	25	Jiloca
+2003,0	9	28	Fabricación de productos metálicos, excepto maquinaria y equipo	NC	Municipio del centro de trabajo fuera de Aragón
+2003,0	8	28	Fabricación de productos metálicos, excepto maquinaria y equipo	02	Alto Gállego
+2003,0	8	75	Administración pública, defensa y seguridad social obligatoria	24	Campo de Daroca
+2003,0	7	55	Hostelería	01	La Jacetania
+2003,0	7	15	Industria de productos alimenticios y bebidas	19	Bajo Aragón-Caspe / Baix Aragó-Casp
+2003,0	7	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	23	Bajo Martín
+2003,0	7	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	24	Campo de Daroca
+2003,0	7	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	31	Sierra de Albarracín
+2003,0	6	75	Administración pública, defensa y seguridad social obligatoria	02	Alto Gállego
+2003,0	6	93	Actividades diversas de servicios personales	02	Alto Gállego
+2003,0	6	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	04	La Ribagorza
+2003,0	6	92	Actividades recreativas, culturales y deportivas	04	La Ribagorza
+2003,0	6	13	Extracción de minerales metálicos	14	Aranda
+2003,0	6	45	Construcción	22	Campo de Belchite
+2003,0	6	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	23	Bajo Martín
+2003,0	6	28	Fabricación de productos metálicos, excepto maquinaria y equipo	23	Bajo Martín
+2003,0	6	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	32	Gúdar-Javalambre
+2003,0	5	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	01	La Jacetania
+2003,0	5	28	Fabricación de productos metálicos, excepto maquinaria y equipo	01	La Jacetania
+2003,0	5	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	01	La Jacetania
+2003,0	5	90	Actividades de saneamiento público	01	La Jacetania
+2003,0	5	75	Administración pública, defensa y seguridad social obligatoria	14	Aranda
+2003,0	5	15	Industria de productos alimenticios y bebidas	24	Campo de Daroca
+2003,0	5	15	Industria de productos alimenticios y bebidas	32	Gúdar-Javalambre
+2003,0	4	75	Administración pública, defensa y seguridad social obligatoria	03	Sobrarbe
+2003,0	4	25	Fabricacion de productos de caucho y materias plasticas	14	Aranda
+2003,0	4	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	26	Cuencas Mineras
+2003,0	4	60	Transporte terrestre; transporte por tuberías	26	Cuencas Mineras
+2003,0	4	24	Industria química	32	Gúdar-Javalambre
+2003,0	4	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	32	Gúdar-Javalambre
+2003,0	4	75	Administración pública, defensa y seguridad social obligatoria	32	Gúdar-Javalambre
+2003,0	4	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	33	Matarraña / Matarranya
+2003,0	3	15	Industria de productos alimenticios y bebidas	03	Sobrarbe
+2003,0	3	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	22	Campo de Belchite
+2003,0	3	31	Fabricación de maquinaria y material eléctrico	22	Campo de Belchite
+2003,0	3	45	Construcción	31	Sierra de Albarracín
+2003,0	2	14	Extracción de minerales no metálicos ni energéticos	03	Sobrarbe
+2003,0	2	36	Fabricación de muebles; otras industrias manufactureras	03	Sobrarbe
+2003,0	2	92	Actividades recreativas, culturales y deportivas	03	Sobrarbe
+2003,0	2	28	Fabricación de productos metálicos, excepto maquinaria y equipo	22	Campo de Belchite
+2003,0	2	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	30	Maestrazgo
+2003,0	2	15	Industria de productos alimenticios y bebidas	30	Maestrazgo
+2003,0	2	01	Agricultura, ganadería, caza y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2003,0	1	25	Fabricacion de productos de caucho y materias plasticas	22	Campo de Belchite
+2003,0	1	29	Industria de la construción de maquinaria y equipo mecánico	22	Campo de Belchite
+2003,0	1	34	Fabricación de vehículos de motor, remolques y semirremolques	22	Campo de Belchite
+2003,0	1	71	Alquiler de maquinaria y equipo sin operario, de efectos personales y enseres domesticos	22	Campo de Belchite
+2003,0	1	18	Industria de la confección y de la peletería	24	Campo de Daroca
+2003,0	1	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	24	Campo de Daroca
+2003,0	1	41	Captación, depuración y distribución de agua	24	Campo de Daroca
+2003,0	1	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	24	Campo de Daroca
+2003,0	1	85	Actividades sanitarias y veterinarias, servicio social	24	Campo de Daroca
+2003,0	1	20	Industria de la madera y del corcho, excepto muebles; cestería y espartería	30	Maestrazgo
+2003,0	1	45	Construcción	30	Maestrazgo
+2003,0	1	02	Selvicultura, explotación forestal y actividades de los servicios relacionados con las mismas	31	Sierra de Albarracín
+2003,0	1	15	Industria de productos alimenticios y bebidas	31	Sierra de Albarracín
+2003,0	1	28	Fabricación de productos metálicos, excepto maquinaria y equipo	31	Sierra de Albarracín
+2003,0	1	75	Administración pública, defensa y seguridad social obligatoria	31	Sierra de Albarracín
+2003,0	1	28	Fabricación de productos metálicos, excepto maquinaria y equipo	33	Matarraña / Matarranya
+2003,0	1	36	Fabricación de muebles; otras industrias manufactureras	33	Matarraña / Matarranya
+2003,0	1	40	Producción y distribución de energía eléctrica, gas, vapor y agua caliente	33	Matarraña / Matarranya
+2003,0	1	50	Venta, mantenimiento y reparación de vehículos de motor, motocicletas y ciclomotores; venta al por menor de combustible para vehículos de motor	33	Matarraña / Matarranya
+2003,0	1	51	Comercio al por mayor e intermediarios del comercio, excepto de vehículos de motor y motocicletas	33	Matarraña / Matarranya
+2003,0	1	55	Hostelería	33	Matarraña / Matarranya
+2003,0	1	60	Transporte terrestre; transporte por tuberías	33	Matarraña / Matarranya
