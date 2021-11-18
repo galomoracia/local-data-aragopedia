@@ -1,4 +1,285 @@
 Provincia código	Provincia nombre	Tipo variación	Sexo	Nacionalidad Continente codigo	Nacionalidad Continente	Año	Variaciones
+22	Huesca	Externa	Hombres	1	Europa	2020	1577
+22	Huesca	Externa	Hombres	2	África	2020	389
+22	Huesca	Externa	Hombres	3	América	2020	228
+22	Huesca	Externa	Hombres	4	Asia	2020	38
+22	Huesca	Externa	Hombres	5	Otros continentes	2020	4
+22	Huesca	Externa	Mujeres	1	Europa	2020	1561
+22	Huesca	Externa	Mujeres	2	África	2020	115
+22	Huesca	Externa	Mujeres	3	América	2020	296
+22	Huesca	Externa	Mujeres	4	Asia	2020	24
+22	Huesca	Interna	Hombres	1	Europa	2020	1980
+22	Huesca	Interna	Hombres	2	África	2020	196
+22	Huesca	Interna	Hombres	3	América	2020	192
+22	Huesca	Interna	Hombres	4	Asia	2020	24
+22	Huesca	Interna	Mujeres	1	Europa	2020	1992
+22	Huesca	Interna	Mujeres	2	África	2020	79
+22	Huesca	Interna	Mujeres	3	América	2020	294
+22	Huesca	Interna	Mujeres	4	Asia	2020	15
+44	Teruel	Externa	Hombres	1	Europa	2020	898
+44	Teruel	Externa	Hombres	2	África	2020	203
+44	Teruel	Externa	Hombres	3	América	2020	111
+44	Teruel	Externa	Hombres	4	Asia	2020	26
+44	Teruel	Externa	Hombres	5	Otros continentes	2020	3
+44	Teruel	Externa	Mujeres	1	Europa	2020	914
+44	Teruel	Externa	Mujeres	2	África	2020	86
+44	Teruel	Externa	Mujeres	3	América	2020	167
+44	Teruel	Externa	Mujeres	4	Asia	2020	11
+44	Teruel	Externa	Mujeres	5	Otros continentes	2020	1
+44	Teruel	Interna	Hombres	1	Europa	2020	1105
+44	Teruel	Interna	Hombres	2	África	2020	198
+44	Teruel	Interna	Hombres	3	América	2020	67
+44	Teruel	Interna	Hombres	4	Asia	2020	11
+44	Teruel	Interna	Mujeres	1	Europa	2020	1080
+44	Teruel	Interna	Mujeres	2	África	2020	130
+44	Teruel	Interna	Mujeres	3	América	2020	86
+44	Teruel	Interna	Mujeres	4	Asia	2020	4
+50	Zaragoza	Externa	Hombres	1	Europa	2020	5002
+50	Zaragoza	Externa	Hombres	2	África	2020	2105
+50	Zaragoza	Externa	Hombres	3	América	2020	1960
+50	Zaragoza	Externa	Hombres	4	Asia	2020	916
+50	Zaragoza	Externa	Hombres	5	Otros continentes	2020	14
+50	Zaragoza	Externa	Mujeres	1	Europa	2020	4299
+50	Zaragoza	Externa	Mujeres	2	África	2020	1035
+50	Zaragoza	Externa	Mujeres	3	América	2020	2877
+50	Zaragoza	Externa	Mujeres	4	Asia	2020	458
+50	Zaragoza	Externa	Mujeres	5	Otros continentes	2020	12
+50	Zaragoza	Interna	Hombres	1	Europa	2020	6772
+50	Zaragoza	Interna	Hombres	2	África	2020	483
+50	Zaragoza	Interna	Hombres	3	América	2020	455
+50	Zaragoza	Interna	Hombres	4	Asia	2020	88
+50	Zaragoza	Interna	Hombres	5	Otros continentes	2020	2
+50	Zaragoza	Interna	Mujeres	1	Europa	2020	6371
+50	Zaragoza	Interna	Mujeres	2	África	2020	218
+50	Zaragoza	Interna	Mujeres	3	América	2020	806
+50	Zaragoza	Interna	Mujeres	4	Asia	2020	40
+22	Huesca	Externa	Hombres	1	Europa	2019	2018
+22	Huesca	Externa	Hombres	2	África	2019	393
+22	Huesca	Externa	Hombres	3	América	2019	208
+22	Huesca	Externa	Hombres	4	Asia	2019	53
+22	Huesca	Externa	Hombres	5	Otros continentes	2019	3
+22	Huesca	Externa	Mujeres	1	Europa	2019	1748
+22	Huesca	Externa	Mujeres	2	África	2019	142
+22	Huesca	Externa	Mujeres	3	América	2019	276
+22	Huesca	Externa	Mujeres	4	Asia	2019	34
+22	Huesca	Externa	Mujeres	5	Otros continentes	2019	1
+22	Huesca	Interna	Hombres	1	Europa	2019	1875
+22	Huesca	Interna	Hombres	2	África	2019	169
+22	Huesca	Interna	Hombres	3	América	2019	131
+22	Huesca	Interna	Hombres	4	Asia	2019	10
+22	Huesca	Interna	Mujeres	1	Europa	2019	1858
+22	Huesca	Interna	Mujeres	2	África	2019	109
+22	Huesca	Interna	Mujeres	3	América	2019	236
+22	Huesca	Interna	Mujeres	4	Asia	2019	6
+44	Teruel	Externa	Hombres	1	Europa	2019	1115
+44	Teruel	Externa	Hombres	2	África	2019	192
+44	Teruel	Externa	Hombres	3	América	2019	91
+44	Teruel	Externa	Hombres	4	Asia	2019	48
+44	Teruel	Externa	Hombres	5	Otros continentes	2019	5
+44	Teruel	Externa	Mujeres	1	Europa	2019	1068
+44	Teruel	Externa	Mujeres	2	África	2019	82
+44	Teruel	Externa	Mujeres	3	América	2019	159
+44	Teruel	Externa	Mujeres	4	Asia	2019	21
+44	Teruel	Externa	Mujeres	5	Otros continentes	2019	1
+44	Teruel	Interna	Hombres	1	Europa	2019	1183
+44	Teruel	Interna	Hombres	2	África	2019	232
+44	Teruel	Interna	Hombres	3	América	2019	57
+44	Teruel	Interna	Hombres	4	Asia	2019	13
+44	Teruel	Interna	Hombres	5	Otros continentes	2019	1
+44	Teruel	Interna	Mujeres	1	Europa	2019	1348
+44	Teruel	Interna	Mujeres	2	África	2019	163
+44	Teruel	Interna	Mujeres	3	América	2019	91
+44	Teruel	Interna	Mujeres	4	Asia	2019	9
+50	Zaragoza	Externa	Hombres	1	Europa	2019	5938
+50	Zaragoza	Externa	Hombres	2	África	2019	1313
+50	Zaragoza	Externa	Hombres	3	América	2019	860
+50	Zaragoza	Externa	Hombres	4	Asia	2019	610
+50	Zaragoza	Externa	Hombres	5	Otros continentes	2019	5
+50	Zaragoza	Externa	Mujeres	1	Europa	2019	5075
+50	Zaragoza	Externa	Mujeres	2	África	2019	445
+50	Zaragoza	Externa	Mujeres	3	América	2019	1373
+50	Zaragoza	Externa	Mujeres	4	Asia	2019	233
+50	Zaragoza	Externa	Mujeres	5	Otros continentes	2019	4
+50	Zaragoza	Interna	Hombres	1	Europa	2019	6257
+50	Zaragoza	Interna	Hombres	2	África	2019	505
+50	Zaragoza	Interna	Hombres	3	América	2019	392
+50	Zaragoza	Interna	Hombres	4	Asia	2019	110
+50	Zaragoza	Interna	Mujeres	1	Europa	2019	6349
+50	Zaragoza	Interna	Mujeres	2	África	2019	237
+50	Zaragoza	Interna	Mujeres	3	América	2019	707
+50	Zaragoza	Interna	Mujeres	4	Asia	2019	49
+50	Zaragoza	Interna	Mujeres	5	Otros continentes	2019	1
+22	Huesca	Externa	Hombres	1	Europa	2018	2044
+22	Huesca	Externa	Hombres	2	África	2018	348
+22	Huesca	Externa	Hombres	3	América	2018	175
+22	Huesca	Externa	Hombres	4	Asia	2018	48
+22	Huesca	Externa	Hombres	5	Otros continentes	2018	6
+22	Huesca	Externa	Mujeres	1	Europa	2018	1858
+22	Huesca	Externa	Mujeres	2	África	2018	122
+22	Huesca	Externa	Mujeres	3	América	2018	233
+22	Huesca	Externa	Mujeres	4	Asia	2018	22
+22	Huesca	Externa	Mujeres	5	Otros continentes	2018	1
+22	Huesca	Interna	Hombres	1	Europa	2018	2046
+22	Huesca	Interna	Hombres	2	África	2018	167
+22	Huesca	Interna	Hombres	3	América	2018	99
+22	Huesca	Interna	Hombres	4	Asia	2018	22
+22	Huesca	Interna	Hombres	5	Otros continentes	2018	2
+22	Huesca	Interna	Mujeres	1	Europa	2018	2183
+22	Huesca	Interna	Mujeres	2	África	2018	84
+22	Huesca	Interna	Mujeres	3	América	2018	213
+22	Huesca	Interna	Mujeres	4	Asia	2018	24
+22	Huesca	Interna	Mujeres	5	Otros continentes	2018	3
+44	Teruel	Externa	Hombres	1	Europa	2018	1060
+44	Teruel	Externa	Hombres	2	África	2018	199
+44	Teruel	Externa	Hombres	3	América	2018	103
+44	Teruel	Externa	Hombres	4	Asia	2018	61
+44	Teruel	Externa	Hombres	5	Otros continentes	2018	4
+44	Teruel	Externa	Mujeres	1	Europa	2018	1028
+44	Teruel	Externa	Mujeres	2	África	2018	78
+44	Teruel	Externa	Mujeres	3	América	2018	135
+44	Teruel	Externa	Mujeres	4	Asia	2018	27
+44	Teruel	Externa	Mujeres	5	Otros continentes	2018	1
+44	Teruel	Interna	Hombres	1	Europa	2018	1257
+44	Teruel	Interna	Hombres	2	África	2018	209
+44	Teruel	Interna	Hombres	3	América	2018	46
+44	Teruel	Interna	Hombres	4	Asia	2018	18
+44	Teruel	Interna	Mujeres	1	Europa	2018	1349
+44	Teruel	Interna	Mujeres	2	África	2018	148
+44	Teruel	Interna	Mujeres	3	América	2018	83
+44	Teruel	Interna	Mujeres	4	Asia	2018	11
+50	Zaragoza	Externa	Hombres	1	Europa	2018	6437
+50	Zaragoza	Externa	Hombres	2	África	2018	1198
+50	Zaragoza	Externa	Hombres	3	América	2018	650
+50	Zaragoza	Externa	Hombres	4	Asia	2018	597
+50	Zaragoza	Externa	Hombres	5	Otros continentes	2018	5
+50	Zaragoza	Externa	Mujeres	1	Europa	2018	5518
+50	Zaragoza	Externa	Mujeres	2	África	2018	458
+50	Zaragoza	Externa	Mujeres	3	América	2018	1012
+50	Zaragoza	Externa	Mujeres	4	Asia	2018	218
+50	Zaragoza	Externa	Mujeres	5	Otros continentes	2018	1
+50	Zaragoza	Interna	Hombres	1	Europa	2018	6357
+50	Zaragoza	Interna	Hombres	2	África	2018	392
+50	Zaragoza	Interna	Hombres	3	América	2018	263
+50	Zaragoza	Interna	Hombres	4	Asia	2018	100
+50	Zaragoza	Interna	Mujeres	1	Europa	2018	6340
+50	Zaragoza	Interna	Mujeres	2	África	2018	211
+50	Zaragoza	Interna	Mujeres	3	América	2018	577
+50	Zaragoza	Interna	Mujeres	4	Asia	2018	34
+22	Huesca	Externa	Hombres	1	Europa	2017	2098
+22	Huesca	Externa	Hombres	2	África	2017	408
+22	Huesca	Externa	Hombres	3	América	2017	152
+22	Huesca	Externa	Hombres	4	Asia	2017	38
+22	Huesca	Externa	Hombres	5	Otros continentes	2017	1
+22	Huesca	Externa	Mujeres	1	Europa	2017	1893
+22	Huesca	Externa	Mujeres	2	África	2017	149
+22	Huesca	Externa	Mujeres	3	América	2017	202
+22	Huesca	Externa	Mujeres	4	Asia	2017	33
+22	Huesca	Externa	Mujeres	5	Otros continentes	2017	3
+22	Huesca	Interna	Hombres	1	Europa	2017	1833
+22	Huesca	Interna	Hombres	2	África	2017	170
+22	Huesca	Interna	Hombres	3	América	2017	67
+22	Huesca	Interna	Hombres	4	Asia	2017	16
+22	Huesca	Interna	Hombres	5	Otros continentes	2017	1
+22	Huesca	Interna	Mujeres	1	Europa	2017	1902
+22	Huesca	Interna	Mujeres	2	África	2017	95
+22	Huesca	Interna	Mujeres	3	América	2017	147
+22	Huesca	Interna	Mujeres	4	Asia	2017	7
+22	Huesca	Interna	Mujeres	5	Otros continentes	2017	1
+44	Teruel	Externa	Hombres	1	Europa	2017	1251
+44	Teruel	Externa	Hombres	2	África	2017	196
+44	Teruel	Externa	Hombres	3	América	2017	86
+44	Teruel	Externa	Hombres	4	Asia	2017	33
+44	Teruel	Externa	Mujeres	1	Europa	2017	1093
+44	Teruel	Externa	Mujeres	2	África	2017	99
+44	Teruel	Externa	Mujeres	3	América	2017	107
+44	Teruel	Externa	Mujeres	4	Asia	2017	25
+44	Teruel	Externa	Mujeres	5	Otros continentes	2017	1
+44	Teruel	Interna	Hombres	1	Europa	2017	1122
+44	Teruel	Interna	Hombres	2	África	2017	257
+44	Teruel	Interna	Hombres	3	América	2017	41
+44	Teruel	Interna	Hombres	4	Asia	2017	19
+44	Teruel	Interna	Hombres	5	Otros continentes	2017	2
+44	Teruel	Interna	Mujeres	1	Europa	2017	1243
+44	Teruel	Interna	Mujeres	2	África	2017	175
+44	Teruel	Interna	Mujeres	3	América	2017	50
+44	Teruel	Interna	Mujeres	4	Asia	2017	18
+44	Teruel	Interna	Mujeres	5	Otros continentes	2017	1
+50	Zaragoza	Externa	Hombres	1	Europa	2017	5696
+50	Zaragoza	Externa	Hombres	2	África	2017	2151
+50	Zaragoza	Externa	Hombres	3	América	2017	1517
+50	Zaragoza	Externa	Hombres	4	Asia	2017	977
+50	Zaragoza	Externa	Hombres	5	Otros continentes	2017	13
+50	Zaragoza	Externa	Mujeres	1	Europa	2017	5301
+50	Zaragoza	Externa	Mujeres	2	África	2017	900
+50	Zaragoza	Externa	Mujeres	3	América	2017	2155
+50	Zaragoza	Externa	Mujeres	4	Asia	2017	515
+50	Zaragoza	Externa	Mujeres	5	Otros continentes	2017	4
+50	Zaragoza	Interna	Hombres	1	Europa	2017	5818
+50	Zaragoza	Interna	Hombres	2	África	2017	398
+50	Zaragoza	Interna	Hombres	3	América	2017	176
+50	Zaragoza	Interna	Hombres	4	Asia	2017	91
+50	Zaragoza	Interna	Hombres	5	Otros continentes	2017	2
+50	Zaragoza	Interna	Mujeres	1	Europa	2017	6024
+50	Zaragoza	Interna	Mujeres	2	África	2017	216
+50	Zaragoza	Interna	Mujeres	3	América	2017	405
+50	Zaragoza	Interna	Mujeres	4	Asia	2017	27
+50	Zaragoza	Interna	Mujeres	5	Otros continentes	2017	1
+22	Huesca	Externa	Hombres	1	Europa	2016	1970
+22	Huesca	Externa	Hombres	2	África	2016	441
+22	Huesca	Externa	Hombres	3	América	2016	119
+22	Huesca	Externa	Hombres	4	Asia	2016	37
+22	Huesca	Externa	Hombres	5	Otros continentes	2016	1
+22	Huesca	Externa	Mujeres	1	Europa	2016	1841
+22	Huesca	Externa	Mujeres	2	África	2016	140
+22	Huesca	Externa	Mujeres	3	América	2016	164
+22	Huesca	Externa	Mujeres	4	Asia	2016	24
+22	Huesca	Externa	Mujeres	5	Otros continentes	2016	2
+22	Huesca	Interna	Hombres	1	Europa	2016	1789
+22	Huesca	Interna	Hombres	2	África	2016	141
+22	Huesca	Interna	Hombres	3	América	2016	54
+22	Huesca	Interna	Hombres	4	Asia	2016	19
+22	Huesca	Interna	Mujeres	1	Europa	2016	1833
+22	Huesca	Interna	Mujeres	2	África	2016	75
+22	Huesca	Interna	Mujeres	3	América	2016	106
+22	Huesca	Interna	Mujeres	4	Asia	2016	12
+44	Teruel	Externa	Hombres	1	Europa	2016	1249
+44	Teruel	Externa	Hombres	2	África	2016	229
+44	Teruel	Externa	Hombres	3	América	2016	66
+44	Teruel	Externa	Hombres	4	Asia	2016	46
+44	Teruel	Externa	Hombres	5	Otros continentes	2016	1
+44	Teruel	Externa	Mujeres	1	Europa	2016	1129
+44	Teruel	Externa	Mujeres	2	África	2016	98
+44	Teruel	Externa	Mujeres	3	América	2016	106
+44	Teruel	Externa	Mujeres	4	Asia	2016	24
+44	Teruel	Externa	Mujeres	5	Otros continentes	2016	1
+44	Teruel	Interna	Hombres	1	Europa	2016	1109
+44	Teruel	Interna	Hombres	2	África	2016	185
+44	Teruel	Interna	Hombres	3	América	2016	27
+44	Teruel	Interna	Hombres	4	Asia	2016	14
+44	Teruel	Interna	Mujeres	1	Europa	2016	1092
+44	Teruel	Interna	Mujeres	2	África	2016	131
+44	Teruel	Interna	Mujeres	3	América	2016	49
+44	Teruel	Interna	Mujeres	4	Asia	2016	10
+44	Teruel	Interna	Mujeres	5	Otros continentes	2016	1
+50	Zaragoza	Externa	Hombres	1	Europa	2016	6348
+50	Zaragoza	Externa	Hombres	2	África	2016	1921
+50	Zaragoza	Externa	Hombres	3	América	2016	693
+50	Zaragoza	Externa	Hombres	4	Asia	2016	730
+50	Zaragoza	Externa	Hombres	5	Otros continentes	2016	4
+50	Zaragoza	Externa	Mujeres	1	Europa	2016	5598
+50	Zaragoza	Externa	Mujeres	2	África	2016	652
+50	Zaragoza	Externa	Mujeres	3	América	2016	987
+50	Zaragoza	Externa	Mujeres	4	Asia	2016	315
+50	Zaragoza	Externa	Mujeres	5	Otros continentes	2016	3
+50	Zaragoza	Interna	Hombres	1	Europa	2016	5630
+50	Zaragoza	Interna	Hombres	2	África	2016	406
+50	Zaragoza	Interna	Hombres	3	América	2016	174
+50	Zaragoza	Interna	Hombres	4	Asia	2016	84
+50	Zaragoza	Interna	Hombres	5	Otros continentes	2016	1
+50	Zaragoza	Interna	Mujeres	1	Europa	2016	5701
+50	Zaragoza	Interna	Mujeres	2	África	2016	213
+50	Zaragoza	Interna	Mujeres	3	América	2016	408
+50	Zaragoza	Interna	Mujeres	4	Asia	2016	37
 22	Huesca	Externa	Hombres	1	Europa	2015	2083
 22	Huesca	Externa	Hombres	2	África	2015	424
 22	Huesca	Externa	Hombres	3	América	2015	114

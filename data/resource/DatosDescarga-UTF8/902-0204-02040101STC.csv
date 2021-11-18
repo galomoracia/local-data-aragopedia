@@ -1,4 +1,334 @@
 Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
+01	La Jacetania	Hombres	2020	307
+01	La Jacetania	Mujeres	2020	202
+02	Alto Gállego	Hombres	2020	263
+02	Alto Gállego	Mujeres	2020	182
+03	Sobrarbe	Hombres	2020	143
+03	Sobrarbe	Mujeres	2020	95
+04	La Ribagorza	Hombres	2020	176
+04	La Ribagorza	Mujeres	2020	185
+05	Cinco Villas	Hombres	2020	253
+05	Cinco Villas	Mujeres	2020	164
+06	Hoya de Huesca / Plana de Uesca	Hombres	2020	325
+06	Hoya de Huesca / Plana de Uesca	Mujeres	2020	145
+07	Somontano de Barbastro	Hombres	2020	170
+07	Somontano de Barbastro	Mujeres	2020	135
+08	Cinca Medio	Hombres	2020	149
+08	Cinca Medio	Mujeres	2020	86
+09	La Litera / La Llitera	Hombres	2020	239
+09	La Litera / La Llitera	Mujeres	2020	108
+10	Los Monegros	Hombres	2020	179
+10	Los Monegros	Mujeres	2020	143
+11	Bajo Cinca / Baix Cinca	Hombres	2020	61
+11	Bajo Cinca / Baix Cinca	Mujeres	2020	-80
+12	Tarazona y el Moncayo	Hombres	2020	80
+12	Tarazona y el Moncayo	Mujeres	2020	58
+13	Campo de Borja	Hombres	2020	136
+13	Campo de Borja	Mujeres	2020	88
+14	Aranda	Hombres	2020	17
+14	Aranda	Mujeres	2020	23
+15	Ribera Alta del Ebro	Hombres	2020	96
+15	Ribera Alta del Ebro	Mujeres	2020	159
+16	Valdejalón	Hombres	2020	233
+16	Valdejalón	Mujeres	2020	170
+17	Central	Hombres	2020	-1812
+17	Central	Mujeres	2020	-1785
+18	Ribera Baja del Ebro	Hombres	2020	63
+18	Ribera Baja del Ebro	Mujeres	2020	40
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2020	213
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	2020	73
+20	Comunidad de Calatayud	Hombres	2020	130
+20	Comunidad de Calatayud	Mujeres	2020	178
+21	Campo de Cariñena	Hombres	2020	66
+21	Campo de Cariñena	Mujeres	2020	62
+22	Campo de Belchite	Hombres	2020	67
+22	Campo de Belchite	Mujeres	2020	71
+23	Bajo Martín	Hombres	2020	84
+23	Bajo Martín	Mujeres	2020	27
+24	Campo de Daroca	Hombres	2020	46
+24	Campo de Daroca	Mujeres	2020	71
+25	Jiloca	Hombres	2020	166
+25	Jiloca	Mujeres	2020	144
+26	Cuencas Mineras	Hombres	2020	16
+26	Cuencas Mineras	Mujeres	2020	19
+27	Andorra-Sierra de Arcos	Hombres	2020	37
+27	Andorra-Sierra de Arcos	Mujeres	2020	13
+28	Bajo Aragón	Hombres	2020	122
+28	Bajo Aragón	Mujeres	2020	43
+29	Comunidad de Teruel	Hombres	2020	133
+29	Comunidad de Teruel	Mujeres	2020	97
+30	Maestrazgo	Hombres	2020	48
+30	Maestrazgo	Mujeres	2020	38
+31	Sierra de Albarracín	Hombres	2020	43
+31	Sierra de Albarracín	Mujeres	2020	27
+32	Gúdar-Javalambre	Hombres	2020	164
+32	Gúdar-Javalambre	Mujeres	2020	107
+33	Matarraña / Matarranya	Hombres	2020	120
+33	Matarraña / Matarranya	Mujeres	2020	78
+01	La Jacetania	Hombres	2019	66
+01	La Jacetania	Mujeres	2019	127
+02	Alto Gállego	Hombres	2019	-165
+02	Alto Gállego	Mujeres	2019	-104
+03	Sobrarbe	Hombres	2019	49
+03	Sobrarbe	Mujeres	2019	56
+04	La Ribagorza	Hombres	2019	66
+04	La Ribagorza	Mujeres	2019	37
+05	Cinco Villas	Hombres	2019	130
+05	Cinco Villas	Mujeres	2019	64
+06	Hoya de Huesca / Plana de Uesca	Hombres	2019	410
+06	Hoya de Huesca / Plana de Uesca	Mujeres	2019	488
+07	Somontano de Barbastro	Hombres	2019	131
+07	Somontano de Barbastro	Mujeres	2019	163
+08	Cinca Medio	Hombres	2019	186
+08	Cinca Medio	Mujeres	2019	97
+09	La Litera / La Llitera	Hombres	2019	250
+09	La Litera / La Llitera	Mujeres	2019	112
+10	Los Monegros	Hombres	2019	81
+10	Los Monegros	Mujeres	2019	63
+11	Bajo Cinca / Baix Cinca	Hombres	2019	346
+11	Bajo Cinca / Baix Cinca	Mujeres	2019	140
+12	Tarazona y el Moncayo	Hombres	2019	58
+12	Tarazona y el Moncayo	Mujeres	2019	66
+13	Campo de Borja	Hombres	2019	30
+13	Campo de Borja	Mujeres	2019	30
+14	Aranda	Hombres	2019	-57
+14	Aranda	Mujeres	2019	-60
+15	Ribera Alta del Ebro	Hombres	2019	127
+15	Ribera Alta del Ebro	Mujeres	2019	120
+16	Valdejalón	Hombres	2019	196
+16	Valdejalón	Mujeres	2019	110
+17	Central	Hombres	2019	5226
+17	Central	Mujeres	2019	5608
+18	Ribera Baja del Ebro	Hombres	2019	44
+18	Ribera Baja del Ebro	Mujeres	2019	22
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2019	190
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	2019	34
+20	Comunidad de Calatayud	Hombres	2019	183
+20	Comunidad de Calatayud	Mujeres	2019	132
+21	Campo de Cariñena	Hombres	2019	130
+21	Campo de Cariñena	Mujeres	2019	70
+22	Campo de Belchite	Hombres	2019	17
+22	Campo de Belchite	Mujeres	2019	9
+23	Bajo Martín	Hombres	2019	7
+23	Bajo Martín	Mujeres	2019	7
+24	Campo de Daroca	Hombres	2019	16
+24	Campo de Daroca	Mujeres	2019	-2
+25	Jiloca	Hombres	2019	81
+25	Jiloca	Mujeres	2019	82
+26	Cuencas Mineras	Hombres	2019	7
+26	Cuencas Mineras	Mujeres	2019	-18
+27	Andorra-Sierra de Arcos	Hombres	2019	-12
+27	Andorra-Sierra de Arcos	Mujeres	2019	-21
+28	Bajo Aragón	Hombres	2019	127
+28	Bajo Aragón	Mujeres	2019	50
+29	Comunidad de Teruel	Hombres	2019	262
+29	Comunidad de Teruel	Mujeres	2019	208
+30	Maestrazgo	Hombres	2019	20
+30	Maestrazgo	Mujeres	2019	-6
+31	Sierra de Albarracín	Hombres	2019	-16
+31	Sierra de Albarracín	Mujeres	2019	-10
+32	Gúdar-Javalambre	Hombres	2019	7
+32	Gúdar-Javalambre	Mujeres	2019	17
+33	Matarraña / Matarranya	Hombres	2019	10
+33	Matarraña / Matarranya	Mujeres	2019	20
+01	La Jacetania	Hombres	2018	64
+01	La Jacetania	Mujeres	2018	134
+02	Alto Gállego	Hombres	2018	-21
+02	Alto Gállego	Mujeres	2018	11
+03	Sobrarbe	Hombres	2018	-14
+03	Sobrarbe	Mujeres	2018	0
+04	La Ribagorza	Hombres	2018	-106
+04	La Ribagorza	Mujeres	2018	-86
+05	Cinco Villas	Hombres	2018	-149
+05	Cinco Villas	Mujeres	2018	-96
+06	Hoya de Huesca / Plana de Uesca	Hombres	2018	357
+06	Hoya de Huesca / Plana de Uesca	Mujeres	2018	415
+07	Somontano de Barbastro	Hombres	2018	89
+07	Somontano de Barbastro	Mujeres	2018	79
+08	Cinca Medio	Hombres	2018	126
+08	Cinca Medio	Mujeres	2018	115
+09	La Litera / La Llitera	Hombres	2018	84
+09	La Litera / La Llitera	Mujeres	2018	77
+10	Los Monegros	Hombres	2018	38
+10	Los Monegros	Mujeres	2018	9
+11	Bajo Cinca / Baix Cinca	Hombres	2018	163
+11	Bajo Cinca / Baix Cinca	Mujeres	2018	73
+12	Tarazona y el Moncayo	Hombres	2018	26
+12	Tarazona y el Moncayo	Mujeres	2018	-19
+13	Campo de Borja	Hombres	2018	19
+13	Campo de Borja	Mujeres	2018	38
+14	Aranda	Hombres	2018	-31
+14	Aranda	Mujeres	2018	-37
+15	Ribera Alta del Ebro	Hombres	2018	198
+15	Ribera Alta del Ebro	Mujeres	2018	71
+16	Valdejalón	Hombres	2018	314
+16	Valdejalón	Mujeres	2018	199
+17	Central	Hombres	2018	4405
+17	Central	Mujeres	2018	5413
+18	Ribera Baja del Ebro	Hombres	2018	-12
+18	Ribera Baja del Ebro	Mujeres	2018	5
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2018	88
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	2018	1
+20	Comunidad de Calatayud	Hombres	2018	-111
+20	Comunidad de Calatayud	Mujeres	2018	-173
+21	Campo de Cariñena	Hombres	2018	72
+21	Campo de Cariñena	Mujeres	2018	32
+22	Campo de Belchite	Hombres	2018	67
+22	Campo de Belchite	Mujeres	2018	46
+23	Bajo Martín	Hombres	2018	1
+23	Bajo Martín	Mujeres	2018	-6
+24	Campo de Daroca	Hombres	2018	30
+24	Campo de Daroca	Mujeres	2018	26
+25	Jiloca	Hombres	2018	42
+25	Jiloca	Mujeres	2018	-40
+26	Cuencas Mineras	Hombres	2018	-51
+26	Cuencas Mineras	Mujeres	2018	-50
+27	Andorra-Sierra de Arcos	Hombres	2018	-52
+27	Andorra-Sierra de Arcos	Mujeres	2018	-82
+28	Bajo Aragón	Hombres	2018	67
+28	Bajo Aragón	Mujeres	2018	76
+29	Comunidad de Teruel	Hombres	2018	252
+29	Comunidad de Teruel	Mujeres	2018	229
+30	Maestrazgo	Hombres	2018	12
+30	Maestrazgo	Mujeres	2018	0
+31	Sierra de Albarracín	Hombres	2018	12
+31	Sierra de Albarracín	Mujeres	2018	-15
+32	Gúdar-Javalambre	Hombres	2018	40
+32	Gúdar-Javalambre	Mujeres	2018	20
+33	Matarraña / Matarranya	Hombres	2018	50
+33	Matarraña / Matarranya	Mujeres	2018	23
+01	La Jacetania	Hombres	2017	-51
+01	La Jacetania	Mujeres	2017	4
+02	Alto Gállego	Hombres	2017	-31
+02	Alto Gállego	Mujeres	2017	-8
+03	Sobrarbe	Hombres	2017	36
+03	Sobrarbe	Mujeres	2017	37
+04	La Ribagorza	Hombres	2017	-4
+04	La Ribagorza	Mujeres	2017	46
+05	Cinco Villas	Hombres	2017	51
+05	Cinco Villas	Mujeres	2017	-2
+06	Hoya de Huesca / Plana de Uesca	Hombres	2017	77
+06	Hoya de Huesca / Plana de Uesca	Mujeres	2017	141
+07	Somontano de Barbastro	Hombres	2017	27
+07	Somontano de Barbastro	Mujeres	2017	17
+08	Cinca Medio	Hombres	2017	19
+08	Cinca Medio	Mujeres	2017	-23
+09	La Litera / La Llitera	Hombres	2017	88
+09	La Litera / La Llitera	Mujeres	2017	40
+10	Los Monegros	Hombres	2017	-12
+10	Los Monegros	Mujeres	2017	-41
+11	Bajo Cinca / Baix Cinca	Hombres	2017	17
+11	Bajo Cinca / Baix Cinca	Mujeres	2017	37
+12	Tarazona y el Moncayo	Hombres	2017	20
+12	Tarazona y el Moncayo	Mujeres	2017	-24
+13	Campo de Borja	Hombres	2017	60
+13	Campo de Borja	Mujeres	2017	39
+14	Aranda	Hombres	2017	-53
+14	Aranda	Mujeres	2017	-46
+15	Ribera Alta del Ebro	Hombres	2017	60
+15	Ribera Alta del Ebro	Mujeres	2017	62
+16	Valdejalón	Hombres	2017	241
+16	Valdejalón	Mujeres	2017	202
+17	Central	Hombres	2017	843
+17	Central	Mujeres	2017	1603
+18	Ribera Baja del Ebro	Hombres	2017	-43
+18	Ribera Baja del Ebro	Mujeres	2017	-27
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2017	52
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	2017	43
+20	Comunidad de Calatayud	Hombres	2017	95
+20	Comunidad de Calatayud	Mujeres	2017	36
+21	Campo de Cariñena	Hombres	2017	-27
+21	Campo de Cariñena	Mujeres	2017	-34
+22	Campo de Belchite	Hombres	2017	-26
+22	Campo de Belchite	Mujeres	2017	-16
+23	Bajo Martín	Hombres	2017	10
+23	Bajo Martín	Mujeres	2017	-8
+24	Campo de Daroca	Hombres	2017	3
+24	Campo de Daroca	Mujeres	2017	-24
+25	Jiloca	Hombres	2017	-23
+25	Jiloca	Mujeres	2017	-61
+26	Cuencas Mineras	Hombres	2017	-70
+26	Cuencas Mineras	Mujeres	2017	-42
+27	Andorra-Sierra de Arcos	Hombres	2017	-102
+27	Andorra-Sierra de Arcos	Mujeres	2017	-101
+28	Bajo Aragón	Hombres	2017	-4
+28	Bajo Aragón	Mujeres	2017	-26
+29	Comunidad de Teruel	Hombres	2017	54
+29	Comunidad de Teruel	Mujeres	2017	168
+30	Maestrazgo	Hombres	2017	-1
+30	Maestrazgo	Mujeres	2017	17
+31	Sierra de Albarracín	Hombres	2017	-12
+31	Sierra de Albarracín	Mujeres	2017	-10
+32	Gúdar-Javalambre	Hombres	2017	-6
+32	Gúdar-Javalambre	Mujeres	2017	-8
+33	Matarraña / Matarranya	Hombres	2017	8
+33	Matarraña / Matarranya	Mujeres	2017	16
+01	La Jacetania	Hombres	2016	-7
+01	La Jacetania	Mujeres	2016	0
+02	Alto Gállego	Hombres	2016	19
+02	Alto Gállego	Mujeres	2016	-8
+03	Sobrarbe	Hombres	2016	11
+03	Sobrarbe	Mujeres	2016	7
+04	La Ribagorza	Hombres	2016	5
+04	La Ribagorza	Mujeres	2016	17
+05	Cinco Villas	Hombres	2016	79
+05	Cinco Villas	Mujeres	2016	22
+06	Hoya de Huesca / Plana de Uesca	Hombres	2016	17
+06	Hoya de Huesca / Plana de Uesca	Mujeres	2016	18
+07	Somontano de Barbastro	Hombres	2016	-3
+07	Somontano de Barbastro	Mujeres	2016	43
+08	Cinca Medio	Hombres	2016	-21
+08	Cinca Medio	Mujeres	2016	-22
+09	La Litera / La Llitera	Hombres	2016	-16
+09	La Litera / La Llitera	Mujeres	2016	-49
+10	Los Monegros	Hombres	2016	-56
+10	Los Monegros	Mujeres	2016	-69
+11	Bajo Cinca / Baix Cinca	Hombres	2016	70
+11	Bajo Cinca / Baix Cinca	Mujeres	2016	39
+12	Tarazona y el Moncayo	Hombres	2016	-85
+12	Tarazona y el Moncayo	Mujeres	2016	-35
+13	Campo de Borja	Hombres	2016	-21
+13	Campo de Borja	Mujeres	2016	-24
+14	Aranda	Hombres	2016	-40
+14	Aranda	Mujeres	2016	-41
+15	Ribera Alta del Ebro	Hombres	2016	67
+15	Ribera Alta del Ebro	Mujeres	2016	115
+16	Valdejalón	Hombres	2016	80
+16	Valdejalón	Mujeres	2016	-2
+17	Central	Hombres	2016	503
+17	Central	Mujeres	2016	2112
+18	Ribera Baja del Ebro	Hombres	2016	-22
+18	Ribera Baja del Ebro	Mujeres	2016	-34
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2016	41
+19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	2016	-2
+20	Comunidad de Calatayud	Hombres	2016	-114
+20	Comunidad de Calatayud	Mujeres	2016	-72
+21	Campo de Cariñena	Hombres	2016	28
+21	Campo de Cariñena	Mujeres	2016	40
+22	Campo de Belchite	Hombres	2016	-19
+22	Campo de Belchite	Mujeres	2016	-32
+23	Bajo Martín	Hombres	2016	-30
+23	Bajo Martín	Mujeres	2016	-17
+24	Campo de Daroca	Hombres	2016	-20
+24	Campo de Daroca	Mujeres	2016	-30
+25	Jiloca	Hombres	2016	-62
+25	Jiloca	Mujeres	2016	-61
+26	Cuencas Mineras	Hombres	2016	-68
+26	Cuencas Mineras	Mujeres	2016	-49
+27	Andorra-Sierra de Arcos	Hombres	2016	-25
+27	Andorra-Sierra de Arcos	Mujeres	2016	-29
+28	Bajo Aragón	Hombres	2016	-75
+28	Bajo Aragón	Mujeres	2016	-80
+29	Comunidad de Teruel	Hombres	2016	-89
+29	Comunidad de Teruel	Mujeres	2016	11
+30	Maestrazgo	Hombres	2016	-11
+30	Maestrazgo	Mujeres	2016	-16
+31	Sierra de Albarracín	Hombres	2016	-17
+31	Sierra de Albarracín	Mujeres	2016	-17
+32	Gúdar-Javalambre	Hombres	2016	-48
+32	Gúdar-Javalambre	Mujeres	2016	-47
+33	Matarraña / Matarranya	Hombres	2016	0
+33	Matarraña / Matarranya	Mujeres	2016	13
 01	La Jacetania	Hombres	2015	-91
 01	La Jacetania	Mujeres	2015	-39
 02	Alto Gállego	Hombres	2015	-44
@@ -31,8 +361,8 @@ Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
 15	Ribera Alta del Ebro	Mujeres	2015	18
 16	Valdejalón	Hombres	2015	-87
 16	Valdejalón	Mujeres	2015	-77
-17	D.C. Zaragoza	Hombres	2015	341
-17	D.C. Zaragoza	Mujeres	2015	1591
+17	Central	Hombres	2015	341
+17	Central	Mujeres	2015	1591
 18	Ribera Baja del Ebro	Hombres	2015	-50
 18	Ribera Baja del Ebro	Mujeres	2015	-63
 19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2015	-145
@@ -97,8 +427,8 @@ Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
 15	Ribera Alta del Ebro	Mujeres	2014	-81
 16	Valdejalón	Hombres	2014	-277
 16	Valdejalón	Mujeres	2014	-120
-17	D.C. Zaragoza	Hombres	2014	1172
-17	D.C. Zaragoza	Mujeres	2014	1052
+17	Central	Hombres	2014	1172
+17	Central	Mujeres	2014	1052
 18	Ribera Baja del Ebro	Hombres	2014	-33
 18	Ribera Baja del Ebro	Mujeres	2014	-36
 19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2014	13
@@ -163,8 +493,8 @@ Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
 15	Ribera Alta del Ebro	Mujeres	2013	-88
 16	Valdejalón	Hombres	2013	-142
 16	Valdejalón	Mujeres	2013	-90
-17	D.C. Zaragoza	Hombres	2013	-72
-17	D.C. Zaragoza	Mujeres	2013	790
+17	Central	Hombres	2013	-72
+17	Central	Mujeres	2013	790
 18	Ribera Baja del Ebro	Hombres	2013	-28
 18	Ribera Baja del Ebro	Mujeres	2013	-16
 19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2013	-14
@@ -229,8 +559,8 @@ Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
 15	Ribera Alta del Ebro	Mujeres	2012	-33
 16	Valdejalón	Hombres	2012	-181
 16	Valdejalón	Mujeres	2012	-64
-17	D.C. Zaragoza	Hombres	2012	424
-17	D.C. Zaragoza	Mujeres	2012	1249
+17	Central	Hombres	2012	424
+17	Central	Mujeres	2012	1249
 18	Ribera Baja del Ebro	Hombres	2012	-35
 18	Ribera Baja del Ebro	Mujeres	2012	-40
 19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2012	-42
@@ -295,8 +625,8 @@ Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
 15	Ribera Alta del Ebro	Mujeres	2011	99
 16	Valdejalón	Hombres	2011	-24
 16	Valdejalón	Mujeres	2011	-77
-17	D.C. Zaragoza	Hombres	2011	1927
-17	D.C. Zaragoza	Mujeres	2011	3586
+17	Central	Hombres	2011	1927
+17	Central	Mujeres	2011	3586
 18	Ribera Baja del Ebro	Hombres	2011	-2
 18	Ribera Baja del Ebro	Mujeres	2011	-14
 19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2011	-2
@@ -361,8 +691,8 @@ Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
 15	Ribera Alta del Ebro	Mujeres	2010	9
 16	Valdejalón	Hombres	2010	-354
 16	Valdejalón	Mujeres	2010	-201
-17	D.C. Zaragoza	Hombres	2010	44
-17	D.C. Zaragoza	Mujeres	2010	2240
+17	Central	Hombres	2010	44
+17	Central	Mujeres	2010	2240
 18	Ribera Baja del Ebro	Hombres	2010	1
 18	Ribera Baja del Ebro	Mujeres	2010	-23
 19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2010	-83
@@ -427,8 +757,8 @@ Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
 15	Ribera Alta del Ebro	Mujeres	2009	31
 16	Valdejalón	Hombres	2009	137
 16	Valdejalón	Mujeres	2009	126
-17	D.C. Zaragoza	Hombres	2009	1584
-17	D.C. Zaragoza	Mujeres	2009	2872
+17	Central	Hombres	2009	1584
+17	Central	Mujeres	2009	2872
 18	Ribera Baja del Ebro	Hombres	2009	-7
 18	Ribera Baja del Ebro	Mujeres	2009	31
 19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2009	138
@@ -493,8 +823,8 @@ Comarca código	Comarca nombre	Sexo	Año	Saldo migratorio
 15	Ribera Alta del Ebro	Mujeres	2008	369
 16	Valdejalón	Hombres	2008	536
 16	Valdejalón	Mujeres	2008	405
-17	D.C. Zaragoza	Hombres	2008	6532
-17	D.C. Zaragoza	Mujeres	2008	5765
+17	Central	Hombres	2008	6532
+17	Central	Mujeres	2008	5765
 18	Ribera Baja del Ebro	Hombres	2008	60
 18	Ribera Baja del Ebro	Mujeres	2008	30
 19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	2008	400

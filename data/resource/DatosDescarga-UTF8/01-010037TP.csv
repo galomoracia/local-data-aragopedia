@@ -1,4 +1,60 @@
 Año	Provincia código	Provincia nombre	Tipo de vehículo	Tipo de vehículo (orden)	Cantidad
+2020	22	Huesca	Turismos	1	120944
+2020	22	Huesca	Camiones y furgonetas	3	37667
+2020	22	Huesca	Autobuses	4	378
+2020	22	Huesca	Tractores industriales	5	1980
+2020	22	Huesca	Motocicletas	7	15086
+2020	22	Huesca	Ciclomotores	8	9432
+2020	22	Huesca	Otros vehículos	9	9978
+2020	44	Teruel	Turismos	1	75916
+2020	44	Teruel	Camiones y furgonetas	3	25014
+2020	44	Teruel	Autobuses	4	100
+2020	44	Teruel	Tractores industriales	5	1803
+2020	44	Teruel	Motocicletas	7	9000
+2020	44	Teruel	Ciclomotores	8	7250
+2020	44	Teruel	Otros vehículos	9	7088
+2020	50	Zaragoza	Turismos	1	427645
+2020	50	Zaragoza	Camiones y furgonetas	3	81738
+2020	50	Zaragoza	Autobuses	4	1032
+2020	50	Zaragoza	Tractores industriales	5	5815
+2020	50	Zaragoza	Motocicletas	7	58044
+2020	50	Zaragoza	Ciclomotores	8	29849
+2020	50	Zaragoza	Otros vehículos	9	26298
+2020	99	Sin clasificar	Turismos	1	35
+2020	99	Sin clasificar	Camiones y furgonetas	3	17
+2020	99	Sin clasificar	Autobuses	4	0
+2020	99	Sin clasificar	Tractores industriales	5	1
+2020	99	Sin clasificar	Motocicletas	7	1
+2020	99	Sin clasificar	Ciclomotores	8	1
+2020	99	Sin clasificar	Otros vehículos	9	2
+2019	22	Huesca	Turismos	1	119659
+2019	22	Huesca	Camiones y furgonetas	3	37672
+2019	22	Huesca	Autobuses	4	386
+2019	22	Huesca	Tractores industriales	5	1963
+2019	22	Huesca	Motocicletas	7	14580
+2019	22	Huesca	Ciclomotores	8	9486
+2019	22	Huesca	Otros vehículos	9	9694
+2019	44	Teruel	Turismos	1	75034
+2019	44	Teruel	Camiones y furgonetas	3	24834
+2019	44	Teruel	Autobuses	4	98
+2019	44	Teruel	Tractores industriales	5	1809
+2019	44	Teruel	Motocicletas	7	8683
+2019	44	Teruel	Ciclomotores	8	7231
+2019	44	Teruel	Otros vehículos	9	6806
+2019	50	Zaragoza	Turismos	1	423297
+2019	50	Zaragoza	Camiones y furgonetas	3	81888
+2019	50	Zaragoza	Autobuses	4	1048
+2019	50	Zaragoza	Tractores industriales	5	5853
+2019	50	Zaragoza	Motocicletas	7	56109
+2019	50	Zaragoza	Ciclomotores	8	30220
+2019	50	Zaragoza	Otros vehículos	9	25265
+2019	99	Sin clasificar	Turismos	1	30
+2019	99	Sin clasificar	Camiones y furgonetas	3	16
+2019	99	Sin clasificar	Autobuses	4	0
+2019	99	Sin clasificar	Tractores industriales	5	1
+2019	99	Sin clasificar	Motocicletas	7	2
+2019	99	Sin clasificar	Ciclomotores	8	1
+2019	99	Sin clasificar	Otros vehículos	9	2
 2018	22	Huesca	Turismos	1	117130
 2018	22	Huesca	Camiones y furgonetas	3	37512
 2018	22	Huesca	Autobuses	4	376
@@ -27,6 +83,83 @@ Año	Provincia código	Provincia nombre	Tipo de vehículo	Tipo de vehículo (ord
 2018	99	Sin clasificar	Motocicletas	7	3
 2018	99	Sin clasificar	Ciclomotores	8	1
 2018	99	Sin clasificar	Otros vehículos	9	2
+2017	22	Huesca	Turismos	1	116506
+2017	22	Huesca	Camiones y furgonetas	3	35528
+2017	22	Huesca	Autobuses	4	377
+2017	22	Huesca	Tractores industriales	5	1915
+2017	22	Huesca	Motocicletas	7	13653
+2017	22	Huesca	Ciclomotores	8	9674
+2017	22	Huesca	Otros vehículos	9	9085
+2017	44	Teruel	Turismos	1	73025
+2017	44	Teruel	Camiones y furgonetas	3	23131
+2017	44	Teruel	Autobuses	4	92
+2017	44	Teruel	Tractores industriales	5	1660
+2017	44	Teruel	Motocicletas	7	7912
+2017	44	Teruel	Ciclomotores	8	7432
+2017	44	Teruel	Otros vehículos	9	6297
+2017	50	Zaragoza	Turismos	1	413228
+2017	50	Zaragoza	Camiones y furgonetas	3	80438
+2017	50	Zaragoza	Autobuses	4	1019
+2017	50	Zaragoza	Tractores industriales	5	5776
+2017	50	Zaragoza	Motocicletas	7	52549
+2017	50	Zaragoza	Ciclomotores	8	31431
+2017	50	Zaragoza	Otros vehículos	9	23528
+2017	99	Sin clasificar	Turismos	1	18
+2017	99	Sin clasificar	Camiones y furgonetas	3	8
+2017	99	Sin clasificar	Autobuses	4	0
+2017	99	Sin clasificar	Tractores industriales	5	1
+2017	99	Sin clasificar	Motocicletas	7	3
+2017	99	Sin clasificar	Ciclomotores	8	0
+2017	99	Sin clasificar	Otros vehículos	9	1
+2016	22	Huesca	Turismos	1	112309
+2016	22	Huesca	Camiones y furgonetas	3	37285
+2016	22	Huesca	Autobuses	4	368
+2016	22	Huesca	Tractores industriales	5	1824
+2016	22	Huesca	Motocicletas	7	13244
+2016	22	Huesca	Ciclomotores	8	9766
+2016	22	Huesca	Otros vehículos	9	8810
+2016	44	Teruel	Turismos	1	70443
+2016	44	Teruel	Camiones y furgonetas	3	24160
+2016	44	Teruel	Autobuses	4	93
+2016	44	Teruel	Tractores industriales	5	1571
+2016	44	Teruel	Motocicletas	7	7598
+2016	44	Teruel	Ciclomotores	8	7547
+2016	44	Teruel	Otros vehículos	9	6093
+2016	50	Zaragoza	Turismos	1	402362
+2016	50	Zaragoza	Camiones y furgonetas	3	82796
+2016	50	Zaragoza	Autobuses	4	1051
+2016	50	Zaragoza	Tractores industriales	5	5515
+2016	50	Zaragoza	Motocicletas	7	51224
+2016	50	Zaragoza	Ciclomotores	8	32020
+2016	50	Zaragoza	Otros vehículos	9	22900
+2016	99	Sin clasificar	Turismos	1	18
+2016	99	Sin clasificar	Camiones y furgonetas	3	7
+2016	99	Sin clasificar	Autobuses	4	0
+2016	99	Sin clasificar	Tractores industriales	5	0
+2016	99	Sin clasificar	Motocicletas	7	3
+2016	99	Sin clasificar	Ciclomotores	8	0
+2016	99	Sin clasificar	Otros vehículos	9	1
+2015	22	Huesca	Turismos	1	110102
+2015	22	Huesca	Camiones y furgonetas	3	37271
+2015	22	Huesca	Autobuses	4	363
+2015	22	Huesca	Tractores industriales	5	1813
+2015	22	Huesca	Motocicletas	7	12857
+2015	22	Huesca	Ciclomotores	8	9914
+2015	22	Huesca	Otros vehículos	9	10865
+2015	44	Teruel	Turismos	1	69117
+2015	44	Teruel	Camiones y furgonetas	3	24256
+2015	44	Teruel	Autobuses	4	98
+2015	44	Teruel	Tractores industriales	5	1411
+2015	44	Teruel	Motocicletas	7	7234
+2015	44	Teruel	Ciclomotores	8	7644
+2015	44	Teruel	Otros vehículos	9	6448
+2015	50	Zaragoza	Turismos	1	393880
+2015	50	Zaragoza	Camiones y furgonetas	3	83124
+2015	50	Zaragoza	Autobuses	4	1046
+2015	50	Zaragoza	Tractores industriales	5	5269
+2015	50	Zaragoza	Motocicletas	7	49314
+2015	50	Zaragoza	Ciclomotores	8	32789
+2015	50	Zaragoza	Otros vehículos	9	24237
 2014	22	Huesca	Turismos	1	109182
 2014	22	Huesca	Camiones y furgonetas	3	37384
 2014	22	Huesca	Autobuses	4	346

@@ -2410,8 +2410,8 @@ Municipio codigo	Municipio nombre	Sexo, código	Sexo	Relación lugar de residenc
 50041	Bagüés	1	Hombre	02	Otro municipio de la misma provincia	1,5463398866
 50041	Bagüés	1	Hombre	03	Otro municipio de Aragón	3,5964839456
 50041	Bagüés	1	Hombre	05	Resto de España	1,0807417514
-50042	Balconchán	1	Hombre	01	El mismo municipio que reside	5,0
-50042	Balconchán	1	Hombre	02	Otro municipio de la misma provincia	5,0
+50042	Balconchán	1	Hombre	01	El mismo municipio que reside	5
+50042	Balconchán	1	Hombre	02	Otro municipio de la misma provincia	5
 50043	Bárboles	1	Hombre	01	El mismo municipio que reside	68,6913376849
 50043	Bárboles	1	Hombre	02	Otro municipio de la misma provincia	80,8427895538
 50043	Bárboles	1	Hombre	04	En una provincia limítrofe a Aragón	1,1480653912
@@ -6028,7 +6028,7 @@ Municipio codigo	Municipio nombre	Sexo, código	Sexo	Relación lugar de residenc
 50041	Bagüés	6	Mujer	02	Otro municipio de la misma provincia	3,1930092984
 50041	Bagüés	6	Mujer	03	Otro municipio de Aragón	4,2355450126
 50041	Bagüés	6	Mujer	04	En una provincia limítrofe a Aragón	0,5312731411
-50042	Balconchán	6	Mujer	02	Otro municipio de la misma provincia	5,0
+50042	Balconchán	6	Mujer	02	Otro municipio de la misma provincia	5
 50043	Bárboles	6	Mujer	01	El mismo municipio que reside	44,6597646214
 50043	Bárboles	6	Mujer	02	Otro municipio de la misma provincia	77,4699738774
 50043	Bárboles	6	Mujer	04	En una provincia limítrofe a Aragón	0,5740326956
@@ -6502,7 +6502,7 @@ Municipio codigo	Municipio nombre	Sexo, código	Sexo	Relación lugar de residenc
 50143	Longares	6	Mujer	04	En una provincia limítrofe a Aragón	5,3993916004
 50143	Longares	6	Mujer	05	Resto de España	3,306006379
 50143	Longares	6	Mujer	06	El Extranjero	52,6511705082
-50144	Longás	6	Mujer	02	Otro municipio de la misma provincia	10,0
+50144	Longás	6	Mujer	02	Otro municipio de la misma provincia	10
 50146	Lucena de Jalón	6	Mujer	01	El mismo municipio que reside	60,7879359142
 50146	Lucena de Jalón	6	Mujer	02	Otro municipio de la misma provincia	38,6327226239
 50146	Lucena de Jalón	6	Mujer	04	En una provincia limítrofe a Aragón	1,3791277014
