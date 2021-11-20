@@ -1,274 +1,2104 @@
 Mes y año	Provincia código	Provincia nombre	Sector código	Sector descripción	Sexo	Nº parados
-October 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	756
-October 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	330
-October 2020	22	Huesca	2	Industria y energía	Hombres	577
-October 2020	22	Huesca	2	Industria y energía	Mujeres	374
-October 2020	22	Huesca	3	Construcción	Hombres	623
-October 2020	22	Huesca	3	Construcción	Mujeres	100
-October 2020	22	Huesca	4	Servicios	Hombres	2431
-October 2020	22	Huesca	4	Servicios	Mujeres	4886
-October 2020	22	Huesca		Sin empleo anterior	Hombres	361
-October 2020	22	Huesca		Sin empleo anterior	Mujeres	611
-October 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	298
-October 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	173
-October 2020	44	Teruel	2	Industria y energía	Hombres	469
-October 2020	44	Teruel	2	Industria y energía	Mujeres	319
-October 2020	44	Teruel	3	Construcción	Hombres	414
-October 2020	44	Teruel	3	Construcción	Mujeres	58
-October 2020	44	Teruel	4	Servicios	Hombres	1419
-October 2020	44	Teruel	4	Servicios	Mujeres	2854
-October 2020	44	Teruel		Sin empleo anterior	Hombres	185
-October 2020	44	Teruel		Sin empleo anterior	Mujeres	419
-October 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2282
-October 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1278
-October 2020	50	Zaragoza	2	Industria y energía	Hombres	3757
-October 2020	50	Zaragoza	2	Industria y energía	Mujeres	3047
-October 2020	50	Zaragoza	3	Construcción	Hombres	3035
-October 2020	50	Zaragoza	3	Construcción	Mujeres	492
-October 2020	50	Zaragoza	4	Servicios	Hombres	13757
-October 2020	50	Zaragoza	4	Servicios	Mujeres	26711
-October 2020	50	Zaragoza		Sin empleo anterior	Hombres	2021
-October 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3829
-June 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	441
-June 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	208
-June 2020	22	Huesca	2	Industria y energía	Hombres	565
-June 2020	22	Huesca	2	Industria y energía	Mujeres	316
-June 2020	22	Huesca	3	Construcción	Hombres	634
-June 2020	22	Huesca	3	Construcción	Mujeres	87
-June 2020	22	Huesca	4	Servicios	Hombres	2283
-June 2020	22	Huesca	4	Servicios	Mujeres	4620
-June 2020	22	Huesca		Sin empleo anterior	Hombres	269
-June 2020	22	Huesca		Sin empleo anterior	Mujeres	499
-June 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	250
-June 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	136
-June 2020	44	Teruel	2	Industria y energía	Hombres	543
-June 2020	44	Teruel	2	Industria y energía	Mujeres	335
-June 2020	44	Teruel	3	Construcción	Hombres	429
-June 2020	44	Teruel	3	Construcción	Mujeres	67
-June 2020	44	Teruel	4	Servicios	Hombres	1429
-June 2020	44	Teruel	4	Servicios	Mujeres	2803
-June 2020	44	Teruel		Sin empleo anterior	Hombres	148
-June 2020	44	Teruel		Sin empleo anterior	Mujeres	338
-June 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1617
-June 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	907
-June 2020	50	Zaragoza	2	Industria y energía	Hombres	3789
-June 2020	50	Zaragoza	2	Industria y energía	Mujeres	3191
-June 2020	50	Zaragoza	3	Construcción	Hombres	3056
-June 2020	50	Zaragoza	3	Construcción	Mujeres	511
-June 2020	50	Zaragoza	4	Servicios	Hombres	14841
-June 2020	50	Zaragoza	4	Servicios	Mujeres	27274
-June 2020	50	Zaragoza		Sin empleo anterior	Hombres	1604
-June 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3270
-March 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	746
-March 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	290
-March 2017	22	Huesca	2	Industria y energía	Hombres	533
-March 2017	22	Huesca	2	Industria y energía	Mujeres	377
-March 2017	22	Huesca	3	Construcción	Hombres	836
-March 2017	22	Huesca	3	Construcción	Mujeres	99
-March 2017	22	Huesca	4	Servicios	Hombres	2095
-March 2017	22	Huesca	4	Servicios	Mujeres	4296
-March 2017	22	Huesca		Sin empleo anterior	Hombres	270
-March 2017	22	Huesca		Sin empleo anterior	Mujeres	564
-March 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	378
-March 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	189
-March 2017	44	Teruel	2	Industria y energía	Hombres	535
-March 2017	44	Teruel	2	Industria y energía	Mujeres	396
-March 2017	44	Teruel	3	Construcción	Hombres	592
-March 2017	44	Teruel	3	Construcción	Mujeres	73
-March 2017	44	Teruel	4	Servicios	Hombres	1352
-March 2017	44	Teruel	4	Servicios	Mujeres	2842
-March 2017	44	Teruel		Sin empleo anterior	Hombres	159
-March 2017	44	Teruel		Sin empleo anterior	Mujeres	372
-March 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2698
-March 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1025
-March 2017	50	Zaragoza	2	Industria y energía	Hombres	3464
-March 2017	50	Zaragoza	2	Industria y energía	Mujeres	3216
-March 2017	50	Zaragoza	3	Construcción	Hombres	3816
-March 2017	50	Zaragoza	3	Construcción	Mujeres	581
-March 2017	50	Zaragoza	4	Servicios	Hombres	13587
-March 2017	50	Zaragoza	4	Servicios	Mujeres	26396
-March 2017	50	Zaragoza		Sin empleo anterior	Hombres	1910
-March 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3846
-February 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	720
-February 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	308
-February 2017	22	Huesca	2	Industria y energía	Hombres	565
-February 2017	22	Huesca	2	Industria y energía	Mujeres	397
-February 2017	22	Huesca	3	Construcción	Hombres	842
-February 2017	22	Huesca	3	Construcción	Mujeres	104
-February 2017	22	Huesca	4	Servicios	Hombres	2160
-February 2017	22	Huesca	4	Servicios	Mujeres	4388
-February 2017	22	Huesca		Sin empleo anterior	Hombres	262
-February 2017	22	Huesca		Sin empleo anterior	Mujeres	556
-February 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	356
-February 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	157
-February 2017	44	Teruel	2	Industria y energía	Hombres	580
-February 2017	44	Teruel	2	Industria y energía	Mujeres	422
-February 2017	44	Teruel	3	Construcción	Hombres	673
-February 2017	44	Teruel	3	Construcción	Mujeres	69
-February 2017	44	Teruel	4	Servicios	Hombres	1430
-February 2017	44	Teruel	4	Servicios	Mujeres	2909
-February 2017	44	Teruel		Sin empleo anterior	Hombres	161
-February 2017	44	Teruel		Sin empleo anterior	Mujeres	361
-February 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2538
-February 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1052
-February 2017	50	Zaragoza	2	Industria y energía	Hombres	3446
-February 2017	50	Zaragoza	2	Industria y energía	Mujeres	3265
-February 2017	50	Zaragoza	3	Construcción	Hombres	4058
-February 2017	50	Zaragoza	3	Construcción	Mujeres	596
-February 2017	50	Zaragoza	4	Servicios	Hombres	13973
-February 2017	50	Zaragoza	4	Servicios	Mujeres	27062
-February 2017	50	Zaragoza		Sin empleo anterior	Hombres	1865
-February 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3818
-May 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	662
-May 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	271
-May 2016	22	Huesca	2	Industria y energía	Hombres	633
-May 2016	22	Huesca	2	Industria y energía	Mujeres	422
-May 2016	22	Huesca	3	Construcción	Hombres	1030
-May 2016	22	Huesca	3	Construcción	Mujeres	117
-May 2016	22	Huesca	4	Servicios	Hombres	2353
-May 2016	22	Huesca	4	Servicios	Mujeres	4500
-May 2016	22	Huesca		Sin empleo anterior	Hombres	320
-May 2016	22	Huesca		Sin empleo anterior	Mujeres	623
-May 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	349
-May 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	168
-May 2016	44	Teruel	2	Industria y energía	Hombres	599
-May 2016	44	Teruel	2	Industria y energía	Mujeres	469
-May 2016	44	Teruel	3	Construcción	Hombres	770
-May 2016	44	Teruel	3	Construcción	Mujeres	92
-May 2016	44	Teruel	4	Servicios	Hombres	1570
-May 2016	44	Teruel	4	Servicios	Mujeres	3013
-May 2016	44	Teruel		Sin empleo anterior	Hombres	193
-May 2016	44	Teruel		Sin empleo anterior	Mujeres	413
-May 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2284
-May 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	886
-May 2016	50	Zaragoza	2	Industria y energía	Hombres	4145
-May 2016	50	Zaragoza	2	Industria y energía	Mujeres	3691
-May 2016	50	Zaragoza	3	Construcción	Hombres	4469
-May 2016	50	Zaragoza	3	Construcción	Mujeres	714
-May 2016	50	Zaragoza	4	Servicios	Hombres	14689
-May 2016	50	Zaragoza	4	Servicios	Mujeres	27493
-May 2016	50	Zaragoza		Sin empleo anterior	Hombres	2061
-May 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4087
-April 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	861
-April 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	318
-April 2016	22	Huesca	2	Industria y energía	Hombres	678
-April 2016	22	Huesca	2	Industria y energía	Mujeres	427
-April 2016	22	Huesca	3	Construcción	Hombres	1101
-April 2016	22	Huesca	3	Construcción	Mujeres	121
-April 2016	22	Huesca	4	Servicios	Hombres	2592
-April 2016	22	Huesca	4	Servicios	Mujeres	4826
-April 2016	22	Huesca		Sin empleo anterior	Hombres	321
-April 2016	22	Huesca		Sin empleo anterior	Mujeres	633
-April 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	437
-April 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	217
-April 2016	44	Teruel	2	Industria y energía	Hombres	612
-April 2016	44	Teruel	2	Industria y energía	Mujeres	476
-April 2016	44	Teruel	3	Construcción	Hombres	847
-April 2016	44	Teruel	3	Construcción	Mujeres	92
-April 2016	44	Teruel	4	Servicios	Hombres	1701
-April 2016	44	Teruel	4	Servicios	Mujeres	3107
-April 2016	44	Teruel		Sin empleo anterior	Hombres	189
-April 2016	44	Teruel		Sin empleo anterior	Mujeres	413
-April 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2886
-April 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1020
-April 2016	50	Zaragoza	2	Industria y energía	Hombres	4376
-April 2016	50	Zaragoza	2	Industria y energía	Mujeres	3837
-April 2016	50	Zaragoza	3	Construcción	Hombres	4753
-April 2016	50	Zaragoza	3	Construcción	Mujeres	722
-April 2016	50	Zaragoza	4	Servicios	Hombres	15588
-April 2016	50	Zaragoza	4	Servicios	Mujeres	28302
-April 2016	50	Zaragoza		Sin empleo anterior	Hombres	2091
-April 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4203
-March 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	934
-March 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	333
-March 2016	22	Huesca	2	Industria y energía	Hombres	716
-March 2016	22	Huesca	2	Industria y energía	Mujeres	455
-March 2016	22	Huesca	3	Construcción	Hombres	1153
-March 2016	22	Huesca	3	Construcción	Mujeres	125
-March 2016	22	Huesca	4	Servicios	Hombres	2503
-March 2016	22	Huesca	4	Servicios	Mujeres	4713
-March 2016	22	Huesca		Sin empleo anterior	Hombres	303
-March 2016	22	Huesca		Sin empleo anterior	Mujeres	634
-March 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	456
-March 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	214
-March 2016	44	Teruel	2	Industria y energía	Hombres	649
-March 2016	44	Teruel	2	Industria y energía	Mujeres	488
-March 2016	44	Teruel	3	Construcción	Hombres	950
-March 2016	44	Teruel	3	Construcción	Mujeres	91
-March 2016	44	Teruel	4	Servicios	Hombres	1721
-March 2016	44	Teruel	4	Servicios	Mujeres	3142
-March 2016	44	Teruel		Sin empleo anterior	Hombres	185
-March 2016	44	Teruel		Sin empleo anterior	Mujeres	409
-March 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	3103
-March 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1054
-March 2016	50	Zaragoza	2	Industria y energía	Hombres	4529
-March 2016	50	Zaragoza	2	Industria y energía	Mujeres	3825
-March 2016	50	Zaragoza	3	Construcción	Hombres	5001
-March 2016	50	Zaragoza	3	Construcción	Mujeres	750
-March 2016	50	Zaragoza	4	Servicios	Hombres	16134
-March 2016	50	Zaragoza	4	Servicios	Mujeres	28753
-March 2016	50	Zaragoza		Sin empleo anterior	Hombres	2105
-March 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4213
-February 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	937
-February 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	357
-February 2016	22	Huesca	2	Industria y energía	Hombres	780
-February 2016	22	Huesca	2	Industria y energía	Mujeres	466
-February 2016	22	Huesca	3	Construcción	Hombres	1189
-February 2016	22	Huesca	3	Construcción	Mujeres	123
-February 2016	22	Huesca	4	Servicios	Hombres	2563
-February 2016	22	Huesca	4	Servicios	Mujeres	4899
-February 2016	22	Huesca		Sin empleo anterior	Hombres	283
-February 2016	22	Huesca		Sin empleo anterior	Mujeres	623
-February 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	449
-February 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	195
-February 2016	44	Teruel	2	Industria y energía	Hombres	674
-February 2016	44	Teruel	2	Industria y energía	Mujeres	503
-February 2016	44	Teruel	3	Construcción	Hombres	943
-February 2016	44	Teruel	3	Construcción	Mujeres	98
-February 2016	44	Teruel	4	Servicios	Hombres	1788
-February 2016	44	Teruel	4	Servicios	Mujeres	3284
-February 2016	44	Teruel		Sin empleo anterior	Hombres	185
-February 2016	44	Teruel		Sin empleo anterior	Mujeres	404
-February 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	3008
-February 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1065
-February 2016	50	Zaragoza	2	Industria y energía	Hombres	4408
-February 2016	50	Zaragoza	2	Industria y energía	Mujeres	3710
-February 2016	50	Zaragoza	3	Construcción	Hombres	5074
-February 2016	50	Zaragoza	3	Construcción	Mujeres	773
-February 2016	50	Zaragoza	4	Servicios	Hombres	16292
-February 2016	50	Zaragoza	4	Servicios	Mujeres	29358
-February 2016	50	Zaragoza		Sin empleo anterior	Hombres	2070
-February 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4181
-January 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	884
-January 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	336
-January 2016	22	Huesca	2	Industria y energía	Hombres	812
-January 2016	22	Huesca	2	Industria y energía	Mujeres	479
-January 2016	22	Huesca	3	Construcción	Hombres	1192
-January 2016	22	Huesca	3	Construcción	Mujeres	123
-January 2016	22	Huesca	4	Servicios	Hombres	2618
-January 2016	22	Huesca	4	Servicios	Mujeres	4962
-January 2016	22	Huesca		Sin empleo anterior	Hombres	286
-January 2016	22	Huesca		Sin empleo anterior	Mujeres	614
-January 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	459
-January 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	219
-January 2016	44	Teruel	2	Industria y energía	Hombres	687
-January 2016	44	Teruel	2	Industria y energía	Mujeres	506
-January 2016	44	Teruel	3	Construcción	Hombres	960
-January 2016	44	Teruel	3	Construcción	Mujeres	98
-January 2016	44	Teruel	4	Servicios	Hombres	1875
-January 2016	44	Teruel	4	Servicios	Mujeres	3337
-January 2016	44	Teruel		Sin empleo anterior	Hombres	180
-January 2016	44	Teruel		Sin empleo anterior	Mujeres	391
-January 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2919
-January 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1051
-January 2016	50	Zaragoza	2	Industria y energía	Hombres	4521
-January 2016	50	Zaragoza	2	Industria y energía	Mujeres	3800
-January 2016	50	Zaragoza	3	Construcción	Hombres	5122
-January 2016	50	Zaragoza	3	Construcción	Mujeres	794
-January 2016	50	Zaragoza	4	Servicios	Hombres	16384
-January 2016	50	Zaragoza	4	Servicios	Mujeres	29583
-January 2016	50	Zaragoza		Sin empleo anterior	Hombres	2016
-January 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4137
+Octubre 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	479
+Octubre 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	239
+Octubre 2021	22	Huesca	2	Industria y energía	Hombres	487
+Octubre 2021	22	Huesca	2	Industria y energía	Mujeres	314
+Octubre 2021	22	Huesca	3	Construcción	Hombres	515
+Octubre 2021	22	Huesca	3	Construcción	Mujeres	71
+Octubre 2021	22	Huesca	4	Servicios	Hombres	1816
+Octubre 2021	22	Huesca	4	Servicios	Mujeres	4001
+Octubre 2021	22	Huesca		Sin empleo anterior	Hombres	202
+Octubre 2021	22	Huesca		Sin empleo anterior	Mujeres	358
+Octubre 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	233
+Octubre 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	126
+Octubre 2021	44	Teruel	2	Industria y energía	Hombres	352
+Octubre 2021	44	Teruel	2	Industria y energía	Mujeres	256
+Octubre 2021	44	Teruel	3	Construcción	Hombres	297
+Octubre 2021	44	Teruel	3	Construcción	Mujeres	42
+Octubre 2021	44	Teruel	4	Servicios	Hombres	1087
+Octubre 2021	44	Teruel	4	Servicios	Mujeres	2409
+Octubre 2021	44	Teruel		Sin empleo anterior	Hombres	114
+Octubre 2021	44	Teruel		Sin empleo anterior	Mujeres	273
+Octubre 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1670
+Octubre 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1070
+Octubre 2021	50	Zaragoza	2	Industria y energía	Hombres	3199
+Octubre 2021	50	Zaragoza	2	Industria y energía	Mujeres	2814
+Octubre 2021	50	Zaragoza	3	Construcción	Hombres	2317
+Octubre 2021	50	Zaragoza	3	Construcción	Mujeres	432
+Octubre 2021	50	Zaragoza	4	Servicios	Hombres	11088
+Octubre 2021	50	Zaragoza	4	Servicios	Mujeres	23398
+Octubre 2021	50	Zaragoza		Sin empleo anterior	Hombres	1322
+Octubre 2021	50	Zaragoza		Sin empleo anterior	Mujeres	2810
+Septiembre 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	519
+Septiembre 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	250
+Septiembre 2021	22	Huesca	2	Industria y energía	Hombres	485
+Septiembre 2021	22	Huesca	2	Industria y energía	Mujeres	299
+Septiembre 2021	22	Huesca	3	Construcción	Hombres	532
+Septiembre 2021	22	Huesca	3	Construcción	Mujeres	76
+Septiembre 2021	22	Huesca	4	Servicios	Hombres	1844
+Septiembre 2021	22	Huesca	4	Servicios	Mujeres	3907
+Septiembre 2021	22	Huesca		Sin empleo anterior	Hombres	218
+Septiembre 2021	22	Huesca		Sin empleo anterior	Mujeres	358
+Septiembre 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	199
+Septiembre 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	111
+Septiembre 2021	44	Teruel	2	Industria y energía	Hombres	323
+Septiembre 2021	44	Teruel	2	Industria y energía	Mujeres	250
+Septiembre 2021	44	Teruel	3	Construcción	Hombres	330
+Septiembre 2021	44	Teruel	3	Construcción	Mujeres	45
+Septiembre 2021	44	Teruel	4	Servicios	Hombres	1097
+Septiembre 2021	44	Teruel	4	Servicios	Mujeres	2308
+Septiembre 2021	44	Teruel		Sin empleo anterior	Hombres	120
+Septiembre 2021	44	Teruel		Sin empleo anterior	Mujeres	254
+Septiembre 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1420
+Septiembre 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	944
+Septiembre 2021	50	Zaragoza	2	Industria y energía	Hombres	3250
+Septiembre 2021	50	Zaragoza	2	Industria y energía	Mujeres	2802
+Septiembre 2021	50	Zaragoza	3	Construcción	Hombres	2404
+Septiembre 2021	50	Zaragoza	3	Construcción	Mujeres	435
+Septiembre 2021	50	Zaragoza	4	Servicios	Hombres	11060
+Septiembre 2021	50	Zaragoza	4	Servicios	Mujeres	23235
+Septiembre 2021	50	Zaragoza		Sin empleo anterior	Hombres	1280
+Septiembre 2021	50	Zaragoza		Sin empleo anterior	Mujeres	2794
+Agosto 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	491
+Agosto 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	232
+Agosto 2021	22	Huesca	2	Industria y energía	Hombres	507
+Agosto 2021	22	Huesca	2	Industria y energía	Mujeres	308
+Agosto 2021	22	Huesca	3	Construcción	Hombres	559
+Agosto 2021	22	Huesca	3	Construcción	Mujeres	80
+Agosto 2021	22	Huesca	4	Servicios	Hombres	1830
+Agosto 2021	22	Huesca	4	Servicios	Mujeres	4065
+Agosto 2021	22	Huesca		Sin empleo anterior	Hombres	265
+Agosto 2021	22	Huesca		Sin empleo anterior	Mujeres	428
+Agosto 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	209
+Agosto 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	116
+Agosto 2021	44	Teruel	2	Industria y energía	Hombres	326
+Agosto 2021	44	Teruel	2	Industria y energía	Mujeres	258
+Agosto 2021	44	Teruel	3	Construcción	Hombres	354
+Agosto 2021	44	Teruel	3	Construcción	Mujeres	49
+Agosto 2021	44	Teruel	4	Servicios	Hombres	1098
+Agosto 2021	44	Teruel	4	Servicios	Mujeres	2389
+Agosto 2021	44	Teruel		Sin empleo anterior	Hombres	151
+Agosto 2021	44	Teruel		Sin empleo anterior	Mujeres	342
+Agosto 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1491
+Agosto 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	995
+Agosto 2021	50	Zaragoza	2	Industria y energía	Hombres	3448
+Agosto 2021	50	Zaragoza	2	Industria y energía	Mujeres	2969
+Agosto 2021	50	Zaragoza	3	Construcción	Hombres	2545
+Agosto 2021	50	Zaragoza	3	Construcción	Mujeres	466
+Agosto 2021	50	Zaragoza	4	Servicios	Hombres	11759
+Agosto 2021	50	Zaragoza	4	Servicios	Mujeres	24419
+Agosto 2021	50	Zaragoza		Sin empleo anterior	Hombres	1483
+Agosto 2021	50	Zaragoza		Sin empleo anterior	Mujeres	3104
+Julio 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	483
+Julio 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	249
+Julio 2021	22	Huesca	2	Industria y energía	Hombres	533
+Julio 2021	22	Huesca	2	Industria y energía	Mujeres	305
+Julio 2021	22	Huesca	3	Construcción	Hombres	566
+Julio 2021	22	Huesca	3	Construcción	Mujeres	83
+Julio 2021	22	Huesca	4	Servicios	Hombres	1949
+Julio 2021	22	Huesca	4	Servicios	Mujeres	4194
+Julio 2021	22	Huesca		Sin empleo anterior	Hombres	321
+Julio 2021	22	Huesca		Sin empleo anterior	Mujeres	530
+Julio 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	215
+Julio 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	125
+Julio 2021	44	Teruel	2	Industria y energía	Hombres	343
+Julio 2021	44	Teruel	2	Industria y energía	Mujeres	273
+Julio 2021	44	Teruel	3	Construcción	Hombres	351
+Julio 2021	44	Teruel	3	Construcción	Mujeres	50
+Julio 2021	44	Teruel	4	Servicios	Hombres	1147
+Julio 2021	44	Teruel	4	Servicios	Mujeres	2538
+Julio 2021	44	Teruel		Sin empleo anterior	Hombres	176
+Julio 2021	44	Teruel		Sin empleo anterior	Mujeres	386
+Julio 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1655
+Julio 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1062
+Julio 2021	50	Zaragoza	2	Industria y energía	Hombres	3561
+Julio 2021	50	Zaragoza	2	Industria y energía	Mujeres	3099
+Julio 2021	50	Zaragoza	3	Construcción	Hombres	2618
+Julio 2021	50	Zaragoza	3	Construcción	Mujeres	474
+Julio 2021	50	Zaragoza	4	Servicios	Hombres	12384
+Julio 2021	50	Zaragoza	4	Servicios	Mujeres	25267
+Julio 2021	50	Zaragoza		Sin empleo anterior	Hombres	1762
+Julio 2021	50	Zaragoza		Sin empleo anterior	Mujeres	3565
+Junio 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	536
+Junio 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	280
+Junio 2021	22	Huesca	2	Industria y energía	Hombres	575
+Junio 2021	22	Huesca	2	Industria y energía	Mujeres	351
+Junio 2021	22	Huesca	3	Construcción	Hombres	629
+Junio 2021	22	Huesca	3	Construcción	Mujeres	87
+Junio 2021	22	Huesca	4	Servicios	Hombres	2158
+Junio 2021	22	Huesca	4	Servicios	Mujeres	4617
+Junio 2021	22	Huesca		Sin empleo anterior	Hombres	397
+Junio 2021	22	Huesca		Sin empleo anterior	Mujeres	664
+Junio 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	222
+Junio 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	147
+Junio 2021	44	Teruel	2	Industria y energía	Hombres	380
+Junio 2021	44	Teruel	2	Industria y energía	Mujeres	308
+Junio 2021	44	Teruel	3	Construcción	Hombres	367
+Junio 2021	44	Teruel	3	Construcción	Mujeres	53
+Junio 2021	44	Teruel	4	Servicios	Hombres	1277
+Junio 2021	44	Teruel	4	Servicios	Mujeres	2798
+Junio 2021	44	Teruel		Sin empleo anterior	Hombres	224
+Junio 2021	44	Teruel		Sin empleo anterior	Mujeres	478
+Junio 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1616
+Junio 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1099
+Junio 2021	50	Zaragoza	2	Industria y energía	Hombres	3767
+Junio 2021	50	Zaragoza	2	Industria y energía	Mujeres	3229
+Junio 2021	50	Zaragoza	3	Construcción	Hombres	2847
+Junio 2021	50	Zaragoza	3	Construcción	Mujeres	492
+Junio 2021	50	Zaragoza	4	Servicios	Hombres	13025
+Junio 2021	50	Zaragoza	4	Servicios	Mujeres	26876
+Junio 2021	50	Zaragoza		Sin empleo anterior	Hombres	2053
+Junio 2021	50	Zaragoza		Sin empleo anterior	Mujeres	4026
+Mayo 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	586
+Mayo 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	299
+Mayo 2021	22	Huesca	2	Industria y energía	Hombres	598
+Mayo 2021	22	Huesca	2	Industria y energía	Mujeres	376
+Mayo 2021	22	Huesca	3	Construcción	Hombres	654
+Mayo 2021	22	Huesca	3	Construcción	Mujeres	90
+Mayo 2021	22	Huesca	4	Servicios	Hombres	2327
+Mayo 2021	22	Huesca	4	Servicios	Mujeres	4876
+Mayo 2021	22	Huesca		Sin empleo anterior	Hombres	376
+Mayo 2021	22	Huesca		Sin empleo anterior	Mujeres	674
+Mayo 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	242
+Mayo 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	162
+Mayo 2021	44	Teruel	2	Industria y energía	Hombres	425
+Mayo 2021	44	Teruel	2	Industria y energía	Mujeres	341
+Mayo 2021	44	Teruel	3	Construcción	Hombres	404
+Mayo 2021	44	Teruel	3	Construcción	Mujeres	60
+Mayo 2021	44	Teruel	4	Servicios	Hombres	1417
+Mayo 2021	44	Teruel	4	Servicios	Mujeres	3087
+Mayo 2021	44	Teruel		Sin empleo anterior	Hombres	207
+Mayo 2021	44	Teruel		Sin empleo anterior	Mujeres	444
+Mayo 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1628
+Mayo 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1107
+Mayo 2021	50	Zaragoza	2	Industria y energía	Hombres	4051
+Mayo 2021	50	Zaragoza	2	Industria y energía	Mujeres	3369
+Mayo 2021	50	Zaragoza	3	Construcción	Hombres	2944
+Mayo 2021	50	Zaragoza	3	Construcción	Mujeres	492
+Mayo 2021	50	Zaragoza	4	Servicios	Hombres	13833
+Mayo 2021	50	Zaragoza	4	Servicios	Mujeres	27848
+Mayo 2021	50	Zaragoza		Sin empleo anterior	Hombres	2056
+Mayo 2021	50	Zaragoza		Sin empleo anterior	Mujeres	4006
+Abril 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	771
+Abril 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	362
+Abril 2021	22	Huesca	2	Industria y energía	Hombres	620
+Abril 2021	22	Huesca	2	Industria y energía	Mujeres	398
+Abril 2021	22	Huesca	3	Construcción	Hombres	662
+Abril 2021	22	Huesca	3	Construcción	Mujeres	89
+Abril 2021	22	Huesca	4	Servicios	Hombres	2448
+Abril 2021	22	Huesca	4	Servicios	Mujeres	5127
+Abril 2021	22	Huesca		Sin empleo anterior	Hombres	404
+Abril 2021	22	Huesca		Sin empleo anterior	Mujeres	698
+Abril 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	292
+Abril 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	201
+Abril 2021	44	Teruel	2	Industria y energía	Hombres	437
+Abril 2021	44	Teruel	2	Industria y energía	Mujeres	349
+Abril 2021	44	Teruel	3	Construcción	Hombres	436
+Abril 2021	44	Teruel	3	Construcción	Mujeres	58
+Abril 2021	44	Teruel	4	Servicios	Hombres	1553
+Abril 2021	44	Teruel	4	Servicios	Mujeres	3336
+Abril 2021	44	Teruel		Sin empleo anterior	Hombres	207
+Abril 2021	44	Teruel		Sin empleo anterior	Mujeres	459
+Abril 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2154
+Abril 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1399
+Abril 2021	50	Zaragoza	2	Industria y energía	Hombres	4155
+Abril 2021	50	Zaragoza	2	Industria y energía	Mujeres	3441
+Abril 2021	50	Zaragoza	3	Construcción	Hombres	3056
+Abril 2021	50	Zaragoza	3	Construcción	Mujeres	499
+Abril 2021	50	Zaragoza	4	Servicios	Hombres	14482
+Abril 2021	50	Zaragoza	4	Servicios	Mujeres	28798
+Abril 2021	50	Zaragoza		Sin empleo anterior	Hombres	2156
+Abril 2021	50	Zaragoza		Sin empleo anterior	Mujeres	4118
+Marzo 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	813
+Marzo 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	378
+Marzo 2021	22	Huesca	2	Industria y energía	Hombres	639
+Marzo 2021	22	Huesca	2	Industria y energía	Mujeres	416
+Marzo 2021	22	Huesca	3	Construcción	Hombres	665
+Marzo 2021	22	Huesca	3	Construcción	Mujeres	95
+Marzo 2021	22	Huesca	4	Servicios	Hombres	2598
+Marzo 2021	22	Huesca	4	Servicios	Mujeres	5310
+Marzo 2021	22	Huesca		Sin empleo anterior	Hombres	411
+Marzo 2021	22	Huesca		Sin empleo anterior	Mujeres	712
+Marzo 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	335
+Marzo 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	218
+Marzo 2021	44	Teruel	2	Industria y energía	Hombres	471
+Marzo 2021	44	Teruel	2	Industria y energía	Mujeres	361
+Marzo 2021	44	Teruel	3	Construcción	Hombres	471
+Marzo 2021	44	Teruel	3	Construcción	Mujeres	61
+Marzo 2021	44	Teruel	4	Servicios	Hombres	1656
+Marzo 2021	44	Teruel	4	Servicios	Mujeres	3461
+Marzo 2021	44	Teruel		Sin empleo anterior	Hombres	211
+Marzo 2021	44	Teruel		Sin empleo anterior	Mujeres	464
+Marzo 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2343
+Marzo 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1457
+Marzo 2021	50	Zaragoza	2	Industria y energía	Hombres	4178
+Marzo 2021	50	Zaragoza	2	Industria y energía	Mujeres	3467
+Marzo 2021	50	Zaragoza	3	Construcción	Hombres	3085
+Marzo 2021	50	Zaragoza	3	Construcción	Mujeres	514
+Marzo 2021	50	Zaragoza	4	Servicios	Hombres	15105
+Marzo 2021	50	Zaragoza	4	Servicios	Mujeres	29580
+Marzo 2021	50	Zaragoza		Sin empleo anterior	Hombres	2215
+Marzo 2021	50	Zaragoza		Sin empleo anterior	Mujeres	4192
+Febrero 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	717
+Febrero 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	385
+Febrero 2021	22	Huesca	2	Industria y energía	Hombres	658
+Febrero 2021	22	Huesca	2	Industria y energía	Mujeres	414
+Febrero 2021	22	Huesca	3	Construcción	Hombres	706
+Febrero 2021	22	Huesca	3	Construcción	Mujeres	102
+Febrero 2021	22	Huesca	4	Servicios	Hombres	2817
+Febrero 2021	22	Huesca	4	Servicios	Mujeres	5609
+Febrero 2021	22	Huesca		Sin empleo anterior	Hombres	406
+Febrero 2021	22	Huesca		Sin empleo anterior	Mujeres	698
+Febrero 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	326
+Febrero 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	210
+Febrero 2021	44	Teruel	2	Industria y energía	Hombres	456
+Febrero 2021	44	Teruel	2	Industria y energía	Mujeres	366
+Febrero 2021	44	Teruel	3	Construcción	Hombres	491
+Febrero 2021	44	Teruel	3	Construcción	Mujeres	63
+Febrero 2021	44	Teruel	4	Servicios	Hombres	1772
+Febrero 2021	44	Teruel	4	Servicios	Mujeres	3491
+Febrero 2021	44	Teruel		Sin empleo anterior	Hombres	209
+Febrero 2021	44	Teruel		Sin empleo anterior	Mujeres	452
+Febrero 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2166
+Febrero 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1412
+Febrero 2021	50	Zaragoza	2	Industria y energía	Hombres	4219
+Febrero 2021	50	Zaragoza	2	Industria y energía	Mujeres	3462
+Febrero 2021	50	Zaragoza	3	Construcción	Hombres	3189
+Febrero 2021	50	Zaragoza	3	Construcción	Mujeres	532
+Febrero 2021	50	Zaragoza	4	Servicios	Hombres	15465
+Febrero 2021	50	Zaragoza	4	Servicios	Mujeres	30057
+Febrero 2021	50	Zaragoza		Sin empleo anterior	Hombres	2160
+Febrero 2021	50	Zaragoza		Sin empleo anterior	Mujeres	4148
+Enero 2021	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	740
+Enero 2021	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	382
+Enero 2021	22	Huesca	2	Industria y energía	Hombres	610
+Enero 2021	22	Huesca	2	Industria y energía	Mujeres	409
+Enero 2021	22	Huesca	3	Construcción	Hombres	733
+Enero 2021	22	Huesca	3	Construcción	Mujeres	102
+Enero 2021	22	Huesca	4	Servicios	Hombres	2728
+Enero 2021	22	Huesca	4	Servicios	Mujeres	5434
+Enero 2021	22	Huesca		Sin empleo anterior	Hombres	395
+Enero 2021	22	Huesca		Sin empleo anterior	Mujeres	679
+Enero 2021	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	378
+Enero 2021	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	214
+Enero 2021	44	Teruel	2	Industria y energía	Hombres	497
+Enero 2021	44	Teruel	2	Industria y energía	Mujeres	351
+Enero 2021	44	Teruel	3	Construcción	Hombres	536
+Enero 2021	44	Teruel	3	Construcción	Mujeres	65
+Enero 2021	44	Teruel	4	Servicios	Hombres	1655
+Enero 2021	44	Teruel	4	Servicios	Mujeres	3305
+Enero 2021	44	Teruel		Sin empleo anterior	Hombres	192
+Enero 2021	44	Teruel		Sin empleo anterior	Mujeres	439
+Enero 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2196
+Enero 2021	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1381
+Enero 2021	50	Zaragoza	2	Industria y energía	Hombres	4170
+Enero 2021	50	Zaragoza	2	Industria y energía	Mujeres	3428
+Enero 2021	50	Zaragoza	3	Construcción	Hombres	3274
+Enero 2021	50	Zaragoza	3	Construcción	Mujeres	527
+Enero 2021	50	Zaragoza	4	Servicios	Hombres	15064
+Enero 2021	50	Zaragoza	4	Servicios	Mujeres	29156
+Enero 2021	50	Zaragoza		Sin empleo anterior	Hombres	2118
+Enero 2021	50	Zaragoza		Sin empleo anterior	Mujeres	4000
+Diciembre 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	738
+Diciembre 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	362
+Diciembre 2020	22	Huesca	2	Industria y energía	Hombres	618
+Diciembre 2020	22	Huesca	2	Industria y energía	Mujeres	409
+Diciembre 2020	22	Huesca	3	Construcción	Hombres	693
+Diciembre 2020	22	Huesca	3	Construcción	Mujeres	99
+Diciembre 2020	22	Huesca	4	Servicios	Hombres	2609
+Diciembre 2020	22	Huesca	4	Servicios	Mujeres	5189
+Diciembre 2020	22	Huesca		Sin empleo anterior	Hombres	384
+Diciembre 2020	22	Huesca		Sin empleo anterior	Mujeres	654
+Diciembre 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	372
+Diciembre 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	215
+Diciembre 2020	44	Teruel	2	Industria y energía	Hombres	513
+Diciembre 2020	44	Teruel	2	Industria y energía	Mujeres	334
+Diciembre 2020	44	Teruel	3	Construcción	Hombres	524
+Diciembre 2020	44	Teruel	3	Construcción	Mujeres	59
+Diciembre 2020	44	Teruel	4	Servicios	Hombres	1627
+Diciembre 2020	44	Teruel	4	Servicios	Mujeres	3122
+Diciembre 2020	44	Teruel		Sin empleo anterior	Hombres	199
+Diciembre 2020	44	Teruel		Sin empleo anterior	Mujeres	438
+Diciembre 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2197
+Diciembre 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1370
+Diciembre 2020	50	Zaragoza	2	Industria y energía	Hombres	4171
+Diciembre 2020	50	Zaragoza	2	Industria y energía	Mujeres	3332
+Diciembre 2020	50	Zaragoza	3	Construcción	Hombres	3260
+Diciembre 2020	50	Zaragoza	3	Construcción	Mujeres	510
+Diciembre 2020	50	Zaragoza	4	Servicios	Hombres	14578
+Diciembre 2020	50	Zaragoza	4	Servicios	Mujeres	27763
+Diciembre 2020	50	Zaragoza		Sin empleo anterior	Hombres	2081
+Diciembre 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3945
+Noviembre 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	686
+Noviembre 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	350
+Noviembre 2020	22	Huesca	2	Industria y energía	Hombres	587
+Noviembre 2020	22	Huesca	2	Industria y energía	Mujeres	378
+Noviembre 2020	22	Huesca	3	Construcción	Hombres	642
+Noviembre 2020	22	Huesca	3	Construcción	Mujeres	99
+Noviembre 2020	22	Huesca	4	Servicios	Hombres	2604
+Noviembre 2020	22	Huesca	4	Servicios	Mujeres	5133
+Noviembre 2020	22	Huesca		Sin empleo anterior	Hombres	367
+Noviembre 2020	22	Huesca		Sin empleo anterior	Mujeres	634
+Noviembre 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	333
+Noviembre 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	218
+Noviembre 2020	44	Teruel	2	Industria y energía	Hombres	479
+Noviembre 2020	44	Teruel	2	Industria y energía	Mujeres	338
+Noviembre 2020	44	Teruel	3	Construcción	Hombres	453
+Noviembre 2020	44	Teruel	3	Construcción	Mujeres	55
+Noviembre 2020	44	Teruel	4	Servicios	Hombres	1524
+Noviembre 2020	44	Teruel	4	Servicios	Mujeres	3061
+Noviembre 2020	44	Teruel		Sin empleo anterior	Hombres	195
+Noviembre 2020	44	Teruel		Sin empleo anterior	Mujeres	426
+Noviembre 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2203
+Noviembre 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1346
+Noviembre 2020	50	Zaragoza	2	Industria y energía	Hombres	3916
+Noviembre 2020	50	Zaragoza	2	Industria y energía	Mujeres	3202
+Noviembre 2020	50	Zaragoza	3	Construcción	Hombres	3062
+Noviembre 2020	50	Zaragoza	3	Construcción	Mujeres	497
+Noviembre 2020	50	Zaragoza	4	Servicios	Hombres	14040
+Noviembre 2020	50	Zaragoza	4	Servicios	Mujeres	27404
+Noviembre 2020	50	Zaragoza		Sin empleo anterior	Hombres	2032
+Noviembre 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3892
+Octubre 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	756
+Octubre 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	330
+Octubre 2020	22	Huesca	2	Industria y energía	Hombres	577
+Octubre 2020	22	Huesca	2	Industria y energía	Mujeres	374
+Octubre 2020	22	Huesca	3	Construcción	Hombres	623
+Octubre 2020	22	Huesca	3	Construcción	Mujeres	100
+Octubre 2020	22	Huesca	4	Servicios	Hombres	2431
+Octubre 2020	22	Huesca	4	Servicios	Mujeres	4886
+Octubre 2020	22	Huesca		Sin empleo anterior	Hombres	361
+Octubre 2020	22	Huesca		Sin empleo anterior	Mujeres	611
+Octubre 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	298
+Octubre 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	173
+Octubre 2020	44	Teruel	2	Industria y energía	Hombres	469
+Octubre 2020	44	Teruel	2	Industria y energía	Mujeres	319
+Octubre 2020	44	Teruel	3	Construcción	Hombres	414
+Octubre 2020	44	Teruel	3	Construcción	Mujeres	58
+Octubre 2020	44	Teruel	4	Servicios	Hombres	1419
+Octubre 2020	44	Teruel	4	Servicios	Mujeres	2854
+Octubre 2020	44	Teruel		Sin empleo anterior	Hombres	185
+Octubre 2020	44	Teruel		Sin empleo anterior	Mujeres	419
+Octubre 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2282
+Octubre 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1278
+Octubre 2020	50	Zaragoza	2	Industria y energía	Hombres	3757
+Octubre 2020	50	Zaragoza	2	Industria y energía	Mujeres	3047
+Octubre 2020	50	Zaragoza	3	Construcción	Hombres	3035
+Octubre 2020	50	Zaragoza	3	Construcción	Mujeres	492
+Octubre 2020	50	Zaragoza	4	Servicios	Hombres	13757
+Octubre 2020	50	Zaragoza	4	Servicios	Mujeres	26711
+Octubre 2020	50	Zaragoza		Sin empleo anterior	Hombres	2021
+Octubre 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3829
+Septiembre 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	690
+Septiembre 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	299
+Septiembre 2020	22	Huesca	2	Industria y energía	Hombres	592
+Septiembre 2020	22	Huesca	2	Industria y energía	Mujeres	370
+Septiembre 2020	22	Huesca	3	Construcción	Hombres	624
+Septiembre 2020	22	Huesca	3	Construcción	Mujeres	96
+Septiembre 2020	22	Huesca	4	Servicios	Hombres	2360
+Septiembre 2020	22	Huesca	4	Servicios	Mujeres	4706
+Septiembre 2020	22	Huesca		Sin empleo anterior	Hombres	356
+Septiembre 2020	22	Huesca		Sin empleo anterior	Mujeres	611
+Septiembre 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	271
+Septiembre 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	160
+Septiembre 2020	44	Teruel	2	Industria y energía	Hombres	496
+Septiembre 2020	44	Teruel	2	Industria y energía	Mujeres	321
+Septiembre 2020	44	Teruel	3	Construcción	Hombres	431
+Septiembre 2020	44	Teruel	3	Construcción	Mujeres	64
+Septiembre 2020	44	Teruel	4	Servicios	Hombres	1365
+Septiembre 2020	44	Teruel	4	Servicios	Mujeres	2724
+Septiembre 2020	44	Teruel		Sin empleo anterior	Hombres	175
+Septiembre 2020	44	Teruel		Sin empleo anterior	Mujeres	402
+Septiembre 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1931
+Septiembre 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1106
+Septiembre 2020	50	Zaragoza	2	Industria y energía	Hombres	3798
+Septiembre 2020	50	Zaragoza	2	Industria y energía	Mujeres	2998
+Septiembre 2020	50	Zaragoza	3	Construcción	Hombres	3003
+Septiembre 2020	50	Zaragoza	3	Construcción	Mujeres	497
+Septiembre 2020	50	Zaragoza	4	Servicios	Hombres	13859
+Septiembre 2020	50	Zaragoza	4	Servicios	Mujeres	26684
+Septiembre 2020	50	Zaragoza		Sin empleo anterior	Hombres	1972
+Septiembre 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3749
+Agosto 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	582
+Agosto 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	248
+Agosto 2020	22	Huesca	2	Industria y energía	Hombres	590
+Agosto 2020	22	Huesca	2	Industria y energía	Mujeres	343
+Agosto 2020	22	Huesca	3	Construcción	Hombres	622
+Agosto 2020	22	Huesca	3	Construcción	Mujeres	93
+Agosto 2020	22	Huesca	4	Servicios	Hombres	2190
+Agosto 2020	22	Huesca	4	Servicios	Mujeres	4554
+Agosto 2020	22	Huesca		Sin empleo anterior	Hombres	328
+Agosto 2020	22	Huesca		Sin empleo anterior	Mujeres	567
+Agosto 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	280
+Agosto 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	140
+Agosto 2020	44	Teruel	2	Industria y energía	Hombres	533
+Agosto 2020	44	Teruel	2	Industria y energía	Mujeres	336
+Agosto 2020	44	Teruel	3	Construcción	Hombres	437
+Agosto 2020	44	Teruel	3	Construcción	Mujeres	68
+Agosto 2020	44	Teruel	4	Servicios	Hombres	1311
+Agosto 2020	44	Teruel	4	Servicios	Mujeres	2748
+Agosto 2020	44	Teruel		Sin empleo anterior	Hombres	170
+Agosto 2020	44	Teruel		Sin empleo anterior	Mujeres	392
+Agosto 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1792
+Agosto 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1034
+Agosto 2020	50	Zaragoza	2	Industria y energía	Hombres	3934
+Agosto 2020	50	Zaragoza	2	Industria y energía	Mujeres	3134
+Agosto 2020	50	Zaragoza	3	Construcción	Hombres	3022
+Agosto 2020	50	Zaragoza	3	Construcción	Mujeres	516
+Agosto 2020	50	Zaragoza	4	Servicios	Hombres	14305
+Agosto 2020	50	Zaragoza	4	Servicios	Mujeres	27170
+Agosto 2020	50	Zaragoza		Sin empleo anterior	Hombres	1877
+Agosto 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3607
+Julio 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	489
+Julio 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	220
+Julio 2020	22	Huesca	2	Industria y energía	Hombres	564
+Julio 2020	22	Huesca	2	Industria y energía	Mujeres	317
+Julio 2020	22	Huesca	3	Construcción	Hombres	615
+Julio 2020	22	Huesca	3	Construcción	Mujeres	87
+Julio 2020	22	Huesca	4	Servicios	Hombres	2138
+Julio 2020	22	Huesca	4	Servicios	Mujeres	4424
+Julio 2020	22	Huesca		Sin empleo anterior	Hombres	305
+Julio 2020	22	Huesca		Sin empleo anterior	Mujeres	535
+Julio 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	279
+Julio 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	139
+Julio 2020	44	Teruel	2	Industria y energía	Hombres	541
+Julio 2020	44	Teruel	2	Industria y energía	Mujeres	329
+Julio 2020	44	Teruel	3	Construcción	Hombres	424
+Julio 2020	44	Teruel	3	Construcción	Mujeres	70
+Julio 2020	44	Teruel	4	Servicios	Hombres	1318
+Julio 2020	44	Teruel	4	Servicios	Mujeres	2749
+Julio 2020	44	Teruel		Sin empleo anterior	Hombres	164
+Julio 2020	44	Teruel		Sin empleo anterior	Mujeres	362
+Julio 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1883
+Julio 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1024
+Julio 2020	50	Zaragoza	2	Industria y energía	Hombres	3871
+Julio 2020	50	Zaragoza	2	Industria y energía	Mujeres	3174
+Julio 2020	50	Zaragoza	3	Construcción	Hombres	3008
+Julio 2020	50	Zaragoza	3	Construcción	Mujeres	509
+Julio 2020	50	Zaragoza	4	Servicios	Hombres	14151
+Julio 2020	50	Zaragoza	4	Servicios	Mujeres	26869
+Julio 2020	50	Zaragoza		Sin empleo anterior	Hombres	1765
+Julio 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3462
+Junio 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	441
+Junio 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	208
+Junio 2020	22	Huesca	2	Industria y energía	Hombres	565
+Junio 2020	22	Huesca	2	Industria y energía	Mujeres	316
+Junio 2020	22	Huesca	3	Construcción	Hombres	634
+Junio 2020	22	Huesca	3	Construcción	Mujeres	87
+Junio 2020	22	Huesca	4	Servicios	Hombres	2283
+Junio 2020	22	Huesca	4	Servicios	Mujeres	4620
+Junio 2020	22	Huesca		Sin empleo anterior	Hombres	269
+Junio 2020	22	Huesca		Sin empleo anterior	Mujeres	499
+Junio 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	250
+Junio 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	136
+Junio 2020	44	Teruel	2	Industria y energía	Hombres	543
+Junio 2020	44	Teruel	2	Industria y energía	Mujeres	335
+Junio 2020	44	Teruel	3	Construcción	Hombres	429
+Junio 2020	44	Teruel	3	Construcción	Mujeres	67
+Junio 2020	44	Teruel	4	Servicios	Hombres	1429
+Junio 2020	44	Teruel	4	Servicios	Mujeres	2803
+Junio 2020	44	Teruel		Sin empleo anterior	Hombres	148
+Junio 2020	44	Teruel		Sin empleo anterior	Mujeres	338
+Junio 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1617
+Junio 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	907
+Junio 2020	50	Zaragoza	2	Industria y energía	Hombres	3789
+Junio 2020	50	Zaragoza	2	Industria y energía	Mujeres	3191
+Junio 2020	50	Zaragoza	3	Construcción	Hombres	3056
+Junio 2020	50	Zaragoza	3	Construcción	Mujeres	511
+Junio 2020	50	Zaragoza	4	Servicios	Hombres	14841
+Junio 2020	50	Zaragoza	4	Servicios	Mujeres	27274
+Junio 2020	50	Zaragoza		Sin empleo anterior	Hombres	1604
+Junio 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3270
+Mayo 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	405
+Mayo 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	207
+Mayo 2020	22	Huesca	2	Industria y energía	Hombres	526
+Mayo 2020	22	Huesca	2	Industria y energía	Mujeres	310
+Mayo 2020	22	Huesca	3	Construcción	Hombres	667
+Mayo 2020	22	Huesca	3	Construcción	Mujeres	85
+Mayo 2020	22	Huesca	4	Servicios	Hombres	2490
+Mayo 2020	22	Huesca	4	Servicios	Mujeres	4780
+Mayo 2020	22	Huesca		Sin empleo anterior	Hombres	230
+Mayo 2020	22	Huesca		Sin empleo anterior	Mujeres	449
+Mayo 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	213
+Mayo 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	111
+Mayo 2020	44	Teruel	2	Industria y energía	Hombres	546
+Mayo 2020	44	Teruel	2	Industria y energía	Mujeres	328
+Mayo 2020	44	Teruel	3	Construcción	Hombres	477
+Mayo 2020	44	Teruel	3	Construcción	Mujeres	65
+Mayo 2020	44	Teruel	4	Servicios	Hombres	1516
+Mayo 2020	44	Teruel	4	Servicios	Mujeres	2817
+Mayo 2020	44	Teruel		Sin empleo anterior	Hombres	125
+Mayo 2020	44	Teruel		Sin empleo anterior	Mujeres	320
+Mayo 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1396
+Mayo 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	835
+Mayo 2020	50	Zaragoza	2	Industria y energía	Hombres	3959
+Mayo 2020	50	Zaragoza	2	Industria y energía	Mujeres	3335
+Mayo 2020	50	Zaragoza	3	Construcción	Hombres	3317
+Mayo 2020	50	Zaragoza	3	Construcción	Mujeres	523
+Mayo 2020	50	Zaragoza	4	Servicios	Hombres	15793
+Mayo 2020	50	Zaragoza	4	Servicios	Mujeres	28053
+Mayo 2020	50	Zaragoza		Sin empleo anterior	Hombres	1501
+Mayo 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3150
+Abril 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	431
+Abril 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	227
+Abril 2020	22	Huesca	2	Industria y energía	Hombres	564
+Abril 2020	22	Huesca	2	Industria y energía	Mujeres	321
+Abril 2020	22	Huesca	3	Construcción	Hombres	707
+Abril 2020	22	Huesca	3	Construcción	Mujeres	87
+Abril 2020	22	Huesca	4	Servicios	Hombres	2557
+Abril 2020	22	Huesca	4	Servicios	Mujeres	4799
+Abril 2020	22	Huesca		Sin empleo anterior	Hombres	226
+Abril 2020	22	Huesca		Sin empleo anterior	Mujeres	435
+Abril 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	226
+Abril 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	129
+Abril 2020	44	Teruel	2	Industria y energía	Hombres	556
+Abril 2020	44	Teruel	2	Industria y energía	Mujeres	324
+Abril 2020	44	Teruel	3	Construcción	Hombres	526
+Abril 2020	44	Teruel	3	Construcción	Mujeres	64
+Abril 2020	44	Teruel	4	Servicios	Hombres	1528
+Abril 2020	44	Teruel	4	Servicios	Mujeres	2748
+Abril 2020	44	Teruel		Sin empleo anterior	Hombres	121
+Abril 2020	44	Teruel		Sin empleo anterior	Mujeres	297
+Abril 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1653
+Abril 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	925
+Abril 2020	50	Zaragoza	2	Industria y energía	Hombres	3934
+Abril 2020	50	Zaragoza	2	Industria y energía	Mujeres	3291
+Abril 2020	50	Zaragoza	3	Construcción	Hombres	3524
+Abril 2020	50	Zaragoza	3	Construcción	Mujeres	536
+Abril 2020	50	Zaragoza	4	Servicios	Hombres	15920
+Abril 2020	50	Zaragoza	4	Servicios	Mujeres	28036
+Abril 2020	50	Zaragoza		Sin empleo anterior	Hombres	1451
+Abril 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3071
+Marzo 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	477
+Marzo 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	247
+Marzo 2020	22	Huesca	2	Industria y energía	Hombres	529
+Marzo 2020	22	Huesca	2	Industria y energía	Mujeres	304
+Marzo 2020	22	Huesca	3	Construcción	Hombres	605
+Marzo 2020	22	Huesca	3	Construcción	Mujeres	74
+Marzo 2020	22	Huesca	4	Servicios	Hombres	2285
+Marzo 2020	22	Huesca	4	Servicios	Mujeres	4428
+Marzo 2020	22	Huesca		Sin empleo anterior	Hombres	226
+Marzo 2020	22	Huesca		Sin empleo anterior	Mujeres	428
+Marzo 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	231
+Marzo 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	133
+Marzo 2020	44	Teruel	2	Industria y energía	Hombres	495
+Marzo 2020	44	Teruel	2	Industria y energía	Mujeres	308
+Marzo 2020	44	Teruel	3	Construcción	Hombres	462
+Marzo 2020	44	Teruel	3	Construcción	Mujeres	52
+Marzo 2020	44	Teruel	4	Servicios	Hombres	1345
+Marzo 2020	44	Teruel	4	Servicios	Mujeres	2588
+Marzo 2020	44	Teruel		Sin empleo anterior	Hombres	120
+Marzo 2020	44	Teruel		Sin empleo anterior	Mujeres	288
+Marzo 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1748
+Marzo 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	964
+Marzo 2020	50	Zaragoza	2	Industria y energía	Hombres	3503
+Marzo 2020	50	Zaragoza	2	Industria y energía	Mujeres	3049
+Marzo 2020	50	Zaragoza	3	Construcción	Hombres	3085
+Marzo 2020	50	Zaragoza	3	Construcción	Mujeres	485
+Marzo 2020	50	Zaragoza	4	Servicios	Hombres	13620
+Marzo 2020	50	Zaragoza	4	Servicios	Mujeres	25940
+Marzo 2020	50	Zaragoza		Sin empleo anterior	Hombres	1416
+Marzo 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3046
+Febrero 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	450
+Febrero 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	239
+Febrero 2020	22	Huesca	2	Industria y energía	Hombres	503
+Febrero 2020	22	Huesca	2	Industria y energía	Mujeres	287
+Febrero 2020	22	Huesca	3	Construcción	Hombres	505
+Febrero 2020	22	Huesca	3	Construcción	Mujeres	72
+Febrero 2020	22	Huesca	4	Servicios	Hombres	1868
+Febrero 2020	22	Huesca	4	Servicios	Mujeres	4026
+Febrero 2020	22	Huesca		Sin empleo anterior	Hombres	228
+Febrero 2020	22	Huesca		Sin empleo anterior	Mujeres	438
+Febrero 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	219
+Febrero 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	127
+Febrero 2020	44	Teruel	2	Industria y energía	Hombres	443
+Febrero 2020	44	Teruel	2	Industria y energía	Mujeres	298
+Febrero 2020	44	Teruel	3	Construcción	Hombres	382
+Febrero 2020	44	Teruel	3	Construcción	Mujeres	52
+Febrero 2020	44	Teruel	4	Servicios	Hombres	1176
+Febrero 2020	44	Teruel	4	Servicios	Mujeres	2493
+Febrero 2020	44	Teruel		Sin empleo anterior	Hombres	111
+Febrero 2020	44	Teruel		Sin empleo anterior	Mujeres	289
+Febrero 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1647
+Febrero 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	948
+Febrero 2020	50	Zaragoza	2	Industria y energía	Hombres	3194
+Febrero 2020	50	Zaragoza	2	Industria y energía	Mujeres	2892
+Febrero 2020	50	Zaragoza	3	Construcción	Hombres	2706
+Febrero 2020	50	Zaragoza	3	Construcción	Mujeres	462
+Febrero 2020	50	Zaragoza	4	Servicios	Hombres	12052
+Febrero 2020	50	Zaragoza	4	Servicios	Mujeres	24409
+Febrero 2020	50	Zaragoza		Sin empleo anterior	Hombres	1412
+Febrero 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3044
+Enero 2020	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	470
+Enero 2020	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	245
+Enero 2020	22	Huesca	2	Industria y energía	Hombres	516
+Enero 2020	22	Huesca	2	Industria y energía	Mujeres	299
+Enero 2020	22	Huesca	3	Construcción	Hombres	557
+Enero 2020	22	Huesca	3	Construcción	Mujeres	75
+Enero 2020	22	Huesca	4	Servicios	Hombres	1917
+Enero 2020	22	Huesca	4	Servicios	Mujeres	4096
+Enero 2020	22	Huesca		Sin empleo anterior	Hombres	211
+Enero 2020	22	Huesca		Sin empleo anterior	Mujeres	451
+Enero 2020	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	251
+Enero 2020	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	133
+Enero 2020	44	Teruel	2	Industria y energía	Hombres	439
+Enero 2020	44	Teruel	2	Industria y energía	Mujeres	313
+Enero 2020	44	Teruel	3	Construcción	Hombres	422
+Enero 2020	44	Teruel	3	Construcción	Mujeres	56
+Enero 2020	44	Teruel	4	Servicios	Hombres	1260
+Enero 2020	44	Teruel	4	Servicios	Mujeres	2609
+Enero 2020	44	Teruel		Sin empleo anterior	Hombres	117
+Enero 2020	44	Teruel		Sin empleo anterior	Mujeres	290
+Enero 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1695
+Enero 2020	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	960
+Enero 2020	50	Zaragoza	2	Industria y energía	Hombres	3283
+Enero 2020	50	Zaragoza	2	Industria y energía	Mujeres	2892
+Enero 2020	50	Zaragoza	3	Construcción	Hombres	2811
+Enero 2020	50	Zaragoza	3	Construcción	Mujeres	468
+Enero 2020	50	Zaragoza	4	Servicios	Hombres	12068
+Enero 2020	50	Zaragoza	4	Servicios	Mujeres	24385
+Enero 2020	50	Zaragoza		Sin empleo anterior	Hombres	1340
+Enero 2020	50	Zaragoza		Sin empleo anterior	Mujeres	3006
+Diciembre 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	450
+Diciembre 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	249
+Diciembre 2019	22	Huesca	2	Industria y energía	Hombres	503
+Diciembre 2019	22	Huesca	2	Industria y energía	Mujeres	276
+Diciembre 2019	22	Huesca	3	Construcción	Hombres	554
+Diciembre 2019	22	Huesca	3	Construcción	Mujeres	69
+Diciembre 2019	22	Huesca	4	Servicios	Hombres	1790
+Diciembre 2019	22	Huesca	4	Servicios	Mujeres	3798
+Diciembre 2019	22	Huesca		Sin empleo anterior	Hombres	197
+Diciembre 2019	22	Huesca		Sin empleo anterior	Mujeres	409
+Diciembre 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	225
+Diciembre 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	126
+Diciembre 2019	44	Teruel	2	Industria y energía	Hombres	429
+Diciembre 2019	44	Teruel	2	Industria y energía	Mujeres	316
+Diciembre 2019	44	Teruel	3	Construcción	Hombres	424
+Diciembre 2019	44	Teruel	3	Construcción	Mujeres	58
+Diciembre 2019	44	Teruel	4	Servicios	Hombres	1221
+Diciembre 2019	44	Teruel	4	Servicios	Mujeres	2424
+Diciembre 2019	44	Teruel		Sin empleo anterior	Hombres	125
+Diciembre 2019	44	Teruel		Sin empleo anterior	Mujeres	292
+Diciembre 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1725
+Diciembre 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	983
+Diciembre 2019	50	Zaragoza	2	Industria y energía	Hombres	3294
+Diciembre 2019	50	Zaragoza	2	Industria y energía	Mujeres	2914
+Diciembre 2019	50	Zaragoza	3	Construcción	Hombres	2825
+Diciembre 2019	50	Zaragoza	3	Construcción	Mujeres	451
+Diciembre 2019	50	Zaragoza	4	Servicios	Hombres	11708
+Diciembre 2019	50	Zaragoza	4	Servicios	Mujeres	22837
+Diciembre 2019	50	Zaragoza		Sin empleo anterior	Hombres	1252
+Diciembre 2019	50	Zaragoza		Sin empleo anterior	Mujeres	2932
+Noviembre 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	463
+Noviembre 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	271
+Noviembre 2019	22	Huesca	2	Industria y energía	Hombres	461
+Noviembre 2019	22	Huesca	2	Industria y energía	Mujeres	278
+Noviembre 2019	22	Huesca	3	Construcción	Hombres	515
+Noviembre 2019	22	Huesca	3	Construcción	Mujeres	68
+Noviembre 2019	22	Huesca	4	Servicios	Hombres	1908
+Noviembre 2019	22	Huesca	4	Servicios	Mujeres	4034
+Noviembre 2019	22	Huesca		Sin empleo anterior	Hombres	222
+Noviembre 2019	22	Huesca		Sin empleo anterior	Mujeres	442
+Noviembre 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	213
+Noviembre 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	145
+Noviembre 2019	44	Teruel	2	Industria y energía	Hombres	427
+Noviembre 2019	44	Teruel	2	Industria y energía	Mujeres	309
+Noviembre 2019	44	Teruel	3	Construcción	Hombres	383
+Noviembre 2019	44	Teruel	3	Construcción	Mujeres	54
+Noviembre 2019	44	Teruel	4	Servicios	Hombres	1227
+Noviembre 2019	44	Teruel	4	Servicios	Mujeres	2546
+Noviembre 2019	44	Teruel		Sin empleo anterior	Hombres	136
+Noviembre 2019	44	Teruel		Sin empleo anterior	Mujeres	295
+Noviembre 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1744
+Noviembre 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1034
+Noviembre 2019	50	Zaragoza	2	Industria y energía	Hombres	3056
+Noviembre 2019	50	Zaragoza	2	Industria y energía	Mujeres	2819
+Noviembre 2019	50	Zaragoza	3	Construcción	Hombres	2639
+Noviembre 2019	50	Zaragoza	3	Construcción	Mujeres	453
+Noviembre 2019	50	Zaragoza	4	Servicios	Hombres	11483
+Noviembre 2019	50	Zaragoza	4	Servicios	Mujeres	23223
+Noviembre 2019	50	Zaragoza		Sin empleo anterior	Hombres	1315
+Noviembre 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3060
+Octubre 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	517
+Octubre 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	271
+Octubre 2019	22	Huesca	2	Industria y energía	Hombres	447
+Octubre 2019	22	Huesca	2	Industria y energía	Mujeres	285
+Octubre 2019	22	Huesca	3	Construcción	Hombres	506
+Octubre 2019	22	Huesca	3	Construcción	Mujeres	73
+Octubre 2019	22	Huesca	4	Servicios	Hombres	1952
+Octubre 2019	22	Huesca	4	Servicios	Mujeres	4014
+Octubre 2019	22	Huesca		Sin empleo anterior	Hombres	223
+Octubre 2019	22	Huesca		Sin empleo anterior	Mujeres	437
+Octubre 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	204
+Octubre 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	127
+Octubre 2019	44	Teruel	2	Industria y energía	Hombres	436
+Octubre 2019	44	Teruel	2	Industria y energía	Mujeres	306
+Octubre 2019	44	Teruel	3	Construcción	Hombres	380
+Octubre 2019	44	Teruel	3	Construcción	Mujeres	52
+Octubre 2019	44	Teruel	4	Servicios	Hombres	1222
+Octubre 2019	44	Teruel	4	Servicios	Mujeres	2447
+Octubre 2019	44	Teruel		Sin empleo anterior	Hombres	138
+Octubre 2019	44	Teruel		Sin empleo anterior	Mujeres	292
+Octubre 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1827
+Octubre 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	979
+Octubre 2019	50	Zaragoza	2	Industria y energía	Hombres	3021
+Octubre 2019	50	Zaragoza	2	Industria y energía	Mujeres	2736
+Octubre 2019	50	Zaragoza	3	Construcción	Hombres	2589
+Octubre 2019	50	Zaragoza	3	Construcción	Mujeres	450
+Octubre 2019	50	Zaragoza	4	Servicios	Hombres	11441
+Octubre 2019	50	Zaragoza	4	Servicios	Mujeres	23388
+Octubre 2019	50	Zaragoza		Sin empleo anterior	Hombres	1371
+Octubre 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3104
+Septiembre 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	474
+Septiembre 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	230
+Septiembre 2019	22	Huesca	2	Industria y energía	Hombres	448
+Septiembre 2019	22	Huesca	2	Industria y energía	Mujeres	266
+Septiembre 2019	22	Huesca	3	Construcción	Hombres	496
+Septiembre 2019	22	Huesca	3	Construcción	Mujeres	74
+Septiembre 2019	22	Huesca	4	Servicios	Hombres	1807
+Septiembre 2019	22	Huesca	4	Servicios	Mujeres	3697
+Septiembre 2019	22	Huesca		Sin empleo anterior	Hombres	236
+Septiembre 2019	22	Huesca		Sin empleo anterior	Mujeres	440
+Septiembre 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	169
+Septiembre 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	107
+Septiembre 2019	44	Teruel	2	Industria y energía	Hombres	443
+Septiembre 2019	44	Teruel	2	Industria y energía	Mujeres	298
+Septiembre 2019	44	Teruel	3	Construcción	Hombres	341
+Septiembre 2019	44	Teruel	3	Construcción	Mujeres	55
+Septiembre 2019	44	Teruel	4	Servicios	Hombres	1067
+Septiembre 2019	44	Teruel	4	Servicios	Mujeres	2259
+Septiembre 2019	44	Teruel		Sin empleo anterior	Hombres	124
+Septiembre 2019	44	Teruel		Sin empleo anterior	Mujeres	280
+Septiembre 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1352
+Septiembre 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	808
+Septiembre 2019	50	Zaragoza	2	Industria y energía	Hombres	2945
+Septiembre 2019	50	Zaragoza	2	Industria y energía	Mujeres	2682
+Septiembre 2019	50	Zaragoza	3	Construcción	Hombres	2651
+Septiembre 2019	50	Zaragoza	3	Construcción	Mujeres	451
+Septiembre 2019	50	Zaragoza	4	Servicios	Hombres	11116
+Septiembre 2019	50	Zaragoza	4	Servicios	Mujeres	23050
+Septiembre 2019	50	Zaragoza		Sin empleo anterior	Hombres	1412
+Septiembre 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3085
+Agosto 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	358
+Agosto 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	179
+Agosto 2019	22	Huesca	2	Industria y energía	Hombres	439
+Agosto 2019	22	Huesca	2	Industria y energía	Mujeres	260
+Agosto 2019	22	Huesca	3	Construcción	Hombres	481
+Agosto 2019	22	Huesca	3	Construcción	Mujeres	70
+Agosto 2019	22	Huesca	4	Servicios	Hombres	1625
+Agosto 2019	22	Huesca	4	Servicios	Mujeres	3558
+Agosto 2019	22	Huesca		Sin empleo anterior	Hombres	230
+Agosto 2019	22	Huesca		Sin empleo anterior	Mujeres	413
+Agosto 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	172
+Agosto 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	104
+Agosto 2019	44	Teruel	2	Industria y energía	Hombres	409
+Agosto 2019	44	Teruel	2	Industria y energía	Mujeres	292
+Agosto 2019	44	Teruel	3	Construcción	Hombres	344
+Agosto 2019	44	Teruel	3	Construcción	Mujeres	57
+Agosto 2019	44	Teruel	4	Servicios	Hombres	1005
+Agosto 2019	44	Teruel	4	Servicios	Mujeres	2126
+Agosto 2019	44	Teruel		Sin empleo anterior	Hombres	133
+Agosto 2019	44	Teruel		Sin empleo anterior	Mujeres	274
+Agosto 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1269
+Agosto 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	748
+Agosto 2019	50	Zaragoza	2	Industria y energía	Hombres	2917
+Agosto 2019	50	Zaragoza	2	Industria y energía	Mujeres	2701
+Agosto 2019	50	Zaragoza	3	Construcción	Hombres	2632
+Agosto 2019	50	Zaragoza	3	Construcción	Mujeres	460
+Agosto 2019	50	Zaragoza	4	Servicios	Hombres	11067
+Agosto 2019	50	Zaragoza	4	Servicios	Mujeres	22766
+Agosto 2019	50	Zaragoza		Sin empleo anterior	Hombres	1420
+Agosto 2019	50	Zaragoza		Sin empleo anterior	Mujeres	2974
+Julio 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	381
+Julio 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	164
+Julio 2019	22	Huesca	2	Industria y energía	Hombres	434
+Julio 2019	22	Huesca	2	Industria y energía	Mujeres	245
+Julio 2019	22	Huesca	3	Construcción	Hombres	460
+Julio 2019	22	Huesca	3	Construcción	Mujeres	72
+Julio 2019	22	Huesca	4	Servicios	Hombres	1552
+Julio 2019	22	Huesca	4	Servicios	Mujeres	3478
+Julio 2019	22	Huesca		Sin empleo anterior	Hombres	250
+Julio 2019	22	Huesca		Sin empleo anterior	Mujeres	435
+Julio 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	179
+Julio 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	104
+Julio 2019	44	Teruel	2	Industria y energía	Hombres	392
+Julio 2019	44	Teruel	2	Industria y energía	Mujeres	291
+Julio 2019	44	Teruel	3	Construcción	Hombres	329
+Julio 2019	44	Teruel	3	Construcción	Mujeres	52
+Julio 2019	44	Teruel	4	Servicios	Hombres	969
+Julio 2019	44	Teruel	4	Servicios	Mujeres	2123
+Julio 2019	44	Teruel		Sin empleo anterior	Hombres	140
+Julio 2019	44	Teruel		Sin empleo anterior	Mujeres	290
+Julio 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1473
+Julio 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	791
+Julio 2019	50	Zaragoza	2	Industria y energía	Hombres	2773
+Julio 2019	50	Zaragoza	2	Industria y energía	Mujeres	2687
+Julio 2019	50	Zaragoza	3	Construcción	Hombres	2507
+Julio 2019	50	Zaragoza	3	Construcción	Mujeres	462
+Julio 2019	50	Zaragoza	4	Servicios	Hombres	10566
+Julio 2019	50	Zaragoza	4	Servicios	Mujeres	22310
+Julio 2019	50	Zaragoza		Sin empleo anterior	Hombres	1464
+Julio 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3081
+Junio 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	352
+Junio 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	166
+Junio 2019	22	Huesca	2	Industria y energía	Hombres	417
+Junio 2019	22	Huesca	2	Industria y energía	Mujeres	245
+Junio 2019	22	Huesca	3	Construcción	Hombres	480
+Junio 2019	22	Huesca	3	Construcción	Mujeres	68
+Junio 2019	22	Huesca	4	Servicios	Hombres	1614
+Junio 2019	22	Huesca	4	Servicios	Mujeres	3480
+Junio 2019	22	Huesca		Sin empleo anterior	Hombres	248
+Junio 2019	22	Huesca		Sin empleo anterior	Mujeres	466
+Junio 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	174
+Junio 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	93
+Junio 2019	44	Teruel	2	Industria y energía	Hombres	393
+Junio 2019	44	Teruel	2	Industria y energía	Mujeres	292
+Junio 2019	44	Teruel	3	Construcción	Hombres	314
+Junio 2019	44	Teruel	3	Construcción	Mujeres	52
+Junio 2019	44	Teruel	4	Servicios	Hombres	1011
+Junio 2019	44	Teruel	4	Servicios	Mujeres	2168
+Junio 2019	44	Teruel		Sin empleo anterior	Hombres	161
+Junio 2019	44	Teruel		Sin empleo anterior	Mujeres	312
+Junio 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1146
+Junio 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	652
+Junio 2019	50	Zaragoza	2	Industria y energía	Hombres	2727
+Junio 2019	50	Zaragoza	2	Industria y energía	Mujeres	2704
+Junio 2019	50	Zaragoza	3	Construcción	Hombres	2477
+Junio 2019	50	Zaragoza	3	Construcción	Mujeres	453
+Junio 2019	50	Zaragoza	4	Servicios	Hombres	10395
+Junio 2019	50	Zaragoza	4	Servicios	Mujeres	21869
+Junio 2019	50	Zaragoza		Sin empleo anterior	Hombres	1451
+Junio 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3128
+Mayo 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	349
+Mayo 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	154
+Mayo 2019	22	Huesca	2	Industria y energía	Hombres	426
+Mayo 2019	22	Huesca	2	Industria y energía	Mujeres	251
+Mayo 2019	22	Huesca	3	Construcción	Hombres	498
+Mayo 2019	22	Huesca	3	Construcción	Mujeres	74
+Mayo 2019	22	Huesca	4	Servicios	Hombres	1700
+Mayo 2019	22	Huesca	4	Servicios	Mujeres	3630
+Mayo 2019	22	Huesca		Sin empleo anterior	Hombres	237
+Mayo 2019	22	Huesca		Sin empleo anterior	Mujeres	489
+Mayo 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	155
+Mayo 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	101
+Mayo 2019	44	Teruel	2	Industria y energía	Hombres	367
+Mayo 2019	44	Teruel	2	Industria y energía	Mujeres	304
+Mayo 2019	44	Teruel	3	Construcción	Hombres	306
+Mayo 2019	44	Teruel	3	Construcción	Mujeres	49
+Mayo 2019	44	Teruel	4	Servicios	Hombres	1023
+Mayo 2019	44	Teruel	4	Servicios	Mujeres	2307
+Mayo 2019	44	Teruel		Sin empleo anterior	Hombres	128
+Mayo 2019	44	Teruel		Sin empleo anterior	Mujeres	310
+Mayo 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1220
+Mayo 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	742
+Mayo 2019	50	Zaragoza	2	Industria y energía	Hombres	2785
+Mayo 2019	50	Zaragoza	2	Industria y energía	Mujeres	2693
+Mayo 2019	50	Zaragoza	3	Construcción	Hombres	2491
+Mayo 2019	50	Zaragoza	3	Construcción	Mujeres	442
+Mayo 2019	50	Zaragoza	4	Servicios	Hombres	10687
+Mayo 2019	50	Zaragoza	4	Servicios	Mujeres	22190
+Mayo 2019	50	Zaragoza		Sin empleo anterior	Hombres	1414
+Mayo 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3209
+Abril 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	445
+Abril 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	200
+Abril 2019	22	Huesca	2	Industria y energía	Hombres	453
+Abril 2019	22	Huesca	2	Industria y energía	Mujeres	274
+Abril 2019	22	Huesca	3	Construcción	Hombres	505
+Abril 2019	22	Huesca	3	Construcción	Mujeres	75
+Abril 2019	22	Huesca	4	Servicios	Hombres	1716
+Abril 2019	22	Huesca	4	Servicios	Mujeres	3723
+Abril 2019	22	Huesca		Sin empleo anterior	Hombres	232
+Abril 2019	22	Huesca		Sin empleo anterior	Mujeres	499
+Abril 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	213
+Abril 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	131
+Abril 2019	44	Teruel	2	Industria y energía	Hombres	372
+Abril 2019	44	Teruel	2	Industria y energía	Mujeres	295
+Abril 2019	44	Teruel	3	Construcción	Hombres	329
+Abril 2019	44	Teruel	3	Construcción	Mujeres	53
+Abril 2019	44	Teruel	4	Servicios	Hombres	1091
+Abril 2019	44	Teruel	4	Servicios	Mujeres	2384
+Abril 2019	44	Teruel		Sin empleo anterior	Hombres	110
+Abril 2019	44	Teruel		Sin empleo anterior	Mujeres	302
+Abril 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1692
+Abril 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	916
+Abril 2019	50	Zaragoza	2	Industria y energía	Hombres	2902
+Abril 2019	50	Zaragoza	2	Industria y energía	Mujeres	2851
+Abril 2019	50	Zaragoza	3	Construcción	Hombres	2659
+Abril 2019	50	Zaragoza	3	Construcción	Mujeres	437
+Abril 2019	50	Zaragoza	4	Servicios	Hombres	11312
+Abril 2019	50	Zaragoza	4	Servicios	Mujeres	22839
+Abril 2019	50	Zaragoza		Sin empleo anterior	Hombres	1471
+Abril 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3269
+Marzo 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	507
+Marzo 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	245
+Marzo 2019	22	Huesca	2	Industria y energía	Hombres	456
+Marzo 2019	22	Huesca	2	Industria y energía	Mujeres	276
+Marzo 2019	22	Huesca	3	Construcción	Hombres	512
+Marzo 2019	22	Huesca	3	Construcción	Mujeres	70
+Marzo 2019	22	Huesca	4	Servicios	Hombres	1744
+Marzo 2019	22	Huesca	4	Servicios	Mujeres	3821
+Marzo 2019	22	Huesca		Sin empleo anterior	Hombres	218
+Marzo 2019	22	Huesca		Sin empleo anterior	Mujeres	474
+Marzo 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	226
+Marzo 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	141
+Marzo 2019	44	Teruel	2	Industria y energía	Hombres	370
+Marzo 2019	44	Teruel	2	Industria y energía	Mujeres	322
+Marzo 2019	44	Teruel	3	Construcción	Hombres	356
+Marzo 2019	44	Teruel	3	Construcción	Mujeres	55
+Marzo 2019	44	Teruel	4	Servicios	Hombres	1122
+Marzo 2019	44	Teruel	4	Servicios	Mujeres	2429
+Marzo 2019	44	Teruel		Sin empleo anterior	Hombres	112
+Marzo 2019	44	Teruel		Sin empleo anterior	Mujeres	316
+Marzo 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1849
+Marzo 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	977
+Marzo 2019	50	Zaragoza	2	Industria y energía	Hombres	2918
+Marzo 2019	50	Zaragoza	2	Industria y energía	Mujeres	2889
+Marzo 2019	50	Zaragoza	3	Construcción	Hombres	2589
+Marzo 2019	50	Zaragoza	3	Construcción	Mujeres	436
+Marzo 2019	50	Zaragoza	4	Servicios	Hombres	11628
+Marzo 2019	50	Zaragoza	4	Servicios	Mujeres	23534
+Marzo 2019	50	Zaragoza		Sin empleo anterior	Hombres	1492
+Marzo 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3328
+Febrero 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	494
+Febrero 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	256
+Febrero 2019	22	Huesca	2	Industria y energía	Hombres	482
+Febrero 2019	22	Huesca	2	Industria y energía	Mujeres	288
+Febrero 2019	22	Huesca	3	Construcción	Hombres	538
+Febrero 2019	22	Huesca	3	Construcción	Mujeres	68
+Febrero 2019	22	Huesca	4	Servicios	Hombres	1853
+Febrero 2019	22	Huesca	4	Servicios	Mujeres	3960
+Febrero 2019	22	Huesca		Sin empleo anterior	Hombres	232
+Febrero 2019	22	Huesca		Sin empleo anterior	Mujeres	479
+Febrero 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	251
+Febrero 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	116
+Febrero 2019	44	Teruel	2	Industria y energía	Hombres	407
+Febrero 2019	44	Teruel	2	Industria y energía	Mujeres	327
+Febrero 2019	44	Teruel	3	Construcción	Hombres	352
+Febrero 2019	44	Teruel	3	Construcción	Mujeres	53
+Febrero 2019	44	Teruel	4	Servicios	Hombres	1186
+Febrero 2019	44	Teruel	4	Servicios	Mujeres	2589
+Febrero 2019	44	Teruel		Sin empleo anterior	Hombres	120
+Febrero 2019	44	Teruel		Sin empleo anterior	Mujeres	318
+Febrero 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1799
+Febrero 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	950
+Febrero 2019	50	Zaragoza	2	Industria y energía	Hombres	3038
+Febrero 2019	50	Zaragoza	2	Industria y energía	Mujeres	2991
+Febrero 2019	50	Zaragoza	3	Construcción	Hombres	2707
+Febrero 2019	50	Zaragoza	3	Construcción	Mujeres	436
+Febrero 2019	50	Zaragoza	4	Servicios	Hombres	11965
+Febrero 2019	50	Zaragoza	4	Servicios	Mujeres	23992
+Febrero 2019	50	Zaragoza		Sin empleo anterior	Hombres	1464
+Febrero 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3251
+Enero 2019	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	518
+Enero 2019	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	278
+Enero 2019	22	Huesca	2	Industria y energía	Hombres	500
+Enero 2019	22	Huesca	2	Industria y energía	Mujeres	303
+Enero 2019	22	Huesca	3	Construcción	Hombres	567
+Enero 2019	22	Huesca	3	Construcción	Mujeres	68
+Enero 2019	22	Huesca	4	Servicios	Hombres	1952
+Enero 2019	22	Huesca	4	Servicios	Mujeres	4199
+Enero 2019	22	Huesca		Sin empleo anterior	Hombres	224
+Enero 2019	22	Huesca		Sin empleo anterior	Mujeres	491
+Enero 2019	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	274
+Enero 2019	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	133
+Enero 2019	44	Teruel	2	Industria y energía	Hombres	443
+Enero 2019	44	Teruel	2	Industria y energía	Mujeres	334
+Enero 2019	44	Teruel	3	Construcción	Hombres	362
+Enero 2019	44	Teruel	3	Construcción	Mujeres	51
+Enero 2019	44	Teruel	4	Servicios	Hombres	1241
+Enero 2019	44	Teruel	4	Servicios	Mujeres	2685
+Enero 2019	44	Teruel		Sin empleo anterior	Hombres	94
+Enero 2019	44	Teruel		Sin empleo anterior	Mujeres	336
+Enero 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1778
+Enero 2019	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1003
+Enero 2019	50	Zaragoza	2	Industria y energía	Hombres	3223
+Enero 2019	50	Zaragoza	2	Industria y energía	Mujeres	3055
+Enero 2019	50	Zaragoza	3	Construcción	Hombres	2794
+Enero 2019	50	Zaragoza	3	Construcción	Mujeres	456
+Enero 2019	50	Zaragoza	4	Servicios	Hombres	12370
+Enero 2019	50	Zaragoza	4	Servicios	Mujeres	24559
+Enero 2019	50	Zaragoza		Sin empleo anterior	Hombres	1505
+Enero 2019	50	Zaragoza		Sin empleo anterior	Mujeres	3263
+Diciembre 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	513
+Diciembre 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	279
+Diciembre 2018	22	Huesca	2	Industria y energía	Hombres	490
+Diciembre 2018	22	Huesca	2	Industria y energía	Mujeres	281
+Diciembre 2018	22	Huesca	3	Construcción	Hombres	563
+Diciembre 2018	22	Huesca	3	Construcción	Mujeres	70
+Diciembre 2018	22	Huesca	4	Servicios	Hombres	1809
+Diciembre 2018	22	Huesca	4	Servicios	Mujeres	3858
+Diciembre 2018	22	Huesca		Sin empleo anterior	Hombres	222
+Diciembre 2018	22	Huesca		Sin empleo anterior	Mujeres	471
+Diciembre 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	272
+Diciembre 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	125
+Diciembre 2018	44	Teruel	2	Industria y energía	Hombres	406
+Diciembre 2018	44	Teruel	2	Industria y energía	Mujeres	319
+Diciembre 2018	44	Teruel	3	Construcción	Hombres	358
+Diciembre 2018	44	Teruel	3	Construcción	Mujeres	48
+Diciembre 2018	44	Teruel	4	Servicios	Hombres	1195
+Diciembre 2018	44	Teruel	4	Servicios	Mujeres	2486
+Diciembre 2018	44	Teruel		Sin empleo anterior	Hombres	103
+Diciembre 2018	44	Teruel		Sin empleo anterior	Mujeres	320
+Diciembre 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1843
+Diciembre 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1036
+Diciembre 2018	50	Zaragoza	2	Industria y energía	Hombres	3254
+Diciembre 2018	50	Zaragoza	2	Industria y energía	Mujeres	3089
+Diciembre 2018	50	Zaragoza	3	Construcción	Hombres	2730
+Diciembre 2018	50	Zaragoza	3	Construcción	Mujeres	455
+Diciembre 2018	50	Zaragoza	4	Servicios	Hombres	11889
+Diciembre 2018	50	Zaragoza	4	Servicios	Mujeres	23062
+Diciembre 2018	50	Zaragoza		Sin empleo anterior	Hombres	1441
+Diciembre 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3192
+Noviembre 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	542
+Noviembre 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	288
+Noviembre 2018	22	Huesca	2	Industria y energía	Hombres	485
+Noviembre 2018	22	Huesca	2	Industria y energía	Mujeres	274
+Noviembre 2018	22	Huesca	3	Construcción	Hombres	509
+Noviembre 2018	22	Huesca	3	Construcción	Mujeres	76
+Noviembre 2018	22	Huesca	4	Servicios	Hombres	1888
+Noviembre 2018	22	Huesca	4	Servicios	Mujeres	4109
+Noviembre 2018	22	Huesca		Sin empleo anterior	Hombres	215
+Noviembre 2018	22	Huesca		Sin empleo anterior	Mujeres	490
+Noviembre 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	253
+Noviembre 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	148
+Noviembre 2018	44	Teruel	2	Industria y energía	Hombres	408
+Noviembre 2018	44	Teruel	2	Industria y energía	Mujeres	314
+Noviembre 2018	44	Teruel	3	Construcción	Hombres	320
+Noviembre 2018	44	Teruel	3	Construcción	Mujeres	49
+Noviembre 2018	44	Teruel	4	Servicios	Hombres	1191
+Noviembre 2018	44	Teruel	4	Servicios	Mujeres	2577
+Noviembre 2018	44	Teruel		Sin empleo anterior	Hombres	96
+Noviembre 2018	44	Teruel		Sin empleo anterior	Mujeres	331
+Noviembre 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1966
+Noviembre 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1053
+Noviembre 2018	50	Zaragoza	2	Industria y energía	Hombres	3009
+Noviembre 2018	50	Zaragoza	2	Industria y energía	Mujeres	3073
+Noviembre 2018	50	Zaragoza	3	Construcción	Hombres	2569
+Noviembre 2018	50	Zaragoza	3	Construcción	Mujeres	459
+Noviembre 2018	50	Zaragoza	4	Servicios	Hombres	11434
+Noviembre 2018	50	Zaragoza	4	Servicios	Mujeres	23499
+Noviembre 2018	50	Zaragoza		Sin empleo anterior	Hombres	1524
+Noviembre 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3335
+Octubre 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	579
+Octubre 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	276
+Octubre 2018	22	Huesca	2	Industria y energía	Hombres	474
+Octubre 2018	22	Huesca	2	Industria y energía	Mujeres	285
+Octubre 2018	22	Huesca	3	Construcción	Hombres	477
+Octubre 2018	22	Huesca	3	Construcción	Mujeres	75
+Octubre 2018	22	Huesca	4	Servicios	Hombres	1927
+Octubre 2018	22	Huesca	4	Servicios	Mujeres	4106
+Octubre 2018	22	Huesca		Sin empleo anterior	Hombres	210
+Octubre 2018	22	Huesca		Sin empleo anterior	Mujeres	484
+Octubre 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	228
+Octubre 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	124
+Octubre 2018	44	Teruel	2	Industria y energía	Hombres	406
+Octubre 2018	44	Teruel	2	Industria y energía	Mujeres	314
+Octubre 2018	44	Teruel	3	Construcción	Hombres	315
+Octubre 2018	44	Teruel	3	Construcción	Mujeres	51
+Octubre 2018	44	Teruel	4	Servicios	Hombres	1185
+Octubre 2018	44	Teruel	4	Servicios	Mujeres	2502
+Octubre 2018	44	Teruel		Sin empleo anterior	Hombres	93
+Octubre 2018	44	Teruel		Sin empleo anterior	Mujeres	323
+Octubre 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1908
+Octubre 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	947
+Octubre 2018	50	Zaragoza	2	Industria y energía	Hombres	3012
+Octubre 2018	50	Zaragoza	2	Industria y energía	Mujeres	2979
+Octubre 2018	50	Zaragoza	3	Construcción	Hombres	2553
+Octubre 2018	50	Zaragoza	3	Construcción	Mujeres	466
+Octubre 2018	50	Zaragoza	4	Servicios	Hombres	11313
+Octubre 2018	50	Zaragoza	4	Servicios	Mujeres	23358
+Octubre 2018	50	Zaragoza		Sin empleo anterior	Hombres	1532
+Octubre 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3342
+Septiembre 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	562
+Septiembre 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	247
+Septiembre 2018	22	Huesca	2	Industria y energía	Hombres	479
+Septiembre 2018	22	Huesca	2	Industria y energía	Mujeres	291
+Septiembre 2018	22	Huesca	3	Construcción	Hombres	478
+Septiembre 2018	22	Huesca	3	Construcción	Mujeres	78
+Septiembre 2018	22	Huesca	4	Servicios	Hombres	1831
+Septiembre 2018	22	Huesca	4	Servicios	Mujeres	3776
+Septiembre 2018	22	Huesca		Sin empleo anterior	Hombres	218
+Septiembre 2018	22	Huesca		Sin empleo anterior	Mujeres	460
+Septiembre 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	195
+Septiembre 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	100
+Septiembre 2018	44	Teruel	2	Industria y energía	Hombres	403
+Septiembre 2018	44	Teruel	2	Industria y energía	Mujeres	298
+Septiembre 2018	44	Teruel	3	Construcción	Hombres	313
+Septiembre 2018	44	Teruel	3	Construcción	Mujeres	52
+Septiembre 2018	44	Teruel	4	Servicios	Hombres	1061
+Septiembre 2018	44	Teruel	4	Servicios	Mujeres	2313
+Septiembre 2018	44	Teruel		Sin empleo anterior	Hombres	104
+Septiembre 2018	44	Teruel		Sin empleo anterior	Mujeres	335
+Septiembre 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1568
+Septiembre 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	815
+Septiembre 2018	50	Zaragoza	2	Industria y energía	Hombres	2895
+Septiembre 2018	50	Zaragoza	2	Industria y energía	Mujeres	2916
+Septiembre 2018	50	Zaragoza	3	Construcción	Hombres	2581
+Septiembre 2018	50	Zaragoza	3	Construcción	Mujeres	457
+Septiembre 2018	50	Zaragoza	4	Servicios	Hombres	11017
+Septiembre 2018	50	Zaragoza	4	Servicios	Mujeres	22906
+Septiembre 2018	50	Zaragoza		Sin empleo anterior	Hombres	1579
+Septiembre 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3343
+Agosto 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	452
+Agosto 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	188
+Agosto 2018	22	Huesca	2	Industria y energía	Hombres	484
+Agosto 2018	22	Huesca	2	Industria y energía	Mujeres	298
+Agosto 2018	22	Huesca	3	Construcción	Hombres	479
+Agosto 2018	22	Huesca	3	Construcción	Mujeres	74
+Agosto 2018	22	Huesca	4	Servicios	Hombres	1595
+Agosto 2018	22	Huesca	4	Servicios	Mujeres	3619
+Agosto 2018	22	Huesca		Sin empleo anterior	Hombres	234
+Agosto 2018	22	Huesca		Sin empleo anterior	Mujeres	451
+Agosto 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	199
+Agosto 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	101
+Agosto 2018	44	Teruel	2	Industria y energía	Hombres	394
+Agosto 2018	44	Teruel	2	Industria y energía	Mujeres	310
+Agosto 2018	44	Teruel	3	Construcción	Hombres	313
+Agosto 2018	44	Teruel	3	Construcción	Mujeres	55
+Agosto 2018	44	Teruel	4	Servicios	Hombres	1037
+Agosto 2018	44	Teruel	4	Servicios	Mujeres	2256
+Agosto 2018	44	Teruel		Sin empleo anterior	Hombres	123
+Agosto 2018	44	Teruel		Sin empleo anterior	Mujeres	313
+Agosto 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1488
+Agosto 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	766
+Agosto 2018	50	Zaragoza	2	Industria y energía	Hombres	2938
+Agosto 2018	50	Zaragoza	2	Industria y energía	Mujeres	2862
+Agosto 2018	50	Zaragoza	3	Construcción	Hombres	2546
+Agosto 2018	50	Zaragoza	3	Construcción	Mujeres	469
+Agosto 2018	50	Zaragoza	4	Servicios	Hombres	10924
+Agosto 2018	50	Zaragoza	4	Servicios	Mujeres	22776
+Agosto 2018	50	Zaragoza		Sin empleo anterior	Hombres	1505
+Agosto 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3221
+Julio 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	425
+Julio 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	178
+Julio 2018	22	Huesca	2	Industria y energía	Hombres	457
+Julio 2018	22	Huesca	2	Industria y energía	Mujeres	286
+Julio 2018	22	Huesca	3	Construcción	Hombres	478
+Julio 2018	22	Huesca	3	Construcción	Mujeres	74
+Julio 2018	22	Huesca	4	Servicios	Hombres	1559
+Julio 2018	22	Huesca	4	Servicios	Mujeres	3497
+Julio 2018	22	Huesca		Sin empleo anterior	Hombres	257
+Julio 2018	22	Huesca		Sin empleo anterior	Mujeres	470
+Julio 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	186
+Julio 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	87
+Julio 2018	44	Teruel	2	Industria y energía	Hombres	390
+Julio 2018	44	Teruel	2	Industria y energía	Mujeres	302
+Julio 2018	44	Teruel	3	Construcción	Hombres	303
+Julio 2018	44	Teruel	3	Construcción	Mujeres	58
+Julio 2018	44	Teruel	4	Servicios	Hombres	986
+Julio 2018	44	Teruel	4	Servicios	Mujeres	2223
+Julio 2018	44	Teruel		Sin empleo anterior	Hombres	119
+Julio 2018	44	Teruel		Sin empleo anterior	Mujeres	327
+Julio 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1412
+Julio 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	733
+Julio 2018	50	Zaragoza	2	Industria y energía	Hombres	2748
+Julio 2018	50	Zaragoza	2	Industria y energía	Mujeres	2818
+Julio 2018	50	Zaragoza	3	Construcción	Hombres	2453
+Julio 2018	50	Zaragoza	3	Construcción	Mujeres	462
+Julio 2018	50	Zaragoza	4	Servicios	Hombres	10342
+Julio 2018	50	Zaragoza	4	Servicios	Mujeres	22325
+Julio 2018	50	Zaragoza		Sin empleo anterior	Hombres	1561
+Julio 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3290
+Junio 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	360
+Junio 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	162
+Junio 2018	22	Huesca	2	Industria y energía	Hombres	450
+Junio 2018	22	Huesca	2	Industria y energía	Mujeres	292
+Junio 2018	22	Huesca	3	Construcción	Hombres	509
+Junio 2018	22	Huesca	3	Construcción	Mujeres	74
+Junio 2018	22	Huesca	4	Servicios	Hombres	1648
+Junio 2018	22	Huesca	4	Servicios	Mujeres	3504
+Junio 2018	22	Huesca		Sin empleo anterior	Hombres	259
+Junio 2018	22	Huesca		Sin empleo anterior	Mujeres	474
+Junio 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	168
+Junio 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	90
+Junio 2018	44	Teruel	2	Industria y energía	Hombres	391
+Junio 2018	44	Teruel	2	Industria y energía	Mujeres	317
+Junio 2018	44	Teruel	3	Construcción	Hombres	327
+Junio 2018	44	Teruel	3	Construcción	Mujeres	55
+Junio 2018	44	Teruel	4	Servicios	Hombres	1011
+Junio 2018	44	Teruel	4	Servicios	Mujeres	2351
+Junio 2018	44	Teruel		Sin empleo anterior	Hombres	135
+Junio 2018	44	Teruel		Sin empleo anterior	Mujeres	335
+Junio 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1237
+Junio 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	672
+Junio 2018	50	Zaragoza	2	Industria y energía	Hombres	2724
+Junio 2018	50	Zaragoza	2	Industria y energía	Mujeres	2834
+Junio 2018	50	Zaragoza	3	Construcción	Hombres	2524
+Junio 2018	50	Zaragoza	3	Construcción	Mujeres	463
+Junio 2018	50	Zaragoza	4	Servicios	Hombres	10273
+Junio 2018	50	Zaragoza	4	Servicios	Mujeres	22509
+Junio 2018	50	Zaragoza		Sin empleo anterior	Hombres	1582
+Junio 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3314
+Mayo 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	418
+Mayo 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	205
+Mayo 2018	22	Huesca	2	Industria y energía	Hombres	448
+Mayo 2018	22	Huesca	2	Industria y energía	Mujeres	307
+Mayo 2018	22	Huesca	3	Construcción	Hombres	542
+Mayo 2018	22	Huesca	3	Construcción	Mujeres	79
+Mayo 2018	22	Huesca	4	Servicios	Hombres	1829
+Mayo 2018	22	Huesca	4	Servicios	Mujeres	3745
+Mayo 2018	22	Huesca		Sin empleo anterior	Hombres	244
+Mayo 2018	22	Huesca		Sin empleo anterior	Mujeres	482
+Mayo 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	181
+Mayo 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	107
+Mayo 2018	44	Teruel	2	Industria y energía	Hombres	419
+Mayo 2018	44	Teruel	2	Industria y energía	Mujeres	321
+Mayo 2018	44	Teruel	3	Construcción	Hombres	361
+Mayo 2018	44	Teruel	3	Construcción	Mujeres	58
+Mayo 2018	44	Teruel	4	Servicios	Hombres	1088
+Mayo 2018	44	Teruel	4	Servicios	Mujeres	2446
+Mayo 2018	44	Teruel		Sin empleo anterior	Hombres	121
+Mayo 2018	44	Teruel		Sin empleo anterior	Mujeres	335
+Mayo 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1445
+Mayo 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	732
+Mayo 2018	50	Zaragoza	2	Industria y energía	Hombres	2892
+Mayo 2018	50	Zaragoza	2	Industria y energía	Mujeres	2978
+Mayo 2018	50	Zaragoza	3	Construcción	Hombres	2655
+Mayo 2018	50	Zaragoza	3	Construcción	Mujeres	483
+Mayo 2018	50	Zaragoza	4	Servicios	Hombres	11017
+Mayo 2018	50	Zaragoza	4	Servicios	Mujeres	23201
+Mayo 2018	50	Zaragoza		Sin empleo anterior	Hombres	1606
+Mayo 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3461
+Abril 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	554
+Abril 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	259
+Abril 2018	22	Huesca	2	Industria y energía	Hombres	479
+Abril 2018	22	Huesca	2	Industria y energía	Mujeres	320
+Abril 2018	22	Huesca	3	Construcción	Hombres	600
+Abril 2018	22	Huesca	3	Construcción	Mujeres	81
+Abril 2018	22	Huesca	4	Servicios	Hombres	1900
+Abril 2018	22	Huesca	4	Servicios	Mujeres	3976
+Abril 2018	22	Huesca		Sin empleo anterior	Hombres	240
+Abril 2018	22	Huesca		Sin empleo anterior	Mujeres	473
+Abril 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	235
+Abril 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	154
+Abril 2018	44	Teruel	2	Industria y energía	Hombres	444
+Abril 2018	44	Teruel	2	Industria y energía	Mujeres	314
+Abril 2018	44	Teruel	3	Construcción	Hombres	396
+Abril 2018	44	Teruel	3	Construcción	Mujeres	56
+Abril 2018	44	Teruel	4	Servicios	Hombres	1162
+Abril 2018	44	Teruel	4	Servicios	Mujeres	2535
+Abril 2018	44	Teruel		Sin empleo anterior	Hombres	121
+Abril 2018	44	Teruel		Sin empleo anterior	Mujeres	347
+Abril 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2004
+Abril 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	890
+Abril 2018	50	Zaragoza	2	Industria y energía	Hombres	3085
+Abril 2018	50	Zaragoza	2	Industria y energía	Mujeres	3128
+Abril 2018	50	Zaragoza	3	Construcción	Hombres	2898
+Abril 2018	50	Zaragoza	3	Construcción	Mujeres	495
+Abril 2018	50	Zaragoza	4	Servicios	Hombres	11649
+Abril 2018	50	Zaragoza	4	Servicios	Mujeres	24061
+Abril 2018	50	Zaragoza		Sin empleo anterior	Hombres	1689
+Abril 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3569
+Marzo 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	599
+Marzo 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	290
+Marzo 2018	22	Huesca	2	Industria y energía	Hombres	507
+Marzo 2018	22	Huesca	2	Industria y energía	Mujeres	325
+Marzo 2018	22	Huesca	3	Construcción	Hombres	659
+Marzo 2018	22	Huesca	3	Construcción	Mujeres	76
+Marzo 2018	22	Huesca	4	Servicios	Hombres	1815
+Marzo 2018	22	Huesca	4	Servicios	Mujeres	3870
+Marzo 2018	22	Huesca		Sin empleo anterior	Hombres	242
+Marzo 2018	22	Huesca		Sin empleo anterior	Mujeres	467
+Marzo 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	272
+Marzo 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	146
+Marzo 2018	44	Teruel	2	Industria y energía	Hombres	463
+Marzo 2018	44	Teruel	2	Industria y energía	Mujeres	320
+Marzo 2018	44	Teruel	3	Construcción	Hombres	428
+Marzo 2018	44	Teruel	3	Construcción	Mujeres	59
+Marzo 2018	44	Teruel	4	Servicios	Hombres	1186
+Marzo 2018	44	Teruel	4	Servicios	Mujeres	2575
+Marzo 2018	44	Teruel		Sin empleo anterior	Hombres	124
+Marzo 2018	44	Teruel		Sin empleo anterior	Mujeres	349
+Marzo 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2157
+Marzo 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1001
+Marzo 2018	50	Zaragoza	2	Industria y energía	Hombres	3051
+Marzo 2018	50	Zaragoza	2	Industria y energía	Mujeres	3149
+Marzo 2018	50	Zaragoza	3	Construcción	Hombres	3053
+Marzo 2018	50	Zaragoza	3	Construcción	Mujeres	510
+Marzo 2018	50	Zaragoza	4	Servicios	Hombres	12129
+Marzo 2018	50	Zaragoza	4	Servicios	Mujeres	24583
+Marzo 2018	50	Zaragoza		Sin empleo anterior	Hombres	1699
+Marzo 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3603
+Febrero 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	578
+Febrero 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	300
+Febrero 2018	22	Huesca	2	Industria y energía	Hombres	490
+Febrero 2018	22	Huesca	2	Industria y energía	Mujeres	344
+Febrero 2018	22	Huesca	3	Construcción	Hombres	648
+Febrero 2018	22	Huesca	3	Construcción	Mujeres	84
+Febrero 2018	22	Huesca	4	Servicios	Hombres	1901
+Febrero 2018	22	Huesca	4	Servicios	Mujeres	4013
+Febrero 2018	22	Huesca		Sin empleo anterior	Hombres	246
+Febrero 2018	22	Huesca		Sin empleo anterior	Mujeres	458
+Febrero 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	257
+Febrero 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	150
+Febrero 2018	44	Teruel	2	Industria y energía	Hombres	462
+Febrero 2018	44	Teruel	2	Industria y energía	Mujeres	347
+Febrero 2018	44	Teruel	3	Construcción	Hombres	454
+Febrero 2018	44	Teruel	3	Construcción	Mujeres	62
+Febrero 2018	44	Teruel	4	Servicios	Hombres	1262
+Febrero 2018	44	Teruel	4	Servicios	Mujeres	2712
+Febrero 2018	44	Teruel		Sin empleo anterior	Hombres	128
+Febrero 2018	44	Teruel		Sin empleo anterior	Mujeres	355
+Febrero 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2087
+Febrero 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	984
+Febrero 2018	50	Zaragoza	2	Industria y energía	Hombres	3035
+Febrero 2018	50	Zaragoza	2	Industria y energía	Mujeres	3125
+Febrero 2018	50	Zaragoza	3	Construcción	Hombres	3034
+Febrero 2018	50	Zaragoza	3	Construcción	Mujeres	506
+Febrero 2018	50	Zaragoza	4	Servicios	Hombres	12205
+Febrero 2018	50	Zaragoza	4	Servicios	Mujeres	24897
+Febrero 2018	50	Zaragoza		Sin empleo anterior	Hombres	1679
+Febrero 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3553
+Enero 2018	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	583
+Enero 2018	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	303
+Enero 2018	22	Huesca	2	Industria y energía	Hombres	513
+Enero 2018	22	Huesca	2	Industria y energía	Mujeres	346
+Enero 2018	22	Huesca	3	Construcción	Hombres	704
+Enero 2018	22	Huesca	3	Construcción	Mujeres	88
+Enero 2018	22	Huesca	4	Servicios	Hombres	2084
+Enero 2018	22	Huesca	4	Servicios	Mujeres	4140
+Enero 2018	22	Huesca		Sin empleo anterior	Hombres	255
+Enero 2018	22	Huesca		Sin empleo anterior	Mujeres	460
+Enero 2018	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	299
+Enero 2018	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	156
+Enero 2018	44	Teruel	2	Industria y energía	Hombres	477
+Enero 2018	44	Teruel	2	Industria y energía	Mujeres	367
+Enero 2018	44	Teruel	3	Construcción	Hombres	487
+Enero 2018	44	Teruel	3	Construcción	Mujeres	65
+Enero 2018	44	Teruel	4	Servicios	Hombres	1353
+Enero 2018	44	Teruel	4	Servicios	Mujeres	2848
+Enero 2018	44	Teruel		Sin empleo anterior	Hombres	127
+Enero 2018	44	Teruel		Sin empleo anterior	Mujeres	356
+Enero 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2090
+Enero 2018	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1023
+Enero 2018	50	Zaragoza	2	Industria y energía	Hombres	3118
+Enero 2018	50	Zaragoza	2	Industria y energía	Mujeres	3192
+Enero 2018	50	Zaragoza	3	Construcción	Hombres	3134
+Enero 2018	50	Zaragoza	3	Construcción	Mujeres	531
+Enero 2018	50	Zaragoza	4	Servicios	Hombres	12530
+Enero 2018	50	Zaragoza	4	Servicios	Mujeres	25223
+Enero 2018	50	Zaragoza		Sin empleo anterior	Hombres	1694
+Enero 2018	50	Zaragoza		Sin empleo anterior	Mujeres	3535
+Diciembre 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	589
+Diciembre 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	309
+Diciembre 2017	22	Huesca	2	Industria y energía	Hombres	507
+Diciembre 2017	22	Huesca	2	Industria y energía	Mujeres	348
+Diciembre 2017	22	Huesca	3	Construcción	Hombres	660
+Diciembre 2017	22	Huesca	3	Construcción	Mujeres	83
+Diciembre 2017	22	Huesca	4	Servicios	Hombres	2043
+Diciembre 2017	22	Huesca	4	Servicios	Mujeres	3991
+Diciembre 2017	22	Huesca		Sin empleo anterior	Hombres	243
+Diciembre 2017	22	Huesca		Sin empleo anterior	Mujeres	473
+Diciembre 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	298
+Diciembre 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	170
+Diciembre 2017	44	Teruel	2	Industria y energía	Hombres	451
+Diciembre 2017	44	Teruel	2	Industria y energía	Mujeres	352
+Diciembre 2017	44	Teruel	3	Construcción	Hombres	439
+Diciembre 2017	44	Teruel	3	Construcción	Mujeres	65
+Diciembre 2017	44	Teruel	4	Servicios	Hombres	1345
+Diciembre 2017	44	Teruel	4	Servicios	Mujeres	2724
+Diciembre 2017	44	Teruel		Sin empleo anterior	Hombres	124
+Diciembre 2017	44	Teruel		Sin empleo anterior	Mujeres	335
+Diciembre 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2183
+Diciembre 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1053
+Diciembre 2017	50	Zaragoza	2	Industria y energía	Hombres	3195
+Diciembre 2017	50	Zaragoza	2	Industria y energía	Mujeres	3164
+Diciembre 2017	50	Zaragoza	3	Construcción	Hombres	3230
+Diciembre 2017	50	Zaragoza	3	Construcción	Mujeres	526
+Diciembre 2017	50	Zaragoza	4	Servicios	Hombres	12461
+Diciembre 2017	50	Zaragoza	4	Servicios	Mujeres	24206
+Diciembre 2017	50	Zaragoza		Sin empleo anterior	Hombres	1649
+Diciembre 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3494
+Noviembre 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	633
+Noviembre 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	298
+Noviembre 2017	22	Huesca	2	Industria y energía	Hombres	488
+Noviembre 2017	22	Huesca	2	Industria y energía	Mujeres	328
+Noviembre 2017	22	Huesca	3	Construcción	Hombres	576
+Noviembre 2017	22	Huesca	3	Construcción	Mujeres	85
+Noviembre 2017	22	Huesca	4	Servicios	Hombres	2196
+Noviembre 2017	22	Huesca	4	Servicios	Mujeres	4352
+Noviembre 2017	22	Huesca		Sin empleo anterior	Hombres	252
+Noviembre 2017	22	Huesca		Sin empleo anterior	Mujeres	506
+Noviembre 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	320
+Noviembre 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	186
+Noviembre 2017	44	Teruel	2	Industria y energía	Hombres	442
+Noviembre 2017	44	Teruel	2	Industria y energía	Mujeres	353
+Noviembre 2017	44	Teruel	3	Construcción	Hombres	398
+Noviembre 2017	44	Teruel	3	Construcción	Mujeres	64
+Noviembre 2017	44	Teruel	4	Servicios	Hombres	1324
+Noviembre 2017	44	Teruel	4	Servicios	Mujeres	2849
+Noviembre 2017	44	Teruel		Sin empleo anterior	Hombres	134
+Noviembre 2017	44	Teruel		Sin empleo anterior	Mujeres	342
+Noviembre 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2216
+Noviembre 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1105
+Noviembre 2017	50	Zaragoza	2	Industria y energía	Hombres	2978
+Noviembre 2017	50	Zaragoza	2	Industria y energía	Mujeres	3097
+Noviembre 2017	50	Zaragoza	3	Construcción	Hombres	3051
+Noviembre 2017	50	Zaragoza	3	Construcción	Mujeres	540
+Noviembre 2017	50	Zaragoza	4	Servicios	Hombres	11965
+Noviembre 2017	50	Zaragoza	4	Servicios	Mujeres	24513
+Noviembre 2017	50	Zaragoza		Sin empleo anterior	Hombres	1746
+Noviembre 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3654
+Octubre 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	685
+Octubre 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	289
+Octubre 2017	22	Huesca	2	Industria y energía	Hombres	502
+Octubre 2017	22	Huesca	2	Industria y energía	Mujeres	340
+Octubre 2017	22	Huesca	3	Construcción	Hombres	602
+Octubre 2017	22	Huesca	3	Construcción	Mujeres	83
+Octubre 2017	22	Huesca	4	Servicios	Hombres	2207
+Octubre 2017	22	Huesca	4	Servicios	Mujeres	4340
+Octubre 2017	22	Huesca		Sin empleo anterior	Hombres	237
+Octubre 2017	22	Huesca		Sin empleo anterior	Mujeres	495
+Octubre 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	352
+Octubre 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	173
+Octubre 2017	44	Teruel	2	Industria y energía	Hombres	480
+Octubre 2017	44	Teruel	2	Industria y energía	Mujeres	344
+Octubre 2017	44	Teruel	3	Construcción	Hombres	432
+Octubre 2017	44	Teruel	3	Construcción	Mujeres	68
+Octubre 2017	44	Teruel	4	Servicios	Hombres	1340
+Octubre 2017	44	Teruel	4	Servicios	Mujeres	2762
+Octubre 2017	44	Teruel		Sin empleo anterior	Hombres	141
+Octubre 2017	44	Teruel		Sin empleo anterior	Mujeres	354
+Octubre 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2427
+Octubre 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1036
+Octubre 2017	50	Zaragoza	2	Industria y energía	Hombres	2949
+Octubre 2017	50	Zaragoza	2	Industria y energía	Mujeres	3024
+Octubre 2017	50	Zaragoza	3	Construcción	Hombres	3137
+Octubre 2017	50	Zaragoza	3	Construcción	Mujeres	562
+Octubre 2017	50	Zaragoza	4	Servicios	Hombres	12115
+Octubre 2017	50	Zaragoza	4	Servicios	Mujeres	24632
+Octubre 2017	50	Zaragoza		Sin empleo anterior	Hombres	1806
+Octubre 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3685
+Septiembre 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	650
+Septiembre 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	282
+Septiembre 2017	22	Huesca	2	Industria y energía	Hombres	483
+Septiembre 2017	22	Huesca	2	Industria y energía	Mujeres	343
+Septiembre 2017	22	Huesca	3	Construcción	Hombres	645
+Septiembre 2017	22	Huesca	3	Construcción	Mujeres	87
+Septiembre 2017	22	Huesca	4	Servicios	Hombres	2068
+Septiembre 2017	22	Huesca	4	Servicios	Mujeres	4077
+Septiembre 2017	22	Huesca		Sin empleo anterior	Hombres	262
+Septiembre 2017	22	Huesca		Sin empleo anterior	Mujeres	498
+Septiembre 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	265
+Septiembre 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	134
+Septiembre 2017	44	Teruel	2	Industria y energía	Hombres	468
+Septiembre 2017	44	Teruel	2	Industria y energía	Mujeres	335
+Septiembre 2017	44	Teruel	3	Construcción	Hombres	433
+Septiembre 2017	44	Teruel	3	Construcción	Mujeres	75
+Septiembre 2017	44	Teruel	4	Servicios	Hombres	1187
+Septiembre 2017	44	Teruel	4	Servicios	Mujeres	2546
+Septiembre 2017	44	Teruel		Sin empleo anterior	Hombres	137
+Septiembre 2017	44	Teruel		Sin empleo anterior	Mujeres	351
+Septiembre 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1982
+Septiembre 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	899
+Septiembre 2017	50	Zaragoza	2	Industria y energía	Hombres	2937
+Septiembre 2017	50	Zaragoza	2	Industria y energía	Mujeres	2979
+Septiembre 2017	50	Zaragoza	3	Construcción	Hombres	3169
+Septiembre 2017	50	Zaragoza	3	Construcción	Mujeres	573
+Septiembre 2017	50	Zaragoza	4	Servicios	Hombres	11526
+Septiembre 2017	50	Zaragoza	4	Servicios	Mujeres	24251
+Septiembre 2017	50	Zaragoza		Sin empleo anterior	Hombres	1857
+Septiembre 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3739
+Agosto 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	496
+Agosto 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	229
+Agosto 2017	22	Huesca	2	Industria y energía	Hombres	459
+Agosto 2017	22	Huesca	2	Industria y energía	Mujeres	323
+Agosto 2017	22	Huesca	3	Construcción	Hombres	665
+Agosto 2017	22	Huesca	3	Construcción	Mujeres	95
+Agosto 2017	22	Huesca	4	Servicios	Hombres	1857
+Agosto 2017	22	Huesca	4	Servicios	Mujeres	3801
+Agosto 2017	22	Huesca		Sin empleo anterior	Hombres	277
+Agosto 2017	22	Huesca		Sin empleo anterior	Mujeres	479
+Agosto 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	254
+Agosto 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	128
+Agosto 2017	44	Teruel	2	Industria y energía	Hombres	460
+Agosto 2017	44	Teruel	2	Industria y energía	Mujeres	343
+Agosto 2017	44	Teruel	3	Construcción	Hombres	444
+Agosto 2017	44	Teruel	3	Construcción	Mujeres	70
+Agosto 2017	44	Teruel	4	Servicios	Hombres	1097
+Agosto 2017	44	Teruel	4	Servicios	Mujeres	2406
+Agosto 2017	44	Teruel		Sin empleo anterior	Hombres	139
+Agosto 2017	44	Teruel		Sin empleo anterior	Mujeres	354
+Agosto 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1836
+Agosto 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	850
+Agosto 2017	50	Zaragoza	2	Industria y energía	Hombres	2985
+Agosto 2017	50	Zaragoza	2	Industria y energía	Mujeres	2974
+Agosto 2017	50	Zaragoza	3	Construcción	Hombres	3193
+Agosto 2017	50	Zaragoza	3	Construcción	Mujeres	568
+Agosto 2017	50	Zaragoza	4	Servicios	Hombres	11549
+Agosto 2017	50	Zaragoza	4	Servicios	Mujeres	24241
+Agosto 2017	50	Zaragoza		Sin empleo anterior	Hombres	1835
+Agosto 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3604
+Julio 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	472
+Julio 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	212
+Julio 2017	22	Huesca	2	Industria y energía	Hombres	436
+Julio 2017	22	Huesca	2	Industria y energía	Mujeres	308
+Julio 2017	22	Huesca	3	Construcción	Hombres	630
+Julio 2017	22	Huesca	3	Construcción	Mujeres	95
+Julio 2017	22	Huesca	4	Servicios	Hombres	1761
+Julio 2017	22	Huesca	4	Servicios	Mujeres	3631
+Julio 2017	22	Huesca		Sin empleo anterior	Hombres	273
+Julio 2017	22	Huesca		Sin empleo anterior	Mujeres	499
+Julio 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	230
+Julio 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	118
+Julio 2017	44	Teruel	2	Industria y energía	Hombres	454
+Julio 2017	44	Teruel	2	Industria y energía	Mujeres	338
+Julio 2017	44	Teruel	3	Construcción	Hombres	420
+Julio 2017	44	Teruel	3	Construcción	Mujeres	73
+Julio 2017	44	Teruel	4	Servicios	Hombres	1086
+Julio 2017	44	Teruel	4	Servicios	Mujeres	2358
+Julio 2017	44	Teruel		Sin empleo anterior	Hombres	145
+Julio 2017	44	Teruel		Sin empleo anterior	Mujeres	365
+Julio 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2028
+Julio 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	912
+Julio 2017	50	Zaragoza	2	Industria y energía	Hombres	2944
+Julio 2017	50	Zaragoza	2	Industria y energía	Mujeres	3011
+Julio 2017	50	Zaragoza	3	Construcción	Hombres	3119
+Julio 2017	50	Zaragoza	3	Construcción	Mujeres	561
+Julio 2017	50	Zaragoza	4	Servicios	Hombres	11317
+Julio 2017	50	Zaragoza	4	Servicios	Mujeres	23931
+Julio 2017	50	Zaragoza		Sin empleo anterior	Hombres	1817
+Julio 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3667
+Junio 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	438
+Junio 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	188
+Junio 2017	22	Huesca	2	Industria y energía	Hombres	431
+Junio 2017	22	Huesca	2	Industria y energía	Mujeres	322
+Junio 2017	22	Huesca	3	Construcción	Hombres	641
+Junio 2017	22	Huesca	3	Construcción	Mujeres	98
+Junio 2017	22	Huesca	4	Servicios	Hombres	1754
+Junio 2017	22	Huesca	4	Servicios	Mujeres	3756
+Junio 2017	22	Huesca		Sin empleo anterior	Hombres	249
+Junio 2017	22	Huesca		Sin empleo anterior	Mujeres	511
+Junio 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	227
+Junio 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	116
+Junio 2017	44	Teruel	2	Industria y energía	Hombres	470
+Junio 2017	44	Teruel	2	Industria y energía	Mujeres	358
+Junio 2017	44	Teruel	3	Construcción	Hombres	436
+Junio 2017	44	Teruel	3	Construcción	Mujeres	74
+Junio 2017	44	Teruel	4	Servicios	Hombres	1089
+Junio 2017	44	Teruel	4	Servicios	Mujeres	2488
+Junio 2017	44	Teruel		Sin empleo anterior	Hombres	163
+Junio 2017	44	Teruel		Sin empleo anterior	Mujeres	363
+Junio 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1623
+Junio 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	760
+Junio 2017	50	Zaragoza	2	Industria y energía	Hombres	2893
+Junio 2017	50	Zaragoza	2	Industria y energía	Mujeres	2977
+Junio 2017	50	Zaragoza	3	Construcción	Hombres	3144
+Junio 2017	50	Zaragoza	3	Construcción	Mujeres	556
+Junio 2017	50	Zaragoza	4	Servicios	Hombres	11309
+Junio 2017	50	Zaragoza	4	Servicios	Mujeres	23640
+Junio 2017	50	Zaragoza		Sin empleo anterior	Hombres	1769
+Junio 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3651
+Mayo 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	450
+Mayo 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	197
+Mayo 2017	22	Huesca	2	Industria y energía	Hombres	436
+Mayo 2017	22	Huesca	2	Industria y energía	Mujeres	330
+Mayo 2017	22	Huesca	3	Construcción	Hombres	678
+Mayo 2017	22	Huesca	3	Construcción	Mujeres	98
+Mayo 2017	22	Huesca	4	Servicios	Hombres	1894
+Mayo 2017	22	Huesca	4	Servicios	Mujeres	3954
+Mayo 2017	22	Huesca		Sin empleo anterior	Hombres	259
+Mayo 2017	22	Huesca		Sin empleo anterior	Mujeres	527
+Mayo 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	242
+Mayo 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	125
+Mayo 2017	44	Teruel	2	Industria y energía	Hombres	460
+Mayo 2017	44	Teruel	2	Industria y energía	Mujeres	355
+Mayo 2017	44	Teruel	3	Construcción	Hombres	476
+Mayo 2017	44	Teruel	3	Construcción	Mujeres	70
+Mayo 2017	44	Teruel	4	Servicios	Hombres	1150
+Mayo 2017	44	Teruel	4	Servicios	Mujeres	2647
+Mayo 2017	44	Teruel		Sin empleo anterior	Hombres	136
+Mayo 2017	44	Teruel		Sin empleo anterior	Mujeres	364
+Mayo 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1572
+Mayo 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	744
+Mayo 2017	50	Zaragoza	2	Industria y energía	Hombres	3095
+Mayo 2017	50	Zaragoza	2	Industria y energía	Mujeres	3030
+Mayo 2017	50	Zaragoza	3	Construcción	Hombres	3359
+Mayo 2017	50	Zaragoza	3	Construcción	Mujeres	566
+Mayo 2017	50	Zaragoza	4	Servicios	Hombres	11808
+Mayo 2017	50	Zaragoza	4	Servicios	Mujeres	24225
+Mayo 2017	50	Zaragoza		Sin empleo anterior	Hombres	1769
+Mayo 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3746
+Abril 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	589
+Abril 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	258
+Abril 2017	22	Huesca	2	Industria y energía	Hombres	487
+Abril 2017	22	Huesca	2	Industria y energía	Mujeres	361
+Abril 2017	22	Huesca	3	Construcción	Hombres	773
+Abril 2017	22	Huesca	3	Construcción	Mujeres	96
+Abril 2017	22	Huesca	4	Servicios	Hombres	1953
+Abril 2017	22	Huesca	4	Servicios	Mujeres	4069
+Abril 2017	22	Huesca		Sin empleo anterior	Hombres	262
+Abril 2017	22	Huesca		Sin empleo anterior	Mujeres	533
+Abril 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	325
+Abril 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	170
+Abril 2017	44	Teruel	2	Industria y energía	Hombres	489
+Abril 2017	44	Teruel	2	Industria y energía	Mujeres	378
+Abril 2017	44	Teruel	3	Construcción	Hombres	532
+Abril 2017	44	Teruel	3	Construcción	Mujeres	66
+Abril 2017	44	Teruel	4	Servicios	Hombres	1265
+Abril 2017	44	Teruel	4	Servicios	Mujeres	2755
+Abril 2017	44	Teruel		Sin empleo anterior	Hombres	132
+Abril 2017	44	Teruel		Sin empleo anterior	Mujeres	343
+Abril 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2318
+Abril 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	923
+Abril 2017	50	Zaragoza	2	Industria y energía	Hombres	3353
+Abril 2017	50	Zaragoza	2	Industria y energía	Mujeres	3130
+Abril 2017	50	Zaragoza	3	Construcción	Hombres	3674
+Abril 2017	50	Zaragoza	3	Construcción	Mujeres	579
+Abril 2017	50	Zaragoza	4	Servicios	Hombres	12739
+Abril 2017	50	Zaragoza	4	Servicios	Mujeres	25310
+Abril 2017	50	Zaragoza		Sin empleo anterior	Hombres	1836
+Abril 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3824
+Marzo 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	746
+Marzo 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	290
+Marzo 2017	22	Huesca	2	Industria y energía	Hombres	533
+Marzo 2017	22	Huesca	2	Industria y energía	Mujeres	377
+Marzo 2017	22	Huesca	3	Construcción	Hombres	836
+Marzo 2017	22	Huesca	3	Construcción	Mujeres	99
+Marzo 2017	22	Huesca	4	Servicios	Hombres	2095
+Marzo 2017	22	Huesca	4	Servicios	Mujeres	4296
+Marzo 2017	22	Huesca		Sin empleo anterior	Hombres	270
+Marzo 2017	22	Huesca		Sin empleo anterior	Mujeres	564
+Marzo 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	378
+Marzo 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	189
+Marzo 2017	44	Teruel	2	Industria y energía	Hombres	535
+Marzo 2017	44	Teruel	2	Industria y energía	Mujeres	396
+Marzo 2017	44	Teruel	3	Construcción	Hombres	592
+Marzo 2017	44	Teruel	3	Construcción	Mujeres	73
+Marzo 2017	44	Teruel	4	Servicios	Hombres	1352
+Marzo 2017	44	Teruel	4	Servicios	Mujeres	2842
+Marzo 2017	44	Teruel		Sin empleo anterior	Hombres	159
+Marzo 2017	44	Teruel		Sin empleo anterior	Mujeres	372
+Marzo 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2698
+Marzo 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1025
+Marzo 2017	50	Zaragoza	2	Industria y energía	Hombres	3464
+Marzo 2017	50	Zaragoza	2	Industria y energía	Mujeres	3216
+Marzo 2017	50	Zaragoza	3	Construcción	Hombres	3816
+Marzo 2017	50	Zaragoza	3	Construcción	Mujeres	581
+Marzo 2017	50	Zaragoza	4	Servicios	Hombres	13587
+Marzo 2017	50	Zaragoza	4	Servicios	Mujeres	26396
+Marzo 2017	50	Zaragoza		Sin empleo anterior	Hombres	1910
+Marzo 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3846
+Febrero 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	720
+Febrero 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	308
+Febrero 2017	22	Huesca	2	Industria y energía	Hombres	565
+Febrero 2017	22	Huesca	2	Industria y energía	Mujeres	397
+Febrero 2017	22	Huesca	3	Construcción	Hombres	842
+Febrero 2017	22	Huesca	3	Construcción	Mujeres	104
+Febrero 2017	22	Huesca	4	Servicios	Hombres	2160
+Febrero 2017	22	Huesca	4	Servicios	Mujeres	4388
+Febrero 2017	22	Huesca		Sin empleo anterior	Hombres	262
+Febrero 2017	22	Huesca		Sin empleo anterior	Mujeres	556
+Febrero 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	356
+Febrero 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	157
+Febrero 2017	44	Teruel	2	Industria y energía	Hombres	580
+Febrero 2017	44	Teruel	2	Industria y energía	Mujeres	422
+Febrero 2017	44	Teruel	3	Construcción	Hombres	673
+Febrero 2017	44	Teruel	3	Construcción	Mujeres	69
+Febrero 2017	44	Teruel	4	Servicios	Hombres	1430
+Febrero 2017	44	Teruel	4	Servicios	Mujeres	2909
+Febrero 2017	44	Teruel		Sin empleo anterior	Hombres	161
+Febrero 2017	44	Teruel		Sin empleo anterior	Mujeres	361
+Febrero 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2538
+Febrero 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1052
+Febrero 2017	50	Zaragoza	2	Industria y energía	Hombres	3446
+Febrero 2017	50	Zaragoza	2	Industria y energía	Mujeres	3265
+Febrero 2017	50	Zaragoza	3	Construcción	Hombres	4058
+Febrero 2017	50	Zaragoza	3	Construcción	Mujeres	596
+Febrero 2017	50	Zaragoza	4	Servicios	Hombres	13973
+Febrero 2017	50	Zaragoza	4	Servicios	Mujeres	27062
+Febrero 2017	50	Zaragoza		Sin empleo anterior	Hombres	1865
+Febrero 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3818
+Enero 2017	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	739
+Enero 2017	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	300
+Enero 2017	22	Huesca	2	Industria y energía	Hombres	606
+Enero 2017	22	Huesca	2	Industria y energía	Mujeres	404
+Enero 2017	22	Huesca	3	Construcción	Hombres	925
+Enero 2017	22	Huesca	3	Construcción	Mujeres	109
+Enero 2017	22	Huesca	4	Servicios	Hombres	2292
+Enero 2017	22	Huesca	4	Servicios	Mujeres	4512
+Enero 2017	22	Huesca		Sin empleo anterior	Hombres	268
+Enero 2017	22	Huesca		Sin empleo anterior	Mujeres	558
+Enero 2017	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	379
+Enero 2017	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	187
+Enero 2017	44	Teruel	2	Industria y energía	Hombres	588
+Enero 2017	44	Teruel	2	Industria y energía	Mujeres	438
+Enero 2017	44	Teruel	3	Construcción	Hombres	753
+Enero 2017	44	Teruel	3	Construcción	Mujeres	73
+Enero 2017	44	Teruel	4	Servicios	Hombres	1563
+Enero 2017	44	Teruel	4	Servicios	Mujeres	3054
+Enero 2017	44	Teruel		Sin empleo anterior	Hombres	151
+Enero 2017	44	Teruel		Sin empleo anterior	Mujeres	372
+Enero 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2550
+Enero 2017	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1054
+Enero 2017	50	Zaragoza	2	Industria y energía	Hombres	3740
+Enero 2017	50	Zaragoza	2	Industria y energía	Mujeres	3400
+Enero 2017	50	Zaragoza	3	Construcción	Hombres	4262
+Enero 2017	50	Zaragoza	3	Construcción	Mujeres	638
+Enero 2017	50	Zaragoza	4	Servicios	Hombres	14625
+Enero 2017	50	Zaragoza	4	Servicios	Mujeres	27725
+Enero 2017	50	Zaragoza		Sin empleo anterior	Hombres	1915
+Enero 2017	50	Zaragoza		Sin empleo anterior	Mujeres	3731
+Diciembre 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	752
+Diciembre 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	313
+Diciembre 2016	22	Huesca	2	Industria y energía	Hombres	577
+Diciembre 2016	22	Huesca	2	Industria y energía	Mujeres	400
+Diciembre 2016	22	Huesca	3	Construcción	Hombres	896
+Diciembre 2016	22	Huesca	3	Construcción	Mujeres	109
+Diciembre 2016	22	Huesca	4	Servicios	Hombres	2218
+Diciembre 2016	22	Huesca	4	Servicios	Mujeres	4225
+Diciembre 2016	22	Huesca		Sin empleo anterior	Hombres	247
+Diciembre 2016	22	Huesca		Sin empleo anterior	Mujeres	540
+Diciembre 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	380
+Diciembre 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	194
+Diciembre 2016	44	Teruel	2	Industria y energía	Hombres	572
+Diciembre 2016	44	Teruel	2	Industria y energía	Mujeres	424
+Diciembre 2016	44	Teruel	3	Construcción	Hombres	724
+Diciembre 2016	44	Teruel	3	Construcción	Mujeres	75
+Diciembre 2016	44	Teruel	4	Servicios	Hombres	1519
+Diciembre 2016	44	Teruel	4	Servicios	Mujeres	2884
+Diciembre 2016	44	Teruel		Sin empleo anterior	Hombres	153
+Diciembre 2016	44	Teruel		Sin empleo anterior	Mujeres	364
+Diciembre 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2672
+Diciembre 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1111
+Diciembre 2016	50	Zaragoza	2	Industria y energía	Hombres	3861
+Diciembre 2016	50	Zaragoza	2	Industria y energía	Mujeres	3441
+Diciembre 2016	50	Zaragoza	3	Construcción	Hombres	4247
+Diciembre 2016	50	Zaragoza	3	Construcción	Mujeres	640
+Diciembre 2016	50	Zaragoza	4	Servicios	Hombres	14529
+Diciembre 2016	50	Zaragoza	4	Servicios	Mujeres	26390
+Diciembre 2016	50	Zaragoza		Sin empleo anterior	Hombres	1801
+Diciembre 2016	50	Zaragoza		Sin empleo anterior	Mujeres	3675
+Noviembre 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	806
+Noviembre 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	331
+Noviembre 2016	22	Huesca	2	Industria y energía	Hombres	563
+Noviembre 2016	22	Huesca	2	Industria y energía	Mujeres	369
+Noviembre 2016	22	Huesca	3	Construcción	Hombres	837
+Noviembre 2016	22	Huesca	3	Construcción	Mujeres	101
+Noviembre 2016	22	Huesca	4	Servicios	Hombres	2429
+Noviembre 2016	22	Huesca	4	Servicios	Mujeres	4614
+Noviembre 2016	22	Huesca		Sin empleo anterior	Hombres	322
+Noviembre 2016	22	Huesca		Sin empleo anterior	Mujeres	554
+Noviembre 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	391
+Noviembre 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	205
+Noviembre 2016	44	Teruel	2	Industria y energía	Hombres	586
+Noviembre 2016	44	Teruel	2	Industria y energía	Mujeres	445
+Noviembre 2016	44	Teruel	3	Construcción	Hombres	658
+Noviembre 2016	44	Teruel	3	Construcción	Mujeres	81
+Noviembre 2016	44	Teruel	4	Servicios	Hombres	1591
+Noviembre 2016	44	Teruel	4	Servicios	Mujeres	3070
+Noviembre 2016	44	Teruel		Sin empleo anterior	Hombres	184
+Noviembre 2016	44	Teruel		Sin empleo anterior	Mujeres	400
+Noviembre 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2839
+Noviembre 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1122
+Noviembre 2016	50	Zaragoza	2	Industria y energía	Hombres	3703
+Noviembre 2016	50	Zaragoza	2	Industria y energía	Mujeres	3401
+Noviembre 2016	50	Zaragoza	3	Construcción	Hombres	4070
+Noviembre 2016	50	Zaragoza	3	Construcción	Mujeres	651
+Noviembre 2016	50	Zaragoza	4	Servicios	Hombres	14288
+Noviembre 2016	50	Zaragoza	4	Servicios	Mujeres	27072
+Noviembre 2016	50	Zaragoza		Sin empleo anterior	Hombres	1949
+Noviembre 2016	50	Zaragoza		Sin empleo anterior	Mujeres	3851
+Octubre 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	873
+Octubre 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	298
+Octubre 2016	22	Huesca	2	Industria y energía	Hombres	582
+Octubre 2016	22	Huesca	2	Industria y energía	Mujeres	376
+Octubre 2016	22	Huesca	3	Construcción	Hombres	866
+Octubre 2016	22	Huesca	3	Construcción	Mujeres	105
+Octubre 2016	22	Huesca	4	Servicios	Hombres	2409
+Octubre 2016	22	Huesca	4	Servicios	Mujeres	4644
+Octubre 2016	22	Huesca		Sin empleo anterior	Hombres	317
+Octubre 2016	22	Huesca		Sin empleo anterior	Mujeres	542
+Octubre 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	370
+Octubre 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	159
+Octubre 2016	44	Teruel	2	Industria y energía	Hombres	572
+Octubre 2016	44	Teruel	2	Industria y energía	Mujeres	441
+Octubre 2016	44	Teruel	3	Construcción	Hombres	645
+Octubre 2016	44	Teruel	3	Construcción	Mujeres	83
+Octubre 2016	44	Teruel	4	Servicios	Hombres	1524
+Octubre 2016	44	Teruel	4	Servicios	Mujeres	2971
+Octubre 2016	44	Teruel		Sin empleo anterior	Hombres	187
+Octubre 2016	44	Teruel		Sin empleo anterior	Mujeres	390
+Octubre 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2788
+Octubre 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1067
+Octubre 2016	50	Zaragoza	2	Industria y energía	Hombres	3806
+Octubre 2016	50	Zaragoza	2	Industria y energía	Mujeres	3383
+Octubre 2016	50	Zaragoza	3	Construcción	Hombres	4082
+Octubre 2016	50	Zaragoza	3	Construcción	Mujeres	668
+Octubre 2016	50	Zaragoza	4	Servicios	Hombres	14086
+Octubre 2016	50	Zaragoza	4	Servicios	Mujeres	27041
+Octubre 2016	50	Zaragoza		Sin empleo anterior	Hombres	1933
+Octubre 2016	50	Zaragoza		Sin empleo anterior	Mujeres	3847
+Septiembre 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	836
+Septiembre 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	284
+Septiembre 2016	22	Huesca	2	Industria y energía	Hombres	582
+Septiembre 2016	22	Huesca	2	Industria y energía	Mujeres	382
+Septiembre 2016	22	Huesca	3	Construcción	Hombres	924
+Septiembre 2016	22	Huesca	3	Construcción	Mujeres	107
+Septiembre 2016	22	Huesca	4	Servicios	Hombres	2301
+Septiembre 2016	22	Huesca	4	Servicios	Mujeres	4429
+Septiembre 2016	22	Huesca		Sin empleo anterior	Hombres	332
+Septiembre 2016	22	Huesca		Sin empleo anterior	Mujeres	562
+Septiembre 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	316
+Septiembre 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	152
+Septiembre 2016	44	Teruel	2	Industria y energía	Hombres	556
+Septiembre 2016	44	Teruel	2	Industria y energía	Mujeres	412
+Septiembre 2016	44	Teruel	3	Construcción	Hombres	655
+Septiembre 2016	44	Teruel	3	Construcción	Mujeres	89
+Septiembre 2016	44	Teruel	4	Servicios	Hombres	1434
+Septiembre 2016	44	Teruel	4	Servicios	Mujeres	2836
+Septiembre 2016	44	Teruel		Sin empleo anterior	Hombres	185
+Septiembre 2016	44	Teruel		Sin empleo anterior	Mujeres	384
+Septiembre 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2363
+Septiembre 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	929
+Septiembre 2016	50	Zaragoza	2	Industria y energía	Hombres	3750
+Septiembre 2016	50	Zaragoza	2	Industria y energía	Mujeres	3379
+Septiembre 2016	50	Zaragoza	3	Construcción	Hombres	4197
+Septiembre 2016	50	Zaragoza	3	Construcción	Mujeres	683
+Septiembre 2016	50	Zaragoza	4	Servicios	Hombres	13932
+Septiembre 2016	50	Zaragoza	4	Servicios	Mujeres	27234
+Septiembre 2016	50	Zaragoza		Sin empleo anterior	Hombres	2017
+Septiembre 2016	50	Zaragoza		Sin empleo anterior	Mujeres	3881
+Agosto 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	599
+Agosto 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	233
+Agosto 2016	22	Huesca	2	Industria y energía	Hombres	571
+Agosto 2016	22	Huesca	2	Industria y energía	Mujeres	372
+Agosto 2016	22	Huesca	3	Construcción	Hombres	935
+Agosto 2016	22	Huesca	3	Construcción	Mujeres	107
+Agosto 2016	22	Huesca	4	Servicios	Hombres	2077
+Agosto 2016	22	Huesca	4	Servicios	Mujeres	4144
+Agosto 2016	22	Huesca		Sin empleo anterior	Hombres	294
+Agosto 2016	22	Huesca		Sin empleo anterior	Mujeres	568
+Agosto 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	343
+Agosto 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	156
+Agosto 2016	44	Teruel	2	Industria y energía	Hombres	559
+Agosto 2016	44	Teruel	2	Industria y energía	Mujeres	396
+Agosto 2016	44	Teruel	3	Construcción	Hombres	688
+Agosto 2016	44	Teruel	3	Construcción	Mujeres	90
+Agosto 2016	44	Teruel	4	Servicios	Hombres	1409
+Agosto 2016	44	Teruel	4	Servicios	Mujeres	2647
+Agosto 2016	44	Teruel		Sin empleo anterior	Hombres	175
+Agosto 2016	44	Teruel		Sin empleo anterior	Mujeres	385
+Agosto 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2170
+Agosto 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	850
+Agosto 2016	50	Zaragoza	2	Industria y energía	Hombres	3742
+Agosto 2016	50	Zaragoza	2	Industria y energía	Mujeres	3398
+Agosto 2016	50	Zaragoza	3	Construcción	Hombres	4131
+Agosto 2016	50	Zaragoza	3	Construcción	Mujeres	682
+Agosto 2016	50	Zaragoza	4	Servicios	Hombres	13682
+Agosto 2016	50	Zaragoza	4	Servicios	Mujeres	26735
+Agosto 2016	50	Zaragoza		Sin empleo anterior	Hombres	1926
+Agosto 2016	50	Zaragoza		Sin empleo anterior	Mujeres	3776
+Julio 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	588
+Julio 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	232
+Julio 2016	22	Huesca	2	Industria y energía	Hombres	559
+Julio 2016	22	Huesca	2	Industria y energía	Mujeres	381
+Julio 2016	22	Huesca	3	Construcción	Hombres	906
+Julio 2016	22	Huesca	3	Construcción	Mujeres	109
+Julio 2016	22	Huesca	4	Servicios	Hombres	2083
+Julio 2016	22	Huesca	4	Servicios	Mujeres	4131
+Julio 2016	22	Huesca		Sin empleo anterior	Hombres	305
+Julio 2016	22	Huesca		Sin empleo anterior	Mujeres	577
+Julio 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	309
+Julio 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	142
+Julio 2016	44	Teruel	2	Industria y energía	Hombres	576
+Julio 2016	44	Teruel	2	Industria y energía	Mujeres	410
+Julio 2016	44	Teruel	3	Construcción	Hombres	683
+Julio 2016	44	Teruel	3	Construcción	Mujeres	88
+Julio 2016	44	Teruel	4	Servicios	Hombres	1396
+Julio 2016	44	Teruel	4	Servicios	Mujeres	2713
+Julio 2016	44	Teruel		Sin empleo anterior	Hombres	173
+Julio 2016	44	Teruel		Sin empleo anterior	Mujeres	407
+Julio 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2237
+Julio 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	819
+Julio 2016	50	Zaragoza	2	Industria y energía	Hombres	3678
+Julio 2016	50	Zaragoza	2	Industria y energía	Mujeres	3374
+Julio 2016	50	Zaragoza	3	Construcción	Hombres	4060
+Julio 2016	50	Zaragoza	3	Construcción	Mujeres	691
+Julio 2016	50	Zaragoza	4	Servicios	Hombres	13725
+Julio 2016	50	Zaragoza	4	Servicios	Mujeres	26651
+Julio 2016	50	Zaragoza		Sin empleo anterior	Hombres	1917
+Julio 2016	50	Zaragoza		Sin empleo anterior	Mujeres	3850
+Junio 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	622
+Junio 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	246
+Junio 2016	22	Huesca	2	Industria y energía	Hombres	606
+Junio 2016	22	Huesca	2	Industria y energía	Mujeres	397
+Junio 2016	22	Huesca	3	Construcción	Hombres	953
+Junio 2016	22	Huesca	3	Construcción	Mujeres	115
+Junio 2016	22	Huesca	4	Servicios	Hombres	2182
+Junio 2016	22	Huesca	4	Servicios	Mujeres	4222
+Junio 2016	22	Huesca		Sin empleo anterior	Hombres	335
+Junio 2016	22	Huesca		Sin empleo anterior	Mujeres	626
+Junio 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	337
+Junio 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	149
+Junio 2016	44	Teruel	2	Industria y energía	Hombres	575
+Junio 2016	44	Teruel	2	Industria y energía	Mujeres	439
+Junio 2016	44	Teruel	3	Construcción	Hombres	693
+Junio 2016	44	Teruel	3	Construcción	Mujeres	86
+Junio 2016	44	Teruel	4	Servicios	Hombres	1487
+Junio 2016	44	Teruel	4	Servicios	Mujeres	2892
+Junio 2016	44	Teruel		Sin empleo anterior	Hombres	190
+Junio 2016	44	Teruel		Sin empleo anterior	Mujeres	411
+Junio 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	1862
+Junio 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	771
+Junio 2016	50	Zaragoza	2	Industria y energía	Hombres	3811
+Junio 2016	50	Zaragoza	2	Industria y energía	Mujeres	3507
+Junio 2016	50	Zaragoza	3	Construcción	Hombres	4190
+Junio 2016	50	Zaragoza	3	Construcción	Mujeres	696
+Junio 2016	50	Zaragoza	4	Servicios	Hombres	13906
+Junio 2016	50	Zaragoza	4	Servicios	Mujeres	26810
+Junio 2016	50	Zaragoza		Sin empleo anterior	Hombres	1951
+Junio 2016	50	Zaragoza		Sin empleo anterior	Mujeres	3995
+Mayo 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	662
+Mayo 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	271
+Mayo 2016	22	Huesca	2	Industria y energía	Hombres	633
+Mayo 2016	22	Huesca	2	Industria y energía	Mujeres	422
+Mayo 2016	22	Huesca	3	Construcción	Hombres	1030
+Mayo 2016	22	Huesca	3	Construcción	Mujeres	117
+Mayo 2016	22	Huesca	4	Servicios	Hombres	2353
+Mayo 2016	22	Huesca	4	Servicios	Mujeres	4500
+Mayo 2016	22	Huesca		Sin empleo anterior	Hombres	320
+Mayo 2016	22	Huesca		Sin empleo anterior	Mujeres	623
+Mayo 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	349
+Mayo 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	168
+Mayo 2016	44	Teruel	2	Industria y energía	Hombres	599
+Mayo 2016	44	Teruel	2	Industria y energía	Mujeres	469
+Mayo 2016	44	Teruel	3	Construcción	Hombres	770
+Mayo 2016	44	Teruel	3	Construcción	Mujeres	92
+Mayo 2016	44	Teruel	4	Servicios	Hombres	1570
+Mayo 2016	44	Teruel	4	Servicios	Mujeres	3013
+Mayo 2016	44	Teruel		Sin empleo anterior	Hombres	193
+Mayo 2016	44	Teruel		Sin empleo anterior	Mujeres	413
+Mayo 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2284
+Mayo 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	886
+Mayo 2016	50	Zaragoza	2	Industria y energía	Hombres	4145
+Mayo 2016	50	Zaragoza	2	Industria y energía	Mujeres	3691
+Mayo 2016	50	Zaragoza	3	Construcción	Hombres	4469
+Mayo 2016	50	Zaragoza	3	Construcción	Mujeres	714
+Mayo 2016	50	Zaragoza	4	Servicios	Hombres	14689
+Mayo 2016	50	Zaragoza	4	Servicios	Mujeres	27493
+Mayo 2016	50	Zaragoza		Sin empleo anterior	Hombres	2061
+Mayo 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4087
+Abril 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	861
+Abril 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	318
+Abril 2016	22	Huesca	2	Industria y energía	Hombres	678
+Abril 2016	22	Huesca	2	Industria y energía	Mujeres	427
+Abril 2016	22	Huesca	3	Construcción	Hombres	1101
+Abril 2016	22	Huesca	3	Construcción	Mujeres	121
+Abril 2016	22	Huesca	4	Servicios	Hombres	2592
+Abril 2016	22	Huesca	4	Servicios	Mujeres	4826
+Abril 2016	22	Huesca		Sin empleo anterior	Hombres	321
+Abril 2016	22	Huesca		Sin empleo anterior	Mujeres	633
+Abril 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	437
+Abril 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	217
+Abril 2016	44	Teruel	2	Industria y energía	Hombres	612
+Abril 2016	44	Teruel	2	Industria y energía	Mujeres	476
+Abril 2016	44	Teruel	3	Construcción	Hombres	847
+Abril 2016	44	Teruel	3	Construcción	Mujeres	92
+Abril 2016	44	Teruel	4	Servicios	Hombres	1701
+Abril 2016	44	Teruel	4	Servicios	Mujeres	3107
+Abril 2016	44	Teruel		Sin empleo anterior	Hombres	189
+Abril 2016	44	Teruel		Sin empleo anterior	Mujeres	413
+Abril 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2886
+Abril 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1020
+Abril 2016	50	Zaragoza	2	Industria y energía	Hombres	4376
+Abril 2016	50	Zaragoza	2	Industria y energía	Mujeres	3837
+Abril 2016	50	Zaragoza	3	Construcción	Hombres	4753
+Abril 2016	50	Zaragoza	3	Construcción	Mujeres	722
+Abril 2016	50	Zaragoza	4	Servicios	Hombres	15588
+Abril 2016	50	Zaragoza	4	Servicios	Mujeres	28302
+Abril 2016	50	Zaragoza		Sin empleo anterior	Hombres	2091
+Abril 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4203
+Marzo 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	934
+Marzo 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	333
+Marzo 2016	22	Huesca	2	Industria y energía	Hombres	716
+Marzo 2016	22	Huesca	2	Industria y energía	Mujeres	455
+Marzo 2016	22	Huesca	3	Construcción	Hombres	1153
+Marzo 2016	22	Huesca	3	Construcción	Mujeres	125
+Marzo 2016	22	Huesca	4	Servicios	Hombres	2503
+Marzo 2016	22	Huesca	4	Servicios	Mujeres	4713
+Marzo 2016	22	Huesca		Sin empleo anterior	Hombres	303
+Marzo 2016	22	Huesca		Sin empleo anterior	Mujeres	634
+Marzo 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	456
+Marzo 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	214
+Marzo 2016	44	Teruel	2	Industria y energía	Hombres	649
+Marzo 2016	44	Teruel	2	Industria y energía	Mujeres	488
+Marzo 2016	44	Teruel	3	Construcción	Hombres	950
+Marzo 2016	44	Teruel	3	Construcción	Mujeres	91
+Marzo 2016	44	Teruel	4	Servicios	Hombres	1721
+Marzo 2016	44	Teruel	4	Servicios	Mujeres	3142
+Marzo 2016	44	Teruel		Sin empleo anterior	Hombres	185
+Marzo 2016	44	Teruel		Sin empleo anterior	Mujeres	409
+Marzo 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	3103
+Marzo 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1054
+Marzo 2016	50	Zaragoza	2	Industria y energía	Hombres	4529
+Marzo 2016	50	Zaragoza	2	Industria y energía	Mujeres	3825
+Marzo 2016	50	Zaragoza	3	Construcción	Hombres	5001
+Marzo 2016	50	Zaragoza	3	Construcción	Mujeres	750
+Marzo 2016	50	Zaragoza	4	Servicios	Hombres	16134
+Marzo 2016	50	Zaragoza	4	Servicios	Mujeres	28753
+Marzo 2016	50	Zaragoza		Sin empleo anterior	Hombres	2105
+Marzo 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4213
+Febrero 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	937
+Febrero 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	357
+Febrero 2016	22	Huesca	2	Industria y energía	Hombres	780
+Febrero 2016	22	Huesca	2	Industria y energía	Mujeres	466
+Febrero 2016	22	Huesca	3	Construcción	Hombres	1189
+Febrero 2016	22	Huesca	3	Construcción	Mujeres	123
+Febrero 2016	22	Huesca	4	Servicios	Hombres	2563
+Febrero 2016	22	Huesca	4	Servicios	Mujeres	4899
+Febrero 2016	22	Huesca		Sin empleo anterior	Hombres	283
+Febrero 2016	22	Huesca		Sin empleo anterior	Mujeres	623
+Febrero 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	449
+Febrero 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	195
+Febrero 2016	44	Teruel	2	Industria y energía	Hombres	674
+Febrero 2016	44	Teruel	2	Industria y energía	Mujeres	503
+Febrero 2016	44	Teruel	3	Construcción	Hombres	943
+Febrero 2016	44	Teruel	3	Construcción	Mujeres	98
+Febrero 2016	44	Teruel	4	Servicios	Hombres	1788
+Febrero 2016	44	Teruel	4	Servicios	Mujeres	3284
+Febrero 2016	44	Teruel		Sin empleo anterior	Hombres	185
+Febrero 2016	44	Teruel		Sin empleo anterior	Mujeres	404
+Febrero 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	3008
+Febrero 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1065
+Febrero 2016	50	Zaragoza	2	Industria y energía	Hombres	4408
+Febrero 2016	50	Zaragoza	2	Industria y energía	Mujeres	3710
+Febrero 2016	50	Zaragoza	3	Construcción	Hombres	5074
+Febrero 2016	50	Zaragoza	3	Construcción	Mujeres	773
+Febrero 2016	50	Zaragoza	4	Servicios	Hombres	16292
+Febrero 2016	50	Zaragoza	4	Servicios	Mujeres	29358
+Febrero 2016	50	Zaragoza		Sin empleo anterior	Hombres	2070
+Febrero 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4181
+Enero 2016	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	884
+Enero 2016	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	336
+Enero 2016	22	Huesca	2	Industria y energía	Hombres	812
+Enero 2016	22	Huesca	2	Industria y energía	Mujeres	479
+Enero 2016	22	Huesca	3	Construcción	Hombres	1192
+Enero 2016	22	Huesca	3	Construcción	Mujeres	123
+Enero 2016	22	Huesca	4	Servicios	Hombres	2618
+Enero 2016	22	Huesca	4	Servicios	Mujeres	4962
+Enero 2016	22	Huesca		Sin empleo anterior	Hombres	286
+Enero 2016	22	Huesca		Sin empleo anterior	Mujeres	614
+Enero 2016	44	Teruel	1	Agricultura, ganadería y pesca	Hombres	459
+Enero 2016	44	Teruel	1	Agricultura, ganadería y pesca	Mujeres	219
+Enero 2016	44	Teruel	2	Industria y energía	Hombres	687
+Enero 2016	44	Teruel	2	Industria y energía	Mujeres	506
+Enero 2016	44	Teruel	3	Construcción	Hombres	960
+Enero 2016	44	Teruel	3	Construcción	Mujeres	98
+Enero 2016	44	Teruel	4	Servicios	Hombres	1875
+Enero 2016	44	Teruel	4	Servicios	Mujeres	3337
+Enero 2016	44	Teruel		Sin empleo anterior	Hombres	180
+Enero 2016	44	Teruel		Sin empleo anterior	Mujeres	391
+Enero 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Hombres	2919
+Enero 2016	50	Zaragoza	1	Agricultura, ganadería y pesca	Mujeres	1051
+Enero 2016	50	Zaragoza	2	Industria y energía	Hombres	4521
+Enero 2016	50	Zaragoza	2	Industria y energía	Mujeres	3800
+Enero 2016	50	Zaragoza	3	Construcción	Hombres	5122
+Enero 2016	50	Zaragoza	3	Construcción	Mujeres	794
+Enero 2016	50	Zaragoza	4	Servicios	Hombres	16384
+Enero 2016	50	Zaragoza	4	Servicios	Mujeres	29583
+Enero 2016	50	Zaragoza		Sin empleo anterior	Hombres	2016
+Enero 2016	50	Zaragoza		Sin empleo anterior	Mujeres	4137
 Diciembre 2015	22	Huesca	1	Agricultura, ganadería y pesca	Hombres	925
 Diciembre 2015	22	Huesca	1	Agricultura, ganadería y pesca	Mujeres	377
 Diciembre 2015	22	Huesca	2	Industria y energía	Hombres	775

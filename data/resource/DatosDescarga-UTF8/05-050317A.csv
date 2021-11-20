@@ -1,4 +1,12 @@
 Mes y año	Mes (código)	Mes nombre	Año	CIF	Sexo	Temporalidad	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos	CCAA nombre
+Octubre 2021	202110	Octubre	2021	A través de una ETT	Hombres	Temporal	0	1854	0	0	Aragón
+Octubre 2021	202110	Octubre	2021	A través de una ETT	Hombres	Temporal	1	6500	71516	11,00246153846153846153846153846153846154	Aragón
+Octubre 2021	202110	Octubre	2021	A través de una ETT	Mujeres	Temporal	0	1268	0	0	Aragón
+Octubre 2021	202110	Octubre	2021	A través de una ETT	Mujeres	Temporal	1	3849	42800	11,11977136918680176669264744089373863341	Aragón
+Octubre 2021	202110	Octubre	2021	Otros	Hombres	Temporal	0	6158	0	0	Aragón
+Octubre 2021	202110	Octubre	2021	Otros	Hombres	Temporal	1	10860	850678	78,33130755064456721915285451197053406998	Aragón
+Octubre 2021	202110	Octubre	2021	Otros	Mujeres	Temporal	0	5710	0	0	Aragón
+Octubre 2021	202110	Octubre	2021	Otros	Mujeres	Temporal	1	12653	837755	66,20998972575673753260096419821386232514	Aragón
 Septiembre 2021	202109	Septiembre	2021	A través de una ETT	Hombres	Temporal	0	2424	0	0	Aragón
 Septiembre 2021	202109	Septiembre	2021	A través de una ETT	Hombres	Temporal	1	7116	74607	10,484401349072512647554806070826306914	Aragón
 Septiembre 2021	202109	Septiembre	2021	A través de una ETT	Mujeres	Temporal	0	1293	0	0	Aragón

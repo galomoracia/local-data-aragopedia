@@ -1,84 +1,844 @@
 Mes y año	Sexo	Provincia código	Provincia nombre	Sector de actividad	Afiliaciones en alta
-January 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	5810
-January 2021	Hombres	22	Huesca	Industria y energía	1122
-January 2021	Hombres	22	Huesca	Construcción	3207
-January 2021	Hombres	22	Huesca	Servicios	6189
-January 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	3335
-January 2021	Hombres	44	Teruel	Industria y energía	771
-January 2021	Hombres	44	Teruel	Construcción	2243
-January 2021	Hombres	44	Teruel	Servicios	3270
-January 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	6406
-January 2021	Hombres	50	Zaragoza	Industria y energía	4766
-January 2021	Hombres	50	Zaragoza	Construcción	8896
-January 2021	Hombres	50	Zaragoza	Servicios	26423
-January 2021	Hombres	99	No consta	Agricultura, ganadería y pesca	22
-January 2021	Hombres	99	No consta	Industria y energía	5
-January 2021	Hombres	99	No consta	Construcción	14
-January 2021	Hombres	99	No consta	Servicios	29
-January 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	1500
-January 2021	Mujeres	22	Huesca	Industria y energía	467
-January 2021	Mujeres	22	Huesca	Construcción	266
-January 2021	Mujeres	22	Huesca	Servicios	5016
-January 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1555
-January 2021	Mujeres	44	Teruel	Industria y energía	257
-January 2021	Mujeres	44	Teruel	Construcción	171
-January 2021	Mujeres	44	Teruel	Servicios	2779
-January 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	1743
-January 2021	Mujeres	50	Zaragoza	Industria y energía	1789
-January 2021	Mujeres	50	Zaragoza	Construcción	976
-January 2021	Mujeres	50	Zaragoza	Servicios	18448
-January 2021	Mujeres	99	No consta	Agricultura, ganadería y pesca	11
-January 2021	Mujeres	99	No consta	Industria y energía	3
-January 2021	Mujeres	99	No consta	Construcción	2
-January 2021	Mujeres	99	No consta	Servicios	16
-June 2016	Hombres	22	Huesca	Agricultura, ganadería y pesca	13885
-June 2016	Hombres	22	Huesca	Industria y energía	9348
-June 2016	Hombres	22	Huesca	Construcción	6558
-June 2016	Hombres	22	Huesca	Servicios	24936
-June 2016	Hombres	44	Teruel	Agricultura, ganadería y pesca	5252
-June 2016	Hombres	44	Teruel	Industria y energía	6938
-June 2016	Hombres	44	Teruel	Construcción	4170
-June 2016	Hombres	44	Teruel	Servicios	13657
-June 2016	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	18668
-June 2016	Hombres	50	Zaragoza	Industria y energía	54326
-June 2016	Hombres	50	Zaragoza	Construcción	18274
-June 2016	Hombres	50	Zaragoza	Servicios	123756
-June 2016	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3396
-June 2016	Mujeres	22	Huesca	Industria y energía	2702
-June 2016	Mujeres	22	Huesca	Construcción	684
-June 2016	Mujeres	22	Huesca	Servicios	34228
-June 2016	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1927
-June 2016	Mujeres	44	Teruel	Industria y energía	1896
-June 2016	Mujeres	44	Teruel	Construcción	341
-June 2016	Mujeres	44	Teruel	Servicios	18457
-June 2016	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	5461
-June 2016	Mujeres	50	Zaragoza	Industria y energía	17211
-June 2016	Mujeres	50	Zaragoza	Construcción	2438
-June 2016	Mujeres	50	Zaragoza	Servicios	155662
-March 2016	Hombres	22	Huesca	Agricultura, ganadería y pesca	10113
-March 2016	Hombres	22	Huesca	Industria y energía	9079
-March 2016	Hombres	22	Huesca	Construcción	6315
-March 2016	Hombres	22	Huesca	Servicios	24505
-March 2016	Hombres	44	Teruel	Agricultura, ganadería y pesca	4747
-March 2016	Hombres	44	Teruel	Industria y energía	6894
-March 2016	Hombres	44	Teruel	Construcción	3951
-March 2016	Hombres	44	Teruel	Servicios	13461
-March 2016	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	12600
-March 2016	Hombres	50	Zaragoza	Industria y energía	53247
-March 2016	Hombres	50	Zaragoza	Construcción	17372
-March 2016	Hombres	50	Zaragoza	Servicios	120895
-March 2016	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2265
-March 2016	Mujeres	22	Huesca	Industria y energía	2635
-March 2016	Mujeres	22	Huesca	Construcción	671
-March 2016	Mujeres	22	Huesca	Servicios	33488
-March 2016	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1555
-March 2016	Mujeres	44	Teruel	Industria y energía	1873
-March 2016	Mujeres	44	Teruel	Construcción	339
-March 2016	Mujeres	44	Teruel	Servicios	18386
-March 2016	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3202
-March 2016	Mujeres	50	Zaragoza	Industria y energía	16785
-March 2016	Mujeres	50	Zaragoza	Construcción	2393
-March 2016	Mujeres	50	Zaragoza	Servicios	157132
+Octubre 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	11260
+Octubre 2021	Hombres	22	Huesca	Industria y energía	11743
+Octubre 2021	Hombres	22	Huesca	Construcción	7175
+Octubre 2021	Hombres	22	Huesca	Servicios	26174
+Octubre 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	4995
+Octubre 2021	Hombres	44	Teruel	Industria y energía	7279
+Octubre 2021	Hombres	44	Teruel	Construcción	4334
+Octubre 2021	Hombres	44	Teruel	Servicios	14967
+Octubre 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13794
+Octubre 2021	Hombres	50	Zaragoza	Industria y energía	56771
+Octubre 2021	Hombres	50	Zaragoza	Construcción	21605
+Octubre 2021	Hombres	50	Zaragoza	Servicios	135611
+Octubre 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2626
+Octubre 2021	Mujeres	22	Huesca	Industria y energía	3740
+Octubre 2021	Mujeres	22	Huesca	Construcción	786
+Octubre 2021	Mujeres	22	Huesca	Servicios	36534
+Octubre 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1549
+Octubre 2021	Mujeres	44	Teruel	Industria y energía	2129
+Octubre 2021	Mujeres	44	Teruel	Construcción	354
+Octubre 2021	Mujeres	44	Teruel	Servicios	20622
+Octubre 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3962
+Octubre 2021	Mujeres	50	Zaragoza	Industria y energía	20781
+Octubre 2021	Mujeres	50	Zaragoza	Construcción	2921
+Octubre 2021	Mujeres	50	Zaragoza	Servicios	172923
+Septiembre 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	11238
+Septiembre 2021	Hombres	22	Huesca	Industria y energía	11654
+Septiembre 2021	Hombres	22	Huesca	Construcción	7097
+Septiembre 2021	Hombres	22	Huesca	Servicios	25913
+Septiembre 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	5102
+Septiembre 2021	Hombres	44	Teruel	Industria y energía	7263
+Septiembre 2021	Hombres	44	Teruel	Construcción	4304
+Septiembre 2021	Hombres	44	Teruel	Servicios	14770
+Septiembre 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	15713
+Septiembre 2021	Hombres	50	Zaragoza	Industria y energía	56652
+Septiembre 2021	Hombres	50	Zaragoza	Construcción	21376
+Septiembre 2021	Hombres	50	Zaragoza	Servicios	133374
+Septiembre 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2643
+Septiembre 2021	Mujeres	22	Huesca	Industria y energía	3695
+Septiembre 2021	Mujeres	22	Huesca	Construcción	774
+Septiembre 2021	Mujeres	22	Huesca	Servicios	36078
+Septiembre 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1641
+Septiembre 2021	Mujeres	44	Teruel	Industria y energía	2115
+Septiembre 2021	Mujeres	44	Teruel	Construcción	350
+Septiembre 2021	Mujeres	44	Teruel	Servicios	20258
+Septiembre 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4608
+Septiembre 2021	Mujeres	50	Zaragoza	Industria y energía	20714
+Septiembre 2021	Mujeres	50	Zaragoza	Construcción	2910
+Septiembre 2021	Mujeres	50	Zaragoza	Servicios	169816
+Agosto 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	12607
+Agosto 2021	Hombres	22	Huesca	Industria y energía	11662
+Agosto 2021	Hombres	22	Huesca	Construcción	7113
+Agosto 2021	Hombres	22	Huesca	Servicios	26738
+Agosto 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	5114
+Agosto 2021	Hombres	44	Teruel	Industria y energía	7296
+Agosto 2021	Hombres	44	Teruel	Construcción	4249
+Agosto 2021	Hombres	44	Teruel	Servicios	14652
+Agosto 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	16395
+Agosto 2021	Hombres	50	Zaragoza	Industria y energía	56711
+Agosto 2021	Hombres	50	Zaragoza	Construcción	21312
+Agosto 2021	Hombres	50	Zaragoza	Servicios	131381
+Agosto 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3085
+Agosto 2021	Mujeres	22	Huesca	Industria y energía	3681
+Agosto 2021	Mujeres	22	Huesca	Construcción	787
+Agosto 2021	Mujeres	22	Huesca	Servicios	36001
+Agosto 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1643
+Agosto 2021	Mujeres	44	Teruel	Industria y energía	2128
+Agosto 2021	Mujeres	44	Teruel	Construcción	344
+Agosto 2021	Mujeres	44	Teruel	Servicios	19796
+Agosto 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4862
+Agosto 2021	Mujeres	50	Zaragoza	Industria y energía	20680
+Agosto 2021	Mujeres	50	Zaragoza	Construcción	2878
+Agosto 2021	Mujeres	50	Zaragoza	Servicios	163186
+Julio 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	13718
+Julio 2021	Hombres	22	Huesca	Industria y energía	11757
+Julio 2021	Hombres	22	Huesca	Construcción	7250
+Julio 2021	Hombres	22	Huesca	Servicios	28056
+Julio 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	5262
+Julio 2021	Hombres	44	Teruel	Industria y energía	7296
+Julio 2021	Hombres	44	Teruel	Construcción	4341
+Julio 2021	Hombres	44	Teruel	Servicios	15273
+Julio 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	16872
+Julio 2021	Hombres	50	Zaragoza	Industria y energía	56934
+Julio 2021	Hombres	50	Zaragoza	Construcción	21762
+Julio 2021	Hombres	50	Zaragoza	Servicios	133839
+Julio 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3357
+Julio 2021	Mujeres	22	Huesca	Industria y energía	3736
+Julio 2021	Mujeres	22	Huesca	Construcción	799
+Julio 2021	Mujeres	22	Huesca	Servicios	38504
+Julio 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1689
+Julio 2021	Mujeres	44	Teruel	Industria y energía	2150
+Julio 2021	Mujeres	44	Teruel	Construcción	343
+Julio 2021	Mujeres	44	Teruel	Servicios	20906
+Julio 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	5059
+Julio 2021	Mujeres	50	Zaragoza	Industria y energía	20472
+Julio 2021	Mujeres	50	Zaragoza	Construcción	2900
+Julio 2021	Mujeres	50	Zaragoza	Servicios	168104
+Junio 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	13572
+Junio 2021	Hombres	22	Huesca	Industria y energía	11582
+Junio 2021	Hombres	22	Huesca	Construcción	7249
+Junio 2021	Hombres	22	Huesca	Servicios	26503
+Junio 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	5260
+Junio 2021	Hombres	44	Teruel	Industria y energía	7243
+Junio 2021	Hombres	44	Teruel	Construcción	4296
+Junio 2021	Hombres	44	Teruel	Servicios	14689
+Junio 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	19071
+Junio 2021	Hombres	50	Zaragoza	Industria y energía	56885
+Junio 2021	Hombres	50	Zaragoza	Construcción	21757
+Junio 2021	Hombres	50	Zaragoza	Servicios	133924
+Junio 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3409
+Junio 2021	Mujeres	22	Huesca	Industria y energía	3610
+Junio 2021	Mujeres	22	Huesca	Construcción	790
+Junio 2021	Mujeres	22	Huesca	Servicios	36575
+Junio 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1705
+Junio 2021	Mujeres	44	Teruel	Industria y energía	2121
+Junio 2021	Mujeres	44	Teruel	Construcción	343
+Junio 2021	Mujeres	44	Teruel	Servicios	20047
+Junio 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	6547
+Junio 2021	Mujeres	50	Zaragoza	Industria y energía	20638
+Junio 2021	Mujeres	50	Zaragoza	Construcción	2882
+Junio 2021	Mujeres	50	Zaragoza	Servicios	167200
+Mayo 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	13416
+Mayo 2021	Hombres	22	Huesca	Industria y energía	11398
+Mayo 2021	Hombres	22	Huesca	Construcción	7174
+Mayo 2021	Hombres	22	Huesca	Servicios	25607
+Mayo 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	5213
+Mayo 2021	Hombres	44	Teruel	Industria y energía	7155
+Mayo 2021	Hombres	44	Teruel	Construcción	4238
+Mayo 2021	Hombres	44	Teruel	Servicios	14228
+Mayo 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	18919
+Mayo 2021	Hombres	50	Zaragoza	Industria y energía	56605
+Mayo 2021	Hombres	50	Zaragoza	Construcción	21538
+Mayo 2021	Hombres	50	Zaragoza	Servicios	133010
+Mayo 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3357
+Mayo 2021	Mujeres	22	Huesca	Industria y energía	3573
+Mayo 2021	Mujeres	22	Huesca	Construcción	777
+Mayo 2021	Mujeres	22	Huesca	Servicios	35424
+Mayo 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1644
+Mayo 2021	Mujeres	44	Teruel	Industria y energía	2073
+Mayo 2021	Mujeres	44	Teruel	Construcción	341
+Mayo 2021	Mujeres	44	Teruel	Servicios	19517
+Mayo 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	6196
+Mayo 2021	Mujeres	50	Zaragoza	Industria y energía	20519
+Mayo 2021	Mujeres	50	Zaragoza	Construcción	2848
+Mayo 2021	Mujeres	50	Zaragoza	Servicios	168517
+Abril 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	11605
+Abril 2021	Hombres	22	Huesca	Industria y energía	11296
+Abril 2021	Hombres	22	Huesca	Construcción	7147
+Abril 2021	Hombres	22	Huesca	Servicios	25086
+Abril 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	5035
+Abril 2021	Hombres	44	Teruel	Industria y energía	7150
+Abril 2021	Hombres	44	Teruel	Construcción	4150
+Abril 2021	Hombres	44	Teruel	Servicios	14050
+Abril 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	14919
+Abril 2021	Hombres	50	Zaragoza	Industria y energía	56313
+Abril 2021	Hombres	50	Zaragoza	Construcción	21196
+Abril 2021	Hombres	50	Zaragoza	Servicios	130605
+Abril 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2701
+Abril 2021	Mujeres	22	Huesca	Industria y energía	3530
+Abril 2021	Mujeres	22	Huesca	Construcción	772
+Abril 2021	Mujeres	22	Huesca	Servicios	34732
+Abril 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1511
+Abril 2021	Mujeres	44	Teruel	Industria y energía	2073
+Abril 2021	Mujeres	44	Teruel	Construcción	334
+Abril 2021	Mujeres	44	Teruel	Servicios	19267
+Abril 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4241
+Abril 2021	Mujeres	50	Zaragoza	Industria y energía	20356
+Abril 2021	Mujeres	50	Zaragoza	Construcción	2837
+Abril 2021	Mujeres	50	Zaragoza	Servicios	166814
+Marzo 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	10856
+Marzo 2021	Hombres	22	Huesca	Industria y energía	11187
+Marzo 2021	Hombres	22	Huesca	Construcción	7025
+Marzo 2021	Hombres	22	Huesca	Servicios	25357
+Marzo 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	5003
+Marzo 2021	Hombres	44	Teruel	Industria y energía	7076
+Marzo 2021	Hombres	44	Teruel	Construcción	4101
+Marzo 2021	Hombres	44	Teruel	Servicios	13924
+Marzo 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13418
+Marzo 2021	Hombres	50	Zaragoza	Industria y energía	56439
+Marzo 2021	Hombres	50	Zaragoza	Construcción	20844
+Marzo 2021	Hombres	50	Zaragoza	Servicios	129343
+Marzo 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2537
+Marzo 2021	Mujeres	22	Huesca	Industria y energía	3491
+Marzo 2021	Mujeres	22	Huesca	Construcción	759
+Marzo 2021	Mujeres	22	Huesca	Servicios	34918
+Marzo 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1462
+Marzo 2021	Mujeres	44	Teruel	Industria y energía	2070
+Marzo 2021	Mujeres	44	Teruel	Construcción	337
+Marzo 2021	Mujeres	44	Teruel	Servicios	19116
+Marzo 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3775
+Marzo 2021	Mujeres	50	Zaragoza	Industria y energía	20419
+Marzo 2021	Mujeres	50	Zaragoza	Construcción	2801
+Marzo 2021	Mujeres	50	Zaragoza	Servicios	165282
+Febrero 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	11353
+Febrero 2021	Hombres	22	Huesca	Industria y energía	11242
+Febrero 2021	Hombres	22	Huesca	Construcción	7017
+Febrero 2021	Hombres	22	Huesca	Servicios	24999
+Febrero 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	4997
+Febrero 2021	Hombres	44	Teruel	Industria y energía	7041
+Febrero 2021	Hombres	44	Teruel	Construcción	4054
+Febrero 2021	Hombres	44	Teruel	Servicios	14013
+Febrero 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	14034
+Febrero 2021	Hombres	50	Zaragoza	Industria y energía	56837
+Febrero 2021	Hombres	50	Zaragoza	Construcción	20701
+Febrero 2021	Hombres	50	Zaragoza	Servicios	130274
+Febrero 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2568
+Febrero 2021	Mujeres	22	Huesca	Industria y energía	3499
+Febrero 2021	Mujeres	22	Huesca	Construcción	759
+Febrero 2021	Mujeres	22	Huesca	Servicios	34552
+Febrero 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1493
+Febrero 2021	Mujeres	44	Teruel	Industria y energía	2048
+Febrero 2021	Mujeres	44	Teruel	Construcción	331
+Febrero 2021	Mujeres	44	Teruel	Servicios	19240
+Febrero 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3931
+Febrero 2021	Mujeres	50	Zaragoza	Industria y energía	20632
+Febrero 2021	Mujeres	50	Zaragoza	Construcción	2830
+Febrero 2021	Mujeres	50	Zaragoza	Servicios	166422
+Enero 2021	Hombres	22	Huesca	Agricultura, ganadería y pesca	11041
+Enero 2021	Hombres	22	Huesca	Industria y energía	11258
+Enero 2021	Hombres	22	Huesca	Construcción	6841
+Enero 2021	Hombres	22	Huesca	Servicios	25049
+Enero 2021	Hombres	44	Teruel	Agricultura, ganadería y pesca	4751
+Enero 2021	Hombres	44	Teruel	Industria y energía	6974
+Enero 2021	Hombres	44	Teruel	Construcción	4006
+Enero 2021	Hombres	44	Teruel	Servicios	14095
+Enero 2021	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13792
+Enero 2021	Hombres	50	Zaragoza	Industria y energía	56807
+Enero 2021	Hombres	50	Zaragoza	Construcción	20217
+Enero 2021	Hombres	50	Zaragoza	Servicios	130417
+Enero 2021	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2506
+Enero 2021	Mujeres	22	Huesca	Industria y energía	3522
+Enero 2021	Mujeres	22	Huesca	Construcción	744
+Enero 2021	Mujeres	22	Huesca	Servicios	34535
+Enero 2021	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1452
+Enero 2021	Mujeres	44	Teruel	Industria y energía	2053
+Enero 2021	Mujeres	44	Teruel	Construcción	333
+Enero 2021	Mujeres	44	Teruel	Servicios	19447
+Enero 2021	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3878
+Enero 2021	Mujeres	50	Zaragoza	Industria y energía	20608
+Enero 2021	Mujeres	50	Zaragoza	Construcción	2826
+Enero 2021	Mujeres	50	Zaragoza	Servicios	166639
+Diciembre 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	10829
+Diciembre 2020	Hombres	22	Huesca	Industria y energía	11209
+Diciembre 2020	Hombres	22	Huesca	Construcción	6800
+Diciembre 2020	Hombres	22	Huesca	Servicios	25200
+Diciembre 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	4676
+Diciembre 2020	Hombres	44	Teruel	Industria y energía	6951
+Diciembre 2020	Hombres	44	Teruel	Construcción	4039
+Diciembre 2020	Hombres	44	Teruel	Servicios	14102
+Diciembre 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13372
+Diciembre 2020	Hombres	50	Zaragoza	Industria y energía	56314
+Diciembre 2020	Hombres	50	Zaragoza	Construcción	19881
+Diciembre 2020	Hombres	50	Zaragoza	Servicios	129602
+Diciembre 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2422
+Diciembre 2020	Mujeres	22	Huesca	Industria y energía	3540
+Diciembre 2020	Mujeres	22	Huesca	Construcción	742
+Diciembre 2020	Mujeres	22	Huesca	Servicios	34793
+Diciembre 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1452
+Diciembre 2020	Mujeres	44	Teruel	Industria y energía	2083
+Diciembre 2020	Mujeres	44	Teruel	Construcción	330
+Diciembre 2020	Mujeres	44	Teruel	Servicios	19614
+Diciembre 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3737
+Diciembre 2020	Mujeres	50	Zaragoza	Industria y energía	20344
+Diciembre 2020	Mujeres	50	Zaragoza	Construcción	2782
+Diciembre 2020	Mujeres	50	Zaragoza	Servicios	167945
+Noviembre 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	11178
+Noviembre 2020	Hombres	22	Huesca	Industria y energía	11321
+Noviembre 2020	Hombres	22	Huesca	Construcción	7025
+Noviembre 2020	Hombres	22	Huesca	Servicios	24924
+Noviembre 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	4918
+Noviembre 2020	Hombres	44	Teruel	Industria y energía	6984
+Noviembre 2020	Hombres	44	Teruel	Construcción	4200
+Noviembre 2020	Hombres	44	Teruel	Servicios	14235
+Noviembre 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13811
+Noviembre 2020	Hombres	50	Zaragoza	Industria y energía	57058
+Noviembre 2020	Hombres	50	Zaragoza	Construcción	20685
+Noviembre 2020	Hombres	50	Zaragoza	Servicios	131545
+Noviembre 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2533
+Noviembre 2020	Mujeres	22	Huesca	Industria y energía	3578
+Noviembre 2020	Mujeres	22	Huesca	Construcción	744
+Noviembre 2020	Mujeres	22	Huesca	Servicios	34733
+Noviembre 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1448
+Noviembre 2020	Mujeres	44	Teruel	Industria y energía	2089
+Noviembre 2020	Mujeres	44	Teruel	Construcción	344
+Noviembre 2020	Mujeres	44	Teruel	Servicios	19630
+Noviembre 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3777
+Noviembre 2020	Mujeres	50	Zaragoza	Industria y energía	20707
+Noviembre 2020	Mujeres	50	Zaragoza	Construcción	2804
+Noviembre 2020	Mujeres	50	Zaragoza	Servicios	168129
+Octubre 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	10963
+Octubre 2020	Hombres	22	Huesca	Industria y energía	11278
+Octubre 2020	Hombres	22	Huesca	Construcción	7000
+Octubre 2020	Hombres	22	Huesca	Servicios	25282
+Octubre 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	5017
+Octubre 2020	Hombres	44	Teruel	Industria y energía	6980
+Octubre 2020	Hombres	44	Teruel	Construcción	4258
+Octubre 2020	Hombres	44	Teruel	Servicios	14548
+Octubre 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13553
+Octubre 2020	Hombres	50	Zaragoza	Industria y energía	57516
+Octubre 2020	Hombres	50	Zaragoza	Construcción	20697
+Octubre 2020	Hombres	50	Zaragoza	Servicios	131493
+Octubre 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2531
+Octubre 2020	Mujeres	22	Huesca	Industria y energía	3569
+Octubre 2020	Mujeres	22	Huesca	Construcción	741
+Octubre 2020	Mujeres	22	Huesca	Servicios	35376
+Octubre 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1547
+Octubre 2020	Mujeres	44	Teruel	Industria y energía	2093
+Octubre 2020	Mujeres	44	Teruel	Construcción	346
+Octubre 2020	Mujeres	44	Teruel	Servicios	20013
+Octubre 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3734
+Octubre 2020	Mujeres	50	Zaragoza	Industria y energía	20864
+Octubre 2020	Mujeres	50	Zaragoza	Construcción	2798
+Octubre 2020	Mujeres	50	Zaragoza	Servicios	168739
+Septiembre 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	10862
+Septiembre 2020	Hombres	22	Huesca	Industria y energía	11161
+Septiembre 2020	Hombres	22	Huesca	Construcción	6957
+Septiembre 2020	Hombres	22	Huesca	Servicios	25248
+Septiembre 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	5095
+Septiembre 2020	Hombres	44	Teruel	Industria y energía	6892
+Septiembre 2020	Hombres	44	Teruel	Construcción	4248
+Septiembre 2020	Hombres	44	Teruel	Servicios	14478
+Septiembre 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	14903
+Septiembre 2020	Hombres	50	Zaragoza	Industria y energía	57306
+Septiembre 2020	Hombres	50	Zaragoza	Construcción	20565
+Septiembre 2020	Hombres	50	Zaragoza	Servicios	129832
+Septiembre 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2530
+Septiembre 2020	Mujeres	22	Huesca	Industria y energía	3555
+Septiembre 2020	Mujeres	22	Huesca	Construcción	734
+Septiembre 2020	Mujeres	22	Huesca	Servicios	35240
+Septiembre 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1650
+Septiembre 2020	Mujeres	44	Teruel	Industria y energía	2045
+Septiembre 2020	Mujeres	44	Teruel	Construcción	342
+Septiembre 2020	Mujeres	44	Teruel	Servicios	19911
+Septiembre 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4237
+Septiembre 2020	Mujeres	50	Zaragoza	Industria y energía	20800
+Septiembre 2020	Mujeres	50	Zaragoza	Construcción	2787
+Septiembre 2020	Mujeres	50	Zaragoza	Servicios	166978
+Agosto 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	12652
+Agosto 2020	Hombres	22	Huesca	Industria y energía	11213
+Agosto 2020	Hombres	22	Huesca	Construcción	6955
+Agosto 2020	Hombres	22	Huesca	Servicios	25928
+Agosto 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	5184
+Agosto 2020	Hombres	44	Teruel	Industria y energía	7018
+Agosto 2020	Hombres	44	Teruel	Construcción	4270
+Agosto 2020	Hombres	44	Teruel	Servicios	14293
+Agosto 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	16041
+Agosto 2020	Hombres	50	Zaragoza	Industria y energía	57305
+Agosto 2020	Hombres	50	Zaragoza	Construcción	20599
+Agosto 2020	Hombres	50	Zaragoza	Servicios	127552
+Agosto 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3014
+Agosto 2020	Mujeres	22	Huesca	Industria y energía	3599
+Agosto 2020	Mujeres	22	Huesca	Construcción	742
+Agosto 2020	Mujeres	22	Huesca	Servicios	35085
+Agosto 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1674
+Agosto 2020	Mujeres	44	Teruel	Industria y energía	2056
+Agosto 2020	Mujeres	44	Teruel	Construcción	340
+Agosto 2020	Mujeres	44	Teruel	Servicios	19372
+Agosto 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4629
+Agosto 2020	Mujeres	50	Zaragoza	Industria y energía	20454
+Agosto 2020	Mujeres	50	Zaragoza	Construcción	2781
+Agosto 2020	Mujeres	50	Zaragoza	Servicios	160629
+Julio 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	14407
+Julio 2020	Hombres	22	Huesca	Industria y energía	11289
+Julio 2020	Hombres	22	Huesca	Construcción	6989
+Julio 2020	Hombres	22	Huesca	Servicios	27055
+Julio 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	5225
+Julio 2020	Hombres	44	Teruel	Industria y energía	7052
+Julio 2020	Hombres	44	Teruel	Construcción	4282
+Julio 2020	Hombres	44	Teruel	Servicios	14653
+Julio 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	16072
+Julio 2020	Hombres	50	Zaragoza	Industria y energía	57227
+Julio 2020	Hombres	50	Zaragoza	Construcción	20879
+Julio 2020	Hombres	50	Zaragoza	Servicios	128555
+Julio 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3517
+Julio 2020	Mujeres	22	Huesca	Industria y energía	3625
+Julio 2020	Mujeres	22	Huesca	Construcción	740
+Julio 2020	Mujeres	22	Huesca	Servicios	36996
+Julio 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1705
+Julio 2020	Mujeres	44	Teruel	Industria y energía	2073
+Julio 2020	Mujeres	44	Teruel	Construcción	340
+Julio 2020	Mujeres	44	Teruel	Servicios	20143
+Julio 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4615
+Julio 2020	Mujeres	50	Zaragoza	Industria y energía	20165
+Julio 2020	Mujeres	50	Zaragoza	Construcción	2781
+Julio 2020	Mujeres	50	Zaragoza	Servicios	162851
+Junio 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	15085
+Junio 2020	Hombres	22	Huesca	Industria y energía	11125
+Junio 2020	Hombres	22	Huesca	Construcción	6908
+Junio 2020	Hombres	22	Huesca	Servicios	25748
+Junio 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	5382
+Junio 2020	Hombres	44	Teruel	Industria y energía	7078
+Junio 2020	Hombres	44	Teruel	Construcción	4275
+Junio 2020	Hombres	44	Teruel	Servicios	14132
+Junio 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	18000
+Junio 2020	Hombres	50	Zaragoza	Industria y energía	57376
+Junio 2020	Hombres	50	Zaragoza	Construcción	20764
+Junio 2020	Hombres	50	Zaragoza	Servicios	127777
+Junio 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3646
+Junio 2020	Mujeres	22	Huesca	Industria y energía	3517
+Junio 2020	Mujeres	22	Huesca	Construcción	732
+Junio 2020	Mujeres	22	Huesca	Servicios	35202
+Junio 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1731
+Junio 2020	Mujeres	44	Teruel	Industria y energía	2065
+Junio 2020	Mujeres	44	Teruel	Construcción	348
+Junio 2020	Mujeres	44	Teruel	Servicios	19447
+Junio 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	5575
+Junio 2020	Mujeres	50	Zaragoza	Industria y energía	20131
+Junio 2020	Mujeres	50	Zaragoza	Construcción	2751
+Junio 2020	Mujeres	50	Zaragoza	Servicios	161917
+Mayo 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	14835
+Mayo 2020	Hombres	22	Huesca	Industria y energía	10996
+Mayo 2020	Hombres	22	Huesca	Construcción	6728
+Mayo 2020	Hombres	22	Huesca	Servicios	25028
+Mayo 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	5280
+Mayo 2020	Hombres	44	Teruel	Industria y energía	7106
+Mayo 2020	Hombres	44	Teruel	Construcción	4134
+Mayo 2020	Hombres	44	Teruel	Servicios	13980
+Mayo 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	18547
+Mayo 2020	Hombres	50	Zaragoza	Industria y energía	57228
+Mayo 2020	Hombres	50	Zaragoza	Construcción	20068
+Mayo 2020	Hombres	50	Zaragoza	Servicios	128034
+Mayo 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3448
+Mayo 2020	Mujeres	22	Huesca	Industria y energía	3473
+Mayo 2020	Mujeres	22	Huesca	Construcción	735
+Mayo 2020	Mujeres	22	Huesca	Servicios	34768
+Mayo 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1648
+Mayo 2020	Mujeres	44	Teruel	Industria y energía	2077
+Mayo 2020	Mujeres	44	Teruel	Construcción	353
+Mayo 2020	Mujeres	44	Teruel	Servicios	19526
+Mayo 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	5604
+Mayo 2020	Mujeres	50	Zaragoza	Industria y energía	20114
+Mayo 2020	Mujeres	50	Zaragoza	Construcción	2739
+Mayo 2020	Mujeres	50	Zaragoza	Servicios	165688
+Marzo 2020	Hombres	22	Huesca	Agricultura, ganadería y pesca	10726
+Marzo 2020	Hombres	22	Huesca	Industria y energía	10911
+Marzo 2020	Hombres	22	Huesca	Construcción	6590
+Marzo 2020	Hombres	22	Huesca	Servicios	24403
+Marzo 2020	Hombres	44	Teruel	Agricultura, ganadería y pesca	4859
+Marzo 2020	Hombres	44	Teruel	Industria y energía	7201
+Marzo 2020	Hombres	44	Teruel	Construcción	3965
+Marzo 2020	Hombres	44	Teruel	Servicios	13943
+Marzo 2020	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13389
+Marzo 2020	Hombres	50	Zaragoza	Industria y energía	57561
+Marzo 2020	Hombres	50	Zaragoza	Construcción	19269
+Marzo 2020	Hombres	50	Zaragoza	Servicios	126785
+Marzo 2020	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2451
+Marzo 2020	Mujeres	22	Huesca	Industria y energía	3423
+Marzo 2020	Mujeres	22	Huesca	Construcción	749
+Marzo 2020	Mujeres	22	Huesca	Servicios	34272
+Marzo 2020	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1476
+Marzo 2020	Mujeres	44	Teruel	Industria y energía	2133
+Marzo 2020	Mujeres	44	Teruel	Construcción	340
+Marzo 2020	Mujeres	44	Teruel	Servicios	19648
+Marzo 2020	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3690
+Marzo 2020	Mujeres	50	Zaragoza	Industria y energía	20157
+Marzo 2020	Mujeres	50	Zaragoza	Construcción	2732
+Marzo 2020	Mujeres	50	Zaragoza	Servicios	165621
+Diciembre 2019	Hombres	22	Huesca	Agricultura, ganadería y pesca	10811
+Diciembre 2019	Hombres	22	Huesca	Industria y energía	10849
+Diciembre 2019	Hombres	22	Huesca	Construcción	6768
+Diciembre 2019	Hombres	22	Huesca	Servicios	27386
+Diciembre 2019	Hombres	44	Teruel	Agricultura, ganadería y pesca	4674
+Diciembre 2019	Hombres	44	Teruel	Industria y energía	7328
+Diciembre 2019	Hombres	44	Teruel	Construcción	4108
+Diciembre 2019	Hombres	44	Teruel	Servicios	14452
+Diciembre 2019	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13311
+Diciembre 2019	Hombres	50	Zaragoza	Industria y energía	57790
+Diciembre 2019	Hombres	50	Zaragoza	Construcción	20196
+Diciembre 2019	Hombres	50	Zaragoza	Servicios	132445
+Diciembre 2019	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2438
+Diciembre 2019	Mujeres	22	Huesca	Industria y energía	3388
+Diciembre 2019	Mujeres	22	Huesca	Construcción	767
+Diciembre 2019	Mujeres	22	Huesca	Servicios	37093
+Diciembre 2019	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1489
+Diciembre 2019	Mujeres	44	Teruel	Industria y energía	2124
+Diciembre 2019	Mujeres	44	Teruel	Construcción	336
+Diciembre 2019	Mujeres	44	Teruel	Servicios	19937
+Diciembre 2019	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3645
+Diciembre 2019	Mujeres	50	Zaragoza	Industria y energía	20134
+Diciembre 2019	Mujeres	50	Zaragoza	Construcción	2759
+Diciembre 2019	Mujeres	50	Zaragoza	Servicios	172711
+Septiembre 2019	Hombres	22	Huesca	Agricultura, ganadería y pesca	11349
+Septiembre 2019	Hombres	22	Huesca	Industria y energía	10622
+Septiembre 2019	Hombres	22	Huesca	Construcción	7128
+Septiembre 2019	Hombres	22	Huesca	Servicios	26158
+Septiembre 2019	Hombres	44	Teruel	Agricultura, ganadería y pesca	5012
+Septiembre 2019	Hombres	44	Teruel	Industria y energía	7263
+Septiembre 2019	Hombres	44	Teruel	Construcción	4242
+Septiembre 2019	Hombres	44	Teruel	Servicios	14614
+Septiembre 2019	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	15932
+Septiembre 2019	Hombres	50	Zaragoza	Industria y energía	57335
+Septiembre 2019	Hombres	50	Zaragoza	Construcción	20968
+Septiembre 2019	Hombres	50	Zaragoza	Servicios	131729
+Septiembre 2019	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2756
+Septiembre 2019	Mujeres	22	Huesca	Industria y energía	3284
+Septiembre 2019	Mujeres	22	Huesca	Construcción	768
+Septiembre 2019	Mujeres	22	Huesca	Servicios	36311
+Septiembre 2019	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1650
+Septiembre 2019	Mujeres	44	Teruel	Industria y energía	2102
+Septiembre 2019	Mujeres	44	Teruel	Construcción	339
+Septiembre 2019	Mujeres	44	Teruel	Servicios	19957
+Septiembre 2019	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4523
+Septiembre 2019	Mujeres	50	Zaragoza	Industria y energía	20738
+Septiembre 2019	Mujeres	50	Zaragoza	Construcción	2739
+Septiembre 2019	Mujeres	50	Zaragoza	Servicios	169606
+Junio 2019	Hombres	22	Huesca	Agricultura, ganadería y pesca	15537
+Junio 2019	Hombres	22	Huesca	Industria y energía	10225
+Junio 2019	Hombres	22	Huesca	Construcción	7346
+Junio 2019	Hombres	22	Huesca	Servicios	27786
+Junio 2019	Hombres	44	Teruel	Agricultura, ganadería y pesca	5279
+Junio 2019	Hombres	44	Teruel	Industria y energía	7393
+Junio 2019	Hombres	44	Teruel	Construcción	4358
+Junio 2019	Hombres	44	Teruel	Servicios	14844
+Junio 2019	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	18966
+Junio 2019	Hombres	50	Zaragoza	Industria y energía	59027
+Junio 2019	Hombres	50	Zaragoza	Construcción	21673
+Junio 2019	Hombres	50	Zaragoza	Servicios	134134
+Junio 2019	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3691
+Junio 2019	Mujeres	22	Huesca	Industria y energía	3143
+Junio 2019	Mujeres	22	Huesca	Construcción	767
+Junio 2019	Mujeres	22	Huesca	Servicios	37592
+Junio 2019	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1732
+Junio 2019	Mujeres	44	Teruel	Industria y energía	2099
+Junio 2019	Mujeres	44	Teruel	Construcción	348
+Junio 2019	Mujeres	44	Teruel	Servicios	20240
+Junio 2019	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	6031
+Junio 2019	Mujeres	50	Zaragoza	Industria y energía	20541
+Junio 2019	Mujeres	50	Zaragoza	Construcción	2743
+Junio 2019	Mujeres	50	Zaragoza	Servicios	168889
+Marzo 2019	Hombres	22	Huesca	Agricultura, ganadería y pesca	11006
+Marzo 2019	Hombres	22	Huesca	Industria y energía	10023
+Marzo 2019	Hombres	22	Huesca	Construcción	7165
+Marzo 2019	Hombres	22	Huesca	Servicios	26857
+Marzo 2019	Hombres	44	Teruel	Agricultura, ganadería y pesca	4949
+Marzo 2019	Hombres	44	Teruel	Industria y energía	7396
+Marzo 2019	Hombres	44	Teruel	Construcción	4187
+Marzo 2019	Hombres	44	Teruel	Servicios	14598
+Marzo 2019	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13436
+Marzo 2019	Hombres	50	Zaragoza	Industria y energía	59397
+Marzo 2019	Hombres	50	Zaragoza	Construcción	20983
+Marzo 2019	Hombres	50	Zaragoza	Servicios	131839
+Marzo 2019	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2431
+Marzo 2019	Mujeres	22	Huesca	Industria y energía	3062
+Marzo 2019	Mujeres	22	Huesca	Construcción	750
+Marzo 2019	Mujeres	22	Huesca	Servicios	36430
+Marzo 2019	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1482
+Marzo 2019	Mujeres	44	Teruel	Industria y energía	2063
+Marzo 2019	Mujeres	44	Teruel	Construcción	341
+Marzo 2019	Mujeres	44	Teruel	Servicios	19824
+Marzo 2019	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3564
+Marzo 2019	Mujeres	50	Zaragoza	Industria y energía	20512
+Marzo 2019	Mujeres	50	Zaragoza	Construcción	2698
+Marzo 2019	Mujeres	50	Zaragoza	Servicios	169964
+Diciembre 2018	Hombres	22	Huesca	Agricultura, ganadería y pesca	10852
+Diciembre 2018	Hombres	22	Huesca	Industria y energía	9882
+Diciembre 2018	Hombres	22	Huesca	Construcción	6885
+Diciembre 2018	Hombres	22	Huesca	Servicios	26514
+Diciembre 2018	Hombres	44	Teruel	Agricultura, ganadería y pesca	4707
+Diciembre 2018	Hombres	44	Teruel	Industria y energía	7376
+Diciembre 2018	Hombres	44	Teruel	Construcción	4154
+Diciembre 2018	Hombres	44	Teruel	Servicios	14442
+Diciembre 2018	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13375
+Diciembre 2018	Hombres	50	Zaragoza	Industria y energía	57503
+Diciembre 2018	Hombres	50	Zaragoza	Construcción	19905
+Diciembre 2018	Hombres	50	Zaragoza	Servicios	130146
+Diciembre 2018	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2374
+Diciembre 2018	Mujeres	22	Huesca	Industria y energía	2981
+Diciembre 2018	Mujeres	22	Huesca	Construcción	740
+Diciembre 2018	Mujeres	22	Huesca	Servicios	36363
+Diciembre 2018	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1499
+Diciembre 2018	Mujeres	44	Teruel	Industria y energía	2073
+Diciembre 2018	Mujeres	44	Teruel	Construcción	337
+Diciembre 2018	Mujeres	44	Teruel	Servicios	19785
+Diciembre 2018	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3580
+Diciembre 2018	Mujeres	50	Zaragoza	Industria y energía	19392
+Diciembre 2018	Mujeres	50	Zaragoza	Construcción	2638
+Diciembre 2018	Mujeres	50	Zaragoza	Servicios	170484
+Septiembre 2018	Hombres	22	Huesca	Agricultura, ganadería y pesca	11188
+Septiembre 2018	Hombres	22	Huesca	Industria y energía	9984
+Septiembre 2018	Hombres	22	Huesca	Construcción	7115
+Septiembre 2018	Hombres	22	Huesca	Servicios	25829
+Septiembre 2018	Hombres	44	Teruel	Agricultura, ganadería y pesca	5206
+Septiembre 2018	Hombres	44	Teruel	Industria y energía	7364
+Septiembre 2018	Hombres	44	Teruel	Construcción	4277
+Septiembre 2018	Hombres	44	Teruel	Servicios	14436
+Septiembre 2018	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	16020
+Septiembre 2018	Hombres	50	Zaragoza	Industria y energía	58224
+Septiembre 2018	Hombres	50	Zaragoza	Construcción	20352
+Septiembre 2018	Hombres	50	Zaragoza	Servicios	131520
+Septiembre 2018	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2586
+Septiembre 2018	Mujeres	22	Huesca	Industria y energía	3026
+Septiembre 2018	Mujeres	22	Huesca	Construcción	738
+Septiembre 2018	Mujeres	22	Huesca	Servicios	36056
+Septiembre 2018	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1720
+Septiembre 2018	Mujeres	44	Teruel	Industria y energía	2063
+Septiembre 2018	Mujeres	44	Teruel	Construcción	362
+Septiembre 2018	Mujeres	44	Teruel	Servicios	20029
+Septiembre 2018	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4544
+Septiembre 2018	Mujeres	50	Zaragoza	Industria y energía	20068
+Septiembre 2018	Mujeres	50	Zaragoza	Construcción	2597
+Septiembre 2018	Mujeres	50	Zaragoza	Servicios	168598
+Junio 2018	Hombres	22	Huesca	Agricultura, ganadería y pesca	14782
+Junio 2018	Hombres	22	Huesca	Industria y energía	10036
+Junio 2018	Hombres	22	Huesca	Construcción	7038
+Junio 2018	Hombres	22	Huesca	Servicios	26845
+Junio 2018	Hombres	44	Teruel	Agricultura, ganadería y pesca	5441
+Junio 2018	Hombres	44	Teruel	Industria y energía	7330
+Junio 2018	Hombres	44	Teruel	Construcción	4281
+Junio 2018	Hombres	44	Teruel	Servicios	14540
+Junio 2018	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	19347
+Junio 2018	Hombres	50	Zaragoza	Industria y energía	58393
+Junio 2018	Hombres	50	Zaragoza	Construcción	20179
+Junio 2018	Hombres	50	Zaragoza	Servicios	132358
+Junio 2018	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3469
+Junio 2018	Mujeres	22	Huesca	Industria y energía	3020
+Junio 2018	Mujeres	22	Huesca	Construcción	737
+Junio 2018	Mujeres	22	Huesca	Servicios	36916
+Junio 2018	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1847
+Junio 2018	Mujeres	44	Teruel	Industria y energía	2058
+Junio 2018	Mujeres	44	Teruel	Construcción	366
+Junio 2018	Mujeres	44	Teruel	Servicios	19874
+Junio 2018	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	6156
+Junio 2018	Mujeres	50	Zaragoza	Industria y energía	19822
+Junio 2018	Mujeres	50	Zaragoza	Construcción	2575
+Junio 2018	Mujeres	50	Zaragoza	Servicios	165655
+Marzo 2018	Hombres	22	Huesca	Agricultura, ganadería y pesca	10726
+Marzo 2018	Hombres	22	Huesca	Industria y energía	9786
+Marzo 2018	Hombres	22	Huesca	Construcción	6650
+Marzo 2018	Hombres	22	Huesca	Servicios	26523
+Marzo 2018	Hombres	44	Teruel	Agricultura, ganadería y pesca	4888
+Marzo 2018	Hombres	44	Teruel	Industria y energía	7185
+Marzo 2018	Hombres	44	Teruel	Construcción	4092
+Marzo 2018	Hombres	44	Teruel	Servicios	14262
+Marzo 2018	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13218
+Marzo 2018	Hombres	50	Zaragoza	Industria y energía	57325
+Marzo 2018	Hombres	50	Zaragoza	Construcción	19235
+Marzo 2018	Hombres	50	Zaragoza	Servicios	128655
+Marzo 2018	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2343
+Marzo 2018	Mujeres	22	Huesca	Industria y energía	2935
+Marzo 2018	Mujeres	22	Huesca	Construcción	735
+Marzo 2018	Mujeres	22	Huesca	Servicios	36037
+Marzo 2018	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1513
+Marzo 2018	Mujeres	44	Teruel	Industria y energía	2027
+Marzo 2018	Mujeres	44	Teruel	Construcción	354
+Marzo 2018	Mujeres	44	Teruel	Servicios	19517
+Marzo 2018	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3379
+Marzo 2018	Mujeres	50	Zaragoza	Industria y energía	19024
+Marzo 2018	Mujeres	50	Zaragoza	Construcción	2537
+Marzo 2018	Mujeres	50	Zaragoza	Servicios	165687
+Diciembre 2017	Hombres	22	Huesca	Agricultura, ganadería y pesca	10691
+Diciembre 2017	Hombres	22	Huesca	Industria y energía	9675
+Diciembre 2017	Hombres	22	Huesca	Construcción	6564
+Diciembre 2017	Hombres	22	Huesca	Servicios	26208
+Diciembre 2017	Hombres	44	Teruel	Agricultura, ganadería y pesca	4734
+Diciembre 2017	Hombres	44	Teruel	Industria y energía	7178
+Diciembre 2017	Hombres	44	Teruel	Construcción	4105
+Diciembre 2017	Hombres	44	Teruel	Servicios	14034
+Diciembre 2017	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13296
+Diciembre 2017	Hombres	50	Zaragoza	Industria y energía	56390
+Diciembre 2017	Hombres	50	Zaragoza	Construcción	18713
+Diciembre 2017	Hombres	50	Zaragoza	Servicios	126978
+Diciembre 2017	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2354
+Diciembre 2017	Mujeres	22	Huesca	Industria y energía	2842
+Diciembre 2017	Mujeres	22	Huesca	Construcción	719
+Diciembre 2017	Mujeres	22	Huesca	Servicios	35720
+Diciembre 2017	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1548
+Diciembre 2017	Mujeres	44	Teruel	Industria y energía	2025
+Diciembre 2017	Mujeres	44	Teruel	Construcción	340
+Diciembre 2017	Mujeres	44	Teruel	Servicios	19257
+Diciembre 2017	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3455
+Diciembre 2017	Mujeres	50	Zaragoza	Industria y energía	18779
+Diciembre 2017	Mujeres	50	Zaragoza	Construcción	2501
+Diciembre 2017	Mujeres	50	Zaragoza	Servicios	165989
+Septiembre 2017	Hombres	22	Huesca	Agricultura, ganadería y pesca	10945
+Septiembre 2017	Hombres	22	Huesca	Industria y energía	9701
+Septiembre 2017	Hombres	22	Huesca	Construcción	6760
+Septiembre 2017	Hombres	22	Huesca	Servicios	25184
+Septiembre 2017	Hombres	44	Teruel	Agricultura, ganadería y pesca	5027
+Septiembre 2017	Hombres	44	Teruel	Industria y energía	7051
+Septiembre 2017	Hombres	44	Teruel	Construcción	4200
+Septiembre 2017	Hombres	44	Teruel	Servicios	14263
+Septiembre 2017	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	15457
+Septiembre 2017	Hombres	50	Zaragoza	Industria y energía	56775
+Septiembre 2017	Hombres	50	Zaragoza	Construcción	19182
+Septiembre 2017	Hombres	50	Zaragoza	Servicios	129289
+Septiembre 2017	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2490
+Septiembre 2017	Mujeres	22	Huesca	Industria y energía	2885
+Septiembre 2017	Mujeres	22	Huesca	Construcción	709
+Septiembre 2017	Mujeres	22	Huesca	Servicios	35033
+Septiembre 2017	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1750
+Septiembre 2017	Mujeres	44	Teruel	Industria y energía	2011
+Septiembre 2017	Mujeres	44	Teruel	Construcción	337
+Septiembre 2017	Mujeres	44	Teruel	Servicios	19405
+Septiembre 2017	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4390
+Septiembre 2017	Mujeres	50	Zaragoza	Industria y energía	18969
+Septiembre 2017	Mujeres	50	Zaragoza	Construcción	2476
+Septiembre 2017	Mujeres	50	Zaragoza	Servicios	165369
+Junio 2017	Hombres	22	Huesca	Agricultura, ganadería y pesca	15208
+Junio 2017	Hombres	22	Huesca	Industria y energía	9717
+Junio 2017	Hombres	22	Huesca	Construcción	6725
+Junio 2017	Hombres	22	Huesca	Servicios	26040
+Junio 2017	Hombres	44	Teruel	Agricultura, ganadería y pesca	5215
+Junio 2017	Hombres	44	Teruel	Industria y energía	7042
+Junio 2017	Hombres	44	Teruel	Construcción	4197
+Junio 2017	Hombres	44	Teruel	Servicios	14125
+Junio 2017	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	18665
+Junio 2017	Hombres	50	Zaragoza	Industria y energía	56040
+Junio 2017	Hombres	50	Zaragoza	Construcción	18911
+Junio 2017	Hombres	50	Zaragoza	Servicios	127253
+Junio 2017	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3526
+Junio 2017	Mujeres	22	Huesca	Industria y energía	2843
+Junio 2017	Mujeres	22	Huesca	Construcción	686
+Junio 2017	Mujeres	22	Huesca	Servicios	35596
+Junio 2017	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1882
+Junio 2017	Mujeres	44	Teruel	Industria y energía	1972
+Junio 2017	Mujeres	44	Teruel	Construcción	332
+Junio 2017	Mujeres	44	Teruel	Servicios	19004
+Junio 2017	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	5267
+Junio 2017	Mujeres	50	Zaragoza	Industria y energía	18486
+Junio 2017	Mujeres	50	Zaragoza	Construcción	2470
+Junio 2017	Mujeres	50	Zaragoza	Servicios	159982
+Marzo 2017	Hombres	22	Huesca	Agricultura, ganadería y pesca	10228
+Marzo 2017	Hombres	22	Huesca	Industria y energía	9403
+Marzo 2017	Hombres	22	Huesca	Construcción	6496
+Marzo 2017	Hombres	22	Huesca	Servicios	25264
+Marzo 2017	Hombres	44	Teruel	Agricultura, ganadería y pesca	4825
+Marzo 2017	Hombres	44	Teruel	Industria y energía	6963
+Marzo 2017	Hombres	44	Teruel	Construcción	3967
+Marzo 2017	Hombres	44	Teruel	Servicios	13870
+Marzo 2017	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13024
+Marzo 2017	Hombres	50	Zaragoza	Industria y energía	55039
+Marzo 2017	Hombres	50	Zaragoza	Construcción	18220
+Marzo 2017	Hombres	50	Zaragoza	Servicios	124791
+Marzo 2017	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2334
+Marzo 2017	Mujeres	22	Huesca	Industria y energía	2761
+Marzo 2017	Mujeres	22	Huesca	Construcción	678
+Marzo 2017	Mujeres	22	Huesca	Servicios	34406
+Marzo 2017	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1520
+Marzo 2017	Mujeres	44	Teruel	Industria y energía	1914
+Marzo 2017	Mujeres	44	Teruel	Construcción	347
+Marzo 2017	Mujeres	44	Teruel	Servicios	18780
+Marzo 2017	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3302
+Marzo 2017	Mujeres	50	Zaragoza	Industria y energía	17858
+Marzo 2017	Mujeres	50	Zaragoza	Construcción	2447
+Marzo 2017	Mujeres	50	Zaragoza	Servicios	160715
+Diciembre 2016	Hombres	22	Huesca	Agricultura, ganadería y pesca	10421
+Diciembre 2016	Hombres	22	Huesca	Industria y energía	9283
+Diciembre 2016	Hombres	22	Huesca	Construcción	6316
+Diciembre 2016	Hombres	22	Huesca	Servicios	25384
+Diciembre 2016	Hombres	44	Teruel	Agricultura, ganadería y pesca	4633
+Diciembre 2016	Hombres	44	Teruel	Industria y energía	6907
+Diciembre 2016	Hombres	44	Teruel	Construcción	3855
+Diciembre 2016	Hombres	44	Teruel	Servicios	13716
+Diciembre 2016	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	13105
+Diciembre 2016	Hombres	50	Zaragoza	Industria y energía	53311
+Diciembre 2016	Hombres	50	Zaragoza	Construcción	17811
+Diciembre 2016	Hombres	50	Zaragoza	Servicios	123345
+Diciembre 2016	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2352
+Diciembre 2016	Mujeres	22	Huesca	Industria y energía	2732
+Diciembre 2016	Mujeres	22	Huesca	Construcción	678
+Diciembre 2016	Mujeres	22	Huesca	Servicios	34726
+Diciembre 2016	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1535
+Diciembre 2016	Mujeres	44	Teruel	Industria y energía	1881
+Diciembre 2016	Mujeres	44	Teruel	Construcción	336
+Diciembre 2016	Mujeres	44	Teruel	Servicios	18722
+Diciembre 2016	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3320
+Diciembre 2016	Mujeres	50	Zaragoza	Industria y energía	17037
+Diciembre 2016	Mujeres	50	Zaragoza	Construcción	2446
+Diciembre 2016	Mujeres	50	Zaragoza	Servicios	161573
+Septiembre 2016	Hombres	22	Huesca	Agricultura, ganadería y pesca	10901
+Septiembre 2016	Hombres	22	Huesca	Industria y energía	9362
+Septiembre 2016	Hombres	22	Huesca	Construcción	6594
+Septiembre 2016	Hombres	22	Huesca	Servicios	23957
+Septiembre 2016	Hombres	44	Teruel	Agricultura, ganadería y pesca	5088
+Septiembre 2016	Hombres	44	Teruel	Industria y energía	6916
+Septiembre 2016	Hombres	44	Teruel	Construcción	4061
+Septiembre 2016	Hombres	44	Teruel	Servicios	13614
+Septiembre 2016	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	15465
+Septiembre 2016	Hombres	50	Zaragoza	Industria y energía	53879
+Septiembre 2016	Hombres	50	Zaragoza	Construcción	18034
+Septiembre 2016	Hombres	50	Zaragoza	Servicios	123040
+Septiembre 2016	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2550
+Septiembre 2016	Mujeres	22	Huesca	Industria y energía	2757
+Septiembre 2016	Mujeres	22	Huesca	Construcción	678
+Septiembre 2016	Mujeres	22	Huesca	Servicios	33621
+Septiembre 2016	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1771
+Septiembre 2016	Mujeres	44	Teruel	Industria y energía	1881
+Septiembre 2016	Mujeres	44	Teruel	Construcción	333
+Septiembre 2016	Mujeres	44	Teruel	Servicios	18537
+Septiembre 2016	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	4135
+Septiembre 2016	Mujeres	50	Zaragoza	Industria y energía	17391
+Septiembre 2016	Mujeres	50	Zaragoza	Construcción	2421
+Septiembre 2016	Mujeres	50	Zaragoza	Servicios	157873
+Junio 2016	Hombres	22	Huesca	Agricultura, ganadería y pesca	13885
+Junio 2016	Hombres	22	Huesca	Industria y energía	9348
+Junio 2016	Hombres	22	Huesca	Construcción	6558
+Junio 2016	Hombres	22	Huesca	Servicios	24936
+Junio 2016	Hombres	44	Teruel	Agricultura, ganadería y pesca	5252
+Junio 2016	Hombres	44	Teruel	Industria y energía	6938
+Junio 2016	Hombres	44	Teruel	Construcción	4170
+Junio 2016	Hombres	44	Teruel	Servicios	13657
+Junio 2016	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	18668
+Junio 2016	Hombres	50	Zaragoza	Industria y energía	54326
+Junio 2016	Hombres	50	Zaragoza	Construcción	18274
+Junio 2016	Hombres	50	Zaragoza	Servicios	123756
+Junio 2016	Mujeres	22	Huesca	Agricultura, ganadería y pesca	3396
+Junio 2016	Mujeres	22	Huesca	Industria y energía	2702
+Junio 2016	Mujeres	22	Huesca	Construcción	684
+Junio 2016	Mujeres	22	Huesca	Servicios	34228
+Junio 2016	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1927
+Junio 2016	Mujeres	44	Teruel	Industria y energía	1896
+Junio 2016	Mujeres	44	Teruel	Construcción	341
+Junio 2016	Mujeres	44	Teruel	Servicios	18457
+Junio 2016	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	5461
+Junio 2016	Mujeres	50	Zaragoza	Industria y energía	17211
+Junio 2016	Mujeres	50	Zaragoza	Construcción	2438
+Junio 2016	Mujeres	50	Zaragoza	Servicios	155662
+Marzo 2016	Hombres	22	Huesca	Agricultura, ganadería y pesca	10113
+Marzo 2016	Hombres	22	Huesca	Industria y energía	9079
+Marzo 2016	Hombres	22	Huesca	Construcción	6315
+Marzo 2016	Hombres	22	Huesca	Servicios	24505
+Marzo 2016	Hombres	44	Teruel	Agricultura, ganadería y pesca	4747
+Marzo 2016	Hombres	44	Teruel	Industria y energía	6894
+Marzo 2016	Hombres	44	Teruel	Construcción	3951
+Marzo 2016	Hombres	44	Teruel	Servicios	13461
+Marzo 2016	Hombres	50	Zaragoza	Agricultura, ganadería y pesca	12600
+Marzo 2016	Hombres	50	Zaragoza	Industria y energía	53247
+Marzo 2016	Hombres	50	Zaragoza	Construcción	17372
+Marzo 2016	Hombres	50	Zaragoza	Servicios	120895
+Marzo 2016	Mujeres	22	Huesca	Agricultura, ganadería y pesca	2265
+Marzo 2016	Mujeres	22	Huesca	Industria y energía	2635
+Marzo 2016	Mujeres	22	Huesca	Construcción	671
+Marzo 2016	Mujeres	22	Huesca	Servicios	33488
+Marzo 2016	Mujeres	44	Teruel	Agricultura, ganadería y pesca	1555
+Marzo 2016	Mujeres	44	Teruel	Industria y energía	1873
+Marzo 2016	Mujeres	44	Teruel	Construcción	339
+Marzo 2016	Mujeres	44	Teruel	Servicios	18386
+Marzo 2016	Mujeres	50	Zaragoza	Agricultura, ganadería y pesca	3202
+Marzo 2016	Mujeres	50	Zaragoza	Industria y energía	16785
+Marzo 2016	Mujeres	50	Zaragoza	Construcción	2393
+Marzo 2016	Mujeres	50	Zaragoza	Servicios	157132
 Diciembre 2015	Hombres	22	Huesca	Agricultura, ganadería y pesca	10173
 Diciembre 2015	Hombres	22	Huesca	Industria y energía	9038
 Diciembre 2015	Hombres	22	Huesca	Construcción	6275

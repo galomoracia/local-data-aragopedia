@@ -616,79 +616,903 @@ Diciembre 2015	65-69	Mujeres	1615
 Diciembre 2015	Más de 69	Hombres	568
 Diciembre 2015	Más de 69	Mujeres	402
 Diciembre 2015	Sin clasificar	Mujeres	3
-March 2016	16-19	Hombres	1379
-March 2016	16-19	Mujeres	790
-March 2016	20-24	Hombres	11460
-March 2016	20-24	Mujeres	9218
-March 2016	25-29	Hombres	22308
-March 2016	25-29	Mujeres	21560
-March 2016	30-34	Hombres	30997
-March 2016	30-34	Mujeres	27922
-March 2016	35-39	Hombres	41822
-March 2016	35-39	Mujeres	35535
-March 2016	40-44	Hombres	43819
-March 2016	40-44	Mujeres	37164
-March 2016	45-49	Hombres	40982
-March 2016	45-49	Mujeres	34975
-March 2016	50-54	Hombres	38140
-March 2016	50-54	Mujeres	31739
-March 2016	55-59	Hombres	31068
-March 2016	55-59	Mujeres	25139
-March 2016	60-64	Hombres	18739
-March 2016	60-64	Mujeres	14633
-March 2016	65-69	Hombres	1871
-March 2016	65-69	Mujeres	1629
-March 2016	Más de 69	Hombres	594
-March 2016	Más de 69	Mujeres	415
-March 2016	Sin clasificar	Mujeres	5
-June 2016	16-19	Hombres	2501
-June 2016	16-19	Mujeres	1324
-June 2016	20-24	Hombres	13477
-June 2016	20-24	Mujeres	10408
-June 2016	25-29	Hombres	23858
-June 2016	25-29	Mujeres	21878
-June 2016	30-34	Hombres	32478
-June 2016	30-34	Mujeres	28091
-June 2016	35-39	Hombres	43910
-June 2016	35-39	Mujeres	35953
-June 2016	40-44	Hombres	46666
-June 2016	40-44	Mujeres	37974
-June 2016	45-49	Hombres	43180
-June 2016	45-49	Mujeres	35674
-June 2016	50-54	Hombres	39704
-June 2016	50-54	Mujeres	31654
-June 2016	55-59	Hombres	32189
-June 2016	55-59	Mujeres	24797
-June 2016	60-64	Hombres	19238
-June 2016	60-64	Mujeres	14593
-June 2016	65-69	Hombres	1946
-June 2016	65-69	Mujeres	1638
-June 2016	Más de 69	Hombres	621
-June 2016	Más de 69	Mujeres	413
-June 2016	Sin clasificar	Mujeres	6
-January 2021	16-19	Hombres	175
-January 2021	16-19	Mujeres	69
-January 2021	20-24	Hombres	1564
-January 2021	20-24	Mujeres	640
-January 2021	25-29	Hombres	4200
-January 2021	25-29	Mujeres	1961
-January 2021	30-34	Hombres	7717
-January 2021	30-34	Mujeres	3487
-January 2021	35-39	Hombres	9912
-January 2021	35-39	Mujeres	4653
-January 2021	40-44	Hombres	10797
-January 2021	40-44	Mujeres	5161
-January 2021	45-49	Hombres	11246
-January 2021	45-49	Mujeres	5335
-January 2021	50-54	Hombres	10015
-January 2021	50-54	Mujeres	5045
-January 2021	55-59	Hombres	8408
-January 2021	55-59	Mujeres	4245
-January 2021	60-64	Hombres	7291
-January 2021	60-64	Mujeres	3569
-January 2021	65-69	Hombres	934
-January 2021	65-69	Mujeres	603
-January 2021	Más de 69	Hombres	248
-January 2021	Más de 69	Mujeres	227
-January 2021	Sin clasificar	Hombres	1
-January 2021	Sin clasificar	Mujeres	4
+Marzo 2016	16-19	Hombres	1379
+Marzo 2016	16-19	Mujeres	790
+Marzo 2016	20-24	Hombres	11460
+Marzo 2016	20-24	Mujeres	9218
+Marzo 2016	25-29	Hombres	22308
+Marzo 2016	25-29	Mujeres	21560
+Marzo 2016	30-34	Hombres	30997
+Marzo 2016	30-34	Mujeres	27922
+Marzo 2016	35-39	Hombres	41822
+Marzo 2016	35-39	Mujeres	35535
+Marzo 2016	40-44	Hombres	43819
+Marzo 2016	40-44	Mujeres	37164
+Marzo 2016	45-49	Hombres	40982
+Marzo 2016	45-49	Mujeres	34975
+Marzo 2016	50-54	Hombres	38140
+Marzo 2016	50-54	Mujeres	31739
+Marzo 2016	55-59	Hombres	31068
+Marzo 2016	55-59	Mujeres	25139
+Marzo 2016	60-64	Hombres	18739
+Marzo 2016	60-64	Mujeres	14633
+Marzo 2016	65-69	Hombres	1871
+Marzo 2016	65-69	Mujeres	1629
+Marzo 2016	Más de 69	Hombres	594
+Marzo 2016	Más de 69	Mujeres	415
+Marzo 2016	Sin clasificar	Mujeres	5
+Junio 2016	16-19	Hombres	2501
+Junio 2016	16-19	Mujeres	1324
+Junio 2016	20-24	Hombres	13477
+Junio 2016	20-24	Mujeres	10408
+Junio 2016	25-29	Hombres	23858
+Junio 2016	25-29	Mujeres	21878
+Junio 2016	30-34	Hombres	32478
+Junio 2016	30-34	Mujeres	28091
+Junio 2016	35-39	Hombres	43910
+Junio 2016	35-39	Mujeres	35953
+Junio 2016	40-44	Hombres	46666
+Junio 2016	40-44	Mujeres	37974
+Junio 2016	45-49	Hombres	43180
+Junio 2016	45-49	Mujeres	35674
+Junio 2016	50-54	Hombres	39704
+Junio 2016	50-54	Mujeres	31654
+Junio 2016	55-59	Hombres	32189
+Junio 2016	55-59	Mujeres	24797
+Junio 2016	60-64	Hombres	19238
+Junio 2016	60-64	Mujeres	14593
+Junio 2016	65-69	Hombres	1946
+Junio 2016	65-69	Mujeres	1638
+Junio 2016	Más de 69	Hombres	621
+Junio 2016	Más de 69	Mujeres	413
+Junio 2016	Sin clasificar	Mujeres	6
+Septiembre 2016	16-19	Hombres	1645
+Septiembre 2016	16-19	Mujeres	919
+Septiembre 2016	20-24	Hombres	12158
+Septiembre 2016	20-24	Mujeres	9529
+Septiembre 2016	25-29	Hombres	22600
+Septiembre 2016	25-29	Mujeres	21156
+Septiembre 2016	30-34	Hombres	31095
+Septiembre 2016	30-34	Mujeres	27420
+Septiembre 2016	35-39	Hombres	41956
+Septiembre 2016	35-39	Mujeres	35385
+Septiembre 2016	40-44	Hombres	45626
+Septiembre 2016	40-44	Mujeres	37990
+Septiembre 2016	45-49	Hombres	42270
+Septiembre 2016	45-49	Mujeres	35981
+Septiembre 2016	50-54	Hombres	39496
+Septiembre 2016	50-54	Mujeres	32511
+Septiembre 2016	55-59	Hombres	32140
+Septiembre 2016	55-59	Mujeres	25733
+Septiembre 2016	60-64	Hombres	19320
+Septiembre 2016	60-64	Mujeres	15243
+Septiembre 2016	65-69	Hombres	1968
+Septiembre 2016	65-69	Mujeres	1654
+Septiembre 2016	Más de 69	Hombres	637
+Septiembre 2016	Más de 69	Mujeres	421
+Septiembre 2016	Sin clasificar	Mujeres	6
+Diciembre 2016	16-19	Hombres	1654
+Diciembre 2016	16-19	Mujeres	1040
+Diciembre 2016	20-24	Hombres	12156
+Diciembre 2016	20-24	Mujeres	10381
+Diciembre 2016	25-29	Hombres	22481
+Diciembre 2016	25-29	Mujeres	21610
+Diciembre 2016	30-34	Hombres	30298
+Diciembre 2016	30-34	Mujeres	27671
+Diciembre 2016	35-39	Hombres	40655
+Diciembre 2016	35-39	Mujeres	35309
+Diciembre 2016	40-44	Hombres	45177
+Diciembre 2016	40-44	Mujeres	38281
+Diciembre 2016	45-49	Hombres	41928
+Diciembre 2016	45-49	Mujeres	36246
+Diciembre 2016	50-54	Hombres	39264
+Diciembre 2016	50-54	Mujeres	32814
+Diciembre 2016	55-59	Hombres	32287
+Diciembre 2016	55-59	Mujeres	26244
+Diciembre 2016	60-64	Hombres	19520
+Diciembre 2016	60-64	Mujeres	15586
+Diciembre 2016	65-69	Hombres	2001
+Diciembre 2016	65-69	Mujeres	1711
+Diciembre 2016	Más de 69	Hombres	666
+Diciembre 2016	Más de 69	Mujeres	440
+Diciembre 2016	Sin clasificar	Mujeres	5
+Marzo 2017	16-19	Hombres	1672
+Marzo 2017	16-19	Mujeres	945
+Marzo 2017	20-24	Hombres	12466
+Marzo 2017	20-24	Mujeres	9873
+Marzo 2017	25-29	Hombres	22853
+Marzo 2017	25-29	Mujeres	21427
+Marzo 2017	30-34	Hombres	30626
+Marzo 2017	30-34	Mujeres	27362
+Marzo 2017	35-39	Hombres	40994
+Marzo 2017	35-39	Mujeres	35213
+Marzo 2017	40-44	Hombres	46135
+Marzo 2017	40-44	Mujeres	38584
+Marzo 2017	45-49	Hombres	42509
+Marzo 2017	45-49	Mujeres	36287
+Marzo 2017	50-54	Hombres	39568
+Marzo 2017	50-54	Mujeres	33055
+Marzo 2017	55-59	Hombres	32761
+Marzo 2017	55-59	Mujeres	26341
+Marzo 2017	60-64	Hombres	19791
+Marzo 2017	60-64	Mujeres	15736
+Marzo 2017	65-69	Hombres	2051
+Marzo 2017	65-69	Mujeres	1799
+Marzo 2017	Más de 69	Hombres	664
+Marzo 2017	Más de 69	Mujeres	435
+Marzo 2017	Sin clasificar	Mujeres	5
+Junio 2017	16-19	Hombres	3158
+Junio 2017	16-19	Mujeres	1571
+Junio 2017	20-24	Hombres	14768
+Junio 2017	20-24	Mujeres	10940
+Junio 2017	25-29	Hombres	24329
+Junio 2017	25-29	Mujeres	21739
+Junio 2017	30-34	Hombres	31858
+Junio 2017	30-34	Mujeres	27809
+Junio 2017	35-39	Hombres	42806
+Junio 2017	35-39	Mujeres	35699
+Junio 2017	40-44	Hombres	48608
+Junio 2017	40-44	Mujeres	39514
+Junio 2017	45-49	Hombres	45074
+Junio 2017	45-49	Mujeres	37156
+Junio 2017	50-54	Hombres	41137
+Junio 2017	50-54	Mujeres	33138
+Junio 2017	55-59	Hombres	34067
+Junio 2017	55-59	Mujeres	26379
+Junio 2017	60-64	Hombres	20492
+Junio 2017	60-64	Mujeres	15817
+Junio 2017	65-69	Hombres	2150
+Junio 2017	65-69	Mujeres	1835
+Junio 2017	Más de 69	Hombres	691
+Junio 2017	Más de 69	Mujeres	443
+Junio 2017	Sin clasificar	Mujeres	6
+Septiembre 2017	16-19	Hombres	2292
+Septiembre 2017	16-19	Mujeres	1254
+Septiembre 2017	20-24	Hombres	14105
+Septiembre 2017	20-24	Mujeres	10674
+Septiembre 2017	25-29	Hombres	23957
+Septiembre 2017	25-29	Mujeres	21729
+Septiembre 2017	30-34	Hombres	30976
+Septiembre 2017	30-34	Mujeres	27730
+Septiembre 2017	35-39	Hombres	41455
+Septiembre 2017	35-39	Mujeres	35282
+Septiembre 2017	40-44	Hombres	47855
+Septiembre 2017	40-44	Mujeres	39995
+Septiembre 2017	45-49	Hombres	44437
+Septiembre 2017	45-49	Mujeres	37871
+Septiembre 2017	50-54	Hombres	40976
+Septiembre 2017	50-54	Mujeres	34659
+Septiembre 2017	55-59	Hombres	34210
+Septiembre 2017	55-59	Mujeres	27702
+Septiembre 2017	60-64	Hombres	20608
+Septiembre 2017	60-64	Mujeres	16543
+Septiembre 2017	65-69	Hombres	2224
+Septiembre 2017	65-69	Mujeres	1926
+Septiembre 2017	Más de 69	Hombres	739
+Septiembre 2017	Más de 69	Mujeres	453
+Septiembre 2017	Sin clasificar	Mujeres	6
+Diciembre 2017	16-19	Hombres	2171
+Diciembre 2017	16-19	Mujeres	1318
+Diciembre 2017	20-24	Hombres	13728
+Diciembre 2017	20-24	Mujeres	11150
+Diciembre 2017	25-29	Hombres	23431
+Diciembre 2017	25-29	Mujeres	22093
+Diciembre 2017	30-34	Hombres	29928
+Diciembre 2017	30-34	Mujeres	27250
+Diciembre 2017	35-39	Hombres	40125
+Diciembre 2017	35-39	Mujeres	34520
+Diciembre 2017	40-44	Hombres	46808
+Diciembre 2017	40-44	Mujeres	39660
+Diciembre 2017	45-49	Hombres	43740
+Diciembre 2017	45-49	Mujeres	37606
+Diciembre 2017	50-54	Hombres	40676
+Diciembre 2017	50-54	Mujeres	34722
+Diciembre 2017	55-59	Hombres	34017
+Diciembre 2017	55-59	Mujeres	27902
+Diciembre 2017	60-64	Hombres	20911
+Diciembre 2017	60-64	Mujeres	16870
+Diciembre 2017	65-69	Hombres	2244
+Diciembre 2017	65-69	Mujeres	1949
+Diciembre 2017	Más de 69	Hombres	787
+Diciembre 2017	Más de 69	Mujeres	485
+Diciembre 2017	Sin clasificar	Mujeres	4
+Marzo 2018	16-19	Hombres	2112
+Marzo 2018	16-19	Mujeres	1225
+Marzo 2018	20-24	Hombres	14056
+Marzo 2018	20-24	Mujeres	10642
+Marzo 2018	25-29	Hombres	23879
+Marzo 2018	25-29	Mujeres	21719
+Marzo 2018	30-34	Hombres	30436
+Marzo 2018	30-34	Mujeres	27449
+Marzo 2018	35-39	Hombres	40167
+Marzo 2018	35-39	Mujeres	34375
+Marzo 2018	40-44	Hombres	47420
+Marzo 2018	40-44	Mujeres	39959
+Marzo 2018	45-49	Hombres	44297
+Marzo 2018	45-49	Mujeres	37772
+Marzo 2018	50-54	Hombres	41119
+Marzo 2018	50-54	Mujeres	34956
+Marzo 2018	55-59	Hombres	34638
+Marzo 2018	55-59	Mujeres	28194
+Marzo 2018	60-64	Hombres	21335
+Marzo 2018	60-64	Mujeres	17222
+Marzo 2018	65-69	Hombres	2286
+Marzo 2018	65-69	Mujeres	2071
+Marzo 2018	Más de 69	Hombres	800
+Marzo 2018	Más de 69	Mujeres	500
+Marzo 2018	Sin clasificar	Mujeres	4
+Junio 2018	16-19	Hombres	3719
+Junio 2018	16-19	Mujeres	2011
+Junio 2018	20-24	Hombres	16294
+Junio 2018	20-24	Mujeres	11778
+Junio 2018	25-29	Hombres	25231
+Junio 2018	25-29	Mujeres	22094
+Junio 2018	30-34	Hombres	32042
+Junio 2018	30-34	Mujeres	28002
+Junio 2018	35-39	Hombres	41975
+Junio 2018	35-39	Mujeres	34900
+Junio 2018	40-44	Hombres	50079
+Junio 2018	40-44	Mujeres	41010
+Junio 2018	45-49	Hombres	46858
+Junio 2018	45-49	Mujeres	38976
+Junio 2018	50-54	Hombres	42922
+Junio 2018	50-54	Mujeres	35479
+Junio 2018	55-59	Hombres	35940
+Junio 2018	55-59	Mujeres	28245
+Junio 2018	60-64	Hombres	22257
+Junio 2018	60-64	Mujeres	17341
+Junio 2018	65-69	Hombres	2399
+Junio 2018	65-69	Mujeres	2141
+Junio 2018	Más de 69	Hombres	854
+Junio 2018	Más de 69	Mujeres	514
+Junio 2018	Sin clasificar	Mujeres	4
+Septiembre 2018	16-19	Hombres	2569
+Septiembre 2018	16-19	Mujeres	1476
+Septiembre 2018	20-24	Hombres	15032
+Septiembre 2018	20-24	Mujeres	10936
+Septiembre 2018	25-29	Hombres	24362
+Septiembre 2018	25-29	Mujeres	21826
+Septiembre 2018	30-34	Hombres	30786
+Septiembre 2018	30-34	Mujeres	27519
+Septiembre 2018	35-39	Hombres	40223
+Septiembre 2018	35-39	Mujeres	34291
+Septiembre 2018	40-44	Hombres	48798
+Septiembre 2018	40-44	Mujeres	40872
+Septiembre 2018	45-49	Hombres	45865
+Septiembre 2018	45-49	Mujeres	39194
+Septiembre 2018	50-54	Hombres	42334
+Septiembre 2018	50-54	Mujeres	36292
+Septiembre 2018	55-59	Hombres	35910
+Septiembre 2018	55-59	Mujeres	29192
+Septiembre 2018	60-64	Hombres	22331
+Septiembre 2018	60-64	Mujeres	18079
+Septiembre 2018	65-69	Hombres	2430
+Septiembre 2018	65-69	Mujeres	2173
+Septiembre 2018	Más de 69	Hombres	874
+Septiembre 2018	Más de 69	Mujeres	533
+Septiembre 2018	Sin clasificar	Hombres	1
+Septiembre 2018	Sin clasificar	Mujeres	4
+Diciembre 2018	16-19	Hombres	2396
+Diciembre 2018	16-19	Mujeres	1668
+Diciembre 2018	20-24	Hombres	14762
+Diciembre 2018	20-24	Mujeres	11322
+Diciembre 2018	25-29	Hombres	23814
+Diciembre 2018	25-29	Mujeres	21972
+Diciembre 2018	30-34	Hombres	29773
+Diciembre 2018	30-34	Mujeres	27144
+Diciembre 2018	35-39	Hombres	38875
+Diciembre 2018	35-39	Mujeres	33723
+Diciembre 2018	40-44	Hombres	47749
+Diciembre 2018	40-44	Mujeres	40751
+Diciembre 2018	45-49	Hombres	45123
+Diciembre 2018	45-49	Mujeres	38990
+Diciembre 2018	50-54	Hombres	41780
+Diciembre 2018	50-54	Mujeres	36183
+Diciembre 2018	55-59	Hombres	35554
+Diciembre 2018	55-59	Mujeres	29358
+Diciembre 2018	60-64	Hombres	22574
+Diciembre 2018	60-64	Mujeres	18460
+Diciembre 2018	65-69	Hombres	2417
+Diciembre 2018	65-69	Mujeres	2128
+Diciembre 2018	Más de 69	Hombres	923
+Diciembre 2018	Más de 69	Mujeres	543
+Diciembre 2018	Sin clasificar	Hombres	1
+Diciembre 2018	Sin clasificar	Mujeres	4
+Marzo 2019	16-19	Hombres	2282
+Marzo 2019	16-19	Mujeres	1530
+Marzo 2019	20-24	Hombres	15102
+Marzo 2019	20-24	Mujeres	10766
+Marzo 2019	25-29	Hombres	24773
+Marzo 2019	25-29	Mujeres	21846
+Marzo 2019	30-34	Hombres	30464
+Marzo 2019	30-34	Mujeres	27267
+Marzo 2019	35-39	Hombres	39488
+Marzo 2019	35-39	Mujeres	33561
+Marzo 2019	40-44	Hombres	48733
+Marzo 2019	40-44	Mujeres	40947
+Marzo 2019	45-49	Hombres	46012
+Marzo 2019	45-49	Mujeres	39629
+Marzo 2019	50-54	Hombres	42320
+Marzo 2019	50-54	Mujeres	36255
+Marzo 2019	55-59	Hombres	36269
+Marzo 2019	55-59	Mujeres	29702
+Marzo 2019	60-64	Hombres	22962
+Marzo 2019	60-64	Mujeres	18816
+Marzo 2019	65-69	Hombres	2478
+Marzo 2019	65-69	Mujeres	2251
+Marzo 2019	Más de 69	Hombres	952
+Marzo 2019	Más de 69	Mujeres	547
+Marzo 2019	Sin clasificar	Hombres	1
+Marzo 2019	Sin clasificar	Mujeres	4
+Junio 2019	16-19	Hombres	3854
+Junio 2019	16-19	Mujeres	2422
+Junio 2019	20-24	Hombres	16875
+Junio 2019	20-24	Mujeres	11725
+Junio 2019	25-29	Hombres	25648
+Junio 2019	25-29	Mujeres	22067
+Junio 2019	30-34	Hombres	31467
+Junio 2019	30-34	Mujeres	27578
+Junio 2019	35-39	Hombres	40843
+Junio 2019	35-39	Mujeres	33794
+Junio 2019	40-44	Hombres	50698
+Junio 2019	40-44	Mujeres	41656
+Junio 2019	45-49	Hombres	48222
+Junio 2019	45-49	Mujeres	40540
+Junio 2019	50-54	Hombres	43982
+Junio 2019	50-54	Mujeres	36619
+Junio 2019	55-59	Hombres	37509
+Junio 2019	55-59	Mujeres	29791
+Junio 2019	60-64	Hombres	23854
+Junio 2019	60-64	Mujeres	18738
+Junio 2019	65-69	Hombres	2633
+Junio 2019	65-69	Mujeres	2327
+Junio 2019	Más de 69	Hombres	982
+Junio 2019	Más de 69	Mujeres	554
+Junio 2019	Sin clasificar	Hombres	1
+Junio 2019	Sin clasificar	Mujeres	5
+Septiembre 2019	16-19	Hombres	2662
+Septiembre 2019	16-19	Mujeres	1716
+Septiembre 2019	20-24	Hombres	15042
+Septiembre 2019	20-24	Mujeres	10776
+Septiembre 2019	25-29	Hombres	24205
+Septiembre 2019	25-29	Mujeres	21329
+Septiembre 2019	30-34	Hombres	29837
+Septiembre 2019	30-34	Mujeres	26859
+Septiembre 2019	35-39	Hombres	38620
+Septiembre 2019	35-39	Mujeres	32811
+Septiembre 2019	40-44	Hombres	48527
+Septiembre 2019	40-44	Mujeres	41098
+Septiembre 2019	45-49	Hombres	46569
+Septiembre 2019	45-49	Mujeres	40368
+Septiembre 2019	50-54	Hombres	42672
+Septiembre 2019	50-54	Mujeres	36996
+Septiembre 2019	55-59	Hombres	36775
+Septiembre 2019	55-59	Mujeres	30470
+Septiembre 2019	60-64	Hombres	23812
+Septiembre 2019	60-64	Mujeres	19498
+Septiembre 2019	65-69	Hombres	2621
+Septiembre 2019	65-69	Mujeres	2281
+Septiembre 2019	Más de 69	Hombres	1008
+Septiembre 2019	Más de 69	Mujeres	563
+Septiembre 2019	Sin clasificar	Hombres	2
+Septiembre 2019	Sin clasificar	Mujeres	8
+Diciembre 2019	16-19	Hombres	2575
+Diciembre 2019	16-19	Mujeres	1998
+Diciembre 2019	20-24	Hombres	15340
+Diciembre 2019	20-24	Mujeres	11387
+Diciembre 2019	25-29	Hombres	24037
+Diciembre 2019	25-29	Mujeres	21904
+Diciembre 2019	30-34	Hombres	29329
+Diciembre 2019	30-34	Mujeres	26756
+Diciembre 2019	35-39	Hombres	37795
+Diciembre 2019	35-39	Mujeres	32711
+Diciembre 2019	40-44	Hombres	47681
+Diciembre 2019	40-44	Mujeres	40878
+Diciembre 2019	45-49	Hombres	46504
+Diciembre 2019	45-49	Mujeres	40472
+Diciembre 2019	50-54	Hombres	42148
+Diciembre 2019	50-54	Mujeres	37108
+Diciembre 2019	55-59	Hombres	36928
+Diciembre 2019	55-59	Mujeres	30750
+Diciembre 2019	60-64	Hombres	24024
+Diciembre 2019	60-64	Mujeres	20027
+Diciembre 2019	65-69	Hombres	2704
+Diciembre 2019	65-69	Mujeres	2237
+Diciembre 2019	Más de 69	Hombres	1049
+Diciembre 2019	Más de 69	Mujeres	584
+Diciembre 2019	Sin clasificar	Hombres	4
+Diciembre 2019	Sin clasificar	Mujeres	9
+Marzo 2020	16-19	Hombres	1971
+Marzo 2020	16-19	Mujeres	1262
+Marzo 2020	20-24	Hombres	13450
+Marzo 2020	20-24	Mujeres	9304
+Marzo 2020	25-29	Hombres	22621
+Marzo 2020	25-29	Mujeres	20312
+Marzo 2020	30-34	Hombres	27881
+Marzo 2020	30-34	Mujeres	25505
+Marzo 2020	35-39	Hombres	36140
+Marzo 2020	35-39	Mujeres	31305
+Marzo 2020	40-44	Hombres	46156
+Marzo 2020	40-44	Mujeres	39466
+Marzo 2020	45-49	Hombres	45622
+Marzo 2020	45-49	Mujeres	39568
+Marzo 2020	50-54	Hombres	41434
+Marzo 2020	50-54	Mujeres	36473
+Marzo 2020	55-59	Hombres	36412
+Marzo 2020	55-59	Mujeres	30352
+Marzo 2020	60-64	Hombres	24131
+Marzo 2020	60-64	Mujeres	20156
+Marzo 2020	65-69	Hombres	2747
+Marzo 2020	65-69	Mujeres	2394
+Marzo 2020	Más de 69	Hombres	1035
+Marzo 2020	Más de 69	Mujeres	587
+Marzo 2020	Sin clasificar	Hombres	2
+Marzo 2020	Sin clasificar	Mujeres	8
+Mayo 2020	16-19	Hombres	2762
+Mayo 2020	16-19	Mujeres	1435
+Mayo 2020	20-24	Hombres	14738
+Mayo 2020	20-24	Mujeres	9528
+Mayo 2020	25-29	Hombres	23626
+Mayo 2020	25-29	Mujeres	20302
+Mayo 2020	30-34	Hombres	29054
+Mayo 2020	30-34	Mujeres	25776
+Mayo 2020	35-39	Hombres	37455
+Mayo 2020	35-39	Mujeres	31557
+Mayo 2020	40-44	Hombres	47821
+Mayo 2020	40-44	Mujeres	39878
+Mayo 2020	45-49	Hombres	47441
+Mayo 2020	45-49	Mujeres	40334
+Mayo 2020	50-54	Hombres	42986
+Mayo 2020	50-54	Mujeres	37027
+Mayo 2020	55-59	Hombres	37319
+Mayo 2020	55-59	Mujeres	30782
+Mayo 2020	60-64	Hombres	24759
+Mayo 2020	60-64	Mujeres	20472
+Mayo 2020	65-69	Hombres	2936
+Mayo 2020	65-69	Mujeres	2479
+Mayo 2020	Más de 69	Hombres	1065
+Mayo 2020	Más de 69	Mujeres	595
+Mayo 2020	Sin clasificar	Hombres	2
+Mayo 2020	Sin clasificar	Mujeres	8
+Junio 2020	16-19	Hombres	3146
+Junio 2020	16-19	Mujeres	1632
+Junio 2020	20-24	Hombres	15187
+Junio 2020	20-24	Mujeres	9780
+Junio 2020	25-29	Hombres	23681
+Junio 2020	25-29	Mujeres	19956
+Junio 2020	30-34	Hombres	29217
+Junio 2020	30-34	Mujeres	25621
+Junio 2020	35-39	Hombres	37362
+Junio 2020	35-39	Mujeres	31319
+Junio 2020	40-44	Hombres	47978
+Junio 2020	40-44	Mujeres	39455
+Junio 2020	45-49	Hombres	47491
+Junio 2020	45-49	Mujeres	39973
+Junio 2020	50-54	Hombres	43167
+Junio 2020	50-54	Mujeres	36372
+Junio 2020	55-59	Hombres	37444
+Junio 2020	55-59	Mujeres	29991
+Junio 2020	60-64	Hombres	24919
+Junio 2020	60-64	Mujeres	19915
+Junio 2020	65-69	Hombres	2972
+Junio 2020	65-69	Mujeres	2440
+Junio 2020	Más de 69	Hombres	1084
+Junio 2020	Más de 69	Mujeres	600
+Junio 2020	Sin clasificar	Hombres	2
+Junio 2020	Sin clasificar	Mujeres	8
+Julio 2020	16-19	Hombres	3438
+Julio 2020	16-19	Mujeres	1991
+Julio 2020	20-24	Hombres	15797
+Julio 2020	20-24	Mujeres	10656
+Julio 2020	25-29	Hombres	23744
+Julio 2020	25-29	Mujeres	20301
+Julio 2020	30-34	Hombres	29121
+Julio 2020	30-34	Mujeres	25663
+Julio 2020	35-39	Hombres	37144
+Julio 2020	35-39	Mujeres	31223
+Julio 2020	40-44	Hombres	47782
+Julio 2020	40-44	Mujeres	39476
+Julio 2020	45-49	Hombres	47427
+Julio 2020	45-49	Mujeres	40329
+Julio 2020	50-54	Hombres	42993
+Julio 2020	50-54	Mujeres	36610
+Julio 2020	55-59	Hombres	37434
+Julio 2020	55-59	Mujeres	30160
+Julio 2020	60-64	Hombres	24752
+Julio 2020	60-64	Mujeres	20053
+Julio 2020	65-69	Hombres	2971
+Julio 2020	65-69	Mujeres	2471
+Julio 2020	Más de 69	Hombres	1080
+Julio 2020	Más de 69	Mujeres	610
+Julio 2020	Sin clasificar	Hombres	2
+Julio 2020	Sin clasificar	Mujeres	8
+Agosto 2020	16-19	Hombres	2819
+Agosto 2020	16-19	Mujeres	1624
+Agosto 2020	20-24	Hombres	15102
+Agosto 2020	20-24	Mujeres	10220
+Agosto 2020	25-29	Hombres	23291
+Agosto 2020	25-29	Mujeres	19601
+Agosto 2020	30-34	Hombres	28551
+Agosto 2020	30-34	Mujeres	24546
+Agosto 2020	35-39	Hombres	36342
+Agosto 2020	35-39	Mujeres	30096
+Agosto 2020	40-44	Hombres	46917
+Agosto 2020	40-44	Mujeres	38520
+Agosto 2020	45-49	Hombres	46953
+Agosto 2020	45-49	Mujeres	39864
+Agosto 2020	50-54	Hombres	42784
+Agosto 2020	50-54	Mujeres	36300
+Agosto 2020	55-59	Hombres	37351
+Agosto 2020	55-59	Mujeres	30276
+Agosto 2020	60-64	Hombres	24811
+Agosto 2020	60-64	Mujeres	20199
+Agosto 2020	65-69	Hombres	2991
+Agosto 2020	65-69	Mujeres	2499
+Agosto 2020	Más de 69	Hombres	1095
+Agosto 2020	Más de 69	Mujeres	622
+Agosto 2020	Sin clasificar	Hombres	3
+Agosto 2020	Sin clasificar	Mujeres	8
+Septiembre 2020	16-19	Hombres	1975
+Septiembre 2020	16-19	Mujeres	1126
+Septiembre 2020	20-24	Hombres	14283
+Septiembre 2020	20-24	Mujeres	9763
+Septiembre 2020	25-29	Hombres	23565
+Septiembre 2020	25-29	Mujeres	20720
+Septiembre 2020	30-34	Hombres	28706
+Septiembre 2020	30-34	Mujeres	25749
+Septiembre 2020	35-39	Hombres	36253
+Septiembre 2020	35-39	Mujeres	31157
+Septiembre 2020	40-44	Hombres	46880
+Septiembre 2020	40-44	Mujeres	39453
+Septiembre 2020	45-49	Hombres	46978
+Septiembre 2020	45-49	Mujeres	40700
+Septiembre 2020	50-54	Hombres	42733
+Septiembre 2020	50-54	Mujeres	37133
+Septiembre 2020	55-59	Hombres	37339
+Septiembre 2020	55-59	Mujeres	31082
+Septiembre 2020	60-64	Hombres	24803
+Septiembre 2020	60-64	Mujeres	20743
+Septiembre 2020	65-69	Hombres	2926
+Septiembre 2020	65-69	Mujeres	2571
+Septiembre 2020	Más de 69	Hombres	1104
+Septiembre 2020	Más de 69	Mujeres	604
+Septiembre 2020	Sin clasificar	Hombres	2
+Septiembre 2020	Sin clasificar	Mujeres	8
+Octubre 2020	16-19	Hombres	1895
+Octubre 2020	16-19	Mujeres	1061
+Octubre 2020	20-24	Hombres	14549
+Octubre 2020	20-24	Mujeres	9766
+Octubre 2020	25-29	Hombres	23849
+Octubre 2020	25-29	Mujeres	21143
+Octubre 2020	30-34	Hombres	28864
+Octubre 2020	30-34	Mujeres	25920
+Octubre 2020	35-39	Hombres	36383
+Octubre 2020	35-39	Mujeres	31209
+Octubre 2020	40-44	Hombres	46890
+Octubre 2020	40-44	Mujeres	39617
+Octubre 2020	45-49	Hombres	47108
+Octubre 2020	45-49	Mujeres	40889
+Octubre 2020	50-54	Hombres	42753
+Octubre 2020	50-54	Mujeres	37305
+Octubre 2020	55-59	Hombres	37421
+Octubre 2020	55-59	Mujeres	31333
+Octubre 2020	60-64	Hombres	24812
+Octubre 2020	60-64	Mujeres	20869
+Octubre 2020	65-69	Hombres	2947
+Octubre 2020	65-69	Mujeres	2629
+Octubre 2020	Más de 69	Hombres	1112
+Octubre 2020	Más de 69	Mujeres	602
+Octubre 2020	Sin clasificar	Hombres	2
+Octubre 2020	Sin clasificar	Mujeres	8
+Noviembre 2020	16-19	Hombres	1864
+Noviembre 2020	16-19	Mujeres	1013
+Noviembre 2020	20-24	Hombres	14517
+Noviembre 2020	20-24	Mujeres	9607
+Noviembre 2020	25-29	Hombres	23754
+Noviembre 2020	25-29	Mujeres	20966
+Noviembre 2020	30-34	Hombres	28754
+Noviembre 2020	30-34	Mujeres	25650
+Noviembre 2020	35-39	Hombres	36250
+Noviembre 2020	35-39	Mujeres	30948
+Noviembre 2020	40-44	Hombres	46646
+Noviembre 2020	40-44	Mujeres	39307
+Noviembre 2020	45-49	Hombres	47054
+Noviembre 2020	45-49	Mujeres	40639
+Noviembre 2020	50-54	Hombres	42763
+Noviembre 2020	50-54	Mujeres	37086
+Noviembre 2020	55-59	Hombres	37379
+Noviembre 2020	55-59	Mujeres	31198
+Noviembre 2020	60-64	Hombres	24847
+Noviembre 2020	60-64	Mujeres	20886
+Noviembre 2020	65-69	Hombres	2937
+Noviembre 2020	65-69	Mujeres	2608
+Noviembre 2020	Más de 69	Hombres	1117
+Noviembre 2020	Más de 69	Mujeres	600
+Noviembre 2020	Sin clasificar	Hombres	2
+Noviembre 2020	Sin clasificar	Mujeres	8
+Diciembre 2020	16-19	Hombres	1818
+Diciembre 2020	16-19	Mujeres	1069
+Diciembre 2020	20-24	Hombres	13994
+Diciembre 2020	20-24	Mujeres	9636
+Diciembre 2020	25-29	Hombres	23114
+Diciembre 2020	25-29	Mujeres	20854
+Diciembre 2020	30-34	Hombres	28169
+Diciembre 2020	30-34	Mujeres	25381
+Diciembre 2020	35-39	Hombres	35421
+Diciembre 2020	35-39	Mujeres	30670
+Diciembre 2020	40-44	Hombres	45812
+Diciembre 2020	40-44	Mujeres	39059
+Diciembre 2020	45-49	Hombres	46485
+Diciembre 2020	45-49	Mujeres	40540
+Diciembre 2020	50-54	Hombres	42285
+Diciembre 2020	50-54	Mujeres	37080
+Diciembre 2020	55-59	Hombres	37116
+Diciembre 2020	55-59	Mujeres	31365
+Diciembre 2020	60-64	Hombres	24726
+Diciembre 2020	60-64	Mujeres	20888
+Diciembre 2020	65-69	Hombres	2902
+Diciembre 2020	65-69	Mujeres	2641
+Diciembre 2020	Más de 69	Hombres	1131
+Diciembre 2020	Más de 69	Mujeres	593
+Diciembre 2020	Sin clasificar	Hombres	2
+Diciembre 2020	Sin clasificar	Mujeres	8
+Enero 2021	16-19	Hombres	1812
+Enero 2021	16-19	Mujeres	943
+Enero 2021	20-24	Hombres	14161
+Enero 2021	20-24	Mujeres	9237
+Enero 2021	25-29	Hombres	23529
+Enero 2021	25-29	Mujeres	20630
+Enero 2021	30-34	Hombres	28453
+Enero 2021	30-34	Mujeres	25214
+Enero 2021	35-39	Hombres	35501
+Enero 2021	35-39	Mujeres	30511
+Enero 2021	40-44	Hombres	46267
+Enero 2021	40-44	Mujeres	39031
+Enero 2021	45-49	Hombres	46919
+Enero 2021	45-49	Mujeres	40375
+Enero 2021	50-54	Hombres	42565
+Enero 2021	50-54	Mujeres	37007
+Enero 2021	55-59	Hombres	37269
+Enero 2021	55-59	Mujeres	31403
+Enero 2021	60-64	Hombres	24711
+Enero 2021	60-64	Mujeres	20881
+Enero 2021	65-69	Hombres	2934
+Enero 2021	65-69	Mujeres	2714
+Enero 2021	Más de 69	Hombres	1126
+Enero 2021	Más de 69	Mujeres	589
+Enero 2021	Sin clasificar	Hombres	1
+Enero 2021	Sin clasificar	Mujeres	8
+Febrero 2021	16-19	Hombres	1786
+Febrero 2021	16-19	Mujeres	915
+Febrero 2021	20-24	Hombres	14344
+Febrero 2021	20-24	Mujeres	9236
+Febrero 2021	25-29	Hombres	23573
+Febrero 2021	25-29	Mujeres	20628
+Febrero 2021	30-34	Hombres	28604
+Febrero 2021	30-34	Mujeres	25199
+Febrero 2021	35-39	Hombres	35625
+Febrero 2021	35-39	Mujeres	30387
+Febrero 2021	40-44	Hombres	46382
+Febrero 2021	40-44	Mujeres	38911
+Febrero 2021	45-49	Hombres	47204
+Febrero 2021	45-49	Mujeres	40338
+Febrero 2021	50-54	Hombres	42736
+Febrero 2021	50-54	Mujeres	36922
+Febrero 2021	55-59	Hombres	37372
+Febrero 2021	55-59	Mujeres	31416
+Febrero 2021	60-64	Hombres	24839
+Febrero 2021	60-64	Mujeres	20920
+Febrero 2021	65-69	Hombres	2961
+Febrero 2021	65-69	Mujeres	2843
+Febrero 2021	Más de 69	Hombres	1135
+Febrero 2021	Más de 69	Mujeres	583
+Febrero 2021	Sin clasificar	Hombres	1
+Febrero 2021	Sin clasificar	Mujeres	7
+Marzo 2021	16-19	Hombres	1803
+Marzo 2021	16-19	Mujeres	986
+Marzo 2021	20-24	Hombres	14124
+Marzo 2021	20-24	Mujeres	9258
+Marzo 2021	25-29	Hombres	23426
+Marzo 2021	25-29	Mujeres	20364
+Marzo 2021	30-34	Hombres	28355
+Marzo 2021	30-34	Mujeres	25116
+Marzo 2021	35-39	Hombres	35155
+Marzo 2021	35-39	Mujeres	30070
+Marzo 2021	40-44	Hombres	45980
+Marzo 2021	40-44	Mujeres	38586
+Marzo 2021	45-49	Hombres	46987
+Marzo 2021	45-49	Mujeres	40062
+Marzo 2021	50-54	Hombres	42535
+Marzo 2021	50-54	Mujeres	36761
+Marzo 2021	55-59	Hombres	37215
+Marzo 2021	55-59	Mujeres	31280
+Marzo 2021	60-64	Hombres	24874
+Marzo 2021	60-64	Mujeres	21059
+Marzo 2021	65-69	Hombres	2965
+Marzo 2021	65-69	Mujeres	2830
+Marzo 2021	Más de 69	Hombres	1151
+Marzo 2021	Más de 69	Mujeres	588
+Marzo 2021	Sin clasificar	Hombres	3
+Marzo 2021	Sin clasificar	Mujeres	7
+Abril 2021	16-19	Hombres	1901
+Abril 2021	16-19	Mujeres	1020
+Abril 2021	20-24	Hombres	14589
+Abril 2021	20-24	Mujeres	9422
+Abril 2021	25-29	Hombres	23993
+Abril 2021	25-29	Mujeres	20644
+Abril 2021	30-34	Hombres	28682
+Abril 2021	30-34	Mujeres	25305
+Abril 2021	35-39	Hombres	35449
+Abril 2021	35-39	Mujeres	30175
+Abril 2021	40-44	Hombres	46428
+Abril 2021	40-44	Mujeres	38872
+Abril 2021	45-49	Hombres	47670
+Abril 2021	45-49	Mujeres	40461
+Abril 2021	50-54	Hombres	43042
+Abril 2021	50-54	Mujeres	37120
+Abril 2021	55-59	Hombres	37470
+Abril 2021	55-59	Mujeres	31463
+Abril 2021	60-64	Hombres	25150
+Abril 2021	60-64	Mujeres	21221
+Abril 2021	65-69	Hombres	3014
+Abril 2021	65-69	Mujeres	2864
+Abril 2021	Más de 69	Hombres	1161
+Abril 2021	Más de 69	Mujeres	593
+Abril 2021	Sin clasificar	Hombres	3
+Abril 2021	Sin clasificar	Mujeres	8
+Mayo 2021	16-19	Hombres	2349
+Mayo 2021	16-19	Mujeres	1240
+Mayo 2021	20-24	Hombres	15655
+Mayo 2021	20-24	Mujeres	9845
+Mayo 2021	25-29	Hombres	24720
+Mayo 2021	25-29	Mujeres	21063
+Mayo 2021	30-34	Hombres	29609
+Mayo 2021	30-34	Mujeres	25839
+Mayo 2021	35-39	Hombres	36490
+Mayo 2021	35-39	Mujeres	30818
+Mayo 2021	40-44	Hombres	47671
+Mayo 2021	40-44	Mujeres	39761
+Mayo 2021	45-49	Hombres	49260
+Mayo 2021	45-49	Mujeres	41413
+Mayo 2021	50-54	Hombres	44302
+Mayo 2021	50-54	Mujeres	37876
+Mayo 2021	55-59	Hombres	38422
+Mayo 2021	55-59	Mujeres	31984
+Mayo 2021	60-64	Hombres	25701
+Mayo 2021	60-64	Mujeres	21421
+Mayo 2021	65-69	Hombres	3135
+Mayo 2021	65-69	Mujeres	2924
+Mayo 2021	Más de 69	Hombres	1184
+Mayo 2021	Más de 69	Mujeres	595
+Mayo 2021	Sin clasificar	Hombres	3
+Mayo 2021	Sin clasificar	Mujeres	7
+Junio 2021	16-19	Hombres	3484
+Junio 2021	16-19	Mujeres	1963
+Junio 2021	20-24	Hombres	16982
+Junio 2021	20-24	Mujeres	11106
+Junio 2021	25-29	Hombres	25145
+Junio 2021	25-29	Mujeres	21310
+Junio 2021	30-34	Hombres	29725
+Junio 2021	30-34	Mujeres	25979
+Junio 2021	35-39	Hombres	36602
+Junio 2021	35-39	Mujeres	30940
+Junio 2021	40-44	Hombres	47504
+Junio 2021	40-44	Mujeres	39581
+Junio 2021	45-49	Hombres	49440
+Junio 2021	45-49	Mujeres	41362
+Junio 2021	50-54	Hombres	44374
+Junio 2021	50-54	Mujeres	37681
+Junio 2021	55-59	Hombres	38545
+Junio 2021	55-59	Mujeres	31405
+Junio 2021	60-64	Hombres	25803
+Junio 2021	60-64	Mujeres	21034
+Junio 2021	65-69	Hombres	3211
+Junio 2021	65-69	Mujeres	2894
+Junio 2021	Más de 69	Hombres	1213
+Junio 2021	Más de 69	Mujeres	606
+Junio 2021	Sin clasificar	Hombres	3
+Junio 2021	Sin clasificar	Mujeres	6
+Julio 2021	16-19	Hombres	4092
+Julio 2021	16-19	Mujeres	2531
+Julio 2021	20-24	Hombres	17822
+Julio 2021	20-24	Mujeres	12137
+Julio 2021	25-29	Hombres	25247
+Julio 2021	25-29	Mujeres	21462
+Julio 2021	30-34	Hombres	29608
+Julio 2021	30-34	Mujeres	25986
+Julio 2021	35-39	Hombres	36180
+Julio 2021	35-39	Mujeres	30974
+Julio 2021	40-44	Hombres	47065
+Julio 2021	40-44	Mujeres	39437
+Julio 2021	45-49	Hombres	49218
+Julio 2021	45-49	Mujeres	41461
+Julio 2021	50-54	Hombres	44190
+Julio 2021	50-54	Mujeres	37809
+Julio 2021	55-59	Hombres	38593
+Julio 2021	55-59	Mujeres	31550
+Julio 2021	60-64	Hombres	25842
+Julio 2021	60-64	Mujeres	21116
+Julio 2021	65-69	Hombres	3285
+Julio 2021	65-69	Mujeres	2938
+Julio 2021	Más de 69	Hombres	1215
+Julio 2021	Más de 69	Mujeres	612
+Julio 2021	Sin clasificar	Hombres	3
+Julio 2021	Sin clasificar	Mujeres	6
+Agosto 2021	16-19	Hombres	3313
+Agosto 2021	16-19	Mujeres	1990
+Agosto 2021	20-24	Hombres	16684
+Agosto 2021	20-24	Mujeres	11149
+Agosto 2021	25-29	Hombres	24516
+Agosto 2021	25-29	Mujeres	20109
+Agosto 2021	30-34	Hombres	28615
+Agosto 2021	30-34	Mujeres	24459
+Agosto 2021	35-39	Hombres	35270
+Agosto 2021	35-39	Mujeres	29471
+Agosto 2021	40-44	Hombres	45916
+Agosto 2021	40-44	Mujeres	38204
+Agosto 2021	45-49	Hombres	48519
+Agosto 2021	45-49	Mujeres	40580
+Agosto 2021	50-54	Hombres	43729
+Agosto 2021	50-54	Mujeres	37263
+Agosto 2021	55-59	Hombres	38406
+Agosto 2021	55-59	Mujeres	31241
+Agosto 2021	60-64	Hombres	25739
+Agosto 2021	60-64	Mujeres	21054
+Agosto 2021	65-69	Hombres	3298
+Agosto 2021	65-69	Mujeres	2934
+Agosto 2021	Más de 69	Hombres	1222
+Agosto 2021	Más de 69	Mujeres	612
+Agosto 2021	Sin clasificar	Hombres	3
+Agosto 2021	Sin clasificar	Mujeres	5
+Septiembre 2021	16-19	Hombres	2390
+Septiembre 2021	16-19	Mujeres	1396
+Septiembre 2021	20-24	Hombres	15950
+Septiembre 2021	20-24	Mujeres	10622
+Septiembre 2021	25-29	Hombres	24752
+Septiembre 2021	25-29	Mujeres	21006
+Septiembre 2021	30-34	Hombres	28825
+Septiembre 2021	30-34	Mujeres	25656
+Septiembre 2021	35-39	Hombres	35375
+Septiembre 2021	35-39	Mujeres	30600
+Septiembre 2021	40-44	Hombres	45972
+Septiembre 2021	40-44	Mujeres	39147
+Septiembre 2021	45-49	Hombres	48730
+Septiembre 2021	45-49	Mujeres	41419
+Septiembre 2021	50-54	Hombres	43811
+Septiembre 2021	50-54	Mujeres	38216
+Septiembre 2021	55-59	Hombres	38416
+Septiembre 2021	55-59	Mujeres	32126
+Septiembre 2021	60-64	Hombres	25710
+Septiembre 2021	60-64	Mujeres	21742
+Septiembre 2021	65-69	Hombres	3296
+Septiembre 2021	65-69	Mujeres	3052
+Septiembre 2021	Más de 69	Hombres	1227
+Septiembre 2021	Más de 69	Mujeres	615
+Septiembre 2021	Sin clasificar	Hombres	2
+Septiembre 2021	Sin clasificar	Mujeres	5
+Octubre 2021	16-19	Hombres	2382
+Octubre 2021	16-19	Mujeres	1584
+Octubre 2021	20-24	Hombres	16368
+Octubre 2021	20-24	Mujeres	10974
+Octubre 2021	25-29	Hombres	25096
+Octubre 2021	25-29	Mujeres	21491
+Octubre 2021	30-34	Hombres	29031
+Octubre 2021	30-34	Mujeres	25995
+Octubre 2021	35-39	Hombres	35422
+Octubre 2021	35-39	Mujeres	30830
+Octubre 2021	40-44	Hombres	45790
+Octubre 2021	40-44	Mujeres	39449
+Octubre 2021	45-49	Hombres	48920
+Octubre 2021	45-49	Mujeres	41922
+Octubre 2021	50-54	Hombres	43771
+Octubre 2021	50-54	Mujeres	38579
+Octubre 2021	55-59	Hombres	38586
+Octubre 2021	55-59	Mujeres	32461
+Octubre 2021	60-64	Hombres	25771
+Octubre 2021	60-64	Mujeres	21926
+Octubre 2021	65-69	Hombres	3317
+Octubre 2021	65-69	Mujeres	3091
+Octubre 2021	Más de 69	Hombres	1251
+Octubre 2021	Más de 69	Mujeres	620
+Octubre 2021	Sin clasificar	Hombres	3
+Octubre 2021	Sin clasificar	Mujeres	5

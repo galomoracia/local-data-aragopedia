@@ -1,4 +1,136 @@
 Mes nombre	Año	Mes y año	Mes (código)	Comarca código	Comarca nombre	Sexo	Temporalidad	Días duración contrato	Número de contratos	Duración contrato	Duración contrato * 1.00 / Número de contratos
+Octubre	2021	Octubre 2021	202110	01	La Jacetania	Hombres	Temporal	0	72	0	0
+Octubre	2021	Octubre 2021	202110	01	La Jacetania	Hombres	Temporal	1	162	21120	130,37037037037037037037037037037037037
+Octubre	2021	Octubre 2021	202110	01	La Jacetania	Mujeres	Temporal	0	74	0	0
+Octubre	2021	Octubre 2021	202110	01	La Jacetania	Mujeres	Temporal	1	188	14032	74,63829787234042553191489361702127659574
+Octubre	2021	Octubre 2021	202110	02	Alto Gállego	Hombres	Temporal	0	51	0	0
+Octubre	2021	Octubre 2021	202110	02	Alto Gállego	Hombres	Temporal	1	112	9638	86,05357142857142857142857142857142857143
+Octubre	2021	Octubre 2021	202110	02	Alto Gállego	Mujeres	Temporal	0	44	0	0
+Octubre	2021	Octubre 2021	202110	02	Alto Gállego	Mujeres	Temporal	1	114	6290	55,17543859649122807017543859649122807018
+Octubre	2021	Octubre 2021	202110	03	Sobrarbe	Hombres	Temporal	0	35	0	0
+Octubre	2021	Octubre 2021	202110	03	Sobrarbe	Hombres	Temporal	1	105	2851	27,15238095238095238095238095238095238095
+Octubre	2021	Octubre 2021	202110	03	Sobrarbe	Mujeres	Temporal	0	33	0	0
+Octubre	2021	Octubre 2021	202110	03	Sobrarbe	Mujeres	Temporal	1	106	2684	25,32075471698113207547169811320754716981
+Octubre	2021	Octubre 2021	202110	04	La Ribagorza	Hombres	Temporal	0	45	0	0
+Octubre	2021	Octubre 2021	202110	04	La Ribagorza	Hombres	Temporal	1	77	7852	101,974025974025974025974025974025974026
+Octubre	2021	Octubre 2021	202110	04	La Ribagorza	Mujeres	Temporal	0	41	0	0
+Octubre	2021	Octubre 2021	202110	04	La Ribagorza	Mujeres	Temporal	1	81	3360	41,48148148148148148148148148148148148148
+Octubre	2021	Octubre 2021	202110	05	Cinco Villas	Hombres	Temporal	0	155	0	0
+Octubre	2021	Octubre 2021	202110	05	Cinco Villas	Hombres	Temporal	1	238	25284	106,235294117647058823529411764705882353
+Octubre	2021	Octubre 2021	202110	05	Cinco Villas	Mujeres	Temporal	0	109	0	0
+Octubre	2021	Octubre 2021	202110	05	Cinco Villas	Mujeres	Temporal	1	160	13343	83,39375
+Octubre	2021	Octubre 2021	202110	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	0	287	0	0
+Octubre	2021	Octubre 2021	202110	06	Hoya de Huesca / Plana de Uesca	Hombres	Temporal	1	703	52300	74,3954480796586059743954480796586059744
+Octubre	2021	Octubre 2021	202110	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	0	316	0	0
+Octubre	2021	Octubre 2021	202110	06	Hoya de Huesca / Plana de Uesca	Mujeres	Temporal	1	825	74666	90,50424242424242424242424242424242424242
+Octubre	2021	Octubre 2021	202110	07	Somontano de Barbastro	Hombres	Temporal	0	79	0	0
+Octubre	2021	Octubre 2021	202110	07	Somontano de Barbastro	Hombres	Temporal	1	222	11705	52,72522522522522522522522522522522522523
+Octubre	2021	Octubre 2021	202110	07	Somontano de Barbastro	Mujeres	Temporal	0	74	0	0
+Octubre	2021	Octubre 2021	202110	07	Somontano de Barbastro	Mujeres	Temporal	1	187	6754	36,11764705882352941176470588235294117647
+Octubre	2021	Octubre 2021	202110	08	Cinca Medio	Hombres	Temporal	0	259	0	0
+Octubre	2021	Octubre 2021	202110	08	Cinca Medio	Hombres	Temporal	1	156	17353	111,237179487179487179487179487179487179
+Octubre	2021	Octubre 2021	202110	08	Cinca Medio	Mujeres	Temporal	0	169	0	0
+Octubre	2021	Octubre 2021	202110	08	Cinca Medio	Mujeres	Temporal	1	199	12580	63,2160804020100502512562814070351758794
+Octubre	2021	Octubre 2021	202110	09	La Litera / La Llitera	Hombres	Temporal	0	69	0	0
+Octubre	2021	Octubre 2021	202110	09	La Litera / La Llitera	Hombres	Temporal	1	267	32869	123,104868913857677902621722846441947566
+Octubre	2021	Octubre 2021	202110	09	La Litera / La Llitera	Mujeres	Temporal	0	61	0	0
+Octubre	2021	Octubre 2021	202110	09	La Litera / La Llitera	Mujeres	Temporal	1	150	15070	100,466666666666666666666666666666666667
+Octubre	2021	Octubre 2021	202110	10	Los Monegros	Hombres	Temporal	0	99	0	0
+Octubre	2021	Octubre 2021	202110	10	Los Monegros	Hombres	Temporal	1	64	8328	130,125
+Octubre	2021	Octubre 2021	202110	10	Los Monegros	Mujeres	Temporal	0	51	0	0
+Octubre	2021	Octubre 2021	202110	10	Los Monegros	Mujeres	Temporal	1	72	9196	127,722222222222222222222222222222222222
+Octubre	2021	Octubre 2021	202110	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	0	346	0	0
+Octubre	2021	Octubre 2021	202110	11	Bajo Cinca / Baix Cinca	Hombres	Temporal	1	260	10992	42,27692307692307692307692307692307692308
+Octubre	2021	Octubre 2021	202110	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	0	262	0	0
+Octubre	2021	Octubre 2021	202110	11	Bajo Cinca / Baix Cinca	Mujeres	Temporal	1	472	10432	22,10169491525423728813559322033898305085
+Octubre	2021	Octubre 2021	202110	12	Tarazona y el Moncayo	Hombres	Temporal	0	40	0	0
+Octubre	2021	Octubre 2021	202110	12	Tarazona y el Moncayo	Hombres	Temporal	1	256	8147	31,82421875
+Octubre	2021	Octubre 2021	202110	12	Tarazona y el Moncayo	Mujeres	Temporal	0	36	0	0
+Octubre	2021	Octubre 2021	202110	12	Tarazona y el Moncayo	Mujeres	Temporal	1	194	3959	20,40721649484536082474226804123711340206
+Octubre	2021	Octubre 2021	202110	13	Campo de Borja	Hombres	Temporal	0	323	0	0
+Octubre	2021	Octubre 2021	202110	13	Campo de Borja	Hombres	Temporal	1	95	5083	53,50526315789473684210526315789473684211
+Octubre	2021	Octubre 2021	202110	13	Campo de Borja	Mujeres	Temporal	0	109	0	0
+Octubre	2021	Octubre 2021	202110	13	Campo de Borja	Mujeres	Temporal	1	116	4129	35,59482758620689655172413793103448275862
+Octubre	2021	Octubre 2021	202110	14	Aranda	Hombres	Temporal	0	20	0	0
+Octubre	2021	Octubre 2021	202110	14	Aranda	Hombres	Temporal	1	14	1941	138,642857142857142857142857142857142857
+Octubre	2021	Octubre 2021	202110	14	Aranda	Mujeres	Temporal	0	22	0	0
+Octubre	2021	Octubre 2021	202110	14	Aranda	Mujeres	Temporal	1	24	6511	271,291666666666666666666666666666666667
+Octubre	2021	Octubre 2021	202110	15	Ribera Alta del Ebro	Hombres	Temporal	0	229	0	0
+Octubre	2021	Octubre 2021	202110	15	Ribera Alta del Ebro	Hombres	Temporal	1	754	31766	42,1299734748010610079575596816976127321
+Octubre	2021	Octubre 2021	202110	15	Ribera Alta del Ebro	Mujeres	Temporal	0	199	0	0
+Octubre	2021	Octubre 2021	202110	15	Ribera Alta del Ebro	Mujeres	Temporal	1	399	17966	45,02756892230576441102756892230576441103
+Octubre	2021	Octubre 2021	202110	16	Valdejalón	Hombres	Temporal	0	409	0	0
+Octubre	2021	Octubre 2021	202110	16	Valdejalón	Hombres	Temporal	1	530	17794	33,5735849056603773584905660377358490566
+Octubre	2021	Octubre 2021	202110	16	Valdejalón	Mujeres	Temporal	0	212	0	0
+Octubre	2021	Octubre 2021	202110	16	Valdejalón	Mujeres	Temporal	1	325	10313	31,73230769230769230769230769230769230769
+Octubre	2021	Octubre 2021	202110	17	Central	Hombres	Temporal	0	4208	0	0
+Octubre	2021	Octubre 2021	202110	17	Central	Hombres	Temporal	1	11301	514702	45,54481904256260507919653128041766215379
+Octubre	2021	Octubre 2021	202110	17	Central	Mujeres	Temporal	0	4222	0	0
+Octubre	2021	Octubre 2021	202110	17	Central	Mujeres	Temporal	1	10736	533755	49,71637481371087928464977645305514157973
+Octubre	2021	Octubre 2021	202110	18	Ribera Baja del Ebro	Hombres	Temporal	0	96	0	0
+Octubre	2021	Octubre 2021	202110	18	Ribera Baja del Ebro	Hombres	Temporal	1	105	7967	75,87619047619047619047619047619047619048
+Octubre	2021	Octubre 2021	202110	18	Ribera Baja del Ebro	Mujeres	Temporal	0	61	0	0
+Octubre	2021	Octubre 2021	202110	18	Ribera Baja del Ebro	Mujeres	Temporal	1	150	5944	39,62666666666666666666666666666666666667
+Octubre	2021	Octubre 2021	202110	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	0	104	0	0
+Octubre	2021	Octubre 2021	202110	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Hombres	Temporal	1	19	3815	200,789473684210526315789473684210526316
+Octubre	2021	Octubre 2021	202110	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	0	55	0	0
+Octubre	2021	Octubre 2021	202110	19	Bajo Aragón-Caspe / Baix Aragó-Casp	Mujeres	Temporal	1	38	2711	71,34210526315789473684210526315789473684
+Octubre	2021	Octubre 2021	202110	20	Comunidad de Calatayud	Hombres	Temporal	0	373	0	0
+Octubre	2021	Octubre 2021	202110	20	Comunidad de Calatayud	Hombres	Temporal	1	426	13794	32,3802816901408450704225352112676056338
+Octubre	2021	Octubre 2021	202110	20	Comunidad de Calatayud	Mujeres	Temporal	0	213	0	0
+Octubre	2021	Octubre 2021	202110	20	Comunidad de Calatayud	Mujeres	Temporal	1	388	14983	38,61597938144329896907216494845360824742
+Octubre	2021	Octubre 2021	202110	21	Campo de Cariñena	Hombres	Temporal	0	168	0	0
+Octubre	2021	Octubre 2021	202110	21	Campo de Cariñena	Hombres	Temporal	1	206	13060	63,39805825242718446601941747572815533981
+Octubre	2021	Octubre 2021	202110	21	Campo de Cariñena	Mujeres	Temporal	0	92	0	0
+Octubre	2021	Octubre 2021	202110	21	Campo de Cariñena	Mujeres	Temporal	1	93	4413	47,4516129032258064516129032258064516129
+Octubre	2021	Octubre 2021	202110	22	Campo de Belchite	Hombres	Temporal	0	21	0	0
+Octubre	2021	Octubre 2021	202110	22	Campo de Belchite	Hombres	Temporal	1	15	2862	190,8
+Octubre	2021	Octubre 2021	202110	22	Campo de Belchite	Mujeres	Temporal	0	7	0	0
+Octubre	2021	Octubre 2021	202110	22	Campo de Belchite	Mujeres	Temporal	1	15	3079	205,266666666666666666666666666666666667
+Octubre	2021	Octubre 2021	202110	23	Bajo Martín	Hombres	Temporal	0	45	0	0
+Octubre	2021	Octubre 2021	202110	23	Bajo Martín	Hombres	Temporal	1	38	4787	125,973684210526315789473684210526315789
+Octubre	2021	Octubre 2021	202110	23	Bajo Martín	Mujeres	Temporal	0	36	0	0
+Octubre	2021	Octubre 2021	202110	23	Bajo Martín	Mujeres	Temporal	1	32	2113	66,03125
+Octubre	2021	Octubre 2021	202110	24	Campo de Daroca	Hombres	Temporal	0	43	0	0
+Octubre	2021	Octubre 2021	202110	24	Campo de Daroca	Hombres	Temporal	1	42	6097	145,166666666666666666666666666666666667
+Octubre	2021	Octubre 2021	202110	24	Campo de Daroca	Mujeres	Temporal	0	49	0	0
+Octubre	2021	Octubre 2021	202110	24	Campo de Daroca	Mujeres	Temporal	1	25	2631	105,24
+Octubre	2021	Octubre 2021	202110	25	Jiloca	Hombres	Temporal	0	32	0	0
+Octubre	2021	Octubre 2021	202110	25	Jiloca	Hombres	Temporal	1	68	4106	60,38235294117647058823529411764705882353
+Octubre	2021	Octubre 2021	202110	25	Jiloca	Mujeres	Temporal	0	23	0	0
+Octubre	2021	Octubre 2021	202110	25	Jiloca	Mujeres	Temporal	1	66	4974	75,36363636363636363636363636363636363636
+Octubre	2021	Octubre 2021	202110	26	Cuencas Mineras	Hombres	Temporal	0	26	0	0
+Octubre	2021	Octubre 2021	202110	26	Cuencas Mineras	Hombres	Temporal	1	37	2815	76,08108108108108108108108108108108108108
+Octubre	2021	Octubre 2021	202110	26	Cuencas Mineras	Mujeres	Temporal	0	23	0	0
+Octubre	2021	Octubre 2021	202110	26	Cuencas Mineras	Mujeres	Temporal	1	55	3176	57,74545454545454545454545454545454545455
+Octubre	2021	Octubre 2021	202110	27	Andorra-Sierra de Arcos	Hombres	Temporal	0	38	0	0
+Octubre	2021	Octubre 2021	202110	27	Andorra-Sierra de Arcos	Hombres	Temporal	1	76	8009	105,381578947368421052631578947368421053
+Octubre	2021	Octubre 2021	202110	27	Andorra-Sierra de Arcos	Mujeres	Temporal	0	30	0	0
+Octubre	2021	Octubre 2021	202110	27	Andorra-Sierra de Arcos	Mujeres	Temporal	1	80	5719	71,4875
+Octubre	2021	Octubre 2021	202110	28	Bajo Aragón	Hombres	Temporal	0	113	0	0
+Octubre	2021	Octubre 2021	202110	28	Bajo Aragón	Hombres	Temporal	1	232	12669	54,60775862068965517241379310344827586207
+Octubre	2021	Octubre 2021	202110	28	Bajo Aragón	Mujeres	Temporal	0	93	0	0
+Octubre	2021	Octubre 2021	202110	28	Bajo Aragón	Mujeres	Temporal	1	148	10590	71,55405405405405405405405405405405405405
+Octubre	2021	Octubre 2021	202110	29	Comunidad de Teruel	Hombres	Temporal	0	145	0	0
+Octubre	2021	Octubre 2021	202110	29	Comunidad de Teruel	Hombres	Temporal	1	571	42792	74,9422066549912434325744308231173380035
+Octubre	2021	Octubre 2021	202110	29	Comunidad de Teruel	Mujeres	Temporal	0	171	0	0
+Octubre	2021	Octubre 2021	202110	29	Comunidad de Teruel	Mujeres	Temporal	1	836	58356	69,8038277511961722488038277511961722488
+Octubre	2021	Octubre 2021	202110	30	Maestrazgo	Hombres	Temporal	0	7	0	0
+Octubre	2021	Octubre 2021	202110	30	Maestrazgo	Hombres	Temporal	1	11	593	53,90909090909090909090909090909090909091
+Octubre	2021	Octubre 2021	202110	30	Maestrazgo	Mujeres	Temporal	0	10	0	0
+Octubre	2021	Octubre 2021	202110	30	Maestrazgo	Mujeres	Temporal	1	14	731	52,21428571428571428571428571428571428571
+Octubre	2021	Octubre 2021	202110	31	Sierra de Albarracín	Hombres	Temporal	0	11	0	0
+Octubre	2021	Octubre 2021	202110	31	Sierra de Albarracín	Hombres	Temporal	1	67	6322	94,35820895522388059701492537313432835821
+Octubre	2021	Octubre 2021	202110	31	Sierra de Albarracín	Mujeres	Temporal	0	19	0	0
+Octubre	2021	Octubre 2021	202110	31	Sierra de Albarracín	Mujeres	Temporal	1	73	8331	114,123287671232876712328767123287671233
+Octubre	2021	Octubre 2021	202110	32	Gúdar-Javalambre	Hombres	Temporal	0	17	0	0
+Octubre	2021	Octubre 2021	202110	32	Gúdar-Javalambre	Hombres	Temporal	1	103	10309	100,087378640776699029126213592233009709
+Octubre	2021	Octubre 2021	202110	32	Gúdar-Javalambre	Mujeres	Temporal	0	24	0	0
+Octubre	2021	Octubre 2021	202110	32	Gúdar-Javalambre	Mujeres	Temporal	1	110	5914	53,76363636363636363636363636363636363636
+Octubre	2021	Octubre 2021	202110	33	Matarraña / Matarranya	Hombres	Temporal	0	47	0	0
+Octubre	2021	Octubre 2021	202110	33	Matarraña / Matarranya	Hombres	Temporal	1	28	2472	88,28571428571428571428571428571428571429
+Octubre	2021	Octubre 2021	202110	33	Matarraña / Matarranya	Mujeres	Temporal	0	38	0	0
+Octubre	2021	Octubre 2021	202110	33	Matarraña / Matarranya	Mujeres	Temporal	1	31	1850	59,67741935483870967741935483870967741935
 Septiembre	2021	Septiembre 2021	202109	01	La Jacetania	Hombres	Temporal	0	86	0	0
 Septiembre	2021	Septiembre 2021	202109	01	La Jacetania	Hombres	Temporal	1	110	9152	83,2
 Septiembre	2021	Septiembre 2021	202109	01	La Jacetania	Mujeres	Temporal	0	94	0	0
